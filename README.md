@@ -94,6 +94,7 @@ Total deals: XXX
 |     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
 | --- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | ⭐   | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails. | 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
+|  ⭐ | [Subreddit Traffic Tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
