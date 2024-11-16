@@ -8,29 +8,28 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 ## Table of Contents
 Total deals: XXX
 
-- [💵 Rare Big Deal - 2024 🤑](#-rare-big-deal---2024-)
-  - [Table of Contents](#table-of-contents)
-  - [Developer Tools](#developer-tools)
-    - [Developer macOS Apps](#developer-macos-apps)
-    - [Tools \& Services](#tools--services)
-  - [AI Tools](#ai-tools)
-    - [AI Chat UI](#ai-chat-ui)
-    - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
-  - [Other AI tools](#other-ai-tools)
-  - [Design Tools](#design-tools)
-  - [Code Libraries](#code-libraries)
-  - [Productivity](#productivity)
-    - [Productivity Desktop Apps](#productivity-desktop-apps)
-    - [Productivity Mobile Apps](#productivity-mobile-apps)
-    - [Productivity Tools \& Services](#productivity-tools--services)
-  - [Marketing Tools](#marketing-tools)
-  - [SEO Tools](#seo-tools)
-  - [Startup SaaS/Tools](#startup-saastools)
-  - [Themes, Plugins](#themes-plugins)
-  - [Books](#books)
-    - [Programming Books](#programming-books)
-      - [Web Dev \& Design](#web-dev--design)
-  - [Health and Fitness](#health-and-fitness)
+- [Table of Contents](#table-of-contents)
+- [Developer Tools](#developer-tools)
+  - [Developer macOS Apps](#developer-macos-apps)
+  - [Tools \& Services](#tools--services)
+- [AI Tools](#ai-tools)
+  - [AI Chat UI](#ai-chat-ui)
+  - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
+- [Other AI tools](#other-ai-tools)
+- [Design Tools](#design-tools)
+- [Code Libraries](#code-libraries)
+- [Productivity](#productivity)
+  - [Productivity Desktop Apps](#productivity-desktop-apps)
+  - [Productivity Mobile Apps](#productivity-mobile-apps)
+  - [Productivity Tools \& Services](#productivity-tools--services)
+- [Marketing Tools](#marketing-tools)
+- [SEO Tools](#seo-tools)
+- [Startup SaaS/Tools](#startup-saastools)
+- [Themes, Plugins](#themes-plugins)
+- [Books](#books)
+  - [Programming Books](#programming-books)
+    - [Web Dev \& Design](#web-dev--design)
+- [Health and Fitness](#health-and-fitness)
 
 ## Developer Tools
 ### Developer macOS Apps
@@ -79,7 +78,6 @@ Total deals: XXX
 |     | Name                                          | Description                                                                                    | Discount Code & Terms          |
 | --- | --------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------ |
 | 💰   | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
-|  🧐 | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 
 ### Productivity Mobile Apps
 |     | Name                            | Description                                                                | Discount Code & Terms                                 |
