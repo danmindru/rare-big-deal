@@ -78,6 +78,7 @@ Total deals: XXX
 |     | Name                                          | Description                                                                                    | Discount Code & Terms          |
 | --- | --------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------ |
 | 💰   | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
+|  🧐 | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 
 ### Productivity Mobile Apps
 |     | Name                            | Description                                                                | Discount Code & Terms                                 |
