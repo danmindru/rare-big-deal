@@ -26,7 +26,6 @@ Total deals: 54+
 - [SEO Tools](#seo-tools)
 - [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
   - [React/Next.js](#reactnextjs)
-  - [iOS](#ios)
   - [Flutter](#flutter)
   - [Django](#django)
   - [Rails](#rails)
@@ -84,6 +83,8 @@ Total deals: 54+
 | ⭐   | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service | 40% OFF on All plans with code **BF2024** |
 | 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
 | 👑   | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
+| 🖌️   | [IllustraAI](https://illustraai.com) | Create consistent vector illustrations in seconds | 30% OFF with code **BLACKFRIDAY2024** |
+
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
@@ -134,8 +135,7 @@ Total deals: 54+
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
 | --- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 👀 | [Link Building Software](https://linkdr.com) | Build backlinks on auto pilot with LinkDR | 10% OFF with code **BF24** |
-| ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** |
+| ⭐   | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** |
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
 | 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
 | 🤩 | [CheckMySEO](https://www.checkmyseo.io?utm_source=rarebigdeal) | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
