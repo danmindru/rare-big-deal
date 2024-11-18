@@ -132,6 +132,7 @@ Total deals: 54+
 | ⭐   | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** |
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
 | 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
+| 🤖 | [Checkbot: SEO checker extension](https://www.checkbot.io) | Tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages and redirect chains | 50% off first year on yearly plans with code **NOV24** |
 
 ## Boilerplates, Startup SaaS/Tools
 ### React/Next.js
