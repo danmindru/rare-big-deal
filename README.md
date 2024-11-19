@@ -71,6 +71,7 @@ Total deals: 62+
 |  🎓  | [IkigenIA](https://ikigenia.com) | A full suite of AI-powered apps for enhancing learning, writing and oral communication in no time. Includes tools like Esquisse (image generation while training your typing), codeBloom (coding with natural language), Mind Maps (link ideas with study topics), memoPix (flashcards for younger learners), Arcania (immersive learning for younger and older learners) and more... Train AI tools (like Mentors, Quizzes and Flashcards) on your own school or training materials for personalized study assistance. | 70% OFF with code **IKIBLACK70** on the Starter and Family yearly plans|
 | 🚢   | [MumbleSort](https://mumblesort.com) | Turn messy thoughts into actionable tasks. Use voice, text or images to capture ideas and let our AI organize them into a simple actionable tasks. | 20% OFF with code **BLACKFRIDAY** |
 | ✨   | [Reinspire](https://reinspire.io) |	Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy! |	20% OFF with code FRIDAY20 |
+|  ✍️   | [Resmume](https://resmume.com) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd.	| 37% OFF Lifetime deal |
 
 ## Other AI tools
 |     | Name                                | Description                                                                     | Discount Code & Terms                       |
@@ -86,6 +87,7 @@ Total deals: 62+
 | 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
 | 👑   | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create consistent vector illustrations in seconds | 30% OFF with code **BLACKFRIDAY2024** |
+| 🖌️ | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
