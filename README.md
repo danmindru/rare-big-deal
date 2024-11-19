@@ -134,6 +134,7 @@ Total deals: 81+
 | 🤖  | [cyberBots](https://bots.cyberesia.com) | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed|
 | 🖊  | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times. | 25% off on the App Store. No code needed. |
 | ✅  | [ToDoBar](https://apps.apple.com/app/id6470928617) | Your tasks on your menu bar. | 50% off on the App Store. No code needed. |
+| 🏆  | [Yappa](https://goyappa.com) | The ultimate toolkit for freelancers | 2 months off with code **TRYYAPPA-2MONTHS** |
 
 ## Marketing Tools
 |     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
