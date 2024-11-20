@@ -59,6 +59,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⌛   | [Crontap](https://crontap.com/)               | Schedule recurring API calls without the hassle.                                                                                 | **40% off** with discount code **BF2024** |
 | 🧩   | [ExtReviewBot](https://www.extreviewbot.com/) | Browser extension review tracking & analytics                                                                                    | **30% off** with code **BLACKFRIDAY30**   |
 | 🖱️   | [Hoverify](https://tryhoverify.com/)          | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level. | **30% off** OFF                           |
+| ♿️   | [A11Y Boost Reports](https://a11yboost.com/reports) | Instant accessibility reports and expert guidance for your website.                                                        | **50% off** until 30/11 no code needed.                        |
 
 ## AI Tools
 ### AI Chat UI
