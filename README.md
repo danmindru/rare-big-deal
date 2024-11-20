@@ -181,6 +181,8 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤩   | [CheckMySEO](https://www.checkmyseo.io?utm_source=rarebigdeal)  | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings!                                                | 30% OFF with code **BF30**                             |
 | 🤖   | [Checkbot: SEO checker extension](https://www.checkbot.io)      | Tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages and redirect chains | 50% off first year on yearly plans with code **NOV24** |
 |  ✨ | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
+| ⭐   | [Macaw](https://www.macawhq.com)                                | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic.                                                               | 50% OFF your first month with code **BLACKFRIDAY**     |
+
 
 ## Boilerplates, Startup SaaS/Tools
 ### React/Next.js
