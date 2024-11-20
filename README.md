@@ -186,6 +186,12 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ✍️   | [Kerlig™](https://www.kerlig.com/)                                                                                       | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice                                                                         | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF                                                                                    |
 | ⏰ | [Timebox.so](https://www.timebox.so) | The #1 timeboxing app designed for focus. Drag and drop timeboxing scheduler, to-do lists, progress tracker, Notion-style notes, and Google calendar syncing - all in one place. | 50% OFF with code **BLACKFRIDAY50** |
 
+| 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB** |
+
+| 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
+
+| 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML  | 60% OFF with code **60OFF50** |
+
 ### Marketing
 |     | Name                          | Description                                                                                      | Discount Code & Terms |
 | --- | ----------------------------- | ------------------------------------------------------------------------------------------------ | --------------------- |
@@ -193,6 +199,9 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [ReadReviews](https://readreviews.dev/)               | A handy tool to read yours and your competitor App Store reviews and analyze them with AI.                                                                         | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal                     |
 | 🤖   | [cyberBots](https://bots.cyberesia.com)               | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed            |
 | 🔄   | [FeedbackGlow](https://feedbackglow.com)              | A Customer Feedback Management Software.                                                                                                                           | 40% off with code **BF2024** on 3 months subscriptions.                       |
+| 💰 | [HoneyPot Newsletters Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters - including details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF with code **50BEEHIIV** |
+| 💰 | [GhostHunt - Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. | 50% OFF with code **50GHOST** |
+| 💰 | [SubSearchr - Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers | 50% OFF with code **50SUBSTACK** |
 
 
 ### Other
