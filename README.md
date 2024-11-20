@@ -67,6 +67,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤖   | [MindPal](https://mindpal.io)                        | Build AI agents & multi-agent workflows to automate business processes.                               | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
 | 🖊   | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times.                                                                                                        | 25% off on the App Store. No code needed.                                     |
 | 💰   | [Tim Time Tracker](https://tim.neat.software)              | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization.                                                                                                                                                                                                                                         | 30% OFF with code **BF24NSCO**       |
+| 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 
 ### APIs, Tools & SaaS
 |     | Name                                          | Description                                                                                                                      | Discount Code & Terms                     |
