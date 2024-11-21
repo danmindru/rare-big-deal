@@ -295,6 +295,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🏆 | [ZexaNext](https://next.zexa.app/) | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 | ⚡   | [DirectoryFast](https://directoryfa.st?via=rarebigdeal)                       | Launch Trending Directories in Minutes                                                                                                                   | **50% OFF** with code **BLACKFRIDAY50**                                                           |
+| 🚀   | [supastarter for Next.js](https://supastarter.dev)                       | The ultimate Next.js starter kit for scalable and production-ready SaaS apps                                                                                                                   | **$100 OFF** with code **BLACKFRIDAY**                           |
 
 ### iOS
 |     | Name                                      | Description                                                                             | Discount Code & Terms                 |
@@ -331,6 +332,11 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 |     | Name                             | Description                 | Discount Code & Terms                                                                       |
 | --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
+| 🚀   | [supastarter for SvelteKit](https://supastarter.dev/sveltekit)                       | The ultimate SvelteKit starter kit for scalable and production-ready SaaS apps                                                                                                                   | **$100 OFF** with code **BLACKFRIDAY**                           |
+### Nuxt
+|     | Name                             | Description                 | Discount Code & Terms                                                                       |
+| --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
+| 🚀   | [supastarter for Nuxt](https://supastarter.dev/nuxt)                       | The ultimate Nuxt starter kit for scalable and production-ready SaaS apps                                                                                                                   | **$100 OFF** with code **BLACKFRIDAY**                           |
 
 ### Chrome Extensions
 |     | Name                                                                                                          | Description                                                                                                                 | Discount Code & Terms                                    |
