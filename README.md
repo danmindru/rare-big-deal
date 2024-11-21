@@ -84,7 +84,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ♿️ | [A11Y Boost Reports](https://a11yboost.com/reports) | Instant accessibility reports and expert guidance for your website. | **50% off** until 30/11 no code needed. |
 | 📸 | [Siteshot Pro](https://www.siteshot.pro) | An API for developers to capture automated, high-quality website screenshots. | **20% off** on Premium plans for 1 year with code **BLACK20** |
 | 🥑 | [Avo Admin for Rails](https://avohq.io) | Build Internal Tools and CRMs on Ruby on Rails in weeks not months. | %15 OFF any license using the code **BLACKFRIDAY24** |
-| 🥑 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
+| 🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 
 
 ### Browser Extensions
