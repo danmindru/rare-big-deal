@@ -254,6 +254,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🚀   | [Boringlaunch](https://www.boringlaunch.com)                    | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales                                                                                                                   | 30% OFF with code **BLACKFRIDAY2024**                  |
 | ⭐   | [CalGet](https://calget.com)                                | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails.     | 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024**        |
 | 🎨   | [FilterGrade](https://filtergrade.com)                      | A creative marketplace and digital tools platform offering presets, templates, overlays, and educational resources for photographers, videographers, and designers.             | 30% off marketplace with code **BLACKFRIDAY2024**                |
+|  🛒 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024**                |
 
 
 ## SEO Tools
