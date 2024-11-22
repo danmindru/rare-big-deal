@@ -143,6 +143,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 | 🔖 | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine | 60% off with code **BLACKFRIDAY60** |
 | 🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
+| 🐰 | [CodeRabbit](https://coderabbit.ai) | AI-powered code review bot providing detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. | Free for open-source projects. Use code **BLACKFRIDAY** for 1 month free on the pro version. [Learn more](https://www.coderabbit.ai/pricing) |
 
 ### Other
 | | Name | Description | Deal |
@@ -428,7 +429,6 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
 | 📚 | [Machine Learning for Soccer betting - 3 Books Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | Apply Machine Learning to predict the results of soccer matches and learn how to build an automated betting strategy (applied separately or on entire 3 books bundle) | 50% OFF with code **D43474C** |
 | 🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing | 50% OFF with code **BLACKFRIDAY** (link already discounted) |
-| 💰 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) | Learn how to build a successful blog as a developer, with tips on content creation, SEO, and monetization to elevate your personal brand and career. | 50% OFF |
 
 [⬆️ All categories](#table-of-contents)
 
