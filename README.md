@@ -121,6 +121,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030) | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. Can also live transcribe without the need of an internet connection. | 50% OFF **BFS2024** |
 | 📱 | [Quick Capture - SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
 | 📱 | [Quick Capture - Obsidian](https://quickcaptureobsidian.app) | Send anything to any vault in Obsidian 10x faster 💨 | Lifetime 50% OFF |
+| 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 
 [⬆️ All categories](#table-of-contents)
 
