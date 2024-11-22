@@ -487,5 +487,6 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🎨 | [A83 Design](https://a83.net) | A83 is a remote & asynchronous design studio that helps founders & teams deliver design faster & more effective. | 25% OFF with code **BF2024** |
+| 👀 | [Open Graph Design](https://opengraphdesign.com) | Attention-grabbing Open Graph images, tailored for your brand. | 30$ OFF with code **BF2024** |
 
 [⬆️ All categories](#table-of-contents)
