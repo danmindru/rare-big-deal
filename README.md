@@ -345,7 +345,7 @@ It's free & open-source. Enjoy! 🚀
 ### Rails
 | | Name | Description | Deal |
 | - | - | - | - |
-| ⭐ | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
+| ⭐ | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | 30% OFF lifetime license with code **BLACK2024** |
 
 ### Laravel
 | | Name | Description | Deal |
