@@ -89,6 +89,7 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | Lifetime 35% OFF till Nov 30th |
 | 💻 | [Zen mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF till Nov 30th |
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
+| ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
