@@ -102,6 +102,7 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Quick Capture - Obsidian](https://quickcaptureobsidian.app) | Send anything to any vault in Obsidian 10x faster 💨 | Lifetime 50% OFF |
 | 🚖 | [Folge](https://folge.me) | Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. | Lifetime 25% OFF till Nov 30th |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
+| 🧪 | [Pimosa: Your all-in-one toolkit for video, audio, and image files](https://pimosa.app/) | Simple Video, Photo & Audio Editing Tools in one app, Pimosa lets you convert, edit and enhance video, photos, and music files easily. Batch processing for faster work. simple tools for everyone. | 20% OFF with code **BLACKFRIDAY** |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -115,6 +116,7 @@ It's free & open-source. Enjoy! 🚀
 | 🥑 | [Avo Admin for Rails](https://avohq.io) | Build Internal Tools and CRMs on Ruby on Rails in weeks not months. | %15 OFF any license using the code **BLACKFRIDAY24** |
 | 🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://aiscraper.co/) |
+| 🧪 | [Pimosa: Your all-in-one toolkit for video, audio, and image files](https://pimosa.app/) | Simple Video, Photo & Audio Editing Tools in one app, Pimosa lets you convert, edit and enhance video, photos, and music files easily. Batch processing for faster work. simple tools for everyone. | 20% OFF with code **BLACKFRIDAY** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -223,6 +225,7 @@ It's free & open-source. Enjoy! 🚀
 | 📽️ | [FaceScreen](https://apps.apple.com/app/id6702028512) | Put your face and name on top of your screen. Great for making engaging content. | 50% OFF on the App Store, no code needed. |
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
+| 🧪 | [Pimosa: Your all-in-one toolkit for video, audio, and image files](https://pimosa.app/) | Simple Video, Photo & Audio Editing Tools in one app, Pimosa lets you convert, edit and enhance video, photos, and music files easily. Batch processing for faster work. simple tools for everyone. | 20% OFF with code **BLACKFRIDAY** |
 
 ### Social
 | | Name | Description | Deal |
