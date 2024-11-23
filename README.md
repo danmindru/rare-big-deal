@@ -119,7 +119,6 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
 
-
 ### Browser Extensions
 | | Name | Description | Deal |
 | - | - | - | - |
