@@ -563,5 +563,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML | 60% OFF with code **60OFF50** |
 | ⏳ | [Stagetimer Desktop: Lifetime License](https://stagetimer.io/desktop-app/?ref=danmindru#lifetime-license) | Professional Timer App for Live Events / Show a fullscreen timer to your presenter while you control it from another device | ~~$980~~ **$490** until Nov 29 |
+|  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+|  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 
 [⬆️ All categories](#table-of-contents)
