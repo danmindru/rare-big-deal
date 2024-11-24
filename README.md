@@ -118,8 +118,9 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Siteshot Pro](https://www.siteshot.pro) | An API for developers to capture automated, high-quality website screenshots. | **20% off** on Premium plans for 1 year with code **BLACK20** |
 | 🥑 | [Avo Admin for Rails](https://avohq.io) | Build Internal Tools and CRMs on Ruby on Rails in weeks not months. | %15 OFF any license using the code **BLACKFRIDAY24** |
 | 🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
-| 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
+| 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -190,8 +191,8 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Branding5](https://www.branding5.com/) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 | 📄 | [AI Dev Assess](https://www.aidevassess.com) | Create comprehensive role-specific developer assessment toolkits with AI. Perfect for both outsourcing teams and hiring managers | 50% off till the end of the year with BLACKFRIDAY50 |
-| 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
-| 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off on [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 
@@ -342,7 +343,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 📊 | [Branding5](https://feedbackglow.com) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
-| 📝 | [Count Visits](https://johnrush.me/black-friday-deals/?ref=rare) | Web Analytics Tool for Busy Founders | 50% off [countvisits.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 📝 | [Count Visits](https://johnrush.me/black-friday-deals/?ref=rare) | Web Analytics Tool for Busy Founders | 50% off on [countvisits.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 
 ### Website Builders
 | | Name | Description | Deal |
@@ -391,18 +392,19 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [SEO Gets](https://seogets.com) | Dashboard for your SEO Analytics. Turn your Google Search Console data into organic growth. All your sites under one dashboard, multiple GSC accounts, and reports/insights based on your GSC data | 30% OFF with code **BFCM2024** |
 | ⭐ | [BlitzBear](https://blitzbear.com) | Rank higher the easy way. BlitzBear is SEO software that refreshes your existing content to move you up in Google. Our AI analyzes your articles against SERP competitors, identifies opportunities, and makes intelligent suggestions. | 30% OFF using **[this link](https://app.blitzbear.com/signup?promo=ESXHzhUN)** |
 | 📈 | [Keyword.com](https://keyword.com/) | Keyword.com is a best-in-class Google keyword rank tracking solution. It provides everything you need to track, pinpoint and validate your SEO efforts to get to the 1st position in the SERPs. | 20% OFF for 12-months with code **BLACKFRIDAY2024** |
-| 🤖 | [IndexRusher](https://johnrush.me/black-friday-deals/?ref=rare) | Auto Indexing. Get indexed by Google in hours | 50% off [indexrusher.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 🤖 | [IndexRusher](https://johnrush.me/black-friday-deals/?ref=rare) | Auto Indexing. Get indexed by Google in hours | 50% off on [indexrusher.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 
 ### Analyze & Audit
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🤩 | [CheckMySEO](https://www.checkmyseo.io?utm_source=rarebigdeal) | Boost your website's ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
 | 👾 | [SEOBlueprint3](https://seoblueprint.com?utm_source=danisalegend) | Get the SEO course with four years of updates, used by some of the best ranking brands on the internet. | 20 minute SEO audit with order **Black Friday Exclusive** |
+| 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring -> catch at auction | **1 extra free month** on yearly plan with **BF2024** |
 
 ### Content Creation
 | | Name | Description | Deal |
 | - | - | - | - |
-| 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off on [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -497,7 +499,7 @@ It's free & open-source. Enjoy! 🚀
 | 💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Build production-grade apps with guidance from two trusted Google Developer Experts. | 50% OFF automatically applied at checkout |
 | 💡 | [Build Production-grade Web Apps With Golang](https://golangblogcourse.com/) | Go from zero to building full-stack production-grade web application in Go | 10% OFF Early Bird Plan (already at a reduced price while in development) with code **BLACKFRIDAY** |
 | 🧪 | [LabEx](https://labex.io/) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. |
-| 📖 | [Ultimate Cursor AI Course](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with Code **BLACKCURSOR25** |
+| 📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with Code **BLACKCURSOR25** |
 
 ### Art Courses
 | | Name | Description | Deal |
@@ -511,7 +513,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 👾 | [SEOBlueprint3](https://seoblueprint.com?utm_source=danisalegend) | Get the SEO course with four years of updates, used by some of the best ranking brands on the internet. | 20 minute SEO audit with order **Black Friday Exclusive** |
-| ⭐ | [Directory Guide](https://johnrush.me/black-friday-deals/?ref=rare) | Everything I (John Rush) know about making successful directories. | 50% off [johnrush.me/directory-guide](https://johnrush.me/black-friday-deals/?ref=rare) |
+| ⭐ | [Directory Guide](https://johnrush.me/black-friday-deals/?ref=rare) | Everything I (John Rush) know about making successful directories. | 50% off on [johnrush.me/directory-guide](https://johnrush.me/black-friday-deals/?ref=rare) |
 
 ### Books
 | | Name | Description | Deal |
