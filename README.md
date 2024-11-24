@@ -108,6 +108,7 @@ It's free & open-source. Enjoy! 🚀
 | 📂 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% OFF with code **BF2024** |
 | 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
 | 🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) till Nov 30th|
+| 🔥 | [Webhookify](https://webhookify.io/) | Effortless Webhook Integrations for Developers. | 70% OFF |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
