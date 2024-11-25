@@ -124,6 +124,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) till Nov 30th |
 | 🔥 | [Webhookify](https://webhookify.io/) | Effortless Webhook Integrations for Developers. | 70% OFF |
 | 💻 | [Bayview - Window Manager](https://bayview.app/) | Quickly and easily move and resize your windows with the Bayview grid, using your mouse or keyboard. | 50% OFF with code **BF24** |
+| 🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -320,9 +321,11 @@ It's free & open-source. Enjoy! 🚀
 
 ### Hobby & Lifestyle
 | 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+| 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 
 ### Other
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+| 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 
 [⬆️ All categories](#table-of-contents)
 
