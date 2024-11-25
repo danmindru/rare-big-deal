@@ -124,6 +124,7 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
 | 📔 | [Quotion](https://quotion.co/) | Apple Notes to blogs/portfolios/portals in minutes. | **30% OFF** on all plans for 12 months with code **BLACKFRIDAY2024** |
 | 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -275,6 +276,7 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen. | Lifetime 40% OFF |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
+| 📝 | [Lifelog](https://golifelog.com/?rarebigdeal) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months -  |
 
 ### Marketing
 | | Name | Description | Deal |
@@ -484,6 +486,11 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | 30% OFF on Individual plan with code **BLACKFRIDAY2024** |
 | ✨ | [Chatsy](https://chromewebstore.google.com/detail/netflix-comments-and-chat/nidobicjgndldknjcgfclehmlleibflh) | The Chrome extension to add comments on your favourite Netflix Movies and Shows | **Lifetime Free** |
 
+### HTML
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🗂️ | [Lists Kit](https://listskit.com/?rarebigdeal) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
+
 ### Libraries & More
 | | Name | Description | Deal |
 | - | - | - | - |
@@ -491,6 +498,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [NextReady](https://nextready.dev) | Ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 🚚 | [Saas UI](https://saas-ui.dev) | React toolkit for building beautiful SaaS products. Design system, component library, Next.js starterkit, TypeScript, Chakra UI, Stripe and more. | 30% OFF with code **BLACKFRIDAY30** |
 | 🚀 | [BoilerplateHub](https://boilerplatehub.com/?ref=rare) | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -591,5 +599,6 @@ It's free & open-source. Enjoy! 🚀
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📆 | [ShiftApp](https://shiftapp.com/black-friday) | Employee Scheduling and Shift Management software with drag-and-drop simplicity, automated notifications, and real-time access. | 77% OFF for SEVEN months on all plans with code **BLACKFRIDAY2024** |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 [⬆️ All categories](#table-of-contents)
