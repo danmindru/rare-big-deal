@@ -739,5 +739,6 @@ It's free & open-source. Enjoy! 🚀
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📆 | [ShiftApp](https://shiftapp.com/black-friday) | Employee Scheduling and Shift Management software with drag-and-drop simplicity, automated notifications, and real-time access. | 77% OFF for SEVEN months on all plans with code **BLACKFRIDAY2024** |
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
+|  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 
 [⬆️ All categories](#table-of-contents)
