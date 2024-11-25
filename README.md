@@ -256,6 +256,7 @@ It's free & open-source. Enjoy! 🚀
 ### Productivity
 | | Name | Description | Deal |
 | - | - | - | - |
+| 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
