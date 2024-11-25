@@ -207,6 +207,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [Chibi AI](https://chibi.ai/?via=rarebigdeal) | The right tool for the write job | 33% off on [chibi.ai](https://chibi.ai/l/black-friday-2024?via=rarebigdeal) |
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
 | 🔥 | [Transcript LOL](https://transcript.lol?ref=rarebigdeal) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** on all plans |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Other
 | | Name | Description | Deal |
@@ -292,6 +293,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
 | 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Menu Bar & More
 | | Name | Description | Deal |
@@ -299,6 +301,7 @@ It's free & open-source. Enjoy! 🚀
 | 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -402,6 +405,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
 | 📝 | [Lifelog](https://golifelog.com/?rarebigdeal) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Marketing
 | | Name | Description | Deal |
