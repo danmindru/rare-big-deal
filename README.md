@@ -157,6 +157,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗂️ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 🧙‍♂️ | [CanvasWizard](https://canvaswizard.co/?via=rarebigdeal) | The AI Chrome Extension for Canvas Quizzes: Get answers & explanations to your Quizzes, Homeworks and Tests with a single click. | 50% OFF your SEMESTRER (3 Months) with code **BFSEM50** |
 | 🩵 | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | **25% OFF** auto-applied! |
+| 🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
 
 ### Productivity & AI
 | | Name | Description | Deal |
