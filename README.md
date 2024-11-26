@@ -499,6 +499,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🤑 | [TapRefer](https://taprefer.com/) | Find & submit Affiliate programs to monetize your content, fast | 80% OFF with code **NEXT100** |
 | 🤝 | [Affonso.io](https://affonso.io) | Affiliate Marketing Software built for SaaS & productized services. Set up once, scale | 10% OFF on Revenue Pass (One-time payment) with code **BLACKFRIDAY** |
+| 🤝 | [AiAffiliateList](https://AiAffiliateList.com) | AI AffiliateList is your ultimate guide to the best AI affiliate programs. Explore commission rates, payment options, and marketing resources to elevate your affiliate strategy and boost your success. | 50% OFF (One-time payment) with code **BIGDEAL** |
 
 ### Analytics
 | | Name | Description | Deal |
