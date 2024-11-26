@@ -229,7 +229,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
-
+| 💸 | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools on our platform|
 [⬆️ All categories](#table-of-contents)
 
 ### Lifestyle
@@ -437,7 +437,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 👨‍🏫 | [Guidejar](https://www.guidejar.com?ref=rare-big) | Showcase your product's full capabilities with AI-powered interactive product demos | 40% off with code **BLACKFRIDAY24** on all plans |
 | ⚡ | [Sparkbase](https://sparkbase.ai/?ref=rarebigdeal) | Book high-intent sales calls on autopilot | 20% OFF with code **RBD20** |
-
+| ⚡ | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools|
 ### Other
 | | Name | Description | Deal |
 | - | - | - | - |
@@ -527,6 +527,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [OSSsoftware Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads & Paid listings on a directory of open source alternatives. | 50% off ads [osssoftware.org](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [NextJsStarter Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and paid listings on a directory of NextJS boilerplates. | 50% off ads [nextjsstarter.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [DevHunt Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and Paid listings on biggest launchpad for dev tools. | 50% off ads [devhunt.org](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 💸 | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools on our platform|
 
 ### Other
 | | Name | Description | Deal |
