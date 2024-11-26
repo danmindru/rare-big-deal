@@ -189,6 +189,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
 | 💬 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** (EXP: Dec 8, 2024) |
+| 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) | Welcome to ChatASK, the advanced AI chat app powered by the latest ChatGPT technology. Transform your digital interactions with our cutting-edge features designed to make your life easier, more productive, and more fun. Whether it’s generating images, solving complex math problems, or accessing AI-powered tools across your devices, ChatASK is your all-in-one conversational assistant. ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -350,6 +351,7 @@ It's free & open-source. Enjoy! 🚀
 |  🚫 | [AdBlock Bolt](https://apps.apple.com/app/apple-store/id1041834536?pt=521486&ct=rarebigdeal2024BF&mt=8) | Bolt is a fully free to use ad-blocker and tracker-blocker for Safari on all Apple devices. Bolt+ is a paid feature that works across the whole system to block even more ads and trackers, greatly improving your privacy. Not a single data is collected. | Get a 30% discount on Bolt+ lifetime purchase during Black Friday 2024 Nov 29 - Nov 30 |
 |  🖼️ | [Flux AI Image Generator](https://apps.apple.com/us/app/flux-ai-image-generator/id6670344892?pt=521486&ct=rarebigdeal2024BF&mt=8) | Unleash your creativity with Flux AI, the ultimate image generation app powered by advanced models. Turn your text prompts into stunning, high-quality images. | Enjoy up to 50% off credit purchases throughout this month! Nov 1 - Nov 30 |
 | 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
+| 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) | Welcome to ChatASK, the advanced AI chat app powered by the latest ChatGPT technology. Transform your digital interactions with our cutting-edge features designed to make your life easier, more productive, and more fun. Whether it’s generating images, solving complex math problems, or accessing AI-powered tools across your devices, ChatASK is your all-in-one conversational assistant. ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 
 [⬆️ All categories](#table-of-contents)
 
