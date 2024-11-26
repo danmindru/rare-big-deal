@@ -232,6 +232,8 @@ It's free & open-source. Enjoy! 🚀
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 | 📚 | [SiteSpeakAI](https://sitespeak.ai) | Automate your customer support with AI | 30% OFF with code **BLACKFRIDAY2024**
+| 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
+
 
 [⬆️ All categories](#table-of-contents)
 
