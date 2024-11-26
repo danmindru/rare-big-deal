@@ -166,6 +166,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚢 | [Shipixen](https://shipixen.com) | Create an entire codebase and use AI to deploy your website today. | **$100 OFF** on all licenses with code **BF2024** |
 | ⭐ | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak. | 40% OFF on All plans with code **BFCM2024** |
 | 🤖 | [cyberBots](https://bots.cyberesia.com) | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed |
+| 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | **50% OFF** for 1 year or for the first three months of monthly plans **FRIDAY50** |
 | 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
 | 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
