@@ -297,6 +297,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 | 🖥️ | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) |GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. | Standard version 50% OFF ($ 1,99 instead of 3,99) |
 | 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
+| 🖥️ | [Wins - Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac. | 40% OFF lifetime purchase |
 
 ### Design Tools
 | | Name | Description | Deal |
