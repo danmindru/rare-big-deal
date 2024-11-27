@@ -568,6 +568,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [ListingBott](https://johnrush.me/black-friday-deals/?ref=rare) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | 50% off [listingbott.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 🔥 | [Marketing Strategy Generator](https://founderpal.ai/marketing-strategy-generator) | Unique marketing strategy for your business in 5 minutes. | 50% off all plans |
 | 🔥 | [FormNX](https://formnx.com/?ref=rare-big-deal) | Your most affordable nocode form builder. Create any forms in minutes | 50% OFF on Yearly Plans for LIFE, use **BLACKFRIDAY2024** in checkout.|
+| 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=rare-deals) |
 
 [⬆️ All categories](#table-of-contents)
 
