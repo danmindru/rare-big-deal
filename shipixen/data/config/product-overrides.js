@@ -749,6 +749,20 @@ module.exports = {
         'This bundle is made of all the books I have written about soccer betting. The individual purchase of these books would cost you €40. If you purchase the bundle you will save €15 which is a 37% discount on the full price.',
       tags: ['Books', 'Learning', 'Programming'],
     },
+    draftly: {
+      metaTitle: 'The All-in-One LinkedIn Companion for Savvy Professionals',
+      metaDescription:
+        'Effortlessly supercharge your LinkedIn presence with personalised content creation, automated scheduling, and thoughtful engagement!',
+      tags: [
+        'AI',
+        'AI Tools',
+        'Content Creation',
+        'LinkedIn Automation',
+        'LinkedIn Growth',
+        'LinkedIn Tool',
+        'LinkedIn Engagement',
+      ],
+    },
     'mail-mastery': {
       metaDescription:
         'Mail Mastery is essential for service-based businesses and freelancers to manage communication, overcome issues, and fuel growth.',

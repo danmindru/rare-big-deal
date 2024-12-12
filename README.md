@@ -568,6 +568,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Krumzi](https://www.krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 | 🧑‍🚀 | [Loomos](https://loomos.co/login) | Create Stunning Training Videos In Minutes. | 50% OFF till BLACKFRIDAY |
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
+| ✍️ | [Draftly](https://www.draftly.so) | Effortlessly supercharge your LinkedIn presence with personalised content creation, automated scheduling, and thoughtful engagement! | Lifetime Access for Just $67 |
 
 ### Affiliate Marketing
 | | Name | Description | Deal |
