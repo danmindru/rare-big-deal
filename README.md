@@ -677,6 +677,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 | ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe.	 | **40% OFF** on checkout. Limited time offer! |
 | ⭐ | [DirectoryEasy](https://DirectoryEasy.com) |Next.js directory boilerplate designed primarily for developers and businesses looking to launch their directories faster.  | 100$ OFF |
+| 🚀 | [IndieStarter](https://indie-starter.dev?ref=rarebigdeals) | Nextjs Starters for Indie Makers | Use **BLACKFRIDAY** for 50% off | 
 
 ### Nuxt
 | | Name | Description | Deal |
