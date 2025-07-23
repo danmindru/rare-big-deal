@@ -483,6 +483,7 @@ It's free & open-source. Enjoy! 🚀
 ### Todo Apps, Notes & Writing
 | | Name | Description | Deal |
 | - | - | - | - |
+| ⏰ | [Mortimer](https://mortimer.pro) | A time tracker that converts time to revenue! Go easy from job done to invoice sent. Organize customers, projects, custom pricing, and loads more - all in one place. Read how at https://mortimer.pro/ambassadorprogram | FOR FREE with code  **AMBASSADOR** |
 | 🚢 | [MumbleSort](https://mumblesort.com) | Turn messy thoughts into actionable tasks. Use voice, text or images to capture ideas and let our AI organize them into a simple actionable tasks. | 20% OFF with code **BLACKFRIDAY** |
 | ✨ | [Reinspire](https://reinspire.io) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy! | 20% OFF with code **FRIDAY20** |
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 55% OFF with code **BLACKFRIDAY_2024** |
