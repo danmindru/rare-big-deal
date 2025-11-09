@@ -76,6 +76,7 @@ It's free & open-source. Enjoy! 🚀
   - [Apps](#apps)
 - [Finance](#finance)
   - [Dashboards](#dashboards)
+  - [Investment Research](#investment-research)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -136,7 +137,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
+| ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Lifestyle
@@ -259,7 +260,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
+| ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Video Tools
@@ -531,8 +532,13 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
-| 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
+| ⭐ | Be the first to add a deal in this category! | | | |
+
+### Investment Research
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💸 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts | **50% OFF** Yearly plan with code **RBD2025** | 2025-12-31 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -543,7 +549,7 @@ It's free & open-source. Enjoy! 🚀
 ### All
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for **6 MONTHS** | 2025-12-05 |
+| ⭐ | Be the first to add a deal in this category! | | | |
 
 
 [⬆️ All categories](#table-of-contents)
