@@ -472,6 +472,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📊 | [Branding5](https://branding5.com)| Define your brand and optimize your marketing strategy in just minutes with AI| **50% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
 | 🔗 | [LinkNest](https://linknest.sh) | Create a professional link-in-bio page with unlimited links, custom domains, and advanced analytics | **90% OFF** with code **SAVE90** | 2025-12-01 |
+| 📈 | [The Only Link](https://tol.bz) | Transform your marketing with links that think. Built for teams and professionals who turn social presence into business results | **50% OFF** with code **BF50** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
