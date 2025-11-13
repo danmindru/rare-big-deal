@@ -725,3 +725,9 @@ Apihustle is a collection of tools to test, improve and get to know your API ins
 </a>
 
 -----------------
+
+## Bundles
+
+|  | Name | Description | Deal | Expires |
+| --- | --- | --- | --- | --- |
+| <a href="https://tailkits.com/ui/" target="_blank"><img width="54px" src="https://tailkits.com/favicon.ico" alt="Tailkits UI Logo" /></a> | **Tailkits UI** | A modern library of over 200 customizable Tailwind components designed to make your web development journey smoother. | Up to **60% OFF** with code **BLACKFRIDAY2025** |  |
