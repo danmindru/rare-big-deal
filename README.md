@@ -310,6 +310,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📸 | [Once](https://once.film) | Shared disposable camera app for events—capture memories together and unlock the full gallery when the event ends. | **50% OFF** when joining the early access waitlist | 2025-12-31 |
 | 📸 | [Darkroom](https://darkroom.co) | Edit and manage your photos and videos to stand out. From quick edits to pro-level refinements. Achieve your creative vision in minutes. | **50% OFF** off your first year of our Darkroom+ membership | 2025-12-03 |
+| 🎥 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Lightroom Presets, Photoshop Actions, Capture One Styles, and other digital products for photographers. | **30% OFF ENTIRE CART** with discount code **BFCM2025** | 2025-12-02 |
 
 
 ### Health & Fitness
