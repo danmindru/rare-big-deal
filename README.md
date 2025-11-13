@@ -120,6 +120,8 @@ It's free & open-source. Enjoy! 🚀
 | ☁️ | [Scale to Zero AWS](https://scaletozeroaws.com) | Complete AWS serverless kit with frontend and backend. Learn to build cost-effective serverless applications that scale to zero. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🐛 | [Sentry](https://sentry.io) | Find, automatically root cause, and fix software issues before users notice. | Get **$500** in Sentry credit with code **awesome-friday** | 2025-12-01 |
 | ✅ | [WishKit](https://www.wishkit.io?via=rbd) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requests. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | **40% OFF** Lifetime on any plan with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
+
 
 ### Browser Extensions
 
@@ -494,6 +496,8 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🔍 | [AI SEO Tracker](https://aiseotracker.com) | AI SEO tracking and analysis tool for LLM SEO. Track rankings, analyze competitors, and optimize content for AI search engines. Helps businesses appear in AI search results and citations. | **25% OFF** with code **BF25** | 2025-12-01 |
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50** | 2025-12-01 |
+| 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
+
 
 ### Analyze & Audit
 
