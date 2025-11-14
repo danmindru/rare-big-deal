@@ -543,7 +543,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Branding5](https://branding5.com)| Define your brand and optimize your marketing strategy in just minutes with AI| **50% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
 | 🔗 | [LinkNest](https://linknest.sh) | Create a professional link-in-bio page with unlimited links, custom domains, and advanced analytics | **90% OFF** with code **SAVE90** | 2025-12-01 |
 | 📈 | [NameKnow.com](https://NameKnow.com) | Curated Domain Name Marketplace| **20% OFF** with code **RAREBIGDEAL2025**. | 2025-12-07 |
-
+| 🥇 | [Product Hunt Workbook ](https://launchpedia.co/product-hunt-workbook/) | A Proven BluePrint to Rank On Top Of Product Hunt | **60% OFF** with code **BF60** | 2025-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
