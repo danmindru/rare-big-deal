@@ -634,7 +634,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📱 | [KMPSHip](https://www.kmpship.app/) | Ship iOS & Android apps from one codebase with Kotlin Multiplatform | 50% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Laravel
