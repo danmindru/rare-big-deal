@@ -130,6 +130,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔐 | [iScan.today](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | **50% off** with discount code **ISCANBF25** | 2025-12-01 |
 | 🔻 | [IsDown.app](https://isdown.app) | Never miss a vendor outage again! The best status page aggregator + uptime monitoring + status pages. | **25% OFF** in Starter & Pro plan with code **BF2025** | 2025-12-01 |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
+| 🛠️ | [UtilBolt](https://www.utilbolt.com/black-friday) | Black Friday Super Bundle: 115+ productivity & developer tools. One-time payment. Lifetime access to 4 tools + 1 year UnifyMe + free ChromePilot quarterly plan. | **82% OFF** at $129 (was $705) | 2025-12-01 |
 
 
 ### Browser Extensions
