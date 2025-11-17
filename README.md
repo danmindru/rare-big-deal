@@ -222,7 +222,6 @@ It's free & open-source. Enjoy! 🚀
 
 ### Lifestyle
 
-| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 | 2025-11-30 |
 | 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
@@ -471,6 +470,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 | ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
+| 🔍 | [SEOengine.ai](https://seoengine.ai) | Deploy 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | ⭐35% OFF⭐⭐ with code BLACKFRIDAY | 2025-12-07 |
 
 
 
