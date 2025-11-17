@@ -280,6 +280,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [DeskRest](https://deskrest.com/offers/) | DeskRest is a smart break reminder that helps reduce eye strain, supports better posture, and promotes work-life balance through beautiful, non-intrusive reminders | 50% OFF with code **BLACKFRIDAY** | 2025-12-03 |
 | 🎙️ | [Speakmac](https://speakmac.app/?ref=rarebigdeal) | Offline speech-to-text for macOS. Hit a hotkey and Speakmac types into any input with punctuation-perfect text, zero cloud uploads, and no subscription. | **25% OFF** 2-Mac Pro license (drops to $21.75 one-time) with code **RAREBIGDEAL25** | 2025-12-05 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
+| 💸 | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFRIDAY2025** or **18% OFF** with code **RAREBIGDEAL25** at checkout|
 
 ### Design Tools
 
