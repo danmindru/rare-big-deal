@@ -747,6 +747,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🤑 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** | 2025-12-02 |
+| ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-31 |
 
 
 [⬆️ All categories](#table-of-contents)
