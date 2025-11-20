@@ -766,6 +766,7 @@ It's free & open-source. Enjoy! 🚀
 | 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
 | 💡 | [Superframeworks Idea Bank ](https://superframeworks.com/idea-bank) | 40+ SEO Validated Ideas | 100% OFF with Code BFCM25 |
 | ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
+| 🧑‍💻 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & certification training for certificates like the CompTIA Security+ SY0-701 certificate. | **20% OFF ALL Plans, Including Lifetime** with code **BLKFRI20** | 2025-12-05 |
 
 
 
