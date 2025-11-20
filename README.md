@@ -122,6 +122,8 @@ It's free & open-source. Enjoy! 🚀
 | 📧 | [Newsdrop](https://newsdrop.io) | The smart way to read newsletters. Declutter your inbox and manage all your newsletters in one beautiful interface. | **25% OFF** for the first 3 months with code **BLACKFRIDAY25** | 2025-12-31 |
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🗣️ | [ShareSpeak](https://sharespeak.co) | ShareSpeak is an AI-powered invisible teleprompter app designed for desktop users. | **74% OFF** lifetime with code **MICRO74** | 2026-01-31 |
+| 🚀 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit for solo builders - subagents system, commands, and AI-powered automation for developers. | **50% OFF** ($49) with code **CKEBF2025** | 2025-11-30 |
+| 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete Claude Code toolkit - Engineer Kit + Marketing Kit for building and scaling your micro SaaS. | **BUY 1 GET 1** ($99) - Engineer + Marketing Kit | 2025-11-30 |
 
 
 ### APIs, Tools & SaaS
