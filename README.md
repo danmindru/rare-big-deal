@@ -121,7 +121,8 @@ It's free & open-source. Enjoy! 🚀
 | 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) | 2025-12-12 |
 | 🪣 | [BucketMate](https://bucketmate.app/pricing?ref=rare-big-deal) | a Finder-style S3-compatible manager for macOS. | **70% OFF** lifetime license | 2025-12-05 |
 | 📧 | [Newsdrop](https://newsdrop.io) | The smart way to read newsletters. Declutter your inbox and manage all your newsletters in one beautiful interface. | **25% OFF** for the first 3 months with code **BLACKFRIDAY25** | 2025-12-31 |
-
+| 🚀 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit for solo builders - subagents system, commands, and AI-powered automation for developers. | **50% OFF** ($49) with code **CKEBF2025** | 2025-11-30 |
+| 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete Claude Code toolkit - Engineer Kit + Marketing Kit for building and scaling your micro SaaS. | **BUY 1 GET 1** ($99) - Engineer + Marketing Kit | 2025-11-30 |
 
 ### APIs, Tools & SaaS
 
