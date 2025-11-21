@@ -316,6 +316,7 @@ It's free & open-source. Enjoy! 🚀
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
 | 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) | 2025-12-03 |
 | 🌅 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED | 2025-12-04 |
+| 🖥️ | [LaunchOS](https://launchosapp.com//?ref=rarebigdeal) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60%** OFF + **5%** OFF with **EARLYBIRDBLACKFRIDAY** | 2025-12-05 |
 
 
 ### Design Tools
