@@ -786,9 +786,9 @@ It's free & open-source. Enjoy! 🚀
 
 ### Chrome Extensions
 
-| | Name | Description | Deal | Expires on date |
-| - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| | Name | Description | Deal                                          | Expires on date |
+| - | - | - |-----------------------------------------------| - |
+| 🗣️ | [VoxWrite](https://voxwrite.app) | Voice to text with AI transformation | **30% OFF** with code BF2025 on LIFETIME plan | 2025-11-30 |
 
 
 ### Libraries & More
