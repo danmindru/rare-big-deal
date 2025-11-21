@@ -178,6 +178,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🐙 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS. | Get up to **45% OFF**, auto-applied | 2025-12-03 |
+| 🟪 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | BFRIDAY25 to get **65% OFF**, | 2025-12-05 |
 
 
 
