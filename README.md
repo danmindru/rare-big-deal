@@ -545,6 +545,7 @@ It's free & open-source. Enjoy! 🚀
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
 | 📚 | [Guidejar](https://www.guidejar.com/?utm_source=rare-big-deal) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | **25% OFF** with code **BFCM25** | 2025-12-02 |
 | 🔖 | [Bookmark Manager](https://devapt.com/bookmark-manager?utm_source=ghbf_dan) | Spotlight search for your bookmarks. Press Ctrl+Shift+K anywhere to instantly find any bookmark—even with typos.        | 30% OFF with code **30BF2025** | 2025-11-30 |
+| 💼 | [Zeke](https://zeke.so) | Job search toolkit with personal portfolio builder (read.cv alternative). Craft and augment resumes based on job descriptions, generate cover letters, and showcase your work. | Coupon code **BLACKFRIDAY25** | Never |
 
 
 
