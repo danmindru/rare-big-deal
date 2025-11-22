@@ -681,6 +681,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔗 | [LinkNest](https://linknest.sh) | Create a professional link-in-bio page with unlimited links, custom domains, and advanced analytics | **90% OFF** with code **SAVE90** | 2025-12-01 |
 | 📈 | [NameKnow.com](https://NameKnow.com) | Curated Domain Name Marketplace| **20% OFF** with code **RAREBIGDEAL2025**. | 2025-12-07 |
 | 🥇 | [Product Hunt Workbook ](https://launchpedia.co/product-hunt-workbook/) | A Proven BluePrint to Rank On Top Of Product Hunt | **60% OFF** with code **BF60** | 2025-12-01 |
+| 🥇 | [NameScore](https://namescore.io) | NameScore checks names for trademark conflicts, domain availability, and linguistic quality | **70% OFF** with code **BF2025** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
