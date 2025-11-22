@@ -123,6 +123,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🗣️ | [ShareSpeak](https://sharespeak.co) | ShareSpeak is an AI-powered invisible teleprompter app designed for desktop users. | **74% OFF** lifetime with code **MICRO74** | 2026-01-31 |
 | 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=rare-big-deal) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** | 2025-12-31 |
+| 🔌 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | 2025-12-02 |
 
 
 ### APIs, Tools & SaaS
