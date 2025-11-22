@@ -152,6 +152,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [Iconbuddy](https://iconbuddy.com)                | Over 200k+ open source icons. | Limited-time lifetime deal - $100 off                                                            |
 | ⭐   | [Sawad](https://mejed.lemonsqueezy.com/buy/626bae75-7eee-45cb-a91f-6f2eb1fbfd1f) | Framer Portfolio Template                                                                                                                                                 | 10% OFF with code **G3ODQYMQ** |
 | 🎨   | [FilterGrade](https://filtergrade.com)                      | A creative marketplace and digital tools platform offering presets, templates, overlays, and educational resources for photographers, videographers, and designers.             | 30% off marketplace with code **BLACKFRIDAY2024**                |
+| 🖊️   | [Ink Studio AI](https://inkstudio.ai)                      | AI-powered design and illustration tool for fast, high-quality creative work. | 50% OFF with code **BLACKFRIDAY50** |
 
 ### AI Design Tools
 |     | Name                                                         | Description                                                                                                                                                     | Discount Code & Terms                                                |
