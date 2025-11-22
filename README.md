@@ -235,6 +235,8 @@ It's free & open-source. Enjoy! 🚀
 | 📄 | [CSVNormalize](https://csvnormalize.com) | AI powered CSV processing that cleans, validates, and transforms your data with enterprise-grade accuracy and lightning-fast performance. | **3 Months Free** with promo code **BlackFriday25** | 2025-12-15 |
 | 🚀 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | BFCM2025 50% OFF (LIFETIME) | 2025-12-02 |
 | 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 | 2025-12-03 |
+| 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
+| 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 
 ### Other
 
