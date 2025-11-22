@@ -9,5 +9,6 @@ module.exports = {
     'GenPPT',
     'Inbox Zero',
     'Verbatik AI',
+    'Geekflare Connect'
   ],
 };
