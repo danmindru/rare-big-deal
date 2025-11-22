@@ -124,6 +124,9 @@ It's free & open-source. Enjoy! 🚀
 | 🗣️ | [ShareSpeak](https://sharespeak.co) | ShareSpeak is an AI-powered invisible teleprompter app designed for desktop users. | **74% OFF** lifetime with code **MICRO74** | 2026-01-31 |
 | 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=rare-big-deal) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** | 2025-12-31 |
 | 🔌 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | 2025-12-02 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. (BLACKFRIDAY50) | 2025-12-1 |
+
 
 
 ### APIs, Tools & SaaS
@@ -181,6 +184,9 @@ It's free & open-source. Enjoy! 🚀
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🐙 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS. | Get up to **45% OFF**, auto-applied | 2025-12-03 |
 | ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professionals | 60% off with code **BLACKFRIDAY2025** | 2025-12-03 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
+
 
 
 [⬆️ All categories](#table-of-contents)
@@ -205,6 +211,8 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=rarebigdeal) | AI automation API suite for developers-including product content generation, resume parsing, job match scoring, SEO tagging and custom workflows. Easy to integrate, scalable, reliable. | **50% OFF first year** with code **BF2025** |
 | 🖼️ | [ImageRouter](https://imagerouter.io) | AI Image & Video Generator. Unified OpenAI compatible, open source API. | **50 daily free images** for any amount of deposit (applies to models ending with :free) | Lifetime Deal |
 | 📃 | [lindo.ai](https://lindo.ai) | Launch your own AI website builder under your brand. | **40% OFF** with discount code **BF2025** | 2025-12-03 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 
 ### Productivity
@@ -239,6 +247,8 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | BFCM2025 50% OFF (LIFETIME) | 2025-12-02 |
 | 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 | 2025-12-03 |
 | 🎯 | [Geekflare Connect](https://geekflare.com/ai/connect/) | BYOK AI workspace for business to chat with 40+ models, share projects, prompts and chats to collaborate. | 50% OFF for 12 months with **BF25GF** | 2026-02-05 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 ### Other
 
@@ -291,6 +301,8 @@ It's free & open-source. Enjoy! 🚀
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 | 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 
 ### Productivity
@@ -322,6 +334,8 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) | 2025-12-03 |
 | 🌅 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED | 2025-12-04 |
 | 🖥️ | [LaunchOS](https://launchosapp.com//?ref=rarebigdeal) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60%** OFF + **5%** OFF with **EARLYBIRDBLACKFRIDAY** | 2025-12-05 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 
 ### Design Tools
@@ -357,6 +371,8 @@ It's free & open-source. Enjoy! 🚀
 | ⏲️ | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF. Starts on 2025-11-20 |  2025-12-02  |
 | ⌨️  | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - Stay in flow and reduce wrist strain with keyboard-only Mac control. | **50% OFF** (auto-applied) | 2025-12-03 |
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -473,6 +489,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖼️ | [Background Remover](https://www.backgroundremover.com/) | Backgrounds gone in one click. No Photoshop required. Studio-quality precision with lightning-fast processing. Supports JPG, PNG, WEBP. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you designed | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 
 ### AI Design Tools
@@ -523,6 +541,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧵 | [Thread Deck](https://usethreaddeck.com/?ref=rarebigdeal) | Visual canvas for notes, links, and AI-grounded chat. Keep every idea on one board, then send the exact context to gpt 5, Claude, or Gemini. | **40% OFF** Starter plan for 3 months with code **RARETHREAD40** | 2025-12-05 |
 | 🧠 | [buildsheet.one](https://buildsheet.one) | Drag & drop beautiful cheatsheet builder for developers, students & anyone who learns from structured notes. | **25% OFF** with code **BLACKFRIDAY25** | 2025-12-07 |
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) | 2025-12-01 |
+| 🎯 | [Focusmo](https://www.focusmo.app) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 
 
 
@@ -552,6 +571,7 @@ It's free & open-source. Enjoy! 🚀
 | 📚 | [Guidejar](https://www.guidejar.com/?utm_source=rare-big-deal) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | **25% OFF** with code **BFCM25** | 2025-12-02 |
 | 🔖 | [Bookmark Manager](https://devapt.com/bookmark-manager?utm_source=ghbf_dan) | Spotlight search for your bookmarks. Press Ctrl+Shift+K anywhere to instantly find any bookmark—even with typos.        | 30% OFF with code **30BF2025** | 2025-11-30 |
 | 💼 | [Zeke](https://zeke.so) | Job search toolkit with personal portfolio builder (read.cv alternative). Craft and augment resumes based on job descriptions, generate cover letters, and showcase your work. | Coupon code **BLACKFRIDAY25** | Never |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 
 
 
