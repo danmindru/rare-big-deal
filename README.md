@@ -573,6 +573,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
+| ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
 
 
 ### Sales Tools
