@@ -319,6 +319,8 @@ It's free & open-source. Enjoy! 🚀
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
 | 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) | 2025-12-03 |
 | 🌅 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED | 2025-12-04 |
+| 🎭 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** (Nov 21 - Dec 2) No code Needed |
+| 🔢 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | **40% OFF** (Nov 21 - Dec 2) No code Needed |
 
 
 ### Design Tools
@@ -608,7 +610,6 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
-| 🔥 | [RightBlogger](https://rightblogger.com/) | RightBlogger is the best AI article writer with built-in autoblogging, SEO tools, keyword research, and one-click publishing to streamline your entire blogging workflow. | 50% OFF Yearly Plans | 2025-12-01 |
 
 
 ### Affiliate Marketing
@@ -645,7 +646,6 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🌐 | [BorderPrep](https://borderprep.com) | Arrive Ready for Any Country | **50% OFF** product feature | 2025-12-01 |
 | 🚀 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
-| 🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch. Reach 30k+ makers. Get more users & customers. 30-day launches → 30× more exposure. Your unfair visibility advantage. | **20% OFF** with code **BLACKFRIDAY2025** + Exclusive **2Y PRO PASS** for Serial Builders. | 2025-12-07
 
 
 ### Other
