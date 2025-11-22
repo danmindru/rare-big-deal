@@ -158,6 +158,7 @@ It's free & open-source. Enjoy! 🚀
 | ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=rare-big-deal) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🦖 |[TestDino](https://testdino.com/) | Smart Playwright Test Reporting And Analytics | **30% OFF** on Yearly Team Plan,code - "BFTD2025" | 2025-12-01 |
+| 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
 
 
 ### Browser Extensions
