@@ -336,6 +336,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [LaunchOS](https://launchosapp.com//?ref=rarebigdeal) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60%** OFF + **5%** OFF with **EARLYBIRDBLACKFRIDAY** | 2025-12-05 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
+| 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=rarebigdeal) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to. | **30% off** on the Mac App Store | 2025-12-02 |
 
 
 ### Design Tools
