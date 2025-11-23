@@ -460,6 +460,7 @@ It's free & open-source. Enjoy! 🚀
 | 💪 | [GetJacked](https://getjacked.app/download?utm_source=danbf) | GetJacked is a science-based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
 | 👟 | [Steps](https://getsteps.app/) | Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving | 30% OFF lifetime plan with code BLACKFRIDAY or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY | Nov 25 - Dec 2 |
 | 🩺 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. Features charts, heat maps for lows & highs, CSV/PDF exports for your medical care team, and personalized insights. | **50% OFF** Lifetime Premium plan (in-app) with code **BLACKFRIDAY2025** | Nov 15 - Dec 2 |
+| 🏃🏼‍♀️ | [Walk Mate - Weight Loss](https://apple.co/4mz7vev) | Daily random walking routes in your location. | **50% OFF** lifetime plan with code BLCKFRDY25 or using https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25 | Nov 12 - Dec 31 |
 
 
 ### Hobby & Lifestyle
@@ -470,6 +471,7 @@ It's free & open-source. Enjoy! 🚀
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 💰 | [LifePace Habit Streaks Tracker](https://apps.apple.com/us/app/lifepace-habit-streaks-tracker/id6751773159) | Start 2026 the right way with LifePace, the new habit tracker that turns good intentions into lasting results: create routines that fit your life, stay motivated with clear progress, and enjoy a modern Liquid Glass design. Widgets, Siri, Shortcuts and on‑device Apple Intelligence keep you on track every day while your data sync privately via iCloud on iPhone, iPad, Mac, Apple Watch | **40% OFF** Pro Forever only $ 7.99 | 2025-12-03 |
 | ✈️ | [Airfare Alerts: Price Tracker](https://apps.apple.com/us/app/airfare-alerts/id6479698432) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | 2025-12-02 |
+| 🗺️ | [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. | **50% OFF** lifetime plan with code BLCKFRDY25 or using https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25 | Nov 12 - Dec 31 |
 
 
 ### Other
@@ -481,7 +483,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 🛜 | [Data Plan - Network Usage](https://apps.apple.com/app/apple-store/id1559813249) | The ultimate network data tracking app. | **33% OFF** on yearly and lifetime plans with cide **RARE33**. | 2025-12-02 |
-
+| 🔋 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. | **50% OFF** lifetime plan with code BLCKFRDY25 or using https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25 | Nov 12 - Dec 31 |
 
 [⬆️ All categories](#table-of-contents)
 
