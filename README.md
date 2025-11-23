@@ -341,6 +341,8 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 | 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=rarebigdeal) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to. | **30% off** on the Mac App Store | 2025-12-02 |
+| ⚡️ | [PastePal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
+| ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
 
 
 ### Design Tools
