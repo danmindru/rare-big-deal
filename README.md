@@ -254,6 +254,8 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Geekflare Connect](https://geekflare.com/ai/connect/) | BYOK AI workspace for business to chat with 40+ models, share projects, prompts and chats to collaborate. | 50% OFF for 12 months with **BF25GF** | 2026-02-05 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
+| 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
+| 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 
 ### Other
 
@@ -937,6 +939,9 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
 | 💰 | [Know Your Numbers](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY25) | Personal & Family Net Worth Tracker. | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription **plus 3 months extra** | 2025-12-01 |
+| 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
+| 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
+
 
 
 ### Investment Research
