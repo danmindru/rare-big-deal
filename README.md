@@ -612,7 +612,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Saleshandy](https://www.saleshandy.com/pricing/) | AI-powered B2B cold email outreach platform that helps businesses automate and scale their lead generation efforts. | **Flat 50% OFF** with code **BFCM50** | 2025-12-01 |
-
+| 💰 | [Evendeals](https://evendeals.com) | Get 30% more sales from emerging countries with purchasing power parity discounts. | Flat 60% off Lifetime with code `BF25` | 2025-12-01 |
 
 ### Email Marketing
 
