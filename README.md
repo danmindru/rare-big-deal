@@ -346,6 +346,8 @@ It's free & open-source. Enjoy! 🚀
 | 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=rarebigdeal) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to. | **30% off** on the Mac App Store | 2025-12-02 |
 | ⚡️ | [PastePal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
 | ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
+| 🚀 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF | 2025-12-03 |
+| ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens.  | 50% OFF | 2025-12-03 |
 
 
 ### Design Tools
@@ -370,6 +372,8 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
+| 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF | 2025-12-03 |
+| 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF | 2025-12-03 |
 
 
 ### Menu Bar & More
