@@ -162,6 +162,8 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🦖 |[TestDino](https://testdino.com/) | Smart Playwright Test Reporting And Analytics | **30% OFF** on Yearly Team Plan,code - "BFTD2025" | 2025-12-01 |
 | 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
+| 🗄️ | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for effortless server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | *50% off* first cycle (new) — **2025BFCM50NEW** **65% off** first annual (new, Pro/Business) — **2025BFCM65Y** (ends 12/5) |
+
 
 
 ### Browser Extensions
