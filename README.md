@@ -820,6 +820,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📱 | [KMPSHip](https://www.kmpship.app/) | Ship iOS & Android apps from one codebase with Kotlin Multiplatform | 50% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
+| 📱 | [KAppMaker](https://kappmaker.com/) | Make Mobile Apps in less than a Week | 40% OFF with code **BLACKFRIDAY40** | 2025-12-01 |
+
 
 
 ### Laravel
