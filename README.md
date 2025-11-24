@@ -934,6 +934,12 @@ It's free & open-source. Enjoy! 🚀
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 
 
+### Web Apps
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🤸 | [1 Minute Workout](https://1minuteworkout.org?utm_source=rarebigdeal) | Bite-size workouts for really busy people. | **60% OFF** on Lifetime Deal; **50% OFF** on all subscriptions| 2025-12-01 |
+
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
