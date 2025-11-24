@@ -350,6 +350,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
 | 🚀 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF | 2025-12-03 |
 | ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens.  | 50% OFF | 2025-12-03 |
+| ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** | 2025-12-08 |
 
 
 ### Design Tools
