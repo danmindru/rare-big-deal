@@ -130,8 +130,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚖 | [Folge](https://folge.me) | The fastest app for creating step-by-step guides and documentation. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, Word, PDF, Confluence, Wordpress and more. | **50% off** with promo code **BLACKFRIDAY25** | 2025-12-31 |
 | ✨ | [Motionik](https://motionik.com) | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** | 2025-11-30 |
 | 🚀 | [ClaudeKit Engineer + Combo](https://claudekit.cc) | Complete Claude-powered toolkit for solo devs to build, automate, and scale micro SaaS. | **Engineer:** 50% OFF ($49) with code `CKEBF2025` • **Combo:** BUY 1 GET 1 ($99) – Engineer + Marketing Kit | 2025-11-30 |
-
-
+| 🐶 | [PortTraceX](https://porttracex.com/?ref=rare-big-deal) | PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: **ports being blocked, busy, or hijacked by unknown processes** — whether on your **local machine** or a **remote server**.  | **40% OFF** lifetime license with code **BF40** | 2025-12-07 |
 
 ### APIs, Tools & SaaS
 
