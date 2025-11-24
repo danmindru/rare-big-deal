@@ -520,6 +520,9 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **Black Friday Lifetime Deals** starts at **$49** | 2025-12-01 |
 | 🎨 | [IconSprint](https://iconsprint.com) | Create iOS and Android app icons with dark mode, tinted, and mono variants in one click. | **40% OFF** with code **BF2025** | 2025-12-02 |
 | 🛋️ | [Instant Interior AI](https://InstantInteriorAI.com) | Transform any space with AI-generated interior design. Virtually stage or redesign interiors in seconds — perfect for professionals and homeowners. | **30% OFF** all plans with code BLACKFRIDAY30 | 2025-11-29 |
+| 🎨 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
+
+
 
 
 ### Video Tools
@@ -530,6 +533,8 @@ It's free & open-source. Enjoy! 🚀
 | 🎥 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** | 2025-12-02 |
 | 👵 | [TranslateMom](https://translate.mom/) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices, GPT-4o dubbing, and priority exports (2,000 min/mo, 29 languages, 30-day storage). | **70% OFF** Annual Pro Plan — $159 (reg. $528) with code **BLACK** | 2025-12-02 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
+| 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
+
 
 
 ### Social
@@ -620,6 +625,7 @@ It's free & open-source. Enjoy! 🚀
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
 | ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
+| 📊 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 
 
 
@@ -720,6 +726,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔗 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
+
 ### Tools
 
 | | Name | Description | Deal | Expires on date |
@@ -729,6 +736,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 | 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 
 
 ### Analyze & Audit
