@@ -579,6 +579,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
 | 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf_dan) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** | 2025-11-30 |
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
+| 📸 | [Rendley](https://rendley.com?utm_source=danmindru) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** | 2025-11-30 |
 
 ### Other
 
