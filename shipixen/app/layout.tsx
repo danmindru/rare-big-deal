@@ -12,6 +12,7 @@ import { AnalyticsWrapper } from '@/components/shared/Analytics';
 import PostHogPageView from '@/app/posthog-page-view';
 import { Suspense } from 'react';
 import { PHProvider } from '@/app/providers';
+import { TooltipProvider } from '@/components/shared/ui/tooltip';
 
 const displayFont = Roboto({
   subsets: ['latin'],
@@ -135,25 +136,27 @@ export default function RootLayout({
       </head>
 
       <body className="flex flex-col bg-white text-black antialiased dark:bg-gray-950 dark:text-white min-h-screen">
-        <ThemeProviders>
-          <AnalyticsWrapper />
+        <TooltipProvider>
+          <ThemeProviders>
+            <AnalyticsWrapper />
 
-          <div className="w-full flex flex-col justify-between items-center font-sans">
-            <PHProvider>
-              <SearchProvider>
-                <main className="w-full flex flex-col items-center mb-auto">
-                  {children}
-                </main>
-              </SearchProvider>
+            <div className="w-full flex flex-col justify-between items-center font-sans">
+              <PHProvider>
+                <SearchProvider>
+                  <main className="w-full flex flex-col items-center mb-auto">
+                    {children}
+                  </main>
+                </SearchProvider>
 
-              <Suspense>
-                <PostHogPageView />
-              </Suspense>
-            </PHProvider>
-          </div>
+                <Suspense>
+                  <PostHogPageView />
+                </Suspense>
+              </PHProvider>
+            </div>
 
-          <Footer />
-        </ThemeProviders>
+            <Footer />
+          </ThemeProviders>
+        </TooltipProvider>
       </body>
     </html>
   );

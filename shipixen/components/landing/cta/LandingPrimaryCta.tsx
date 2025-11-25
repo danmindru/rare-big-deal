@@ -2,7 +2,34 @@ import clsx from 'clsx';
 import Image from '@/components/shared/Image';
 import { GlowBg } from '@/components/shared/ui/glow-bg';
 import { VideoPlayer } from '@/components/shared/VideoPlayer';
-import { Sparkles } from '@/components/shared/Sparkles';
+import { forwardRef } from 'react';
+
+/**
+ * A simple CSS mask component that fades content top and bottom to transparent
+ */
+export const FadeMask = forwardRef<
+  HTMLDivElement,
+  {
+    children: React.ReactNode;
+    className?: string;
+    fadeHeight?: string;
+  }
+>(({ children, className, fadeHeight = '3rem' }, ref) => {
+  return (
+    <div
+      ref={ref}
+      className={clsx('overflow-hidden', className)}
+      style={{
+        maskImage: `linear-gradient(to bottom, transparent 0%, black ${fadeHeight}, black calc(100% - ${fadeHeight}), transparent 100%)`,
+        WebkitMaskImage: `linear-gradient(to bottom, transparent 0%, black ${fadeHeight}, black calc(100% - ${fadeHeight}), transparent 100%)`,
+      }}
+    >
+      {children}
+    </div>
+  );
+});
+
+FadeMask.displayName = 'FadeMask';
 
 const LandingPrimaryCtaContent = ({
   className,
@@ -37,19 +64,17 @@ const LandingPrimaryCtaContent = ({
     >
       {leadingComponent}
 
-      {title ? (
-        <h1 className="text-4xl lg:text-5xl leading-tight font-semibold md:max-w-xl">
-          {title}
-        </h1>
-      ) : (
-        titleComponent
-      )}
+      {titleComponent ||
+        (title && (
+          <h1 className="font-sans tracking-tighter text-2xl md:text-3xl lg:text-4xl leading-tight font-semibold md:max-w-2xl">
+            {title}
+          </h1>
+        ))}
 
-      {description ? (
-        <p className="md:text-lg md:max-w-lg">{description}</p>
-      ) : (
-        descriptionComponent
-      )}
+      {descriptionComponent ||
+        (description && (
+          <p className="md:text-lg md:max-w-xl">{description}</p>
+        ))}
 
       <div
         className={clsx(
@@ -91,11 +116,13 @@ export const LandingPrimaryImageCtaSection = ({
   withBackgroundGlow = false,
   variant = 'primary',
   backgroundGlowVariant = 'primary',
+  effectComponent,
+  effectClassName,
 }: {
   children?: React.ReactNode;
   className?: string;
   innerClassName?: string;
-  title: string | React.ReactNode;
+  title?: string | React.ReactNode;
   titleComponent?: React.ReactNode;
   description?: string | React.ReactNode;
   descriptionComponent?: React.ReactNode;
@@ -118,11 +145,13 @@ export const LandingPrimaryImageCtaSection = ({
   withBackgroundGlow?: boolean;
   variant?: 'primary' | 'secondary';
   backgroundGlowVariant?: 'primary' | 'secondary';
+  effectComponent?: React.ReactNode;
+  effectClassName?: string;
 }) => {
   return (
     <section
       className={clsx(
-        'w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16',
+        'relative w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16',
         withBackground && variant === 'primary'
           ? 'bg-primary-100/20 dark:bg-primary-900/10'
           : '',
@@ -130,18 +159,44 @@ export const LandingPrimaryImageCtaSection = ({
           ? 'bg-secondary-100/20 dark:bg-secondary-900/10'
           : '',
         withBackgroundGlow || imagePerspective !== 'none'
-          ? 'overflow-x-hidden'
+          ? 'relative overflow-hidden'
           : '',
         imagePerspective === 'paper' ? 'md:pb-24' : '',
         className,
       )}
     >
+      {effectComponent ? (
+        <FadeMask
+          className={clsx(
+            'absolute inset-0 h-full w-full pointer-events-none opacity-50',
+            effectClassName,
+          )}
+          fadeHeight="5rem"
+          aria-hidden="true"
+        >
+          {effectComponent}
+        </FadeMask>
+      ) : null}
+
+      {imageSrc && withBackgroundGlow ? (
+        <div className="hidden lg:flex justify-center w-full h-full absolute pointer-events-none">
+          <GlowBg
+            className={clsx(
+              'w-full lg:w-1/2 h-auto z-0 dark:opacity-50',
+              imagePosition === 'center' ? 'top-5' : ' -top-1/3',
+              imagePerspective === 'paper' ? 'opacity-70' : 'opacity-100',
+            )}
+            variant={backgroundGlowVariant}
+          />
+        </div>
+      ) : null}
+
       <div
         className={clsx(
-          'w-full p-6 flex flex-col gap-8 relative',
+          'w-full p-6 gap-8 relative',
           imagePosition === 'center'
-            ? 'container-narrow'
-            : 'max-w-full container-wide grid lg:grid-cols-2 items-center',
+            ? 'flex flex-col container-narrow'
+            : 'grid lg:grid-cols-2 max-w-full container-wide items-center',
           textPosition === 'center' ? 'items-center' : 'items-start',
           innerClassName,
         )}
@@ -151,6 +206,7 @@ export const LandingPrimaryImageCtaSection = ({
       >
         <LandingPrimaryCtaContent
           className={clsx(
+            'relative z-10',
             imagePosition === 'left' && 'lg:col-start-2 lg:row-start-1',
           )}
           title={title}
@@ -165,19 +221,6 @@ export const LandingPrimaryImageCtaSection = ({
 
         {imageSrc ? (
           <>
-            {withBackgroundGlow ? (
-              <div className="hidden lg:flex justify-center w-full h-full absolute pointer-events-none">
-                <GlowBg
-                  className={clsx(
-                    'w-full lg:w-1/2 h-auto z-0 dark:opacity-50',
-                    imagePosition === 'center' ? 'top-5' : ' -top-1/3',
-                    imagePerspective === 'paper' ? 'opacity-70' : 'opacity-100',
-                  )}
-                  variant={backgroundGlowVariant}
-                />
-              </div>
-            ) : null}
-
             {imagePosition === 'center' ? (
               <section className={clsx('w-full mt-6 md:mt-8')}>
                 <Image
@@ -188,8 +231,8 @@ export const LandingPrimaryImageCtaSection = ({
                   )}
                   src={imageSrc}
                   alt={imageAlt}
-                  width={minHeight + 75}
-                  height={minHeight + 75}
+                  width={1000}
+                  height={1000}
                 />
               </section>
             ) : null}
@@ -211,8 +254,8 @@ export const LandingPrimaryImageCtaSection = ({
                 )}
                 alt={imageAlt}
                 src={imageSrc}
-                width={minHeight + 75}
-                height={minHeight + 75}
+                width={1000}
+                height={1000}
               />
             ) : null}
           </>
@@ -255,6 +298,8 @@ export const LandingPrimaryVideoCtaSection = ({
   withBackgroundGlow = false,
   variant = 'primary',
   backgroundGlowVariant = 'primary',
+  effectComponent,
+  effectClassName,
 }: {
   children?: React.ReactNode;
   className?: string;
@@ -280,24 +325,39 @@ export const LandingPrimaryVideoCtaSection = ({
   withBackgroundGlow?: boolean;
   variant?: 'primary' | 'secondary';
   backgroundGlowVariant?: 'primary' | 'secondary';
+  effectComponent?: React.ReactNode;
+  effectClassName?: string;
 }) => {
   return (
     <section
       className={clsx(
-        'w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16',
+        'relative w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16',
         withBackground && variant === 'primary'
           ? 'bg-primary-100/20 dark:bg-primary-900/10'
           : '',
         withBackground && variant === 'secondary'
           ? 'bg-secondary-100/20 dark:bg-secondary-900/10'
           : '',
-        withBackgroundGlow ? 'overflow-hidden' : '',
+        withBackgroundGlow ? 'relative overflow-hidden' : '',
         className,
       )}
     >
+      {effectComponent ? (
+        <FadeMask
+          className={clsx(
+            'absolute inset-0 h-full w-full pointer-events-none opacity-50',
+            effectClassName,
+          )}
+          fadeHeight="4rem"
+          aria-hidden="true"
+        >
+          {effectComponent}
+        </FadeMask>
+      ) : null}
+
       <div
         className={clsx(
-          'w-full p-6 flex flex-col gap-8 relative',
+          'w-full p-6 flex flex-col gap-8 relative z-10',
           videoPosition === 'center'
             ? 'container-narrow'
             : 'max-w-full container-wide grid lg:grid-cols-2 items-center',
@@ -310,6 +370,7 @@ export const LandingPrimaryVideoCtaSection = ({
       >
         <LandingPrimaryCtaContent
           className={clsx(
+            'relative z-10',
             videoPosition === 'left' && 'lg:col-start-2 lg:row-start-1',
           )}
           title={title}
@@ -400,7 +461,11 @@ export const LandingPrimaryTextCtaSection = ({
   footerComponent,
   textPosition = 'center',
   withBackground = false,
+  withBackgroundGlow = false,
   variant = 'primary',
+  backgroundGlowVariant = 'primary',
+  effectComponent,
+  effectClassName,
 }: {
   children?: React.ReactNode;
   className?: string;
@@ -413,12 +478,16 @@ export const LandingPrimaryTextCtaSection = ({
   footerComponent?: React.ReactNode;
   textPosition?: 'center' | 'left';
   withBackground?: boolean;
+  withBackgroundGlow?: boolean;
   variant?: 'primary' | 'secondary';
+  backgroundGlowVariant?: 'primary' | 'secondary';
+  effectComponent?: React.ReactNode;
+  effectClassName?: string;
 }) => {
   return (
     <section
       className={clsx(
-        'w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16 pt-16 lg:pt-24',
+        'relative w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16',
         withBackground && variant === 'primary'
           ? 'bg-primary-100/20 dark:bg-primary-900/10'
           : '',
@@ -428,11 +497,34 @@ export const LandingPrimaryTextCtaSection = ({
         className,
       )}
     >
-      <Sparkles className="-top-24 scale-75 opacity-80 contrast-200" />
+      {effectComponent ? (
+        <FadeMask
+          className={clsx(
+            'absolute inset-0 h-full w-full pointer-events-none opacity-50',
+            effectClassName,
+          )}
+          fadeHeight="4rem"
+          aria-hidden="true"
+        >
+          {effectComponent}
+        </FadeMask>
+      ) : null}
+
+      {withBackgroundGlow ? (
+        <div className="hidden lg:flex justify-center w-full h-full absolute pointer-events-none">
+          <GlowBg
+            className={clsx(
+              'w-full lg:w-1/2 h-auto z-0 dark:opacity-50',
+              textPosition === 'center' ? 'top-5' : ' -top-1/3',
+            )}
+            variant={backgroundGlowVariant}
+          />
+        </div>
+      ) : null}
 
       <div
         className={clsx(
-          'w-full p-6 flex flex-col gap-8 relative',
+          'w-full p-6 flex flex-col gap-8 relative z-10',
           textPosition === 'center'
             ? 'container-narrow'
             : 'max-w-full container-wide',
@@ -445,7 +537,7 @@ export const LandingPrimaryTextCtaSection = ({
             textPosition === 'center' ? 'items-center' : 'items-start',
           )}
           childrenClassName={clsx(
-            textPosition === 'center' ? 'flex-col items-center' : '',
+            textPosition === 'center' ? 'items-center' : '',
           )}
           title={title}
           titleComponent={titleComponent}

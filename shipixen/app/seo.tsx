@@ -6,8 +6,10 @@ interface PageSEOProps {
   description?: string;
   image?: string;
   canonical?: string;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  [key: string]: any;
+  alternates?: {
+    canonical?: string;
+    types?: Record<string, string>;
+  };
 }
 
 export function genPageMetadata({
@@ -15,16 +17,10 @@ export function genPageMetadata({
   description,
   image,
   canonical,
-  metaTitle,
-  deal,
   ...rest
 }: PageSEOProps): Metadata {
-  const seoTitle = deal
-    ? `${title} | ${deal}`
-    : `${title} | ${siteConfig.title}`;
-
   return {
-    title: seoTitle,
+    title,
     description,
     openGraph: {
       title,

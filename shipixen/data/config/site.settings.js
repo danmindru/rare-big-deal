@@ -6,6 +6,7 @@ const siteConfig = {
 
   blogPath: '', // The location of all blog pages under 'data'. Empty string means 'data' (default). Best for SEO is to have articles under the root path.
   allArticlesPath: '/all-deals', // The name of the page where you can see a list of all articles (needs to match app/all-deals/page.tsx)
+  categoriesPath: '/categories/developer-tools',
 
   // Configure analytics
   disableAnalytics: false, // Disable all analytics on the site

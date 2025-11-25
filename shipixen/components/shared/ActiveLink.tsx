@@ -5,7 +5,7 @@ import Link from './Link';
 import React, { useState, useEffect, Children } from 'react';
 
 const ActiveLink = ({ children, activeClassName, ...props }) => {
-  const routePathname = usePathname();
+  const routePathname = usePathname() || '/';
 
   const child = Children.only(children);
   const childClassName = child.props.className || '';

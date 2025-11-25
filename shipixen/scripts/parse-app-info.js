@@ -1,235 +1,93 @@
-const fs = require('fs');
 const path = require('path');
-const axios = require('axios');
-const cheerio = require('cheerio');
-const { overrides } = require('../data/config/product-overrides');
+const { execSync } = require('child_process');
 const { generateMDXContent } = require('./generate-mdx-content');
 const { parseReadme } = require('./parse-readme');
-const { sanitizeName } = require('./sanitize-name');
-const { outputDir } = require('./settings');
-const sharp = require('sharp');
+const { fetchAssets } = require('./asset-fetcher');
 
-async function downloadImage(url, outputPath) {
-  try {
-    const response = await axios.get(url, {
-      responseType: 'arraybuffer',
-      headers: {
-        'User-Agent': 'Mozilla/5.0',
-      },
-      validateStatus: (status) => status < 400,
-    });
+// Generate pick index before processing apps
+const generateIndexScript = path.join(__dirname, 'generate-pick-index.js');
+execSync(`node ${generateIndexScript}`, { stdio: 'inherit' });
 
-    console.log(`HTTP status code for ${url}: ${response.status}`);
-
-    const contentType = response.headers['content-type'];
-    console.log(`Content-Type for ${url}: ${contentType}`);
-
-    if (contentType && contentType.startsWith('image/')) {
-      fs.writeFileSync(outputPath, response.data);
-      console.log(`Downloaded image from ${url} to ${outputPath}`);
-      return true;
-    } else {
-      console.error(
-        `Invalid image type from ${url}. Detected Content-Type: ${contentType}`,
-      );
-      return false;
-    }
-  } catch (error) {
-    console.error(`Failed to download image from ${url}:`, error.message);
-    return false;
-  }
-}
-
-async function fetchWebsiteData(website) {
-  let description = '';
-  let title = '';
-
-  try {
-    const response = await axios.get(website, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0',
-      },
-    });
-    const $ = cheerio.load(response.data);
-
-    let faviconUrl =
-      $('link[rel="icon"]').attr('href') ||
-      $('link[rel="shortcut icon"]').attr('href');
-    let ogImageUrl = $('meta[property="og:image"]').attr('content');
-
-    description = $('meta[name="description"]').attr('content');
-    title = $('title').text() || $('meta[property="og:title"]').attr('content');
-
-    // Log the extracted title
-    console.log(`Extracted title for ${website}:`, title);
-
-    // Ensure the URLs are absolute
-    if (faviconUrl && !faviconUrl.startsWith('http')) {
-      faviconUrl = new URL(faviconUrl, website).href;
-    }
-    if (ogImageUrl && !ogImageUrl.startsWith('http')) {
-      ogImageUrl = new URL(ogImageUrl, website).href;
-    }
-
-    // Try to find the highest resolution PNG favicon
-    const possibleFaviconUrls = [
-      $('link[rel="apple-touch-icon"]').attr('href'),
-      $('link[rel="icon"][type="image/png"]').attr('href'),
-      '/favicon-32x32.png',
-      '/favicon-16x16.png',
-      '/apple-touch-icon.png',
-      '/favicon.png',
-      // Get .ico too
-      $('link[rel="icon"]').attr('href'),
-      $('link[rel="shortcut icon"]').attr('href'),
-    ]
-      .filter(Boolean)
-      .map((url) => new URL(url, website).href);
-
-    let highestResFaviconUrl = null;
-    for (const url of possibleFaviconUrls) {
-      try {
-        const headResponse = await axios.head(url, {
-          headers: {
-            'User-Agent': 'Mozilla/5.0',
-          },
-          validateStatus: (status) => status < 400,
-        });
-
-        if (
-          headResponse.status === 200 &&
-          headResponse.headers['content-type'].startsWith('image/')
-        ) {
-          highestResFaviconUrl = url;
-          break;
-        }
-      } catch (error) {
-        console.warn(`Favicon URL not found: ${url}`);
-      }
-    }
-
-    return { ogImageUrl, highestResFaviconUrl, description, title };
-  } catch (error) {
-    console.error(`Failed to fetch website data:`, error.message);
-    return {
-      ogImageUrl: null,
-      highestResFaviconUrl: null,
-      description,
-      title,
-    };
-  }
-}
-
-async function fetchAssets(app) {
-  const { website, name } = app;
-  const productName = sanitizeName(name);
-  const appDir = path.join(outputDir, 'product', productName);
-  fs.mkdirSync(appDir, { recursive: true });
-
-  const override = overrides[productName];
-
-  if (override) {
-    console.log(`Applying overrides for ${productName}`);
-    if (override.logo) {
-      const logoPath = path.join(appDir, 'logo.png');
-      fs.copyFileSync(path.join(__dirname, '..', override.logo), logoPath);
-      app.logo = `/static/images/product/${productName}/logo.png`;
-      console.log(`Copied override logo for ${productName} ${app.logo}`);
-    }
-    if (override.ogImage) {
-      const ogImagePath = path.join(appDir, 'og-image.png');
-      fs.copyFileSync(
-        path.join(__dirname, '..', override.ogImage),
-        ogImagePath,
-      );
-      app.images = [`/static/images/product/${productName}/og-image.png`];
-      console.log(`Copied override ogImage for ${productName} ${app.images}`);
-    }
-    app.categories = override.categories || app.categories;
-    app.subcategories = override.subcategories || app.subcategories;
-  }
-
-  if (!override || !override.logo || !override.ogImage) {
-    try {
-      console.log(`Fetching website data for ${productName}`);
-      const { ogImageUrl, highestResFaviconUrl, description, title } =
-        await fetchWebsiteData(website);
-
-      // Log the fetched title
-      console.log(`Fetched title for ${productName}:`, title);
-
-      app.metaDescription = description;
-      app.metaTitle = title;
-
-      if (ogImageUrl && !override?.ogImage) {
-        const ogImagePath = path.join(appDir, 'og-image.png');
-        const isValidImage = await downloadImage(ogImageUrl, ogImagePath);
-        if (isValidImage) {
-          app.images = [`/static/images/product/${productName}/og-image.png`];
-        }
-      }
-
-      if (
-        highestResFaviconUrl &&
-        (highestResFaviconUrl.endsWith('.png') ||
-          highestResFaviconUrl.endsWith('.ico')) &&
-        !override?.logo
-      ) {
-        const logoPath = path.join(appDir, 'logo.png');
-        const isValidImage = await downloadImage(
-          highestResFaviconUrl,
-          logoPath,
-        );
-
-        if (isValidImage) {
-          if (highestResFaviconUrl.endsWith('.ico')) {
-            const icoPath = path.join(appDir, 'logo.png');
-            await fs.promises.rename(logoPath, icoPath); // Rename the downloaded file to .ico
-
-            await sharp(icoPath).png().toFile(logoPath); // Convert .ico to .png
-
-            await fs.promises.unlink(icoPath); // Remove the .ico file
-          }
-
-          app.logo = `/static/images/product/${productName}/logo.png`;
-        }
-      } else {
-        // Check if logo already exists in the directory
-        const existingLogoPath = path.join(appDir, 'logo.png');
-        if (fs.existsSync(existingLogoPath)) {
-          app.logo = `/static/images/product/${productName}/logo.png`;
-          console.log(`Using existing logo for ${productName}`);
-        }
-      }
-    } catch (error) {
-      console.error(`Failed to fetch assets for ${app.name}:`, error.message);
-
-      // Check if logo already exists in the directory
-      const existingLogoPath = path.join(appDir, 'logo.png');
-      if (fs.existsSync(existingLogoPath)) {
-        app.logo = `/static/images/product/${productName}/logo.png`;
-        console.log(`Using existing logo for ${productName}`);
-      }
-    }
-  }
-}
-
+/**
+ * Main function to process all apps from the README.
+ * Fetches assets and generates MDX content for each app.
+ */
 async function main() {
+  console.log('\n[Parse App Info] 🚀 Starting app processing...');
+  const mainStartTime = Date.now();
+
   const apps = await parseReadme();
 
-  const fetchPromises = apps.map(async (app) => {
+  console.log(`[Parse App Info] 📦 Processing ${apps.length} apps...\n`);
+
+  // Track timing data for each app
+  const timingData = [];
+
+  const fetchPromises = apps.map(async (app, index) => {
+    const startTime = Date.now();
+
+    console.log(`[Parse App Info] [${index + 1}/${apps.length}] 🔄 Processing: ${app.name}`);
+
     try {
       await fetchAssets(app);
       await generateMDXContent(app);
+
+      const elapsed = Date.now() - startTime;
+      console.log(`[Parse App Info] [${index + 1}/${apps.length}] ✅ Completed: ${app.name} (${elapsed}ms)`);
     } catch (error) {
       console.error(
-        `💥 Could not generate markdown for ${app.name}:`,
+        `[Parse App Info] [${index + 1}/${apps.length}] ❌ Failed to generate markdown for ${app.name}:`,
         error.message,
+      );
+    }
+
+    const duration = (Date.now() - startTime) / 1000;
+
+    // Store timing data for summary
+    timingData.push({
+      name: app.name,
+      duration: duration,
+      durationMs: Date.now() - startTime,
+    });
+
+    if (duration > 2) {
+      console.warn(
+        `[Parse App Info] ⚠️  Warning: Processing ${app.name} took ${duration.toFixed(2)} seconds`,
       );
     }
   });
 
-  await Promise.allSettled(fetchPromises);
+  const results = await Promise.allSettled(fetchPromises);
+
+  const succeeded = results.filter(r => r.status === 'fulfilled').length;
+  const failed = results.filter(r => r.status === 'rejected').length;
+  const totalElapsed = Date.now() - mainStartTime;
+
+  console.log(`\n[Parse App Info] ========================================`);
+  console.log(`[Parse App Info] 📊 Summary:`);
+  console.log(`[Parse App Info]   📄 Total apps: ${apps.length}`);
+  console.log(`[Parse App Info]   ✅ Succeeded: ${succeeded}`);
+  console.log(`[Parse App Info]   ❌ Failed: ${failed}`);
+  console.log(`[Parse App Info]   ⏱️  Total time: ${(totalElapsed / 1000).toFixed(2)}s`);
+  console.log(`[Parse App Info] ========================================\n`);
+
+  // Display top 5 slowest apps
+  const slowestApps = timingData
+    .sort((a, b) => b.duration - a.duration)
+    .slice(0, 5);
+
+  if (slowestApps.length > 0) {
+    console.log(`[Parse App Info] 🐌 Top 5 Slowest Apps to Parse:`);
+    console.log(`[Parse App Info] ========================================`);
+    slowestApps.forEach((app, index) => {
+      console.log(`[Parse App Info] ${index + 1}. ${app.name}`);
+      console.log(`[Parse App Info]    ⏱️  Duration: ${app.duration.toFixed(2)}s (${app.durationMs}ms)`);
+      if (index < slowestApps.length - 1) {
+        console.log(`[Parse App Info]    ────────────────────────────────────────`);
+      }
+    });
+    console.log(`[Parse App Info] ========================================\n`);
+  }
 }
 
 main();

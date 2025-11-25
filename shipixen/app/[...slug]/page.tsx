@@ -2,6 +2,7 @@ import 'css/prism.css';
 import 'katex/dist/katex.css';
 import Link from 'next/link';
 import { Metadata } from 'next';
+import clsx from 'clsx';
 
 import PageTitle from '@/components/shared/PageTitle';
 import { components } from '@/components/MDXComponents';
@@ -19,8 +20,14 @@ import PostSimple from '@/layouts/PostSimple';
 import PostLayout from '@/layouts/PostLayout';
 import PostBanner from '@/layouts/PostBanner';
 import ProductLayout from '@/layouts/ProductLayout';
+import { PostItem } from '@/components/blog/home/PostItem';
+import Image from '@/components/shared/Image';
+import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 
 import { siteConfig } from '@/data/config/site.settings';
+import { Separator } from '@/components/shared/ui/separator';
+
+const productOverrides = require('@/data/config/product-overrides.js');
 
 const BLOG_URL = siteConfig.blogPath ? `/${siteConfig.blogPath}` : '';
 
@@ -61,12 +68,18 @@ export async function generateMetadata({
     };
   });
 
+  const seoTitle = `${post.title} | Rare Deals, Black Friday, Cyber Monday, Lifetime Deals, and more.`;
+
+  const seoDescription = post.summary
+    ? `${post.summary}. ${post.title} Rare Deals, Discounts, and Coupons.`
+    : siteConfig.description;
+
   return {
-    title: post.title,
-    description: post.summary,
+    title: seoTitle,
+    description: seoDescription,
     openGraph: {
-      title: post.title,
-      description: post.summary,
+      title: seoTitle,
+      description: seoDescription,
       siteName: siteConfig.title,
       locale: 'en_US',
       type: 'article',
@@ -78,8 +91,8 @@ export async function generateMetadata({
     },
     twitter: {
       card: 'summary_large_image',
-      title: post.title,
-      description: post.summary,
+      title: seoTitle,
+      description: seoDescription,
       images: imageList,
     },
     ...(post.canonicalUrl
@@ -103,26 +116,144 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
   const sortedCoreContents = allCoreContent(sortPosts(allBlogs));
   const postIndex = sortedCoreContents.findIndex((p) => p.path === path);
   if (postIndex === -1) {
+    // Extract slug from path - handle both /products/slug and just slug
+    const slug = path.replace(/^products\//, '').split('/')[0];
+
+    // Look up product info from overrides
+    const productInfo = productOverrides.overrides[slug];
+    const productTitle =
+      productInfo?.metaTitle ||
+      slug
+        .split('-')
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+    const productDescription = productInfo?.metaDescription;
+    const logo = productInfo?.logo;
+    const fallbackImage = '/static/images/fallback.png';
+    const tintColor = hashStringToColor(productTitle);
+
+    // Get top 20 popular deals
+    const topDeals = allCoreContent(
+      allBlogs.filter(
+        (post) => post.leaderboardPosition && post.leaderboardPosition > 0,
+      ),
+    )
+      .sort((a, b) => {
+        if (a.leaderboardPosition && b.leaderboardPosition) {
+          return a.leaderboardPosition - b.leaderboardPosition;
+        }
+        return 0;
+      })
+      .slice(0, 20);
+
     return (
       <div className="w-full flex flex-col items-center fancy-overlay">
         <Header />
 
-        <div className="mt-24 text-center min-h-[40vh]">
+        <div className="mt-24 text-center max-w-3xl px-6">
           <PageTitle>
-            Under Construction{' '}
-            <span role="img" aria-label="roadwork sign">
-              🚧
+            <span role="img" aria-label="eyes searching" className="mr-2">
+              👀
             </span>
+            Where did you put this deal?!
           </PageTitle>
 
-          <p className="mt-4">
-            Oops, you've hit a page that doesn't seem to exist anymore.
-          </p>
+          {logo && (
+            <div className="flex justify-center mt-8 mb-6 group">
+              <div className="flex gap-4 w-auto bg-white/80 dark:bg-black/80 backdrop-blur-xl rounded-xl py-3 px-6 items-center relative z-10 shadow-md group-hover:-translate-y-1 transition-all duration-300 ease-in-out">
+                {logo ? (
+                  <Image
+                    aria-hidden="true"
+                    className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+                    src={logo}
+                    alt={productTitle}
+                    width={200}
+                    height={200}
+                  />
+                ) : (
+                  <div
+                    className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+                    style={{
+                      backgroundImage: `url(${fallbackImage})`,
+                      backgroundColor: tintColor,
+                    }}
+                  />
+                )}
 
-          <Button asChild className="mt-8">
-            <Link href="/">Back to Home</Link>
-          </Button>
+                <figure
+                  className={clsx(
+                    'w-10 h-10 md:w-12 md:h-12 flex-shrink-0 rounded-xl overflow-hidden bg-white/50 dark:bg-black/50',
+                  )}
+                >
+                  {logo ? (
+                    <Image
+                      src={logo}
+                      alt="Product Thumbnail"
+                      width={200}
+                      height={200}
+                      className="dark:bg-white/20"
+                    />
+                  ) : (
+                    <div
+                      className="w-full h-full"
+                      style={{
+                        backgroundImage: `url(${fallbackImage})`,
+                        backgroundColor: tintColor,
+                      }}
+                    />
+                  )}
+                </figure>
+                <h2 className="text-xl md:text-2xl font-light">
+                  {productTitle}
+                </h2>
+              </div>
+            </div>
+          )}
+
+          <div className="mt-8 space-y-4">
+            {productDescription && (
+              <p className="text-sm text-gray-600 dark:text-gray-400 max-w-2xl py-4 mx-auto">
+                {productDescription}
+              </p>
+            )}
+
+            <p className="text-xl text-gray-800 dark:text-gray-200">
+              The deal for <span className="font-semibold">{productTitle}</span>{' '}
+              is not available at the moment.
+            </p>
+
+            <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">
+              This deal might have expired or simply hiding in the shadows... 👻
+            </p>
+          </div>
         </div>
+
+        {topDeals.length > 0 && (
+          <>
+            <Separator className="my-12" />
+            <section className="max-w-2xl 2xl:max-w-6xl w-full p-6 mb-12">
+              <div className="text-center mb-8">
+                <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+                  Might we interest you in these deals instead?
+                </h2>
+
+                <p className="text-sm text-gray-600 dark:text-gray-400 mt-2">
+                  Don't miss out on these amazing deals while you're here!
+                </p>
+              </div>
+
+              <div className="flex flex-col w-full items-center justify-between">
+                <div className="flex flex-col gap-4 w-full">
+                  <ul className={'grid gap-4'}>
+                    {topDeals.map((post) => (
+                      <PostItem key={post.slug} post={post} showImage={true} />
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </section>
+          </>
+        )}
       </div>
     );
   }
@@ -136,13 +267,83 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
     return coreContent(authorResults as Authors);
   });
   const mainContent = coreContent(post);
-  const jsonLd = post.structuredData;
-  jsonLd['author'] = authorDetails.map((author) => {
-    return {
-      '@type': 'Person',
-      name: author.name,
+
+  // Generate appropriate JSON-LD based on layout type
+  let jsonLd: Record<string, unknown>;
+
+  if (post.layout === 'ProductLayout') {
+    // Generate Product schema for ProductLayout
+    const productUrl = siteConfig.siteUrl + '/' + post.path;
+    const imageUrl = post.images?.[0]
+      ? post.images[0].includes('http')
+        ? post.images[0]
+        : siteConfig.siteUrl + post.images[0]
+      : siteConfig.siteUrl + siteConfig.socialBanner;
+
+    // Type-safe access to product-specific fields
+    const productPost = post as Blog & {
+      metaDescription?: string;
+      logo?: string;
+      website?: string;
+      deal?: string;
+      expiresOnDate?: string;
     };
-  });
+
+    jsonLd = {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: post.title.trim(),
+      description: (
+        productPost.metaDescription ||
+        post.summary ||
+        post.title
+      ).trim(),
+      image: imageUrl,
+      url: productUrl,
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5',
+        bestRating: '5',
+        ratingCount: '1',
+      },
+      ...(post.categories &&
+        post.categories.length > 0 && {
+          category: post.categories.join(', '),
+        }),
+      ...(productPost.logo && {
+        brand: {
+          '@type': 'Brand',
+          name: post.title.trim(),
+          logo: productPost.logo.includes('http')
+            ? productPost.logo.trim()
+            : siteConfig.siteUrl + productPost.logo.trim(),
+        },
+      }),
+      ...(productPost.website && {
+        offers: {
+          '@type': 'Offer',
+          url: productPost.website.trim(),
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          ...(productPost.deal && {
+            description: productPost.deal.trim(),
+          }),
+          ...(productPost.expiresOnDate && {
+            priceValidUntil: new Date(productPost.expiresOnDate).toISOString(),
+          }),
+        },
+      }),
+    };
+  } else {
+    // Use default Article schema for other layouts
+    jsonLd = post.structuredData;
+    jsonLd['author'] = authorDetails.map((author) => {
+      return {
+        '@type': 'Person',
+        name: author.name,
+      };
+    });
+  }
 
   const Layout = layouts[post.layout || defaultLayout];
 

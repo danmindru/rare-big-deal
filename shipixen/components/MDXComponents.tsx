@@ -4,6 +4,7 @@ import BlogNewsletterForm from '@shipixen/pliny/ui/BlogNewsletterForm';
 import type { MDXComponents } from 'mdx/types';
 import Image from './shared/Image';
 import CustomLink from './shared/Link';
+import ExpirationDate from './shared/ExpirationDate';
 
 export const components: MDXComponents = {
   Image,
@@ -11,4 +12,5 @@ export const components: MDXComponents = {
   a: CustomLink,
   pre: Pre,
   BlogNewsletterForm,
+  ExpirationDate,
 };

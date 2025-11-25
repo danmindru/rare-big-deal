@@ -1,5 +1,6 @@
 'use client';
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { slug } from 'github-slugger';
 import { usePathname } from 'next/navigation';
 import Link from '@/components/shared/Link';
 import { siteConfig } from '@/data/config/site.settings';
@@ -12,6 +13,18 @@ import {
 import { allBlogs, Blog } from 'shipixen-contentlayer/generated';
 import { PostItem } from '@/components/blog/home/PostItem';
 import CopyToClipboardButton from '@/components/shared/CopyToClipboardButton';
+import { Showcase } from '@/components/showcase/Showcase';
+import shipApps from '@/data/picks/ship-apps';
+import nicheApps from '@/data/picks/niche-apps';
+import marketingApps from '@/data/picks/marketing-apps';
+import developerTools from '@/data/picks/developer-tools';
+import aiApps from '@/data/picks/ai-apps';
+import macApps from '@/data/picks/mac-apps';
+import iosApps from '@/data/picks/ios-apps';
+import theJohnApps from '@/data/picks/the-john-apps';
+import boilerplates from '@/data/picks/boilerplates';
+import { Button } from '@/components/shared/ui/button';
+import { cn } from '@/lib/utils';
 
 const MAX_DISPLAY = 1000;
 
@@ -89,7 +102,20 @@ export default function HomeList({
     return categoryMap;
   }, [posts]);
 
-  const sortedCategories = Object.keys(categories).sort();
+  const sortedCategories = useMemo(() => {
+    const priorityCategories = [
+      'AI Tools',
+      'Developer Tools',
+      'iOS Apps',
+      'MacOS Apps',
+      'Boilerplates, Starters & Libraries',
+      'Marketing',
+    ];
+    const otherCategories = Object.keys(categories)
+      .filter((category) => !priorityCategories.includes(category))
+      .sort();
+    return [...priorityCategories, ...otherCategories];
+  }, [categories]);
 
   const toggleSubcategory = (category: string, subcategory: string) => {
     setSelectedSubcategories((prevSelected) => {
@@ -178,6 +204,8 @@ export default function HomeList({
             handleSubcategoryFilter={toggleSubcategory}
             numberOfPosts={numberOfPosts}
             showImage={showImage}
+            showCaseClass="mt-4"
+            hideCarousels={[]}
           />
         ))}
 
@@ -215,7 +243,10 @@ export function CategorySection({
   numberOfPosts,
   showImage,
   overrideClassName,
+  categoryClassName,
   showTitle = true,
+  showCaseClass = '',
+  hideCarousels = [],
 }: {
   category: string;
   posts: CoreContent<Blog>[];
@@ -224,11 +255,15 @@ export function CategorySection({
   numberOfPosts: number;
   showImage: boolean;
   overrideClassName?: string;
+  categoryClassName?: string;
   showTitle?: boolean;
+  showCaseClass?: string;
+  hideCarousels?: string[];
 }) {
   const [textToCopy, setTextToCopy] = useState<string>(category);
 
-  const sortedPosts = posts.sort((a, b) => a.title.localeCompare(b.title));
+  const sortedPosts =
+    posts?.sort((a, b) => a.title.localeCompare(b.title)) || [];
 
   useEffect(() => {
     setTextToCopy(
@@ -237,41 +272,105 @@ export function CategorySection({
   }, [category]);
 
   return (
-    <div className="mb-8" id={category}>
-      {showTitle ? (
-        <div className="flex items-center mb-4 relative">
-          <CopyToClipboardButton
-            textToCopy={textToCopy}
-            label={category}
-            ariaLabel={`Set category to ${category}`}
-          />
-        </div>
+    <>
+      {slug(category) === slug('Boilerplates, Starters & Libraries') &&
+      !hideCarousels.includes('Boilerplates, Starters & Libraries') ? (
+        <Showcase className={showCaseClass} bundle={boilerplates} />
       ) : null}
 
-      <SubcategoryFilter
-        category={category}
-        posts={sortedPosts}
-        selectedSubcategories={selectedSubcategories}
-        handleSubcategoryFilter={handleSubcategoryFilter}
-      />
+      {slug(category) === slug('Learning') &&
+      !hideCarousels.includes('Learning') ? (
+        <Showcase className={showCaseClass} bundle={nicheApps} />
+      ) : null}
 
-      <ul className={overrideClassName || 'grid 2xl:grid-cols-2 gap-4'}>
-        {sortedPosts
-          .filter((post) => {
-            return (
-              !selectedSubcategories.length ||
-              (post.subcategories &&
-                post.subcategories.some((subcategory) =>
-                  selectedSubcategories.includes(subcategory),
-                ))
-            );
-          })
-          .slice(0, numberOfPosts)
-          .map((post) => (
-            <PostItem key={post.slug} post={post} showImage={showImage} />
-          ))}
-      </ul>
-    </div>
+      {slug(category) === slug('Marketing') &&
+      !hideCarousels.includes('Marketing') ? (
+        <Showcase className={showCaseClass} bundle={marketingApps} />
+      ) : null}
+
+      {slug(category) === slug('Developer Tools') &&
+      !hideCarousels.includes('Developer Tools') ? (
+        <Showcase className={showCaseClass} bundle={developerTools} />
+      ) : null}
+
+      {slug(category) === slug('AI Tools') &&
+      !hideCarousels.includes('AI Tools') ? (
+        <Showcase bundle={aiApps} />
+      ) : null}
+
+      {slug(category) === slug('MacOS Apps') &&
+      !hideCarousels.includes('MacOS Apps') ? (
+        <Showcase bundle={macApps} />
+      ) : null}
+
+      {slug(category) === slug('iOS Apps') &&
+      !hideCarousels.includes('iOS Apps') ? (
+        <Showcase bundle={iosApps} />
+      ) : null}
+
+      {slug(category) === slug('John Rush Extravaganza') &&
+      !hideCarousels.includes('John Rush Extravaganza') ? (
+        <Showcase bundle={theJohnApps} />
+      ) : null}
+
+      <div className={cn('mb-8', categoryClassName)} id={category}>
+        {showTitle ? (
+          <div className="flex items-center mb-4 relative">
+            <CopyToClipboardButton
+              textToCopy={textToCopy}
+              label={category}
+              ariaLabel={`Set category to ${category}`}
+            />
+          </div>
+        ) : null}
+
+        <SubcategoryFilter
+          category={category}
+          posts={sortedPosts}
+          selectedSubcategories={selectedSubcategories}
+          handleSubcategoryFilter={handleSubcategoryFilter}
+        />
+
+        <ul className={overrideClassName || 'grid 2xl:grid-cols-2 gap-4'}>
+          {sortedPosts
+            .filter((post) => {
+              return (
+                !selectedSubcategories.length ||
+                (post.subcategories &&
+                  post.subcategories.some((subcategory) =>
+                    selectedSubcategories.includes(subcategory),
+                  ))
+              );
+            })
+            .slice(0, numberOfPosts)
+            .map((post) => (
+              <PostItem key={post.slug} post={post} showImage={showImage} />
+            ))}
+
+          {sortedPosts.length === 0 && (
+            <div className="flex flex-col gap-2">
+              <p className="text-sm text-gray-500">
+                No deals in this category yet 🫣.
+                <br />
+                Be the first to submit one!
+              </p>
+
+              <div>
+                <Button size={'sm'} variant={'outlinePrimary'} asChild>
+                  <a
+                    href="https://github.com/danmindru/rare-big-deal/issues/130"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Submit a deal
+                  </a>
+                </Button>
+              </div>
+            </div>
+          )}
+        </ul>
+      </div>
+    </>
   );
 }
 

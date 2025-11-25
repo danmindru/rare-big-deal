@@ -115,6 +115,7 @@ module.exports = {
       }),
       screens: {
         '2xl': '1400px',
+        '3xl': '1600px',
         'tall-sm': { raw: '(min-height: 640px)' },
         'tall-md': { raw: '(min-height: 768px)' },
         'tall-lg': { raw: '(min-height: 1024px)' },

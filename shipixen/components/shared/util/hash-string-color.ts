@@ -3,6 +3,7 @@ export function hashStringToColor(str: string): string {
   for (let i = 0; i < str.length; i++) {
     hash = str.charCodeAt(i) + ((hash << 5) - hash);
   }
-  const color = `hsl(${hash % 360}, 50%, 70%)`;
+  const hue = ((hash % 360) + 360) % 360;
+  const color = `hsl(${hue}, 50%, 70%)`;
   return color;
 }

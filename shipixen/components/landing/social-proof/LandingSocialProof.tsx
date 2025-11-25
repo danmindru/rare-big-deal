@@ -80,7 +80,7 @@ export const LandingSocialProof = ({
               size === 'large' ? 'text-base' : '',
             )}
           >
-            from {numberText}+ {suffixText}
+            trusted by {numberText}+ {suffixText}
           </p>
         ) : (
           children

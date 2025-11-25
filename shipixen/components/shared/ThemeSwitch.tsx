@@ -23,30 +23,30 @@ const ThemeSwitch = () => {
   };
 
   if (!mounted) {
-    return <div className="w-6 h-6"></div>;
+    return <div className="w-4 h-4 md:w-6 md:h-6"></div>;
   }
 
   return (
     <button
       aria-label="Toggle Dark Mode"
       onClick={updateTheme}
-      className="relative w-6 h-6"
+      className="relative w-4 h-4 md:w-6 md:h-6"
     >
       {currentTheme === 'dark' ? (
         <motion.div
           {...animation}
           key="dark"
-          className="absolute left-0 top-0 w-6 h-6"
+          className="absolute left-0 top-0 w-4 h-4 md:w-6 md:h-6"
         >
-          <MoonIcon />
+          <MoonIcon className="w-4 h-4 md:w-6 md:h-6" />
         </motion.div>
       ) : (
         <motion.div
           {...animation}
           key="light"
-          className="absolute left-0 top-0 w-6 h-6"
+          className="absolute left-0 top-0 w-4 h-4 md:w-6 md:h-6"
         >
-          <SunIcon />
+          <SunIcon className="w-4 h-4 md:w-6 md:h-6" />
         </motion.div>
       )}
     </button>

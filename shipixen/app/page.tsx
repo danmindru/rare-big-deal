@@ -1,369 +1,228 @@
 import Header from '@/components/shared/Header';
 import { LandingPrimaryTextCtaSection } from '@/components/landing/cta/LandingPrimaryCta';
-import { LandingProductHuntAward } from '@/components/landing/social-proof/LandingProductHuntAward';
 import { LandingSocialProof } from '@/components/landing/social-proof/LandingSocialProof';
-import { LandingDiscount } from '@/components/landing/discount/LandingDiscount';
-import LatestArticles from '@/components/blog/LatestArticles';
-import { LandingProductFeature } from '@/components/landing/LandingProductFeature';
-import { LandingProductFeatureKeyPoints } from '@/components/landing/LandingProductFeatureKeyPoints';
-import { LandingSaleCtaSection } from '@/components/landing/cta/LandingSaleCta';
 import { LandingTestimonialGrid } from '@/components/landing/testimonial/LandingTestimonialGrid';
 import { LandingBandSection } from '@/components/landing/LandingBand';
 import { LandingTestimonialReadMoreWrapper } from '@/components/landing/testimonial/LandingTestimonialReadMoreWrapper';
-import { LandingFeatureList } from '@/components/landing/feature/LandingFeatureList';
 import { LandingFaqCollapsibleSection } from '@/components/landing/LandingFaqCollapsible';
-import { LandingSocialProofBand } from '@/components/landing/social-proof/LandingSocialProofBand';
-import { LandingSocialProofBandItem } from '@/components/landing/social-proof/LandingSocialProofBandItem';
-
-import {
-  ChromeIcon,
-  FigmaIcon,
-  FramerIcon,
-  GithubIcon,
-  LayersIcon,
-  LightbulbIcon,
-  LineChartIcon,
-  SparklesIcon,
-  ThumbsUpIcon,
-  ZapIcon,
-} from 'lucide-react';
 import { Button } from '@/components/shared/ui/button';
 import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
 import { metadata } from '@/data/config/metadata';
+// import { BundleShowcase } from '@/components/showcase/BundleShowcase';
+import Link from 'next/link';
+import { LandingWavesCtaBg } from '@/components/landing/cta-backgrounds/LandingWavesCtaBg';
 
-export default function Home() {
-  const users = (stats.stars || 0) + (stats.forks || 0);
+const avatars = [
+  {
+    imageSrc: '/static/images/people/13.png',
+    name: 'Daniel Nguyen',
+  },
+  {
+    imageSrc: '/static/images/people/1.png',
+    name: 'Matthias',
+  },
+  {
+    imageSrc: '/static/images/people/2.jpeg',
+    name: 'Tropiano',
+  },
+  {
+    imageSrc: '/static/images/people/4.jpeg',
+    name: 'Catalin',
+  },
+  {
+    imageSrc: '/static/images/people/14.png',
+    name: 'Fekri',
+  },
+  {
+    imageSrc: '/static/images/people/15.jpeg',
+    name: 'Serg',
+  },
+];
+
+export default async function Home() {
+  const users = stats.contributors || 0;
+
   return (
-    <div className="flex flex-col w-full items-center fancy-overlay">
-      {/* <LandingSocialProofBand invert={false} className="hidden md:flex">
-        <LandingSocialProofBandItem>
-          Fast, reliable, and secure
-        </LandingSocialProofBandItem>
-
-        <LandingSocialProofBandItem>
-          Easy to use, easy to love
-        </LandingSocialProofBandItem>
-
-        <LandingSocialProofBandItem graphic="rating">
-          99% customer satisfaction
-        </LandingSocialProofBandItem>
-      </LandingSocialProofBand> */}
-
+    <div className="flex flex-col w-full items-center">
       <Header className="mb-0 lg:mb-0" />
-
       <LandingPrimaryTextCtaSection
         title="Rare Deals and Discounts"
         descriptionComponent={
-          <p className="max-w-2xl">
-            Save big on limited time deals on selected SaaS, software, apps &
-            services. Discounts for Black Friday, Cyber Monday & beyond.
+          <p className="text-sm md:text-base max-w-3xl">
+            Limited time deals on the best <strong>iOS Apps</strong>,{' '}
+            <strong>Mac Apps</strong>, <strong>SaaS</strong>,{' '}
+            <strong>AI</strong> and <strong>Web Apps</strong>. <br />
+            Save big with discounts for Black Friday, Cyber Monday & more!
           </p>
         }
         textPosition="center"
-        withBackground
-        className="relative"
-        // leadingComponent={<LandingProductHuntAward />}
+        className="relative bg-gradient-to-b from-gray-200/60 to-transparent dark:from-gray-900 dark:to-transparent !pb-6"
+        effectComponent={<LandingWavesCtaBg />}
       >
-        {/* <LandingDiscount
-          discountValueText="30% off"
-          discountDescriptionText="for the first 10 customers (2 left)"
-        /> */}
+        <div className="flex flex-col items-center justify-center">
+          <div className="flex flex-wrap justify-center gap-2">
+            <Button
+              size="xl"
+              variant="primary"
+              asChild
+              className="backdrop-blur-[2px] bg-primary-600/30 dark:bg-primary-500/30"
+            >
+              <Link href="/handpicked-deals">All Deals</Link>
+            </Button>
 
-        <div className="flex gap-2">
-          <Button size="xl" variant="primary" asChild>
-            <a href="https://github.com/danmindru/rare-big-deal/pulls">
-              Submit
+            <Button
+              size="xl"
+              className="backdrop-blur-[2px] bg-white/30 dark:bg-black/40 border-2 border-gray-500/10"
+            >
+              <Link href="/categories/developer-tools">All Categories</Link>
+            </Button>
+          </div>
+
+          <div className="flex items-center">
+            <a
+              href="https://github.com/danmindru/rare-big-deal/graphs/contributors"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <LandingSocialProof
+                className="w-full mt-12"
+                showRating
+                numberOfUsers={users}
+                suffixText="makers"
+                avatarItems={avatars}
+              />
             </a>
-          </Button>
-
-          <Button size="xl" variant="outlinePrimary">
-            <a href="/categories/productivity">All Categories</a>
-          </Button>
+          </div>
         </div>
+      </LandingPrimaryTextCtaSection>
 
-        <div className="flex items-center">
+      {/* <BundleShowcase className="mt-8" /> */}
+
+      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-2 p-6">
+        <HomeList />
+      </section>
+
+      <LandingBandSection
+        title="Stars! Stars everywhere!"
+        descriptionComponent={
+          <div className="flex flex-col">
+            <p className="text-lg mt-4">
+              People love Rare Big Deal! <br />
+              There's no better place to post & find a deal.
+            </p>
+
+            <a
+              href="https://github.com/danmindru/rare-big-deal"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                alt="GitHub Repo stars"
+                src="https://img.shields.io/github/stars/danmindru/rare-big-deal"
+                className="mt-4 h-6 w-auto"
+              />
+            </a>
+          </div>
+        }
+        supportingComponent={
           <LandingSocialProof
             className="w-full mt-12"
             showRating
             numberOfUsers={users}
-            suffixText="deal hunters"
-            avatarItems={[
-              {
-                imageSrc: 'https://picsum.photos/id/64/100/100',
-                name: 'John Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/65/100/100',
-                name: 'Jane Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/669/100/100',
-                name: 'Alice Doe',
-              },
-            ]}
-          />
-        </div>
-      </LandingPrimaryTextCtaSection>
-
-      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
-        <HomeList />
-      </section>
-
-      {/* <LandingProductFeature
-        title="Limited Time Offers"
-        descriptionComponent={
-          <>
-            <LandingProductFeatureKeyPoints
-              keyPoints={[
-                {
-                  title: 'Intuitive Interface',
-                  description:
-                    'Design and customize your app easily with our simple drag-and-drop interface.',
-                },
-                {
-                  title: 'Seamless Integration',
-                  description:
-                    'Connect your app with other tools effortlessly for a smoother workflow.',
-                },
-                {
-                  title: 'Smart Analytics',
-                  description:
-                    'Gain valuable insights into user behavior and trends with our advanced analytics tools.',
-                },
-              ]}
-            />
-
-            <p className="text-sm">
-              7 day free trial, no credit card required.
-            </p>
-          </>
-        }
-        imageSrc="/static/images/backdrop-19.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="left"
-        imagePerspective="none"
-      />
-
-      <LandingProductFeature
-        title="Diverse Selection"
-        descriptionComponent={
-          <>
-            <p>
-              Browse a vast range of carefully selected software, apps, and SaaS
-              solutions that cater to various needs, ensuring you find exactly
-              what fits your requirements.
-            </p>
-
-            <LandingProductFeatureKeyPoints
-              keyPoints={[
-                {
-                  title: 'Rock-Solid Security',
-                  description:
-                    'Rest assured, your data is safe with our top-notch security measures.',
-                },
-                {
-                  title: 'Automatic Updates',
-                  description:
-                    'Never miss out on the latest features - our app updates itself automatically!',
-                },
-                {
-                  title: 'Scalability on Demand',
-                  description:
-                    'Grow your app along with your business needs, effortlessly expanding to meet demand.',
-                },
-              ]}
-            />
-
-            <p className="text-sm">Get started with our free tier.</p>
-          </>
-        }
-        imageSrc="/static/images/backdrop-20.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="right"
-        imagePerspective="none"
-        withBackground
-        withBackgroundGlow
-        variant="secondary"
-        backgroundGlowVariant="secondary"
-      />
-
-      <LandingProductFeature
-        title="User-Friendly Experience"
-        descriptionComponent={
-          <>
-            <p>
-              Our platform features a seamless interface that allows easy
-              navigation and quick access to all available deals, making your
-              shopping experience smooth and enjoyable.
-            </p>
-
-            <p className="text-sm">First month is on us.</p>
-          </>
-        }
-        imageSrc="/static/images/backdrop-5.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="left"
-        imagePerspective="none"
-        variant="secondary"
-      /> */}
-
-      <LandingBandSection
-        title="Stars! Stars everywhere!"
-        description="Our users love us! There's no place as beautiful to post a deal."
-        supportingComponent={
-          <LandingSocialProof
-            showRating
-            numberOfUsers={users}
-            avatarItems={[
-              {
-                imageSrc: 'https://picsum.photos/id/64/100/100',
-                name: 'John Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/65/100/100',
-                name: 'Jane Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/669/100/100',
-                name: 'Alice Doe',
-              },
-            ]}
+            suffixText="makers"
+            avatarItems={avatars}
           />
         }
       />
-
-      {/* <LandingProductFeature
-        title="Rare Savings"
-        descriptionComponent={
-          <>
-            Discover exclusive discounts on software, apps, and services you
-            need.
-          </>
-        }
-        withBackground
-        variant="secondary"
-        imageSrc="/static/images/product-sample.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="center"
-        textPosition="center"
-      />
-
-      <LandingSaleCtaSection
-        title="Act Now and Save"
-        description="Limited time only! Take advantage of our extraordinary discounts available for Black Friday and well beyond. Visit rarebigdeal.com to secure your software savings today!"
-        ctaHref={'#'}
-        ctaLabel={'Pre-order now'}
-        withBackgroundGlow
-      /> */}
 
       <LandingTestimonialReadMoreWrapper size="md">
         <LandingTestimonialGrid
-          title="Hear It from Our Users (Coming soon)"
-          description="Discover what our happy customers have to say about their experience with our AI app:"
+          title="Hear It from Our Users"
+          description="Discover what our happy customers have to say about their experience with Rare Big Deal:"
           testimonialItems={[
-            {
-              name: 'John Smith',
-              text: 'Unbelievable Black Friday deals! I saved so much on top-quality products. Highly recommend checking it out!',
-              handle: '@john_smith',
-              imageSrc: 'https://picsum.photos/id/64/100/100',
+             {
+              name: 'Matthias Neumayer',
+              text: 'Love this!',
+              handle: '@matthiasneumayer',
+              imageSrc: '/static/images/people/32.jpg',
+              url: 'https://www.linkedin.com/feed/update/urn:li:activity:7393563664001421312?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7393563664001421312%2C7393564140943925249%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287393564140943925249%2Curn%3Ali%3Aactivity%3A7393563664001421312%29',
+             },
+
+             {
+              name: 'Nikki S',
+              text: 'Very cool – great idea! 💡',
+              handle: '@nikkis',
+              imageSrc: '/static/images/people/31.jpg',
+              url: 'https://www.linkedin.com/feed/update/urn:li:activity:7393563664001421312?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7393563664001421312%2C7393569656852336640%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287393569656852336640%2Curn%3Ali%3Aactivity%3A7393563664001421312%29',
             },
+
             {
-              name: 'Emily Johnson',
-              text: "The best deals I've ever seen! Managed to get everything on my wishlist at a fraction of the price.",
-              handle: '@emily_johnson',
-              imageSrc: 'https://picsum.photos/id/65/100/100',
+              name: 'Wooyeong Kim',
+              text: 'Very cool! Immediately submitted :)',
+              handle: '@wooing0306',
+              imageSrc: '/static/images/people/30.jpg',
+              url: 'https://x.com/wooing0306/status/1986758537893347580',
             },
+
             {
-              name: 'David Rodriguez',
-              text: 'Incredible savings! The analytics tools helped me find the best deals quickly. Highly impressive!',
-              handle: '@david_rodriguez',
-              imageSrc: 'https://picsum.photos/id/669/100/100',
-              featured: true,
+              name: 'Csaba Kissi',
+              text: 'Nice work!',
+              handle: '@csaba.bsky.social',
+              imageSrc: '/static/images/people/22.jpg',
+              url: 'https://bsky.app/profile/csaba.bsky.social/post/3lbfwvsk4us2c',
             },
+
             {
-              name: 'Mandy',
-              text: 'Amazing Black Friday deals!',
-              handle: '@mandy',
-              imageSrc: 'https://picsum.photos/id/829/100/100',
+              name: 'Isaac',
+              text: '[...] the site is awesome [...]',
+              handle: '@IMadeAGlitch',
+              imageSrc: '/static/images/people/21.jpg',
+              url: 'https://x.com/IMadeAGlitch/status/1858975664025817236',
             },
+
             {
-              name: 'Alex',
-              text: 'Found the best deals here! Highly recommend!',
-              handle: '@alex',
-              imageSrc: 'https://picsum.photos/100/100.webp?random=2',
+              name: 'AP',
+              text: 'Great work 💪',
+              handle: '@anhphong_dev',
+              imageSrc: '/static/images/people/18.jpg',
+              url: 'https://x.com/anhphong_dev/status/1859277954091712711',
             },
             {
               name: 'Sam',
-              text: 'Extremely satisfied with the Black Friday savings.',
-              handle: '@sam',
-              imageSrc: 'https://picsum.photos/100/100.webp?random=3',
+              text: 'Thats a great list of discounts. Super helpful.',
+              handle: '@sambruce23',
+              imageSrc: '/static/images/people/19.webp',
+              url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxu9y37/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
+              featured: true,
+            },
+            {
+              name: 'Adam R.',
+              text: 'Oh great idea [...]',
+              handle: '@adam_riha',
+              imageSrc: '/static/images/people/3.jpeg',
+              url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxttiqv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
+            },
+
+            {
+              name: 'Martin B.',
+              text: 'Very nice idea to pull the metadata from the websites and create standalone pages instead of just a table!',
+              handle: '@martin_buur',
+              imageSrc: '/static/images/people/20.png',
+              url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxw0vk5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
+            },
+
+            {
+              name: 'CranQ',
+              text: 'A person of the people!',
+              handle: '@CranQnow',
+              imageSrc: '/static/images/people/17.jpg',
+              url: 'https://x.com/CranQnow/status/1859549466879025423',
             },
           ]}
           withBackgroundGlow
         />
       </LandingTestimonialReadMoreWrapper>
-
-      {/* <LandingFeatureList
-        title="Awesome Features Await!"
-        description="Explore the fantastic features of our AI app:"
-        featureItems={[
-          {
-            title: 'Intuitive Interface',
-            description:
-              'Design and customize your app easily with our simple drag-and-drop interface.',
-            icon: <LayersIcon />,
-          },
-          {
-            title: 'Seamless Integration',
-            description:
-              'Connect your app with other tools effortlessly for a smoother workflow.',
-            icon: <LineChartIcon />,
-          },
-          {
-            title: 'Smart Analytics',
-            description:
-              'Gain valuable insights into user behavior and trends with our advanced analytics tools.',
-            icon: <SparklesIcon />,
-          },
-          {
-            title: 'Rock-Solid Security',
-            description:
-              'Rest assured, your data is safe with our top-notch security measures.',
-            icon: <LightbulbIcon />,
-          },
-          {
-            title: 'Automatic Updates',
-            description:
-              'Never miss out on the latest features - our app updates itself automatically!',
-            icon: <ZapIcon />,
-          },
-          {
-            title: 'Scalability on Demand',
-            description:
-              'Grow your app along with your business needs, effortlessly expanding to meet demand.',
-            icon: <ThumbsUpIcon />,
-          },
-          {
-            title: 'Intelligent Assistance',
-            description:
-              'Receive personalized recommendations and insights tailored to your workflow, helping you make informed decisions and work more efficiently.',
-            icon: <ChromeIcon />,
-          },
-          {
-            title: 'Seamless Collaboration',
-            description:
-              'Easily collaborate with team members and clients in real-time, fostering productivity and enhancing communication across projects.',
-            icon: <FigmaIcon />,
-          },
-          {
-            title: 'Advanced Customization',
-            description:
-              'Tailor your app to fit your unique requirements with extensive customization options, ensuring it aligns perfectly with your business objectives.',
-            icon: <FramerIcon />,
-          },
-        ]}
-      /> */}
 
       <LandingFaqCollapsibleSection
         title="Got Questions? We've Got Answers!"

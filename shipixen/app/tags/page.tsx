@@ -16,7 +16,7 @@ export default async function Page() {
   const sortedTags = tagKeys.sort((a, b) => tagCounts[b] - tagCounts[a]);
   return (
     <div className="flex flex-col w-full items-center justify-between fancy-overlay">
-      <Header />
+      <Header containerClassName="!bg-transparent dark:!bg-transparent" />
 
       <div className="w-full flex flex-col items-center mb-12">
         <section className="w-full p-6 container-narrow">

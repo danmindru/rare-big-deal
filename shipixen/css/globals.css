@@ -2,6 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .ribbon-base {
+    @apply absolute top-1 -right-6 px-8 py-0.5 text-xs font-semibold shadow-sm rotate-45;
+    @apply flex items-center justify-center;
+  }
+
+  .ribbon-gold {
+    @apply ribbon-base bg-gradient-to-r from-yellow-300 to-yellow-500 text-black
+    dark:bg-gradient-to-r dark:from-yellow-500 dark:to-yellow-700 dark:text-white;
+  }
+
+  .ribbon-silver {
+    @apply ribbon-base bg-gradient-to-r from-gray-300 to-gray-400 text-black dark:bg-gradient-to-r dark:from-gray-400 dark:to-gray-600 dark:text-white;
+  }
+
+  .ribbon-bronze {
+    @apply ribbon-base bg-gradient-to-r from-orange-300 to-orange-600 text-white dark:bg-gradient-to-r dark:from-orange-600 dark:to-orange-800 dark:text-white;
+  }
+
+  .ribbon-default {
+    @apply ribbon-base bg-gradient-to-r from-primary-500 to-primary-600 text-white dark:bg-gradient-to-r dark:from-primary-800 dark:to-purple-950 dark:text-white;
+  }
+}
+
 @layer base {
   :root {
     --hard-shadow: 0px 29px 52px 0px rgba(0, 0, 0, 0.4),
@@ -115,11 +139,11 @@
   }
 
   .nav-link-active {
-    @apply opacity-80 py-2 rounded text-secondary-500 dark:text-slate-400;
+    @apply opacity-80 py-2 rounded text-primary-500 dark:text-slate-400;
   }
 
   .nav-link {
-    @apply opacity-100 text-slate-900 dark:text-slate-200 hover:text-secondary-700 dark:hover:text-secondary-100 transition-all;
+    @apply text-xs md:text-sm lg:text-base opacity-100 text-slate-900 dark:text-slate-200 hover:text-secondary-700 dark:hover:text-secondary-100 transition-all;
   }
 
   /**
@@ -249,7 +273,7 @@
   }
 
   /**
-   * Fancy Text
+   * Text
    */
   .fancy-text-black {
     @apply bg-clip-text bg-gradient-to-r text-transparent from-black to-neutral-500;
@@ -268,7 +292,31 @@
   }
 
   .fancy-text-purple {
-    @apply bg-clip-text bg-gradient-to-r text-transparent from-purple-500 to-fuchsia-800 dark:from-purple-400 dark:to-fuchsia-600;
+    @apply bg-clip-text bg-gradient-to-r text-transparent from-purple-500 to-fuchsia-800;
+  }
+
+  @keyframes fancyTextAnimation {
+    0% {
+      background-position: 100% 50%;
+    }
+    50% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+
+  .animated-fancy-text {
+    @apply bg-clip-text bg-gradient-to-r text-transparent from-pink-500 via-amber-500 to-sky-600;
+    background-size: 300% 100%;
+    animation: fancyTextAnimation 7s ease infinite;
+  }
+
+  .animated-fancy-text:hover {
+    @apply bg-clip-text bg-gradient-to-r text-transparent from-amber-500 to-fuchsia-800;
+
+    animation: fancyTextAnimation 14s ease infinite reverse;
   }
 
   /**
@@ -285,7 +333,7 @@
         rgba(var(--glass-color), 0) 100%
       ),
       rgba(var(--glass-color), 0.01);
-    backdrop-filter: blur(6px);
+    /* backdrop-filter: blur(6px); */
     position: relative;
     overflow: hidden;
   }
@@ -339,6 +387,10 @@
   @apply xl:max-w-7xl;
 }
 
+.container-gigawide {
+  @apply xl:max-w-[1400px];
+}
+
 /**
  * MDX requirements
  */
@@ -360,6 +412,21 @@
 
 .csl-entry {
   @apply my-5;
+}
+
+.border-gradient-rainbow {
+  background-image: linear-gradient(
+    90deg,
+    theme('colors.blue.500'),
+    theme('colors.blue.400'),
+    theme('colors.indigo.500'),
+    theme('colors.indigo.400'),
+    theme('colors.purple.500'),
+    theme('colors.purple.400'),
+    theme('colors.pink.500'),
+    theme('colors.pink.400')
+  );
+  height: 3px;
 }
 
 /**
@@ -424,4 +491,9 @@ input:-webkit-autofill:focus {
 .no-scrollbar {
   scrollbar-width: none;
   -ms-overflow-style: none;
+}
+
+/** RBD global styles */
+.deal-paragraph {
+  @apply px-6 py-4 bg-green-500/10 border border-green-500/20 rounded-lg;
 }

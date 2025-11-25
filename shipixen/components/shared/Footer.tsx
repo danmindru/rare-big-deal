@@ -19,6 +19,7 @@ import { Button } from '@/components/shared/ui/button';
 import { footerLinks } from '@/data/config/footerLinks';
 import { TiktokIcon } from '@/components/icons/TiktokIcon';
 import { ThreadsIcon } from '@/components/icons/ThreadsIcon';
+import { ProductHuntBadge } from '@/components/shared/ProductHuntBadge';
 
 export default function Footer({ className }: { className?: string }) {
   const columnNumber = footerLinks.filter(({ links }) => links.length).length;
@@ -37,27 +38,25 @@ export default function Footer({ className }: { className?: string }) {
       >
         <div className="w-full flex flex-col md:flex-row justify-between gap-6 mt-12  p-6 max-w-full container-wide">
           <div className="w-full flex flex-col gap-4 md:max-w-xs lg:max-w-sm">
-            <Link href="/" aria-label={siteConfig.title}>
-              <div className="flex items-center gap-3 justify-start">
+            <Link href="/" aria-label={siteConfig.logoTitle}>
+              <div className="flex items-center gap-3">
                 <Image
                   src="/static/images/logo.png"
                   alt="Rare Big Deal logo"
-                  height={46}
-                  width={46}
-                  className="group-hover:animate-wiggle "
+                  height={54}
+                  width={54}
+                  className="group-hover:animate-wiggle w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white/50 dark:border-neutral-900"
                 />
 
-                <div className="hidden text-2xl font-semibold sm:flex h-full">
-                  Rare Big Deal
+                <div className="text-neutral-600 dark:text-neutral-400 text-xs md:text-sm leading-4 md:leading-4 font-semibold h-full">
+                  <span className="font-light">Rare</span>
+                  <br />
+                  <span className="font-normal">Big</span>
+                  <br />
+                  <span className="font-semibold">Deal</span>
                 </div>
               </div>
             </Link>
-
-            {typeof siteConfig.title === 'string' ? (
-              <div className="text-lg font-semibold h-full">
-                {siteConfig.title}
-              </div>
-            ) : null}
 
             {siteConfig.description ? (
               <p className="text-sm opacity-70">{siteConfig.description}</p>
@@ -80,8 +79,7 @@ export default function Footer({ className }: { className?: string }) {
                   <ul
                     key={index}
                     className={cn(
-                      column.columnName === 'Categories' ? 'md:col-span-2' : '',
-                      'flex flex-col flex-wrap gap-4 justify-center w-full text-xs',
+                      'flex flex-col flex-wrap gap-4 justify-center w-full text-xs md:col-span-2',
                     )}
                   >
                     {column.columnName ? (
@@ -129,6 +127,10 @@ export default function Footer({ className }: { className?: string }) {
           className="w-full my-4 border-0 bg-gradient-to-r from-white/5 via-black/10 to-white/5 dark:from-black/5 dark:via-white/30 darK:to-black/5"
           style={{ height: '1px' }}
         />
+
+        <div className="flex justify-center pt-4 px-2">
+          <ProductHuntBadge postName="rare-big-deal" postId="637015" />
+        </div>
 
         <div className="py-8 px-2 flex flex-col items-center">
           <div className="mb-3 flex flex-wrap justify-center gap-4">
@@ -223,7 +225,9 @@ export default function Footer({ className }: { className?: string }) {
             <span>{` • `}</span>
             <Link href="/">{siteConfig.businessName}</Link>
             <span>{` • `}</span>
-            <Link href="https://shipixen.com">Shipixen</Link>
+            <Link className="animated-fancy-text" href="https://shipixen.com">
+              Made with Shipixen
+            </Link>
           </div>
         </div>
       </div>

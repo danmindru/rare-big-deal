@@ -66,6 +66,7 @@ export default function CategoryPage({
           showImage={true}
           overrideClassName="flex flex-col gap-4"
           showTitle={false}
+          categoryClassName="mb-0"
         />
 
         {totalNumberOfPosts > MAX_DISPLAY && (
@@ -80,8 +81,14 @@ export default function CategoryPage({
           </div>
         )}
 
-        <footer className="my-6 opacity-50 text-xs flex items-center">
-          {numberOfPostsForSelectedCategory} total deals
+        <footer className="mt-2 mb-6 opacity-50 text-xs flex items-center">
+          {numberOfPostsForSelectedCategory} total deals in
+          <strong className="ml-3">
+            {params.category
+              ?.split('-')
+              .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+              .join(' ')}
+          </strong>
         </footer>
       </div>
     </div>

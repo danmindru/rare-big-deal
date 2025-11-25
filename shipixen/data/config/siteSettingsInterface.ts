@@ -29,6 +29,7 @@ export interface SiteMetadata {
 
 export interface SiteConfig extends SiteMetadata {
   allArticlesPath: string;
+  categoriesPath: string;
   disableAnalytics: boolean;
   analytics?: AnalyticsConfig | undefined;
   comments?: CommentsConfig | undefined;

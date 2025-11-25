@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: parse-submission
+  cancel-in-progress: false
+
 jobs:
   check-commit-message:
     runs-on: ubuntu-latest
@@ -76,14 +80,36 @@ jobs:
           REPO_INFO=$(curl -s https://api.github.com/repos/${{ github.repository }})
           STARS=$(echo $REPO_INFO | jq .stargazers_count)
           FORKS=$(echo $REPO_INFO | jq .forks_count)
+          CONTRIBUTORS=$(curl -s https://api.github.com/repos/${{ github.repository }}/contributors\?per_page\=1 -I | grep -i "^link:" | sed -n 's/.*page=\([0-9]*\)>; rel="last".*/\1/p')
+          if [ -z "$CONTRIBUTORS" ]; then
+            CONTRIBUTORS=$(curl -s https://api.github.com/repos/${{ github.repository }}/contributors | jq 'length')
+          fi
           echo "stars=$STARS" >> $GITHUB_ENV
           echo "forks=$FORKS" >> $GITHUB_ENV
+          echo "contributors=$CONTRIBUTORS" >> $GITHUB_ENV
 
-      - name: Write stats to stats.js
+      - name: Validate and write stats to stats.js
         run: |
-          echo "module.exports = { stars: ${{ env.stars }}, forks: ${{ env.forks }} };" > shipixen/data/stats.js
+          # Check if any values are null or empty
+          if [ "${{ env.stars }}" == "null" ] || [ -z "${{ env.stars }}" ] || \
+             [ "${{ env.forks }}" == "null" ] || [ -z "${{ env.forks }}" ] || \
+             [ "${{ env.contributors }}" == "null" ] || [ -z "${{ env.contributors }}" ]; then
+            echo "⚠️ Warning: One or more stats values are null or empty. Skipping stats update to preserve existing data."
+            echo "Stars: ${{ env.stars }}"
+            echo "Forks: ${{ env.forks }}"
+            echo "Contributors: ${{ env.contributors }}"
+            echo "skip_commit=true" >> $GITHUB_ENV
+          else
+            echo "✅ All stats are valid. Updating stats.js"
+            echo "Stars: ${{ env.stars }}"
+            echo "Forks: ${{ env.forks }}"
+            echo "Contributors: ${{ env.contributors }}"
+            echo "module.exports = { stars: ${{ env.stars }}, forks: ${{ env.forks }}, contributors: ${{ env.contributors }} };" > shipixen/data/stats.js
+            echo "skip_commit=false" >> $GITHUB_ENV
+          fi
 
       - name: Commit changes
+        if: env.skip_commit != 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.RBD_GITHUB_TOKEN }}
         run: |
