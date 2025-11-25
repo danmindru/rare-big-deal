@@ -133,6 +133,7 @@ It's free & open-source. Enjoy! 🚀
 | ✅ | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | **25% off** with code **BLACKFRIDAY25** | 2025-11-30 |
 | 🐶 | [PortTraceX](https://porttracex.com/?ref=rare-big-deal) | PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: **ports being blocked, busy, or hijacked by unknown processes** — whether on your **local machine** or a **remote server**.  | **40% OFF** lifetime license with code **BF40** | 2025-12-07 |
 | ☁️ | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - For Developers, DevOps & Cloud Operations, Mac & Windows | **50% OFF** Lifetime License with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is **end-to-end encrypted** with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS.  | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Lifetime | 2025-12-05 |
 
 
 ### APIs, Tools & SaaS
