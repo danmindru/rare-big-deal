@@ -164,6 +164,8 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
 | 💰 | [TranscriptBunny](https://transcriptbunny.com/?utm_source=rarebigdeal) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text, for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans | 2025-12-05 |
 | 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** | 2025-11-30 |
+| ⚡ | [Static.run](https://static.run/pricing) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
+| 📝 | [FormBold](https://formbold.com/pricing) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **40% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 
 
 ### Browser Extensions
@@ -195,7 +197,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 | 🟪 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | BFRIDAY25 to get **65% OFF**, | 2025-12-05 |
-
+| 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -223,7 +225,9 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle | 2025-12-01 |
-
+| 🚀 | [Meku](https://meku.dev/pricing) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
+| 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
+| 🤖 | [AI Starter Kit](https://aistarterkit.dev/pricing) | Build AI-powered applications using the Next.js-based AI Starter Kit. Integrated with OpenAI API and Vercel for production-ready apps. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
 
 ### Productivity
 
@@ -420,7 +424,6 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 
-
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -515,6 +518,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [Background Remover](https://www.backgroundremover.com/) | Backgrounds gone in one click. No Photoshop required. Studio-quality precision with lightning-fast processing. Supports JPG, PNG, WEBP. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you designed | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
+| 🎨 | [Lineicons](https://lineicons.com/pricing) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
 
 
 ### AI Design Tools
@@ -785,6 +789,14 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [LaunchFast](https://www.launchfa.st/) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | **$50 OFF** using `BLACKFRIDAY` | 2025-12-01 |
 | 🚀 | [NextNative](https://nextnative.dev/) | Launch mobile apps 10x faster with Next.js | **30% OFF** using `BLACKFRIDAY30` | 2025-12-01 |
 | ☂︎ | [saasbrella](https://saasbrella.com/?utm_source=rare-big-deal) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years| 2025-12-01 |
+| 🚀 | [SaaSBold](https://saasbold.com/pricing) | Full-stack Next.js SaaS boilerplate with authentication, billing, and dashboard components, ready for production. Ideal for SaaS and startup projects. | **40% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
+| ⚡ | [NextjsTemplates](https://nextjstemplates.com/all-access) | 20+ high-quality Next.js templates and starter kits for landing pages, SaaS apps, and portfolios. Launch web projects faster than ever. | **40% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
+| 🎨 | [TailTemplates](https://tailtemplates.com/all-access) | Premium Tailwind CSS templates crafted for startups, apps, and SaaS websites. Fast, responsive, and easy to customize. | **80% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
+| 📊 | [NextAdmin](https://nextadmin.co/pricing) | Next.js-based Admin Dashboard Template featuring 200+ components and ready pages. Perfect for building modern web dashboards. | **30% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
+| 🛒 | [NextMerce](https://nextmerce.com/pricing) | Complete Next.js eCommerce boilerplate with modern design and high performance. Perfect for startups and online stores. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
+| 🤖 | [AI Starter Kit](https://aistarterkit.dev/pricing) | Build AI-powered applications using the Next.js-based AI Starter Kit. Integrated with OpenAI API and Vercel for production-ready apps. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
+| 🛍️ | [CozyCommerce](https://cozycommerce.dev/pricing) | Create an eCommerce store with 100+ UI components and 20+ pre-built pages built using Next.js and Tailwind CSS. Fully customizable and developer-friendly. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
+| 📊 | [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS Dashboard Template featuring 500+ ready-to-use UI components for HTML, React, Next.js, and Vue. Build modern dashboards easily. | **30% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
 
 
 ### Astro
@@ -856,6 +868,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - | 
 | 🤑 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** | 2025-12-02 |
 | ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-31 |
+| 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
