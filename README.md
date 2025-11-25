@@ -271,6 +271,7 @@ It's free & open-source. Enjoy! 🚀
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
+| ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 
 ### Other
 
@@ -368,6 +369,7 @@ It's free & open-source. Enjoy! 🚀
 | ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens.  | 50% OFF auto applied | 2025-12-03 |
 | 🎭 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** auto applied | 2025-12-02 |
 | 🔢 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | **40% OFF** auto applied | 2025-12-02 |
+| ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 
 
 ### Design Tools
@@ -394,6 +396,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF | 2025-12-03 |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF | 2025-12-03 |
+| ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-4 |
 
 
 ### Menu Bar & More
@@ -584,6 +587,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | ⏱️ | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | **50% OFF** Lifetime Updates. Pay once | 2025-11-28 |
 | ✅ | [Superlist](https://www.superlist.com) | Superlist is the task management app for work and home. Organize projects, meeting notes, and follow ups at the office, and keep family tasks, events, and shopping lists in order on all your devices. | **50% OFF** all annual subscriptions with code **SUPERFRIDAY2025** | 2025-11-29 |
+| ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 
 
 ### Team Project Management Software
