@@ -202,6 +202,7 @@ It's free & open-source. Enjoy! 🚀
 | 🐦‍🔥 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** | 2025-12-01 |
 | 🎙️ | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM | 2025-12-05 |
 | 🗒️ | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | BLACKFRIDAY2025 to get **30% OFF**, | 2025-12-25 |
+| 🎯 | [Cleanest AI](https://www.cleanest.ai) | Tame your Chat Chaos - Search through all your ChatGPT chats and LinkedIn posts. Organize them into custom folders. | **40% OFF** All plans (code automatically applied) | 2025-11-24 |
 
 
 [⬆️ All categories](#table-of-contents)
