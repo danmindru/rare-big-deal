@@ -169,6 +169,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [Static.run](https://static.run/pricing) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 | 📝 | [FormBold](https://formbold.com/pricing) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **40% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 | 🗄️ | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | *50% off* 1st cycle **2025BFCM50NEW** / **65% off** first annual **2025BFCM65Y** | 2025-12-02 |
+| 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — valid for Essential & Advanced plans for 6 months | 2025-12-04 |
 
 
 ### Browser Extensions
