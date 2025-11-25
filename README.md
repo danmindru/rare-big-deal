@@ -370,6 +370,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎭 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** auto applied | 2025-12-02 |
 | 🔢 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | **40% OFF** auto applied | 2025-12-02 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
+| ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** | 2025-12-08 |
 
 
 ### Design Tools
