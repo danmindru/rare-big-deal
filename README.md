@@ -167,6 +167,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** | 2025-11-30 |
 | ⚡ | [Static.run](https://static.run/pricing) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 | 📝 | [FormBold](https://formbold.com/pricing) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **40% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
+| 🗄️ | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | *50% off* 1st cycle **2025BFCM50NEW** / **65% off** first annual **2025BFCM65Y** | 2025-12-02 |
 
 
 ### Browser Extensions
