@@ -419,6 +419,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-01 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **50% OFF** Lifetime Updates. Pay once. | 2025-11-30 |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -534,6 +535,7 @@ It's free & open-source. Enjoy! 🚀
 | 🛜 | [Data Plan - Network Usage](https://apps.apple.com/app/apple-store/id1559813249) | The ultimate network data tracking app. | **33% OFF** on yearly and lifetime plans with cide **RARE33**. | 2025-12-02 |
 | 🔋 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | 2025-12-31 |
 | 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1047,6 +1049,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Amounthly](https://www.amounthly.com/) | Easily track and manage all your recurring payments in one place | **50% OFF** on lifetime access with code **BF2025** | 2025-12-31 |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
