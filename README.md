@@ -389,6 +389,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -495,6 +496,7 @@ It's free & open-source. Enjoy! 🚀
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 🛜 | [Data Plan - Network Usage](https://apps.apple.com/app/apple-store/id1559813249) | The ultimate network data tracking app. | **33% OFF** on yearly and lifetime plans with cide **RARE33**. | 2025-12-02 |
 | 🔋 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. | **50% OFF** lifetime plan with code BLCKFRDY25 or using https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25 | Nov 12 - Dec 31 |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -746,7 +748,6 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [MagicSpace SEO](https://magicspace.agency) | SEO consulting agency providing blog posts, link building, and content strategy for SaaS companies. Works with clients like Chatbase, Tolt, Cheateye, JustSext, Outseta, and Kerberus. | **25% OFF** with code **BF25** | 2025-12-01 |
 | ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
-| 📝 | [SEOengine.ai](https://seoengine.ai) | Deploys 5 specialized AI agents that analyze competitors, mine real user questions and generate AEO-optimized articles in your authentic brand voice. | 35% OFF with code **BLACKFRIDAY** | 2025-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -868,7 +869,6 @@ It's free & open-source. Enjoy! 🚀
 | ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
 | 🚀 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` | 2025-12-15 |
 | 🚀 | [LukCode E-Books](https://www.lukcode.com/?promoCode=BLACKFRIDAY50) | Learn tactics I'm using for making money online! | **50% off** with code `BLACKFRIDAY50` | 2025-12-01 |
-| 🧑‍💻 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & certification training for certificates like the CompTIA Security+ SY0-701 certificate. | **20% OFF ALL Plans, Including Lifetime** with code **BLKFRI20** | 2025-12-05 |
 
 
 ### Educational Games
