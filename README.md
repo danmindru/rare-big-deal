@@ -501,6 +501,7 @@ It's free & open-source. Enjoy! 🚀
 | 👟 | [Steps](https://getsteps.app/) | Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving | 30% OFF lifetime plan with code BLACKFRIDAY or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY) | 2025-12-02 |
 | 🩺 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. | **50% OFF** Lifetime Premium plan (in-app) with code **BLACKFRIDAY2025** | 2025-12-02 |
 | 🏃🏼‍♀️ | [Walk Mate - Weight Loss](https://apple.co/4mz7vev) | Daily random walking routes in your location. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | 2025-12-31 |
+| 💪 | [30 Day Workout - QuickFit](https://apps.apple.com/us/app/30-day-workout-quickfit/id6744751294) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | **50% OFF** lifetime plan | 2025-11-30 |
 
 
 ### Hobby & Lifestyle
