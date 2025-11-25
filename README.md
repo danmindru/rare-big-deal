@@ -280,6 +280,8 @@ It's free & open-source. Enjoy! 🚀
 | 🐾 | [PetShot Pro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI pet portraits. Upload pictures of your furry friends, pick from 100+ styles, and get high-quality AI pet art in seconds. | **50% OFF on all plans** (no coupon code required) | 2025-12-31 |
 | 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=rbd) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** | 2025-12-15 |
+| 🐦 | [TweetBlink](https://tweetbl.ink/) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF LIFETIME**, code **BLACKFRIDAY2025** | 2025-11-28 |
+
 
 ### Lifestyle
 
@@ -424,6 +426,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -460,6 +463,7 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [SendScan Scanner with Workflows](https://apps.apple.com/us/app/sendscan-quick-scan-share/id6753208936) | SendScan combines a best-in-class scanner with text recognition and workflows to send your documents exactly where they need to go. Integrates with iCloud for absolute privacy! | **40% OFF** Pro Lifetime only $ 5.99 | 2025-12-03 |
 | 🎨 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | 2025-12-04 |
 | ⭐ | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
+
 
 ### Photos & Videos
 
@@ -504,6 +508,7 @@ It's free & open-source. Enjoy! 🚀
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 🛜 | [Data Plan - Network Usage](https://apps.apple.com/app/apple-store/id1559813249) | The ultimate network data tracking app. | **33% OFF** on yearly and lifetime plans with cide **RARE33**. | 2025-12-02 |
 | 🔋 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | 2025-12-31 |
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -572,8 +577,6 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 
 
-
-
 ### Team Project Management Software
 
 | | Name | Description | Deal | Expires on date |
@@ -603,7 +606,6 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Hyud](https://www.hyud.app?ref=rare-big-deal) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF with code **BLACKFRIDAY50** | 2025-11-30 |
 
 
-
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -630,7 +632,6 @@ It's free & open-source. Enjoy! 🚀
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
 | ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
-
 
 
 ### Sales Tools
@@ -871,6 +872,7 @@ It's free & open-source. Enjoy! 🚀
 | ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-31 |
 | 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
 
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -979,7 +981,6 @@ It's free & open-source. Enjoy! 🚀
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | 🤑 | [Capitally](https://www.mycapitally.com?ref=awsm-rarebig&discount=BLACKWEEK25) | Wealth tracker for assets, liabilities, and stock options, allowing for deep analysis and control for portfolios of any size | **20% OFF** on all plans, including **5-Year** plan, code: **BLACKWEEK25** | 2025-12-07 |
-
 
 
 ### Investment Research
