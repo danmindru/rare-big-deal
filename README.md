@@ -192,6 +192,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 | 🟪 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | BFRIDAY25 to get **65% OFF**, | 2025-12-05 |
+| 🧠 | [Backona AI](https://backona.com/?utm_source=rare-big-deal-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** | 2025-12-05 |
 
 
 
