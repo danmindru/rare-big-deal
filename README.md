@@ -660,6 +660,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
 | 📊 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🧢 | [FollowBlue](https://followblue.app) | The most efficient way to grow your Bluesky account. FollowBlue helps you grow your Bluesky audience with smart automated follows that connect you with real users — not bots. The safest way to gain more followers on Bluesky. | 30% OFF for 3 months code BLACKSKY | 2025-12-01 |
+| 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
 
 
 ### Sales Tools
