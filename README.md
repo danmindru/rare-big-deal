@@ -210,6 +210,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗒️ | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | BLACKFRIDAY2025 to get **30% OFF**, | 2025-12-25 |
 | 🎯 | [Cleanest AI](https://www.cleanest.ai) | Tame your Chat Chaos - Search through all your ChatGPT chats and LinkedIn posts. Organize them into custom folders. | **40% OFF** All plans (code automatically applied) | 2025-11-24 |
 | 🧠 | [Backona AI](https://backona.com/?utm_source=rare-big-deal-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** | 2025-12-05 |
+| 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
