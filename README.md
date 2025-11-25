@@ -868,6 +868,7 @@ It's free & open-source. Enjoy! 🚀
 | ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
 | 🚀 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` | 2025-12-15 |
 | 🚀 | [LukCode E-Books](https://www.lukcode.com/?promoCode=BLACKFRIDAY50) | Learn tactics I'm using for making money online! | **50% off** with code `BLACKFRIDAY50` | 2025-12-01 |
+| 🧑‍💻 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & certification training for certificates like the CompTIA Security+ SY0-701 certificate. | **20% OFF ALL Plans, Including Lifetime** with code **BLKFRI20** | 2025-12-05 |
 
 
 ### Educational Games
