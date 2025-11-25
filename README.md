@@ -172,6 +172,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
 | ⚡ | [aiTree](https://www.aitree.app/) | Organize your AI chats in trees with branches | **ONE TIME PAYMENT 4€** | 2025-12-01 |
 | ⚡ | [CalmTab](https://addons.mozilla.org/en-GB/firefox/addon/calmtab/) | Clean Firefox start page with clocks, notes, quotes, search and tab workspaces | 33 percent off first year with code blackfriday | 2025-11-29 |
+| ⏸️  | [DeskBreak](https://deskbreak.app) | Smart break reminders for remote workers and developers. Prevent burnout with customizable desk breaks, activity tracking, and health insights. | **50% OFF** with code **BLACKFRIDAY** | 2025-12-03 |
 
 
 ### Productivity & AI
@@ -942,6 +943,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
+| ⏸️  | [DeskBreak](https://deskbreak.app) | Stop burnout before it starts. Browser extension with smart break reminders to combat eye strain, poor posture, and desk job health issues. Track activity streaks and build healthy work habits. | **50% OFF** with code **BLACKFRIDAY** | 2025-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
