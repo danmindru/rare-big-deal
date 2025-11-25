@@ -588,6 +588,7 @@ It's free & open-source. Enjoy! 🚀
 | ⏱️ | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | **50% OFF** Lifetime Updates. Pay once | 2025-11-28 |
 | ✅ | [Superlist](https://www.superlist.com) | Superlist is the task management app for work and home. Organize projects, meeting notes, and follow ups at the office, and keep family tasks, events, and shopping lists in order on all your devices. | **50% OFF** all annual subscriptions with code **SUPERFRIDAY2025** | 2025-11-29 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
+| 🎯 | [Tabhive](https://www.tabhive.app) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025** | 2025-12-15 |
 
 
 ### Team Project Management Software
