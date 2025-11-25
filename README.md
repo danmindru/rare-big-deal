@@ -620,6 +620,7 @@ It's free & open-source. Enjoy! 🚀
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
 | ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
+| 🧢 | [FollowBlue](https://followblue.app) | The most efficient way to grow your Bluesky account. FollowBlue helps you grow your Bluesky audience with smart automated follows that connect you with real users — not bots. The safest way to gain more followers on Bluesky. | 30% OFF for 3 months code BLACKSKY | 2025-12-01 |
 
 
 
