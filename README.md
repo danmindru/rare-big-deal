@@ -970,6 +970,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Amounthly](https://www.amounthly.com/) | Easily track and manage all your recurring payments in one place | **50% OFF** on lifetime access with code **BF2025** | 2025-12-31 |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
