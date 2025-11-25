@@ -162,6 +162,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🦖 |[TestDino](https://testdino.com/) | Smart Playwright Test Reporting And Analytics | **30% OFF** on Yearly Team Plan,code - "BFTD2025" | 2025-12-01 |
 | 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
+| 🖥️ | [StatusGator](https://statusgator.com/blog/statusgator-black-friday-deal-2025/) | StatusGator aggregates and monitors the status of cloud services and websites in one dashboard, offering real-time alerts, website monitoring, and customizable status pages. | **20% OFF** Monthly and Annual Starter Plan with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 ### Browser Extensions
