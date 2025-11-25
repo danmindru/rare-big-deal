@@ -576,6 +576,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [buildsheet.one](https://buildsheet.one) | Drag & drop beautiful cheatsheet builder for developers, students & anyone who learns from structured notes. | **25% OFF** with code **BLACKFRIDAY25** | 2025-12-07 |
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) | 2025-12-01 |
 | 🎯 | [Focusmo](https://www.focusmo.app) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
+| ⏱️ | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | **50% OFF** Lifetime Updates. Pay once | 2025-11-28 |
 
 
 ### Team Project Management Software
