@@ -200,6 +200,7 @@ It's free & open-source. Enjoy! 🚀
 | 🟪 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | BFRIDAY25 to get **65% OFF**, | 2025-12-05 |
 | 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
 | 🐦‍🔥 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** | 2025-12-01 |
+| 🎙️ | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM | 2025-12-05 |
 
 
 [⬆️ All categories](#table-of-contents)
