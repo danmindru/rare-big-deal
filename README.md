@@ -162,6 +162,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🦖 |[TestDino](https://testdino.com/) | Smart Playwright Test Reporting And Analytics | **30% OFF** on Yearly Team Plan,code - "BFTD2025" | 2025-12-01 |
 | 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
+| ✅ | [post bridge API](https://post-bridge.com) | post to all your social platforms from one unified API. easy to use, fairly priced | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 
 
 ### Browser Extensions
@@ -620,6 +621,7 @@ It's free & open-source. Enjoy! 🚀
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
 | ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
+| ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 
 
 
@@ -655,6 +657,7 @@ It's free & open-source. Enjoy! 🚀
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
 | 🔥 | [RightBlogger](https://rightblogger.com/) | RightBlogger is the best AI article writer with built-in autoblogging, SEO tools, keyword research, and one-click publishing to streamline your entire blogging workflow. | 50% OFF Yearly Plans | 2025-12-01 |
 | ✍️ | [Typoro](https://typoro.com/) | The LinkedIn Ghostwriter for Busy Founders. | **30% OFF for 3 months with code BLACKFRIDAY** | 2025-12-05 |
+| ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 
 
 ### Affiliate Marketing
