@@ -450,7 +450,7 @@ It's free & open-source. Enjoy! 🚀
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
 | 💰 | [SendScan Scanner with Workflows](https://apps.apple.com/us/app/sendscan-quick-scan-share/id6753208936) | SendScan combines a best-in-class scanner with text recognition and workflows to send your documents exactly where they need to go: for instance, scan, rename, send via email to your accountant, share via Messages, and then delete. An essential new app for iPhone and iPad, it's really fast and integrates with iCloud for absolute privacy (so your scans are always on your Mac too!) | **40% OFF** Pro Lifetime only $ 5.99 | 2025-12-03 |
 | 🎨 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | 2025-12-04 |
-|  | [Whisperer AI Note Taker](https://apps.apple.com/redeem?ctx=offercodes&id=6755069300&code) | Transform your audio into text, summaries, and PDF reports in seconds. In any language. | **50% OFF** Annual PRO with code **SAVE50** | Ends Dec 5th |
+|  | [Whisperer AI Note Taker](https://apps.apple.com/redeem?ctx=offercodes&id=6755069300&code) | Transform your audio into text, summaries, and PDF reports in seconds. In any language. | **50% OFF** Annual PRO with code **SAVE50** | 2025-12-05 |
 
 
 ### Photos & Videos
