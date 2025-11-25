@@ -462,6 +462,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
 | 💬 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 | 2025-12-02 |
+| 🗒 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF** | 2025-12-05 |
 
 
 ### Productivity
