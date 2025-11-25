@@ -572,6 +572,7 @@ It's free & open-source. Enjoy! 🚀
 | 👵 | [TranslateMom](https://translate.mom/) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices, GPT-4o dubbing, and priority exports (2,000 min/mo, 29 languages, 30-day storage). | **70% OFF** Annual Pro Plan — $159 (reg. $528) with code **BLACK** | 2025-12-02 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
+| 🍿 | [AnimStats.com](https://animstats.com/?ref=rarebigdeal) | Create viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform. 4 creation modes: Templates, Editor, AI Shorts, UGC Ads.  | 50% OFF first month with code **BF2025ALL** | 2025-12-02 |
 
 
 ### Social
