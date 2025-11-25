@@ -164,6 +164,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🦖 |[TestDino](https://testdino.com/) | Smart Playwright Test Reporting And Analytics | **30% OFF** on Yearly Team Plan,code - "BFTD2025" | 2025-12-01 |
 | 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
+| ✅ | [post bridge API](https://post-bridge.com) | post to all your social platforms from one unified API. easy to use, fairly priced | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 | 💰 | [TranscriptBunny](https://transcriptbunny.com/?utm_source=rarebigdeal) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text, for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans | 2025-12-05 |
 | 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** | 2025-11-30 |
 | ⚡ | [Static.run](https://static.run/pricing) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
@@ -662,6 +663,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🧢 | [FollowBlue](https://followblue.app) | The most efficient way to grow your Bluesky account. FollowBlue helps you grow your Bluesky audience with smart automated follows that connect you with real users — not bots. The safest way to gain more followers on Bluesky. | 30% OFF for 3 months code BLACKSKY | 2025-12-01 |
 | 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
+| ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 
 
 ### Sales Tools
@@ -697,6 +699,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [RightBlogger](https://rightblogger.com/) | RightBlogger is the best AI article writer with built-in autoblogging, SEO tools, keyword research, and one-click publishing to streamline your entire blogging workflow. | 50% OFF Yearly Plans | 2025-12-01 |
 | ✍️ | [Typoro](https://typoro.com/) | The LinkedIn Ghostwriter for Busy Founders. | **30% OFF for 3 months with code BLACKFRIDAY** | 2025-12-05 |
 | 🤖| [ScribePilot AI](https://scribepilotai.com/) | Automate content creation for SEO and organic traffic on autopilot. | **40% OFF with code BLACKFRIDAY25** | 2025-11-30 |
+| ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 
 
 ### Affiliate Marketing
