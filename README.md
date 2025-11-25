@@ -620,6 +620,7 @@ It's free & open-source. Enjoy! 🚀
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
 | ⭐ | [Leedlime](https://leedlime.com) | Track leads, brand mentions and competitor mentions on Reddit. Reachout and convert them into sales. | 30% OFF with code FRIDAY30 | 2025-12-04 |
+| 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
 
 
 
