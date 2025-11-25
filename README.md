@@ -366,7 +366,6 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [PastePal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
 | ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
 | 🚀 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF | 2025-12-03 |
-| ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens.  | 50% OFF | 2025-12-03 |
 | ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens.  | 50% OFF auto applied | 2025-12-03 |
 | 🎭 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** auto applied | 2025-12-02 |
 | 🔢 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | **40% OFF** auto applied | 2025-12-02 |
