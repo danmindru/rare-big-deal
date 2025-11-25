@@ -9,5 +9,7 @@ module.exports = {
     'Sip',
     'TypingMind',
     'Page AI',
+    'Unicorn Platform',
+    'SEO Bot',
   ],
 };

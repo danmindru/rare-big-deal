@@ -2,6 +2,7 @@
     export const picksIndex = [
   "ai-apps.js",
   "best-apps.js",
+  "boilerplates.js",
   "developer-tools.js",
   "ios-apps.js",
   "mac-apps.js",

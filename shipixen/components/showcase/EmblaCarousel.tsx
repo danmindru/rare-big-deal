@@ -116,7 +116,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                       'w-full object-contain',
                       isCategoryPage
                         ? 'h-[220px] sm:h-[300px] md:h-[350px] lg:h-[450px]'
-                        : 'h-[220px] md:h-[350px] xl:h-[650px]',
+                        : 'h-[220px] md:h-[350px] 2xl:h-[650px]',
                     )}
                   />
 

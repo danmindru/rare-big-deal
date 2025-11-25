@@ -399,7 +399,7 @@ module.exports = {
     },
     darkroom: {
       tags: ['Photos & Videos', 'Productivity', 'Tools'],
-      ogImage: '/public/static/images/overrides/darkroom/ogImage.png',
+      ogImage: '/public/static/images/overrides/darkroom/ogImage.jpg',
       logo: '/public/static/images/overrides/darkroom/logo.png',
       metaTitle: 'Darkroom - Craft Stunning Photos and Videos That Stand Out',
     },

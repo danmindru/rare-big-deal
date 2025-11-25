@@ -10,5 +10,6 @@ module.exports = {
     'Sip',
     'Crontap',
     'Sentry',
+    'SuperDev Pro',
   ],
 };
