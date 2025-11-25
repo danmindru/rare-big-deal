@@ -179,7 +179,8 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
 | ⚡ | [aiTree](https://www.aitree.app/) | Organize your AI chats in trees with branches | **ONE TIME PAYMENT 4€** | 2025-12-01 |
 | ⚡ | [CalmTab](https://addons.mozilla.org/en-GB/firefox/addon/calmtab/) | Clean Firefox start page with clocks, notes, quotes, search and tab workspaces | 33 percent off first year with code blackfriday | 2025-11-29 |
-| ⏸️  | [DeskBreak](https://deskbreak.app) | Smart break reminders for remote workers and developers. Prevent burnout with customizable desk breaks, activity tracking, and health insights. | **50% OFF** with code **BLACKFRIDAY** | 2025-12-03 |
+| ⏸️ | [DeskBreak](https://deskbreak.app) | Smart break reminders for remote workers and developers. Prevent burnout with customizable desk breaks, activity tracking, and health insights. | **50% OFF** with code **BLACKFRIDAY** | 2025-12-03 |
+| ⚡ | [Ultimate Web Scraper](https://ultimatewebscraper.com) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | **20% OFF** with code **BLACKFRIDAY20** | 2025-12-02 |
 
 
 ### Productivity & AI
