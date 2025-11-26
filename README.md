@@ -792,6 +792,8 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🔥 | [SEO Roast](https://seoroast.com) | Comprehensive SEO audit service with customer journey maps, content calendars, keyword research, and video roasts. Get actionable insights and custom tools for analyzing service positions. | **25% OFF** with code **BF25** | 2025-12-01 |
 | 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🚦 | [YourWebsiteScore](https://yourwebsitescore.com) | Complete website audit plus live trust badge, daily monitoring and a do-follow backlink via your certified page. | **$25 Lifetime (29% OFF)** auto-applied | 2025-12-01 |
+
 
 
 ### Content Creation
