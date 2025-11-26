@@ -8,6 +8,13 @@ import stats from '@/data/stats';
 import Link from 'next/link';
 import bestApps from '@/data/picks/best-apps';
 import { LandingShapesCtaBg } from '@/components/landing/cta-backgrounds/LandingShapesCtaBg';
+import { genPageMetadata } from 'app/seo';
+
+export const metadata = genPageMetadata({
+  title: 'Best Deal Picks - Handpicked AI, Marketing & DevTool Deals',
+  description:
+    "We've handpicked the best AI, Marketing, and DevTool on iOS, Mac, SaaS, AI and Web apps that ever existed. Now with crazy discounts! Discover exclusive lifetime deals and limited-time offers.",
+});
 
 const avatars = [
   {
