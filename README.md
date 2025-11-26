@@ -808,7 +808,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
 | 📝 | [SEOengine.ai](https://seoengine.ai) | Deploys 5 specialized AI agents that analyze competitors, mine real user questions and generate AEO-optimized articles in your authentic brand voice. | 35% OFF with code **BLACKFRIDAY** | 2025-12-07 |
-
+| ❄️ | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plans, auto-applied at checkout (Limited Time) |
 
 [⬆️ All categories](#table-of-contents)
 
