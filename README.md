@@ -173,6 +173,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗄️ | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | *50% off* 1st cycle **2025BFCM50NEW** / **65% off** first annual **2025BFCM65Y** | 2025-12-02 |
 | 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — valid for Essential & Advanced plans for 6 months | 2025-12-04 |
 | 🖥️ | [StatusGator](https://statusgator.com/blog/statusgator-black-friday-deal-2025/) | StatusGator aggregates and monitors the status of cloud services and websites in one dashboard, offering real-time alerts, website monitoring, and customizable status pages. | **20% OFF** Monthly and Annual Starter Plan with code **BLACKFRIDAY2025** | 2025-12-02 |
+| 🖥️ | Clappia | Clappia is an AI-powered no-code app builder that lets businesses create custom apps using 100+ pre-built components. Build workflows, automate processes, capture GPS & photos, generate PDFs, and create dashboards — all without writing any code. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
 
 
 ### Browser Extensions
@@ -242,6 +243,8 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Meku](https://meku.dev/pricing) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
 | 🤖 | [AI Starter Kit](https://aistarterkit.dev/pricing) | Build AI-powered applications using the Next.js-based AI Starter Kit. Integrated with OpenAI API and Vercel for production-ready apps. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
+| ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** Lifetime Deal | 2025-12-02 |
+
 
 
 ### Productivity
@@ -463,6 +466,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
 | 💬 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 | 2025-12-02 |
+| 🗒 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF** | 2025-12-05 |
 
 
 ### Productivity
@@ -487,6 +491,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤫 | [Whisperer AI Note Taker](https://apps.apple.com/gb/app/whisperer-ai-note-taker/id6755069300) | Transform your audio into text, summaries, and PDF reports in seconds. In any language. | **50% OFF** Annual PRO with code **SAVE50**  or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6755069300&code=SAVE50) | 2025-12-05 |
 | ⭐ | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
+| 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | **50% OFF** lifetime plan (No code needed) | 2025-12-02 |
 
 
 ### Photos & Videos
@@ -512,6 +517,7 @@ It's free & open-source. Enjoy! 🚀
 | 🩺 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. | **50% OFF** Lifetime Premium plan (in-app) with code **BLACKFRIDAY2025** | 2025-12-02 |
 | 🏃🏼‍♀️ | [Walk Mate - Weight Loss](https://apple.co/4mz7vev) | Daily random walking routes in your location. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | 2025-12-31 |
 | 💪 | [30 Day Workout - QuickFit](https://apps.apple.com/us/app/30-day-workout-quickfit/id6744751294) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | **50% OFF** lifetime plan | 2025-11-30 |
+| 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25) | 2025-12-02 |
 | 🐣 | [Steps & Beasts - Gamified Step Counter](https://apps.apple.com/app/id6670788226) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | **33% OFF** lifetime plan (IAP) | 2025-11-30 |
 
 
@@ -794,6 +800,8 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🔥 | [SEO Roast](https://seoroast.com) | Comprehensive SEO audit service with customer journey maps, content calendars, keyword research, and video roasts. Get actionable insights and custom tools for analyzing service positions. | **25% OFF** with code **BF25** | 2025-12-01 |
 | 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🚦 | [YourWebsiteScore](https://yourwebsitescore.com) | Complete website audit plus live trust badge, daily monitoring and a do-follow backlink via your certified page. | **$25 Lifetime (29% OFF)** auto-applied | 2025-12-01 |
+
 
 
 ### Content Creation
@@ -804,7 +812,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
 | 📝 | [SEOengine.ai](https://seoengine.ai) | Deploys 5 specialized AI agents that analyze competitors, mine real user questions and generate AEO-optimized articles in your authentic brand voice. | 35% OFF with code **BLACKFRIDAY** | 2025-12-07 |
-
+| ❄️ | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plans, auto-applied at checkout (Limited Time) |
 
 [⬆️ All categories](#table-of-contents)
 
