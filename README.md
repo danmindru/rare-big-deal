@@ -672,6 +672,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧢 | [FollowBlue](https://followblue.app) | The most efficient way to grow your Bluesky account. FollowBlue helps you grow your Bluesky audience with smart automated follows that connect you with real users — not bots. The safest way to gain more followers on Bluesky. | 30% OFF for 3 months code BLACKSKY | 2025-12-01 |
 | 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
 | ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
+| 🗓️ | [Mixpost](https://mixpost.app/?utm_source=rarebigdealbf&utm_campaign=blackfriday_2025) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | **20% OFF** — automatically applied | 2025-12-02 |
 
 
 ### Sales Tools
