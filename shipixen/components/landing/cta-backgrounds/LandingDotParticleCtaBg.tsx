@@ -9,7 +9,7 @@ export const LandingDotParticleCtaBg = ({
   variant = 'primary',
 }: {
   className?: string;
-  variant?: 'default' | 'primary' | 'secondary';
+  variant?: 'default' | 'primary' | 'secondary' | 'danger';
 }) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
@@ -46,6 +46,10 @@ export const LandingDotParticleCtaBg = ({
             .getPropertyValue('--secondary-main')
             .trim();
           return convertToRgba({ color: secondaryColor, opacity: 0.5 });
+        }
+        case 'danger': {
+          const dangerColor = 'rgb(239 68 68)';
+          return convertToRgba({ color: dangerColor, opacity: 0.5 });
         }
         default:
           return 'rgba(177, 177, 177, 0.5)';
