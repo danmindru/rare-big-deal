@@ -409,6 +409,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF | 2025-12-03 |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF | 2025-12-03 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-4 |
+| 📝 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | 2025-12-02 |
 
 
 ### Menu Bar & More
@@ -616,6 +617,7 @@ It's free & open-source. Enjoy! 🚀
 | ✅ | [Superlist](https://www.superlist.com) | Superlist is the task management app for work and home. Organize projects, meeting notes, and follow ups at the office, and keep family tasks, events, and shopping lists in order on all your devices. | **50% OFF** all annual subscriptions with code **SUPERFRIDAY2025** | 2025-11-29 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 | 🎯 | [Tabhive](https://www.tabhive.app) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025** | 2025-12-15 |
+| 📝 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | 2025-12-02 |
 
 
 ### Team Project Management Software
