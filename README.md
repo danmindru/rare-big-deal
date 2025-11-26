@@ -243,6 +243,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
 | 🤖 | [AI Starter Kit](https://aistarterkit.dev/pricing) | Build AI-powered applications using the Next.js-based AI Starter Kit. Integrated with OpenAI API and Vercel for production-ready apps. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
 
+
 ### Productivity
 
 | | Name | Description | Deal | Expires on date |
