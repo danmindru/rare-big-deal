@@ -132,7 +132,7 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
     const fallbackImage = '/static/images/fallback.png';
     const tintColor = hashStringToColor(productTitle);
 
-    // Get top 20 popular deals
+    // Get top 25 popular deals
     const topDeals = allCoreContent(
       allBlogs.filter(
         (post) => post.leaderboardPosition && post.leaderboardPosition > 0,
@@ -144,7 +144,7 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
         }
         return 0;
       })
-      .slice(0, 20);
+      .slice(0, 25);
 
     return (
       <div className="w-full flex flex-col items-center fancy-overlay">

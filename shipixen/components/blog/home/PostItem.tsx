@@ -92,7 +92,7 @@ export function PostItem({
       <div className="w-full px-3 py-1">
         {leaderboardPosition &&
         leaderboardPosition > 0 &&
-        leaderboardPosition <= 20 ? (
+        leaderboardPosition <= 25 ? (
           <Tooltip delayDuration={0}>
             <TooltipTrigger asChild>
               <button

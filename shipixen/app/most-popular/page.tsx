@@ -22,7 +22,7 @@ export default function CategoryPage() {
 
         return 0;
       })
-      .slice(0, 20);
+      .slice(0, 25);
   }, []);
 
   return (
@@ -30,10 +30,10 @@ export default function CategoryPage() {
       <Header className="mb-0 lg:mb-0" />
 
       <LandingPrimaryTextCtaSection
-        title="Top 20 Most Popular Deals"
+        title="Top 25 Most Popular Deals"
         descriptionComponent={
           <p className="max-w-2xl">
-            The community loves these! Here are the top 20 deals that got the
+            The community loves these! Here are the top 25 deals that got the
             most attention on Rare Big Deal so far.
           </p>
         }
