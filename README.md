@@ -486,6 +486,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤫 | [Whisperer AI Note Taker](https://apps.apple.com/gb/app/whisperer-ai-note-taker/id6755069300) | Transform your audio into text, summaries, and PDF reports in seconds. In any language. | **50% OFF** Annual PRO with code **SAVE50**  or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6755069300&code=SAVE50) | 2025-12-05 |
 | ⭐ | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
+| 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | **50% OFF** lifetime plan (No code needed) | 2025-12-02 |
 
 
 ### Photos & Videos
@@ -511,6 +512,7 @@ It's free & open-source. Enjoy! 🚀
 | 🩺 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. | **50% OFF** Lifetime Premium plan (in-app) with code **BLACKFRIDAY2025** | 2025-12-02 |
 | 🏃🏼‍♀️ | [Walk Mate - Weight Loss](https://apple.co/4mz7vev) | Daily random walking routes in your location. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | 2025-12-31 |
 | 💪 | [30 Day Workout - QuickFit](https://apps.apple.com/us/app/30-day-workout-quickfit/id6744751294) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | **50% OFF** lifetime plan | 2025-11-30 |
+| 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25) | 2025-12-02 |
 
 
 ### Hobby & Lifestyle
