@@ -927,6 +927,8 @@ It's free & open-source. Enjoy! 🚀
 | ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-31 |
 | 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤑 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable 1000+ shadcn ui Components & variants, 550+ Blocks, Figma UI Kit, AI MCP, 20+ Templates and AI Powered Theme Generator. | Flat **30% OFF** with code **BFCM30SS** | 2025-12-01 |
+| 🤑 | [FlyonUI](https://flyonui.com) | Fully customizable 80+ Tailwind ui Components & variants, 500+ Blocks, Figma UI Kit, AI MCP, & 20+ Templates | Flat **30% OFF** with code **BFCM30FY** | 2025-12-01 |
+
 
 
 [⬆️ All categories](#table-of-contents)
