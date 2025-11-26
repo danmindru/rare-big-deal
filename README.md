@@ -173,8 +173,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗄️ | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | *50% off* 1st cycle **2025BFCM50NEW** / **65% off** first annual **2025BFCM65Y** | 2025-12-02 |
 | 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — valid for Essential & Advanced plans for 6 months | 2025-12-04 |
 | 🖥️ | [StatusGator](https://statusgator.com/blog/statusgator-black-friday-deal-2025/) | StatusGator aggregates and monitors the status of cloud services and websites in one dashboard, offering real-time alerts, website monitoring, and customizable status pages. | **20% OFF** Monthly and Annual Starter Plan with code **BLACKFRIDAY2025** | 2025-12-02 |
-| 🖥️ | Clappia
- | Clappia is an AI-powered no-code app builder that lets businesses create custom apps using 100+ pre-built components. Build workflows, automate processes, capture GPS & photos, generate PDFs, and create dashboards — all without writing any code. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
+| 🖥️ | Clappia | Clappia is an AI-powered no-code app builder that lets businesses create custom apps using 100+ pre-built components. Build workflows, automate processes, capture GPS & photos, generate PDFs, and create dashboards — all without writing any code. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
 
 
 ### Browser Extensions
