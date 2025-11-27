@@ -220,6 +220,7 @@ Free & open-source.
 | 🧠 | [Backona AI](https://backona.com/?utm_source=rare-big-deal-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** | 2025-12-05 |
 | 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
+| 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -287,7 +288,9 @@ Free & open-source.
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
+| 🤖 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** on all plans with code **CXBLACK2025** | 2025-12-03 |
 | 🩵 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan | 2025-11-30 |
+
 
 ### Other
 
@@ -418,6 +421,7 @@ Free & open-source.
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF | 2025-12-03 |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF | 2025-12-03 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-4 |
+| 📝 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | 2025-12-02 |
 
 
 ### Menu Bar & More
@@ -500,6 +504,8 @@ Free & open-source.
 | ⭐ | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | **50% OFF** lifetime plan (No code needed) | 2025-12-02 |
+| 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
+| 🗓️ | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | Nov 27 - Dec 5 |
 
 
 ### Photos & Videos
@@ -527,6 +533,8 @@ Free & open-source.
 | 💪 | [30 Day Workout - QuickFit](https://apps.apple.com/us/app/30-day-workout-quickfit/id6744751294) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | **50% OFF** lifetime plan | 2025-11-30 |
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25) | 2025-12-02 |
 | 🐣 | [Steps & Beasts - Gamified Step Counter](https://apps.apple.com/app/id6670788226) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | **33% OFF** lifetime plan (IAP) | 2025-11-30 |
+| 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
+| 🪷 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) with code **BF25** or [with this link](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25) | Nov 27 - Dec 5 |
 
 
 ### Hobby & Lifestyle
@@ -626,6 +634,7 @@ Free & open-source.
 | ✅ | [Superlist](https://www.superlist.com) | Superlist is the task management app for work and home. Organize projects, meeting notes, and follow ups at the office, and keep family tasks, events, and shopping lists in order on all your devices. | **50% OFF** all annual subscriptions with code **SUPERFRIDAY2025** | 2025-11-29 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 | 🎯 | [Tabhive](https://www.tabhive.app) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025** | 2025-12-15 |
+| 📝 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | 2025-12-02 |
 
 
 ### Team Project Management Software
@@ -815,6 +824,7 @@ Free & open-source.
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 | 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
+| 📈 | [AI Search Analytics](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice in LLMs across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | 2025-11-30 |
 
 
 ### Analyze & Audit
