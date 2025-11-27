@@ -7,7 +7,6 @@ const { markdownDir } = require('./settings');
 const fs = require('fs');
 const path = require('path');
 const { getLeaderboardPosition } = require('./leaderboard-utils');
-const { getProductDates } = require('./product-dates-utils');
 
 async function generateMDXContent(app) {
   console.log(`[Generate MDX Content] 📝 Generating MDX for: ${app.name}`);
@@ -112,18 +111,6 @@ layout: ProductLayout
 `;
   }
 
-  const productDates = getProductDates(sanitizeName(app.name));
-  if (productDates) {
-    if (productDates.expiresOnDate) {
-      mdxContent += `expiresOnDate: ${productDates.expiresOnDate}
-`;
-    }
-    if (productDates.validFromDate) {
-      mdxContent += `validFromDate: ${productDates.validFromDate}
-`;
-    }
-  }
-
   if (metaDescription) {
     // Properly indent each line of metaDescription
     const formattedMetaDescription = metaDescription
@@ -195,7 +182,9 @@ ${formattedContentMetaDescription}
   fs.writeFileSync(markdownOutputPath, mdxContent);
 
   const elapsed = Date.now() - startTime;
-  console.log(`[Generate MDX Content] ✅ MDX file created: ${sanitizeName(app.name)}.mdx (${elapsed}ms)`);
+  console.log(
+    `[Generate MDX Content] ✅ MDX file created: ${sanitizeName(app.name)}.mdx (${elapsed}ms)`,
+  );
 }
 
 module.exports = { generateMDXContent };
