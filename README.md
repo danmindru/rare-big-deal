@@ -24,13 +24,13 @@ It's free & open-source. Enjoy! 🚀
   - [Writing \& Notes](#writing--notes)
   - [Menu Bar \& More](#menu-bar--more)
 - [tvOS Apps](#tvos-apps)
-  - [Health \& Fitness](#health--fitness-1)
+  - [Health \& Fitness](#health--fitness)
   - [Design Tools](#design-tools-1)
 - [iOS Apps](#ios-apps)
   - [Writing \& Notes](#writing--notes-1)
   - [Productivity](#productivity-2)
   - [Photos \& Videos](#photos--videos)
-  - [Health \& Fitness](#health--fitness-2)
+  - [Health \& Fitness](#health--fitness-1)
   - [Hobby \& Lifestyle](#hobby--lifestyle)
   - [Other](#other-1)
 - [Design Tools](#design-tools-2)
@@ -41,6 +41,7 @@ It's free & open-source. Enjoy! 🚀
 - [Productivity](#productivity-4)
   - [Todo Apps, Notes \& Writing](#todo-apps-notes--writing)
   - [Team Project Management Software](#team-project-management-software)
+  - [Image, Video \& Audio Editing Tools](#image-video--audio-editing-tools)
   - [Marketing](#marketing)
   - [Other](#other-2)
 - [Marketing](#marketing-1)
@@ -73,12 +74,13 @@ It's free & open-source. Enjoy! 🚀
   - [Libraries \& More](#libraries--more)
 - [Learning](#learning)
   - [Courses](#courses)
-  - [Educational Games](#educational-games)
   - [Art Courses](#art-courses)
   - [SEO](#seo)
   - [Books](#books)
+  - [Guides \& Templates](#guides--templates)
 - [Health and Fitness](#health-and-fitness)
   - [Apps](#apps)
+  - [Web Apps](#web-apps)
 - [Finance](#finance)
   - [Dashboards](#dashboards)
   - [Investment Research](#investment-research)
@@ -114,13 +116,11 @@ It's free & open-source. Enjoy! 🚀
 | ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store | 2025-12-10 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
-| ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
-| 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
 | 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) | 2025-12-12 |
 | 🪣 | [BucketMate](https://bucketmate.app/pricing?ref=rare-big-deal) | a Finder-style S3-compatible manager for macOS. | **70% OFF** lifetime license | 2025-12-05 |
 | 📧 | [Newsdrop](https://newsdrop.io) | The smart way to read newsletters. Declutter your inbox and manage all your newsletters in one beautiful interface. | **25% OFF** for the first 3 months with code **BLACKFRIDAY25** | 2025-12-31 |
-| ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
+| ⭐ | [Dynomate](https://dynomate.io?ref=rare-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🗣️ | [ShareSpeak](https://sharespeak.co) | ShareSpeak is an AI-powered invisible teleprompter app designed for desktop users. | **74% OFF** lifetime with code **MICRO74** | 2026-01-31 |
 | 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=rare-big-deal) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** | 2025-12-31 |
 | 🔌 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | 2025-12-02 |
@@ -134,6 +134,8 @@ It's free & open-source. Enjoy! 🚀
 | 🐶 | [PortTraceX](https://porttracex.com/?ref=rare-big-deal) | PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: **ports being blocked, busy, or hijacked by unknown processes** — whether on your **local machine** or a **remote server**.  | **40% OFF** lifetime license with code **BF40** | 2025-12-07 |
 | ☁️ | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - For Developers, DevOps & Cloud Operations, Mac & Windows | **50% OFF** Lifetime License with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is **end-to-end encrypted** with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS.  | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Lifetime | 2025-12-05 |
+| 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
+| 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -162,7 +164,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎞️ | [PaneFlow](https://paneflow.com/) | Create Stunning Slideshows in Minutes | **50% OFF** for 1 year, no code required | 2025-12-01 |
 | 🖥️ | [UI Initiative](https://uiinitiative.com/) | Premium plugins & templates for Swiper and Framework7 | **50% OFF** lifetime, no code required | 2025-12-01 |
 | ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=rare-big-deal) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
-| ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
+| ⭐ | [Dynomate](https://dynomate.io?ref=rare-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more | 30% off, with code **BF25** | 2025-12-31 |
 | 🦖 |[TestDino](https://testdino.com/) | Smart Playwright Test Reporting And Analytics | **30% OFF** on Yearly Team Plan,code - "BFTD2025" | 2025-12-01 |
 | 🖼️ | [GoStudio.ai](https://www.gostudio.ai/?utm_source=github) | Generate studio-quality headshots & branded visuals instantly — ideal for SaaS teams, founders & professionals. | **30% OFF** with code **GS30** | 2025-05-01 |
 | ✅ | [post bridge API](https://post-bridge.com) | post to all your social platforms from one unified API. easy to use, fairly priced | **25% OFF** for a year with code **BF25** | 2025-12-02 |
@@ -232,17 +234,15 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  | 2025-12-02 |
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=danmindru) | Chat with AI models on an infinite canvas; Bring your own API keys, and all models in one app with local storage of data | 51% OFF with code **BLACKFRIDAY2025** | 2025-12-01
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | **50% OFF** Lifetime Pro Plan with code **BLACKFRIDAY50** | 2025-12-01 |
-| 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
-| 🧪 | [Scout AI](https://scoutqa.ai) | AI-powered testing platform. Paste a URL and get instant, intelligent test results without setup. Catch bugs before your users do. | FREE for first-time startup builders | LIFETIME |
+| 🧪 | [Scout AI](https://scoutqa.ai) | AI-powered testing platform. Paste a URL and get instant, intelligent test results without setup. Catch bugs before your users do. | FREE for first-time startup builders | |
 | 💻 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=rarebigdeal) | AI automation API suite for developers-including product content generation, resume parsing, job match scoring, SEO tagging and custom workflows. Easy to integrate, scalable, reliable. | **50% OFF first year** with code **BF2025** |
-| 🖼️ | [ImageRouter](https://imagerouter.io) | AI Image & Video Generator. Unified OpenAI compatible, open source API. | **50 daily free images** for any amount of deposit (applies to models ending with :free) | Lifetime Deal |
+| 🖼️ | [ImageRouter](https://imagerouter.io) | AI Image & Video Generator. Unified OpenAI compatible, open source API. | **50 daily free images** for any amount of deposit (applies to models ending with :free) | |
 | 📃 | [lindo.ai](https://lindo.ai) | Launch your own AI website builder under your brand. | **40% OFF** with discount code **BF2025** | 2025-12-03 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-01 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle | 2025-12-01 |
 | 🚀 | [Meku](https://meku.dev/pricing) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
-| 🤖 | [AI Starter Kit](https://aistarterkit.dev/pricing) | Build AI-powered applications using the Next.js-based AI Starter Kit. Integrated with OpenAI API and Vercel for production-ready apps. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** Lifetime Deal | 2025-12-02 |
 
 
@@ -338,25 +338,29 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
-| 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-01 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
+| 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
+| 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Productivity
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📺 | [Screen Studio](https://screen.studio?aff=OzBPe) | Screen Recorder producing high-impact videos automatically. Designed for macOS. | **40% off** 1 year with code **BLACKFRIDAY25** | 2025-12-01 |
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
 | ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
+| ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) | 2025-12-01 |
 | 🕑 | [Chronoid](https://chronoid.app?utm=rare-big-deal) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-04 |
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** | 2025-12-30 |
 | 🗜️ | [Zipic](https://zipic.app?ref=rare-big-deal) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
@@ -560,7 +564,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [Background Remover](https://www.backgroundremover.com/) | Backgrounds gone in one click. No Photoshop required. Studio-quality precision with lightning-fast processing. Supports JPG, PNG, WEBP. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you designed | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-01 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
-| 🎨 | [Lineicons](https://lineicons.com/pricing) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
+| 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
 
 
 ### AI Design Tools
@@ -628,6 +632,18 @@ It's free & open-source. Enjoy! 🚀
 | 📇 | [t0ggles](https://t0ggles.com?ref=rarebigdeal) | Next-Gen Project Management - Built for speed, collaboration, and innovation | **50% OFF for One Year** | 2025-12-01 |
 
 
+### Image, Video & Audio Editing Tools
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 📺 | [Screen Studio](https://screen.studio?aff=OzBPe) | Screen Recorder producing high-impact videos automatically. Designed for macOS. | **40% off** 1 year with code **BLACKFRIDAY25** | 2025-12-01 |
+| 🎥 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase | 2025-12-01 |
+| 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
+| ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
+| 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) | 2025-12-01 |
+| 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
+
+
 ### Marketing
 
 | | Name | Description | Deal | Expires on date |
@@ -637,15 +653,16 @@ It's free & open-source. Enjoy! 🚀
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
 | 📸 | [Rendley](https://rendley.com?utm_source=danmindru) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** | 2025-11-30 |
 
+
 ### Other
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=rarebigdeal) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Never |
+| 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=rarebigdeal) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | |
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
 | 📚 | [Guidejar](https://www.guidejar.com/?utm_source=rare-big-deal) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | **25% OFF** with code **BFCM25** | 2025-12-02 |
 | 🔖 | [Bookmark Manager](https://devapt.com/bookmark-manager?utm_source=ghbf_dan) | Spotlight search for your bookmarks. Press Ctrl+Shift+K anywhere to instantly find any bookmark—even with typos.        | 30% OFF with code **30BF2025** | 2025-11-30 |
-| 💼 | [Zeke](https://zeke.so) | Job search toolkit with personal portfolio builder (read.cv alternative). Craft and augment resumes based on job descriptions, generate cover letters, and showcase your work. | Coupon code **BLACKFRIDAY25** | Never |
+| 💼 | [Zeke](https://zeke.so) | Job search toolkit with personal portfolio builder (read.cv alternative). Craft and augment resumes based on job descriptions, generate cover letters, and showcase your work. | Coupon code **BLACKFRIDAY25** | |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🚀 | [Hyud](https://www.hyud.app?ref=rare-big-deal) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF with code **BLACKFRIDAY50** | 2025-11-30 |
 
@@ -922,7 +939,7 @@ It's free & open-source. Enjoy! 🚀
 ### Libraries & More
 
 | | Name | Description | Deal | Expires on date |
-| - | - | - | - | - | 
+| - | - | - | - | - |
 | 🤑 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** | 2025-12-02 |
 | ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-31 |
 | 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
@@ -942,19 +959,12 @@ It's free & open-source. Enjoy! 🚀
 | 👨🏻‍💻 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
 | 🧑‍💻 | [Apple Developer Starter Pack](https://gracehuang.gumroad.com/l/bundle-ios-macos-development/BLACKFRIDAY25) | Books & Course for Swift, SwiftUI and macOS | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2025) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2025** |
-| 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
+| 👨🏻‍💻 | [secubri.com](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger [50% OFF](https://www.secubri.com/security/) (1st Training Only) | |
 | ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
 | 🚀 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` | 2025-12-15 |
 | 🚀 | [LukCode E-Books](https://www.lukcode.com/?promoCode=BLACKFRIDAY50) | Learn tactics I'm using for making money online! | **50% off** with code `BLACKFRIDAY50` | 2025-12-01 |
 | 🧑‍💻 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & certification training for certificates like the CompTIA Security+ SY0-701 certificate. | **20% OFF ALL Plans, Including Lifetime** with code **BLKFRI20** | 2025-12-05 |
-| 🧪 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to test React based frontend applications | **25% off** with BLACKFRIDAYDEAL2025 | 5th Dec 2025 |
-
-
-### Educational Games
-
-| | Name | Description | Deal | Expires on date |
-| - | - | - | - | - |
-| 👨🏻‍💻 | [realorslop.fun ](https://realorslop.fun) | Fun Educational Game - Guess if an image is AISlop or Real and learn how to spot it in the future| [Free](https://realorslop.fun) | 2026-01-01 |
+| 🧪 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to test React based frontend applications | **25% off** with BLACKFRIDAYDEAL2025 | 2025-12-05 |
 
 
 ### Art Courses

@@ -3,13 +3,16 @@ module.exports = {
   description: "Deals like these you don't skip on. Apps you love, discounted.",
   apps: [
     'Sentry',
-    'TextSniper',
+    'Screen Studio',
+    'Page AI',
     'BoltAI',
     'Xnapper',
     'Sip',
+    'TextSniper',
     'TypingMind',
-    'Page AI',
     'Unicorn Platform',
     'SEO Bot',
+    'CleanShot X',
+    'TablePlus',
   ],
 };

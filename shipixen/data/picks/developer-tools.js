@@ -11,5 +11,6 @@ module.exports = {
     'Crontap',
     'Sentry',
     'SuperDev Pro',
+    'TablePlus',
   ],
 };
