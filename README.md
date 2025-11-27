@@ -220,6 +220,7 @@ Free & open-source.
 | 🧠 | [Backona AI](https://backona.com/?utm_source=rare-big-deal-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** | 2025-12-05 |
 | 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
+| 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | Nov 26 - Dec 2 |
 
 [⬆️ All categories](#table-of-contents)
 
