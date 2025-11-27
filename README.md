@@ -500,6 +500,7 @@ Free & open-source.
 | ⭐ | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | **50% OFF** lifetime plan (No code needed) | 2025-12-02 |
+| 🗓️ | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | Nov 27 - Dec 5 |
 
 
 ### Photos & Videos
