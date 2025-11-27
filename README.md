@@ -304,7 +304,7 @@ Free & open-source.
 | 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=rbd) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** | 2025-12-15 |
 | 🐦 | [TweetBlink](https://tweetbl.ink/) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF LIFETIME**, code **BLACKFRIDAY2025** | 2025-11-28 |
-| Searchly Pro– AI Search Plugin for WordPress | Super-accurate AI search that replaces slow, inaccurate WordPress default search. | 89% OFF Black Friday 2025 | https://searchly.pro |
+| 🔍 | [Searchly Pro](https://searchly.pro) | AI Search Plugin for WordPress. Super-accurate AI search that replaces slow, inaccurate WordPress default search. | 89% OFF (auto applied) | 2025-11-28 |
 
 
 ### Lifestyle
