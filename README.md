@@ -1080,7 +1080,7 @@ It's free & open-source. Enjoy! 🚀
 | 🫂 | [Indie Masterminds Community](https://indiemasterminds.com/) | Tight Knit Community of Indie Hackers going from 0 to $5K MRR | 50% OFF with Code BFCM25 |
 | 🔡 | [FontVisual](https://fontvisual.com/) | Font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | 40% OFF on Yearly plan with Code BFCM2025 |
 | 💍 | [WedPicsQR](https://wedpicsqr.com) | QR-based photo collection for weddings/events. No apps, no logins—guests scan, upload, and everything is organized automatically. | **30%** OFF with code **RBD2025** |
-
+| 🎮 | [LaunchBox](https://go.launchbox.gg/rbd-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
