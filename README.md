@@ -1108,6 +1108,7 @@ Free & open-source.
 | 💍 | [WedPicsQR](https://wedpicsqr.com) | QR-based photo collection for weddings/events. No apps, no logins—guests scan, upload, and everything is organized automatically. | **30%** OFF with code **RBD2025** |
 | 🤖 | [Gunbot](https://gunbot.com) | Self hosted crypto trading bot for automated spot, futures, and DeFi trading on 20+ exchange, fully customizable strategies. | **62% OFF** on all lifetime plans | 2025-12-25
 | 🎮 | [LaunchBox](https://go.launchbox.gg/rbd-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout | 2025-12-02 |
+| 🚀 | [Startup Buffer](https://startupbuffer.com) | Curated directory of resources, tools, and deals for startups. Discover everything you need to build and grow your startup. | **50% OFF** with code **BF50** | 2025-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
