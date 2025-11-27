@@ -512,7 +512,7 @@ Free & open-source.
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 | 📸 | [PicFlic](https://apps.apple.com/us/app/gallery-cleaner-picflic/id6751328044) | Gallery cleaner - rage swipe like there is no tomorrow. Undo any time. Free up your phone for more apps. | **Lifetime FREE** until Cyber Monday | 2025-12-01 |
 | 📸 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | 2025-12-04 |
-| 📸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 📸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | **75% OFF** Lifetime (auto-applied), 2025-12-04 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 
 
