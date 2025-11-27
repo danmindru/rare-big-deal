@@ -500,6 +500,7 @@ Free & open-source.
 | ⭐ | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | **50% OFF** lifetime plan (No code needed) | 2025-12-02 |
+| 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
 
 
 ### Photos & Videos
@@ -527,6 +528,7 @@ Free & open-source.
 | 💪 | [30 Day Workout - QuickFit](https://apps.apple.com/us/app/30-day-workout-quickfit/id6744751294) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | **50% OFF** lifetime plan | 2025-11-30 |
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25) | 2025-12-02 |
 | 🐣 | [Steps & Beasts - Gamified Step Counter](https://apps.apple.com/app/id6670788226) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | **33% OFF** lifetime plan (IAP) | 2025-11-30 |
+| 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
 
 
 ### Hobby & Lifestyle
