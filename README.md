@@ -817,6 +817,7 @@ Free & open-source.
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 | 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
+| 📈 | [AI Search Analytics](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice in LLMs across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | 2025-11-30 |
 
 
 ### Analyze & Audit
