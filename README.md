@@ -178,6 +178,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | Clappia | Clappia is an AI-powered no-code app builder that lets businesses create custom apps using 100+ pre-built components. Build workflows, automate processes, capture GPS & photos, generate PDFs, and create dashboards — all without writing any code. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
 | 💸 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | 2025-12-31 |
 
+
 ### Browser Extensions
 
 | | Name | Description | Deal | Expires on date |
@@ -246,7 +247,6 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** Lifetime Deal | 2025-12-02 |
 
 
-
 ### Productivity
 
 | | Name | Description | Deal | Expires on date |
@@ -284,6 +284,7 @@ It's free & open-source. Enjoy! 🚀
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup | 2025-12-22 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
+
 
 ### Other
 
@@ -822,7 +823,6 @@ It's free & open-source. Enjoy! 🚀
 | 🚦 | [YourWebsiteScore](https://yourwebsitescore.com) | Complete website audit plus live trust badge, daily monitoring and a do-follow backlink via your certified page. | **$25 Lifetime (29% OFF)** auto-applied | 2025-12-01 |
 
 
-
 ### Content Creation
 
 | | Name | Description | Deal | Expires on date |
@@ -832,6 +832,7 @@ It's free & open-source. Enjoy! 🚀
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
 | 📝 | [SEOengine.ai](https://seoengine.ai) | Deploys 5 specialized AI agents that analyze competitors, mine real user questions and generate AEO-optimized articles in your authentic brand voice. | 35% OFF with code **BLACKFRIDAY** | 2025-12-07 |
 | ❄️ | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plans, auto-applied at checkout (Limited Time) |
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -916,7 +917,6 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [KAppMaker](https://kappmaker.com/) | Make Mobile Apps in less than a Week | 40% OFF with code **BLACKFRIDAY40** | 2025-12-01 |
 
 
-
 ### Laravel
 
 | | Name | Description | Deal | Expires on date |
@@ -947,7 +947,6 @@ It's free & open-source. Enjoy! 🚀
 | 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤑 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable 1000+ shadcn ui Components & variants, 550+ Blocks, Figma UI Kit, AI MCP, 20+ Templates and AI Powered Theme Generator. | Flat **30% OFF** with code **BFCM30SS** | 2025-12-01 |
 | 🤑 | [FlyonUI](https://flyonui.com) | Fully customizable 80+ Tailwind ui Components & variants, 500+ Blocks, Figma UI Kit, AI MCP, & 20+ Templates | Flat **30% OFF** with code **BFCM30FY** | 2025-12-01 |
-
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1095,7 +1094,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔡 | [FontVisual](https://fontvisual.com/) | Font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | 40% OFF on Yearly plan with Code BFCM2025 |
 | 💍 | [WedPicsQR](https://wedpicsqr.com) | QR-based photo collection for weddings/events. No apps, no logins—guests scan, upload, and everything is organized automatically. | **30%** OFF with code **RBD2025** |
 | 🤖 | [Gunbot](https://gunbot.com) | Self hosted crypto trading bot for automated spot, futures, and DeFi trading on 20+ exchange, fully customizable strategies. | **62% OFF** on all lifetime plans | 2025-12-25
-
+| 🎮 | [LaunchBox](https://go.launchbox.gg/rbd-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
