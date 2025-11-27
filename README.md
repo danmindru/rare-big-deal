@@ -3,9 +3,11 @@ Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **tvOS Apps*
 
 ----
 
-Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls). <br/> Made with ❤️ by [Dan]( https://x.com/d4m1n) with [PageAI](https://pageai.pro).
+Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls).<br/>
+Each app added to the README gets a product page + backlink from [rarebigdeal.com](https://rarebigdeal.com?utm_source=github&utm_campaign=readme). It's all automagic ✨
 
-It's free & open-source. Enjoy! 🚀
+Free & open-source.
+<br/> Made with ❤️ by [Dan]( https://x.com/d4m1n) with [PageAI](https://pageai.pro?utm_source=github&utm_campaign=readme).
 
 - [Developer Tools](#developer-tools)
   - [macOS Apps](#macos-apps)
