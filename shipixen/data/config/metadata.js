@@ -1,7 +1,8 @@
+const year = new Date().getFullYear();
+
 const metadata = {
-  title: 'Deals and Discounts on Apps, AI, Mac, iOS, SaaS & Web. 2025 edition!',
-  description:
-    'Get rare limited time deals and discounts on selected iOS, Mac, SaaS, AI and Web apps. Save big on Black Friday, Cyber Monday & more. 2025 edition!',
+  title: `Deals and Discounts on Apps, AI, Mac, iOS, SaaS & Web. RBD ${year} edition!`,
+  description: `Discover the best limited time discounts on selected iOS, Mac, SaaS, AI and Web apps on RBD. Save big on Black Friday, Cyber Monday & lifetime deals. ${year} edition!`,
   domain: 'rarebigdeal.com',
   logoTitle: 'Rare Big Deal',
   businessName: 'Rare Big Deal',

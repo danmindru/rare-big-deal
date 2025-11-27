@@ -316,7 +316,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 | 2025-11-30 |
+| 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 | 2026-11-30 |
 | 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights with AI. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
