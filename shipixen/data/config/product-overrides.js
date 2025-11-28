@@ -965,6 +965,14 @@ module.exports = {
         'Tools',
       ],
     },
+    paste: {
+      metaTitle: 'Your clipboard, supercharged and secure',
+      metaDescription:
+        'Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design.\n\n**Infinite clipboard history**\n**Blazing fast index and search**\n**Smart list**\n**Unlimited storage**\n**Private by design**',
+      tags: ['Clipboard', 'macOS', 'Productivity', 'Tools', 'Utility', 'iOS'],
+      logo: '/public/static/images/overrides/paste/logo.png',
+      ogImages: ['/public/static/images/overrides/paste/ogImage.jpg'],
+    },
     'pastepal-clipboard-manager': {
       metaTitle: 'Unlimited history with blazing fast index and search.',
       metaDescription:
