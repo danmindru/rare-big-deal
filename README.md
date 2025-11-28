@@ -180,6 +180,8 @@ Free & open-source.
 | 🖥️ | Clappia | Clappia is an AI-powered no-code app builder that lets businesses create custom apps using 100+ pre-built components. Build workflows, automate processes, capture GPS & photos, generate PDFs, and create dashboards — all without writing any code. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
 | 💸 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | 2025-12-31 |
 | 📄 | [Sassydb](https://saasydb.com) | a SaaS company database for marketers, with leads not found elsewhere | Discount code is BF30 for **30% off** any plan | 2025-12-02 |
+| Searchly Pro | Boost WordPress search accuracy with fast, intelligent AI-powered results | 50% OFF Black Friday – Limited Time | https://searchly.pro/black-friday-offer/ |
+
 
 
 
