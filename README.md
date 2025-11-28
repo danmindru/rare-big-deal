@@ -225,6 +225,7 @@ Free & open-source.
 | 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | 2025-12-02 |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -314,6 +315,7 @@ Free & open-source.
 | 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=rbd) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** | 2025-12-15 |
 | 🐦 | [TweetBlink](https://tweetbl.ink/) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF LIFETIME**, code **BLACKFRIDAY2025** | 2025-11-28 |
 | 🔍 | [Searchly Pro](https://searchly.pro) | AI Search Plugin for WordPress. Super-accurate AI search that replaces slow, inaccurate WordPress default search. | 89% OFF (auto applied) | 2025-11-28 |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 ### Lifestyle
@@ -597,6 +599,7 @@ Free & open-source.
 | 🖼️ | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🎨 | [IconSprint](https://iconsprint.com) | Create iOS and Android app icons with dark mode, tinted, and mono variants in one click. | **40% OFF** with code **BF2025** | 2025-12-02 |
 | 🛋️ | [Instant Interior AI](https://InstantInteriorAI.com) | Transform any space with AI-generated interior design. Virtually stage or redesign interiors in seconds — perfect for professionals and homeowners. | **30% OFF** all plans with code BLACKFRIDAY30 | 2025-11-29 |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 ### Video Tools
