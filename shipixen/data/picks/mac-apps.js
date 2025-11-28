@@ -5,6 +5,7 @@ module.exports = {
     'Screen Studio',
     'Sip',
     'Clobbr',
+    'Paste',
     'Compresto',
     'BoltAI',
     'Xnapper',

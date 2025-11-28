@@ -199,6 +199,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
@@ -223,7 +224,7 @@ Free & open-source.
 | 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | 2025-12-02 |
-| 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -399,6 +400,7 @@ Free & open-source.
 | 🔢 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | **40% OFF** auto applied | 2025-12-02 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 | ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** | 2025-12-08 |
+| 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 
 
 ### Design Tools
@@ -510,7 +512,8 @@ Free & open-source.
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | **50% OFF** lifetime plan (No code needed) | 2025-12-02 |
 | 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
-| 🗓️ | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | Nov 27 - Dec 5 |
+| 🗓️ | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | 2025-12-05 |
+| 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 
 
 ### Photos & Videos
@@ -539,7 +542,7 @@ Free & open-source.
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25) | 2025-12-02 |
 | 🐣 | [Steps & Beasts - Gamified Step Counter](https://apps.apple.com/app/id6670788226) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | **33% OFF** lifetime plan (IAP) | 2025-11-30 |
 | 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
-| 🪷 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) with code **BF25** or [with this link](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25) | Nov 27 - Dec 5 |
+| 🪷 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) with code **BF25** or [with this link](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25) | 2025-12-05 |
 
 
 ### Hobby & Lifestyle
@@ -564,7 +567,7 @@ Free & open-source.
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 🛜 | [Data Plan - Network Usage](https://apps.apple.com/app/apple-store/id1559813249) | The ultimate network data tracking app. | **33% OFF** on yearly and lifetime plans with cide **RARE33**. | 2025-12-02 |
 | 🔋 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | 2025-12-31 |
-| 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied) | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 
 
@@ -683,8 +686,7 @@ Free & open-source.
 | 💼 | [Zeke](https://zeke.so) | Job search toolkit with personal portfolio builder (read.cv alternative). Craft and augment resumes based on job descriptions, generate cover letters, and showcase your work. | Coupon code **BLACKFRIDAY25** | |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🚀 | [Hyud](https://www.hyud.app?ref=rare-big-deal) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF with code **BLACKFRIDAY50** | 2025-11-30 |
-| 🗑️ | [BskyDelete](https://bskydelete.com/?ref=rare-big-deal) | Bulk-delete all your Bluesky posts instantly — private, fast, and 100% client-side.  | 30% OFF with code **EXNZKWOA** | 2025-12-31 |
-
+| 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1116,6 +1118,7 @@ Free & open-source.
 | 🤖 | [Gunbot](https://gunbot.com) | Self hosted crypto trading bot for automated spot, futures, and DeFi trading on 20+ exchange, fully customizable strategies. | **62% OFF** on all lifetime plans | 2025-12-25
 | 🎮 | [LaunchBox](https://go.launchbox.gg/rbd-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout | 2025-12-02 |
 | 🚀 | [Startup Buffer](https://startupbuffer.com) | Curated directory of resources, tools, and deals for startups. Discover everything you need to build and grow your startup. | **50% OFF** with code **BF50** | 2025-12-07 |
+| 🗑️ | [BskyDelete](https://bskydelete.com/?ref=rare-big-deal) | Bulk-delete all your Bluesky posts instantly — private, fast, and 100% client-side.  | 30% OFF with code **EXNZKWOA** | 2025-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)

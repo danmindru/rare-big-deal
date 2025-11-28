@@ -5,6 +5,7 @@ module.exports = {
     'Sentry',
     'Screen Studio',
     'Page AI',
+    'Paste',
     'BoltAI',
     'Xnapper',
     'Sip',
