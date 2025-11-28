@@ -682,6 +682,8 @@ Free & open-source.
 | 💼 | [Zeke](https://zeke.so) | Job search toolkit with personal portfolio builder (read.cv alternative). Craft and augment resumes based on job descriptions, generate cover letters, and showcase your work. | Coupon code **BLACKFRIDAY25** | |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🚀 | [Hyud](https://www.hyud.app?ref=rare-big-deal) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF with code **BLACKFRIDAY50** | 2025-11-30 |
+| 🗑️ | [BskyDelete](https://bskydelete.com/?ref=rare-big-deal) | Bulk-delete all your Bluesky posts instantly — private, fast, and 100% client-side.  | 30% OFF with code **EXNZKWOA** | 2025-12-31 |
+
 
 
 [⬆️ All categories](#table-of-contents)
