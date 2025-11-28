@@ -402,6 +402,7 @@ Free & open-source.
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-04 |
 | ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** | 2025-12-08 |
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
+| 🔷 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF Lifetime** ($20 → $10) | 2025-12-07 |
 
 
 ### Design Tools
@@ -445,6 +446,7 @@ Free & open-source.
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **50% OFF** Lifetime Updates. Pay once. | 2025-11-30 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
+| 🧿 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF Lifetime** ($10 → $5) | 2025-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
