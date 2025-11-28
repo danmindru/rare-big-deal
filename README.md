@@ -138,6 +138,7 @@ Free & open-source.
 | 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is **end-to-end encrypted** with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS.  | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Lifetime | 2025-12-05 |
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
 | 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
+| 📋 | [CopyMagic](https://copymagic.app/?ref=rare) | The smartest, most-intuitive clipboard manager for Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-10 |
 
 
 ### APIs, Tools & SaaS
