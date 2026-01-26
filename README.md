@@ -318,6 +318,7 @@ Free & open-source.
 | 🐦 | [TweetBlink](https://tweetbl.ink/) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF LIFETIME**, code **BLACKFRIDAY2025** | 2025-11-28 |
 | 🔍 | [Searchly Pro](https://searchly.pro) | AI Search Plugin for WordPress. Super-accurate AI search that replaces slow, inaccurate WordPress default search. | 89% OFF (auto applied) | 2025-11-28 |
 | ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
+| 🧠 | [Quizify](https://quizify.io/?utm_source=rarebigdeal) | AI-powered platform for creating interactive quizzes, forms, and surveys without coding. | **25% OFF** Annual plan with code **RAREBIGDEAL25** | 2026-12-31 |
 
 
 ### Lifestyle
@@ -815,6 +816,7 @@ Free & open-source.
 | 📈 | [NameKnow.com](https://NameKnow.com) | Curated Domain Name Marketplace| **20% OFF** with code **RAREBIGDEAL2025**. | 2025-12-07 |
 | 🥇 | [Product Hunt Workbook ](https://launchpedia.co/product-hunt-workbook/) | A Proven BluePrint to Rank On Top Of Product Hunt | **60% OFF** with code **BF60** | 2025-12-01 |
 | 🥇 | [NameScore](https://namescore.io) | NameScore checks names for trademark conflicts, domain availability, and linguistic quality | **70% OFF** with code **BF2025** | 2025-12-01 |
+| 🧠 | [Quizify](https://quizify.io/?utm_source=rarebigdeal) | Create engaging marketing quizzes and lead generation funnels in minutes. Perfect for email list building, segment audiences, and customer engagement. | **25% OFF** Annual plan with code **RAREBIGDEAL25** | 2026-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
