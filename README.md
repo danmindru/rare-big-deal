@@ -1002,6 +1002,7 @@ Free & open-source.
 | 🚀 | [LukCode E-Books](https://www.lukcode.com/?promoCode=BLACKFRIDAY50) | Learn tactics I'm using for making money online! | **50% off** with code `BLACKFRIDAY50` | 2025-12-01 |
 | 🧑‍💻 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & certification training for certificates like the CompTIA Security+ SY0-701 certificate. | **20% OFF ALL Plans, Including Lifetime** with code **BLKFRI20** | 2025-12-05 |
 | 🧪 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to test React based frontend applications | **25% off** with BLACKFRIDAYDEAL2025 | 2025-12-05 |
+| 🎓 | [FindExams](https://findexams.com) | Realistic mock exams and timed simulations for PMP, PMI-ACP, PMI-PBA, IIBA-AAC & ITIL 4. | [60% OFF Women’s Day Discount](https://findexams.com/blog/update/pmi-pba-womens-day-discount) | 2026-03-15 |
 
 
 ### Art Courses
