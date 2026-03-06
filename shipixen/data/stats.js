@@ -1,1 +1,1 @@
-module.exports = { stars: 360, forks: 494, contributors: 434 };
+module.exports = { stars: 370, forks: 480, contributors: 435 };
