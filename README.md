@@ -182,6 +182,7 @@ Free & open-source.
 | 🖥️ | Clappia | Clappia is an AI-powered no-code app builder that lets businesses create custom apps using 100+ pre-built components. Build workflows, automate processes, capture GPS & photos, generate PDFs, and create dashboards — all without writing any code. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
 | 💸 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | 2025-12-31 |
 | 📄 | [Sassydb](https://saasydb.com) | a SaaS company database for marketers, with leads not found elsewhere | Discount code is BF30 for **30% off** any plan | 2025-12-02 |
+| 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 
 
 
@@ -318,6 +319,7 @@ Free & open-source.
 | 🐦 | [TweetBlink](https://tweetbl.ink/) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF LIFETIME**, code **BLACKFRIDAY2025** | 2025-11-28 |
 | 🔍 | [Searchly Pro](https://searchly.pro) | AI Search Plugin for WordPress. Super-accurate AI search that replaces slow, inaccurate WordPress default search. | 89% OFF (auto applied) | 2025-11-28 |
 | ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
+| 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 
 
 ### Lifestyle
@@ -337,6 +339,7 @@ Free & open-source.
 | 🥗 | [Food Camera](https://www.food.camera/?via=rare-big) | Get professional Food Photography for your resturant in seconds  | 20% OFF with code RAREBIG20 | 2025-11-30 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 50% OFF with code **BLACKFRIDAY50** |
 | 📖 | [Meminto Stories](https://meminto.com/) | Receive prompts to write a hardcover book based on life questions and AI transcriptions from audio recordings. | 88% OFF with code **BF2025** | 2025-12-02 |
+| 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -564,6 +567,7 @@ Free & open-source.
 | 🗺️ | [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | 2025-12-31 |
 | 💸 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied) | 2025-12-04 |
 | 🎴 | [Eyevo - TCG Scanner for Pokemon](https://eyevotcg.com/) | Scan, price, and manage your Pokemon TCG collection | **70% OFF** Lifetime PRO (auto-applied in app) | 2025-12-03 |
+| 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 
 
 ### Other
@@ -578,6 +582,7 @@ Free & open-source.
 | 🔋 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | 2025-12-31 |
 | 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied) | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
+| 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1132,6 +1137,7 @@ Free & open-source.
 | 🎮 | [LaunchBox](https://go.launchbox.gg/rbd-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout | 2025-12-02 |
 | 🚀 | [Startup Buffer](https://startupbuffer.com) | Curated directory of resources, tools, and deals for startups. Discover everything you need to build and grow your startup. | **50% OFF** with code **BF50** | 2025-12-07 |
 | 🗑️ | [BskyDelete](https://bskydelete.com/?ref=rare-big-deal) | Bulk-delete all your Bluesky posts instantly — private, fast, and 100% client-side.  | 30% OFF with code **EXNZKWOA** | 2025-12-31 |
+| 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
