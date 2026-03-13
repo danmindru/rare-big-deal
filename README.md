@@ -337,6 +337,7 @@ Free & open-source.
 | 🥗 | [Food Camera](https://www.food.camera/?via=rare-big) | Get professional Food Photography for your resturant in seconds  | 20% OFF with code RAREBIG20 | 2025-11-30 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 50% OFF with code **BLACKFRIDAY50** |
 | 📖 | [Meminto Stories](https://meminto.com/) | Receive prompts to write a hardcover book based on life questions and AI transcriptions from audio recordings. | 88% OFF with code **BF2025** | 2025-12-02 |
+| 📸 | [ProfessionalHeadshot.io](https://professionalheadshot.io) | AI professional headshot generator — upload selfies, get studio-quality photos in 15 minutes, from $29 one-time. No subscription. | One-time from **$29** |
 
 
 [⬆️ All categories](#table-of-contents)
