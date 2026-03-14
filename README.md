@@ -340,6 +340,7 @@ Free & open-source.
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 50% OFF with code **BLACKFRIDAY50** |
 | 📖 | [Meminto Stories](https://meminto.com/) | Receive prompts to write a hardcover book based on life questions and AI transcriptions from audio recordings. | 88% OFF with code **BF2025** | 2025-12-02 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
+| 📸 | [ProfessionalHeadshot.io](https://professionalheadshot.io) | AI professional headshot generator — upload selfies, get studio-quality photos in 15 minutes, from $29 one-time. No subscription. | One-time from **$29** |
 
 
 [⬆️ All categories](#table-of-contents)
