@@ -300,6 +300,7 @@ Free & open-source.
 | 🤖 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** on all plans with code **CXBLACK2025** | 2025-12-03 |
 | 🩵 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan | 2025-11-30 |
 | 👁️‍🗨️ | [VisionGPT Extension](https://www.visiongpthq.com/) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** | 2025-12-31 |
+| 🎨 | [Editaimg](https://editaimg.com/) | AI-powered image editor to remove bg, edit text, upscale, and swap faces instantly | 20% off Credit Packs - EgcSBNSY | 2026-01-03 |
 
 
 ### Other
