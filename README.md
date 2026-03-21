@@ -528,6 +528,7 @@ Free & open-source.
 | 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
 | 🗓️ | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | 2025-12-05 |
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
+| 📸 | [DatePhotos.AI](https://datephotos.ai) | AI-powered dating photo generator. Upload selfies, get 80-180 professional photos optimized for Tinder, Bumble, and Hinge in 20 minutes. | **Introductory Offer** | 2026-01-31 |
 
 
 ### Photos & Videos
