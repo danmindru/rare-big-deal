@@ -1110,6 +1110,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
+| 💰 | [13F Insight](https://13finsight.com) | Track hedge fund portfolios via SEC 13F filings. See exactly what Buffett, Dalio, and 5,000+ institutions buy and sell each quarter. | **20% OFF** Pro plan with code **RBD20** | - |
 
 
 ### Expense tracking
