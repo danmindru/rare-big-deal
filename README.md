@@ -322,6 +322,7 @@ Free & open-source.
 | ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 | 🧠 | [Quizify](https://quizify.io/?utm_source=rarebigdeal) | AI-powered platform for creating interactive quizzes, forms, and surveys without coding. | **25% OFF** Annual plan with code **RAREBIGDEAL25** | 2026-12-31 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
+| | [Foca Upscaler](https://focaupscaler.com) | AI image upscaler and enhancer for improving blurry, low-resolution, and compressed images while preserving realistic textures and natural detail. | Get **15 free credits on signup** and **20% OFF** first payment with code **RAREBIGDEAL20** | 2026-05-31 |
 
 
 ### Lifestyle
