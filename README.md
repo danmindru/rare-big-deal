@@ -380,7 +380,7 @@ Free & open-source.
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
 | ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
-| ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
+| ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-30 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
@@ -392,7 +392,7 @@ Free & open-source.
 | 🗜️ | [Zipic](https://zipic.app?ref=rare-big-deal) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 | 🔋 | [Juicy – Mac Battery Alerts](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25" | 2025-12-02
 | 🔎 | [Fenn](https://usefenn.com/?utm=rare-big-deal) | AI File Search Agent for MacOS. 100% private. | 50% OFF with code **BLACKFRIDAY** | 2025-12-01 |
-| 📋 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 2025-12-7 |
+| 📋 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 2025-12-07 |
 | ⚡ | [DeskRest](https://deskrest.com/offers/) | DeskRest is a smart break reminder that helps reduce eye strain, supports better posture, and promotes work-life balance through beautiful, non-intrusive reminders | 60% OFF with code **BLACKFRIDAY** | 2025-12-03 |
 | 🎙️ | [Speakmac](https://speakmac.app/?ref=rarebigdeal) | Offline speech-to-text for macOS. Hit a hotkey and Speakmac types into any input with punctuation-perfect text, zero cloud uploads, and no subscription. | **25% OFF** 2-Mac Pro license (drops to $21.75 one-time) with code **RAREBIGDEAL25** | 2025-12-05 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
@@ -578,7 +578,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer link only](https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) | Nov 30 2025 |
+| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer link only](https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) | 2025-11-30 |
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
@@ -987,7 +987,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🤑 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** | 2025-12-02 |
-| ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-31 |
+| ✳️ | [Tailkits UI](https://tailkits.com/ui/) | MCP Ready Tailwind Components | Up to **with code BLACKFRIDAY2025**| 2025-11-30 |
 | 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤑 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable 1000+ shadcn ui Components & variants, 550+ Blocks, Figma UI Kit, AI MCP, 20+ Templates and AI Powered Theme Generator. | Flat **30% OFF** with code **BFCM30SS** | 2025-12-01 |
 | 🤑 | [FlyonUI](https://flyonui.com) | Fully customizable 80+ Tailwind ui Components & variants, 500+ Blocks, Figma UI Kit, AI MCP, & 20+ Templates | Flat **30% OFF** with code **BFCM30FY** | 2025-12-01 |
