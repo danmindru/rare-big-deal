@@ -140,6 +140,7 @@ Free & open-source.
 | 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 | 📋 | [CopyMagic](https://copymagic.app/?ref=rare) | The smartest, most-intuitive clipboard manager for Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-10 |
 | 🔔 | [RevenueNotify](https://revenuenotify.com/) | Get real-time Polar.sh notifications for new sales and subscriptions | **$40 OFF** with code **RNBL25** | 2025-12-12 |
+| 🎬 | [ShipClip](https://shipclip.app) | Native Mac screen recorder with zoom-to-click, multi-track audio, camera PiP with background removal, and shareable links with viewer analytics. | **50% OFF** founder pricing at $4.99/mo |  |
 
 
 ### APIs, Tools & SaaS
