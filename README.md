@@ -995,6 +995,7 @@ Free & open-source.
 | 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤑 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable 1000+ shadcn ui Components & variants, 550+ Blocks, Figma UI Kit, AI MCP, 20+ Templates and AI Powered Theme Generator. | Flat **30% OFF** with code **BFCM30SS** | 2025-12-01 |
 | 🤑 | [FlyonUI](https://flyonui.com) | Fully customizable 80+ Tailwind ui Components & variants, 500+ Blocks, Figma UI Kit, AI MCP, & 20+ Templates | Flat **30% OFF** with code **BFCM30FY** | 2025-12-01 |
+| 🤑 | [Shadcn Space](https://shadcnspace.com/) | A collection of beautifully designed, accessible, and composable free and Pro 320+ Shadcn UI blocks, 240+ components, and 9+ templates for your React/Next.js apps. Support both Base UI and Radix UI, styled with Tailwind CSS, it is ready to copy-paste or install via the Shadcn CLI. | Flat **20% OFF** with code **WP20** | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
