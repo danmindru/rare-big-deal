@@ -419,6 +419,7 @@ Free & open-source.
 | ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** | 2025-12-08 |
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 | 🔷 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF Lifetime** ($20 → $10) | 2025-12-07 |
+| 🗂️ | [Pastery](https://pasteryapp.com/?utm_source=rare-big-deal) | Native smooooth macOS clipboard manager with searchable history, OCR search inside screenshots, app/date/type filters, and text transforms before pasting. | **50% OFF** with code **RAREBIGDEAL50** | 2026-09-04 |
 
 
 ### Design Tools
