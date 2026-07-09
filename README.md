@@ -745,6 +745,7 @@ Free & open-source.
 | 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
 | ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 | 🗓️ | [Mixpost](https://mixpost.app/?utm_source=rarebigdealbf&utm_campaign=blackfriday_2025) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | **23% OFF** — automatically applied | 2025-12-02 |
+| 📝 | [Social Text Tools](https://socialtexttools.net/#tool) | Free LinkedIn text formatter to add Unicode bold, italic, lists and publish checks to posts, profiles, comments and messages before copying back to LinkedIn. | **Free LinkedIn Text Formatter** - no login required for the core formatter, preview and copy workflow | |
 
 
 ### Sales Tools
