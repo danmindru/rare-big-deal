@@ -464,6 +464,7 @@ Free & open-source.
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **30% OFF** Lifetime Updates. Pay once. | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 | 🧿 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF Lifetime** ($10 → $5) | 2025-12-07 |
+| ☕ | [Perked](https://tryperked.app/?utm_source=rare-big-deal) | Keep your Mac awake while Claude Code, Cursor, and other AI agents work - Power-aware, works lid-closed, no account. | **up to 85 OFF% Launch Offer - (code automatically applied) | 2026-31-12 |
 
 
 [⬆️ All categories](#table-of-contents)
