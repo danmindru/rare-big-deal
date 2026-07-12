@@ -59,7 +59,16 @@ const Header = ({
               className="nav-link hidden sm:block"
               activeClassName="nav-link-active"
             >
-              <span>{link.title}</span>
+              <span className="relative">
+                {link.title}
+
+                {link.href === '/expires-soon' && (
+                  <span className="absolute top-0 -right-2 flex size-2">
+                    <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"></span>
+                    <span className="relative inline-flex size-2 rounded-full bg-red-500"></span>
+                  </span>
+                )}
+              </span>
             </ActiveLink>
           ))}
         </div>

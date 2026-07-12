@@ -165,21 +165,21 @@ export default function PostLayout({
   }
 
   const getRecommendedProducts = () => {
-    // Get top 20 ranked products (excluding current)
+    // Get top 25 ranked products (excluding current)
     const topProducts = allProducts
       .filter(
         (product) =>
           product.slug !== slug &&
           product.leaderboardPosition &&
           product.leaderboardPosition > 0 &&
-          product.leaderboardPosition <= 20,
+          product.leaderboardPosition <= 25,
       )
       .sort(
         (a, b) =>
           (a.leaderboardPosition || 999) - (b.leaderboardPosition || 999),
       );
 
-    // Randomly select 3 from top 20
+    // Randomly select 3 from top 25
     const selectedTopProducts = shuffleArray([...topProducts]).slice(0, 3);
 
     // Get category matches (excluding current and selected top products)

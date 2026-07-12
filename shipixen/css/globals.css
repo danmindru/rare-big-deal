@@ -139,7 +139,7 @@
   }
 
   .nav-link-active {
-    @apply opacity-80 py-2 rounded text-primary-500 dark:text-slate-400;
+    @apply opacity-80 rounded text-primary-500 dark:text-slate-400;
   }
 
   .nav-link {

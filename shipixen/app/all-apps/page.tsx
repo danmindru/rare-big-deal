@@ -48,6 +48,10 @@ export default function AllAppsPage() {
                   'Redac',
                   'ResizeGenius',
                   'Side Projects Making $$$+',
+                  'MGC Animation',
+                  'MGC ICON',
+                  'MGC Weather',
+                  'Triggla',
                 ].includes(post.title.trim())
               ) {
                 return false;

@@ -1,15 +1,17 @@
 'use client';
 
+import { formatDate } from '@/lib/date-utils';
+
 interface ExpirationDateProps {
   date: string;
 }
 
 export default function ExpirationDate({ date }: ExpirationDateProps) {
-  const formattedDate = new Intl.DateTimeFormat('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  }).format(new Date(date));
+  const formattedDate = formatDate(date);
+
+  if (!formattedDate) {
+    return null;
+  }
 
   return (
     <p className="text-sm text-muted-foreground mt-2">
