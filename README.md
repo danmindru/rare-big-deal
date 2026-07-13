@@ -689,7 +689,7 @@ Free & open-source.
 | ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
 | 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) | 2025-12-01 |
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
-
+| 🎬 | [GifMaker.top](https://gifmaker.top) | Free online GIF tools including GIF maker, video to GIF, GIF compressor, and more. | Free to use | |
 
 ### Marketing
 
