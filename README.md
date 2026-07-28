@@ -267,6 +267,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 📮 | [ChatTempMail](https://chat-tempmail.com) |AI-Powered Temporary Email Service |**30% OFF** with discount code **M61MGFL89W** |2025-11-28 |
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🎵 | [SongLyricsLab](https://songlyricslab.com?utm_source=rarebigdeal) | Free AI song lyrics generator for structured, singable drafts. Start from a scene or feeling, build verses and hooks, and create cleaner lyrics before sending them to Suno or Udio. | **FREE forever** — no signup required |  |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 📊 | [GenPPT](https://genppt.com) | AI-powered presentation generation tool. Create pitch decks and presentations using templates and AI. Turn ideas into polished slides quickly. | **25% OFF** with code **BF25** | 2025-12-01 |
