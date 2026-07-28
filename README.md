@@ -348,6 +348,7 @@ Free & open-source.
 | 📖 | [Meminto Stories](https://meminto.com/) | Receive prompts to write a hardcover book based on life questions and AI transcriptions from audio recordings. | 88% OFF with code **BF2025** | 2025-12-02 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 | 📸 | [ProfessionalHeadshot.io](https://professionalheadshot.io) | AI professional headshot generator — upload selfies, get studio-quality photos in 15 minutes, from $29 one-time. No subscription. | One-time from **$29** |
+| 🎨 | [Trazia](https://trazia.art) | Free AI coloring page generator — turn any idea or photo into clean, printable coloring pages for kids & adults. 6 art styles, toddler-to-adult difficulty, 230+ ready-made pages, PDF books, 13 languages. | **25 free AI credits** on signup — no card needed | 2026-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
