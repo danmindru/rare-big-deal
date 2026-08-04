@@ -304,6 +304,7 @@ Free & open-source.
 | 🎨 | [Editaimg](https://editaimg.com/) | AI-powered image editor to remove bg, edit text, upscale, and swap faces instantly | 20% off Credit Packs - EgcSBNSY | 2026-01-03 |
 | 📸 | Add Person To Photo | AI-powered tool to seamlessly add anyone to group photos or images naturally | 20% discount - ADDME20 | 2027-05-18 |
 | 🎵 | Song Lyrics Review | AI-powered lyrics analysis and review tools for deep insights | 20% off - reviews20 | 2027-01-27 |
+| ✍️ | [IELTS Writing Checker](https://ieltswritingchecker.org/?utm_source=rarebigdeal) | AI-powered IELTS writing feedback for Academic Task 1, General Training Task 1, and Task 2, with score estimates and sentence-level corrections. | **30% OFF the first year** of the Yearly plan with code **RAREBIGDEAL** | 2026-08-31 |
 
 
 
