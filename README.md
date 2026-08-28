@@ -693,6 +693,9 @@ Free & open-source.
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
+| 🧹 | [AI Remover](https://airemover.org) | AI video text remover that removes text, subtitles, captions, and watermarks while keeping backgrounds natural. | **Up to 40% OFF** annual plans | |
+| 🎬 | [Text Remover](https://removetextfromvideo.com) | AI video cleanup tool that removes text, subtitles, watermarks, and overlays while preserving original video quality. | **30% OFF** annual plans | |
+
 ### Marketing
 
 | | Name | Description | Deal | Expires on date |
