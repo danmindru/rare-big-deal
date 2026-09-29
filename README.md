@@ -845,6 +845,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔗 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Full link building workflow for SEO & AI Search. Prospect, qualify, outreach, manage replies, and monitor links in one platform. | **72% OFF** for 3 months on [Black Friday Deal](https://www.uprankly.com/link-builder/black-friday) with code **BFCM72** | 2026-12-05 |
 | 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** | 2025-12-01 |
 | 🔗 | [LinkDR](https://linkdr.com) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | **25% OFF** with code **BF25** | 2025-12-01 |
 | 🔗 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
