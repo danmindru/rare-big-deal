@@ -636,6 +636,7 @@ Free & open-source.
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🍿 | [AnimStats.com](https://animstats.com/?ref=rarebigdeal) | Create viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform. 4 creation modes: Templates, Editor, AI Shorts, UGC Ads.  | 50% OFF first month with code **BF2025ALL** | 2025-12-02 |
+| 🎬 | [Kensa](https://www.kensa.cc/deals/black-friday?via=rbd&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance. Turn text, images or a product link into videos. | **25% OFF** the first year of yearly plans (code shown on the deal page) | 2026-12-01 |
 
 
 ### Social
