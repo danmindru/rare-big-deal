@@ -864,6 +864,7 @@ Free & open-source.
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 📈 | [AI Search Analytics](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice in LLMs across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | 2025-11-30 |
 | 🔍 | [PageRadar](https://pageradar.io) | Automated SEO monitoring platform - track Core Web Vitals, search rankings, and website changes in real-time. | **20% OFF** with code **RAREBIGDEAL** | 2026-01-31 |
+| 🔎 | [Karma.Domains](https://karma.domains/en/black-friday/) | AI-powered expired domains tool with Wayback Machine spam analysis, Karma Score, AI domain history summaries, a Public API and an MCP server for agents. | **50% OFF** yearly Unlimited & Pro plans for Black Friday 2026 (personal code claimed in the app) | 2026-11-30 |
 
 
 ### Analyze & Audit
