@@ -304,6 +304,7 @@ Free & open-source.
 | 🎨 | [Editaimg](https://editaimg.com/) | AI-powered image editor to remove bg, edit text, upscale, and swap faces instantly | 20% off Credit Packs - EgcSBNSY | 2026-01-03 |
 | 📸 | Add Person To Photo | AI-powered tool to seamlessly add anyone to group photos or images naturally | 20% discount - ADDME20 | 2027-05-18 |
 | 🎵 | Song Lyrics Review | AI-powered lyrics analysis and review tools for deep insights | 20% off - reviews20 | 2027-01-27 |
+| 🤳 | [Picmim](https://picmim.com/?utm_source=rarebigdeal&utm_campaign=annual50) | AI social media manager for small businesses — turns your website into a week of branded, ready-to-approve posts across every major platform. | **50% OFF** the first year of any annual plan with code **PICMIM50** | 2026-12-01 |
 
 
 
@@ -748,6 +749,7 @@ Free & open-source.
 | 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
 | ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 | 🗓️ | [Mixpost](https://mixpost.app/?utm_source=rarebigdealbf&utm_campaign=blackfriday_2025) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | **23% OFF** — automatically applied | 2025-12-02 |
+| 🤳 | [Picmim](https://picmim.com/?utm_source=rarebigdeal&utm_campaign=annual50) | AI social media manager that learns your brand from your website, plans your week of posts, and publishes everywhere — you just swipe to approve. | **50% OFF** the first year of any annual plan with code **PICMIM50** | 2026-12-01 |
 
 
 ### Sales Tools
