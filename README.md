@@ -924,6 +924,7 @@ Free & open-source.
 | 🤖 | [AI Starter Kit](https://aistarterkit.dev/pricing) | Build AI-powered applications using the Next.js-based AI Starter Kit. Integrated with OpenAI API and Vercel for production-ready apps. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
 | 🛍️ | [CozyCommerce](https://cozycommerce.dev/pricing) | Create an eCommerce store with 100+ UI components and 20+ pre-built pages built using Next.js and Tailwind CSS. Fully customizable and developer-friendly. | **30% Flat Discount** on All Plans with code **BLFCM2025** | 2025-12-02 |
 | 📊 | [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS Dashboard Template featuring 500+ ready-to-use UI components for HTML, React, Next.js, and Vue. Build modern dashboards easily. | **30% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
+| 🔑 | [Rindstack](https://kendeepp.gumroad.com/l/pdaeoo?utm_source=rarebigdeal&utm_campaign=bf2026-pdaeoo) | Small, readable Next.js 15 starter for selling licensed software: Lemon Squeezy checkout, signature-verified webhooks, license keys with per-plan device limits, and English/Chinese/Japanese UI. | **30% OFF** with code **BF30** (Personal $99 → $69.30) | 2026-12-01 |
 
 
 ### Astro
@@ -974,6 +975,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | [Larafast](https://larafast.com) | Laravel SaaS Starter Kit (now with Multi-Tenant Support) | 50% OFF on All Starter Kits **BLACKFRIDAY25** | 2025-12-05 |
+| 🧾 | [Billstack](https://kendeepp.gumroad.com/l/qrzrsa?utm_source=rarebigdeal&utm_campaign=bf2026-qrzrsa) | Invoice & billing portal UI components for Laravel Livewire: line items, tax summary, payment status badges and a filterable invoice list. Widgets only, bring your own payment provider. | **30% OFF** ($29 → $20.30) with code **BF30** | 2026-12-01 |
 
 
 ### Django
