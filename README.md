@@ -864,6 +864,7 @@ Free & open-source.
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 📈 | [AI Search Analytics](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice in LLMs across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | 2025-11-30 |
 | 🔍 | [PageRadar](https://pageradar.io) | Automated SEO monitoring platform - track Core Web Vitals, search rankings, and website changes in real-time. | **20% OFF** with code **RAREBIGDEAL** | 2026-01-31 |
+| 🤖 | [Supacite](https://supacite.com?ref=rbd) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` | 2026-12-07 |
 
 
 ### Analyze & Audit
@@ -884,6 +885,7 @@ Free & open-source.
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
 | 📝 | [SEOengine.ai](https://seoengine.ai) | Deploys 5 specialized AI agents that analyze competitors, mine real user questions and generate AEO-optimized articles in your authentic brand voice. | 35% OFF with code **BLACKFRIDAY** | 2025-12-07 |
 | ❄️ | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plans, auto-applied at checkout (Limited Time) | |
+| 🤖 | [Supacite](https://supacite.com?ref=rbd) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` | 2026-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
