@@ -421,6 +421,7 @@ Free & open-source.
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 | 🔷 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF Lifetime** ($20 → $10) | 2025-12-07 |
 | 🗂️ | [Pastery](https://pasteryapp.com/?utm_source=rare-big-deal) | Native smooooth macOS clipboard manager with searchable history, OCR search inside screenshots, app/date/type filters, and text transforms before pasting. | **50% OFF** with code **RAREBIGDEAL50** | 2026-09-04 |
+| 🪟 | [NeoTiler](https://getneotiler.com/?utm_source=rare-big-deal) | Native macOS window manager with keyboard shortcuts, custom snap areas, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. One-time purchase, no subscription. | **30% OFF** Lifetime License ($6.99) with code **BF30** | 2026-12-01 |
 
 
 ### Design Tools
