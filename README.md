@@ -374,6 +374,8 @@ Free & open-source.
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
 | 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🌐 | [Webhookify](https://webhookify.io/?ref=rbd) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **70% OFF** with the code **BLACKFRIDAY2025** (yearly plan) | 2025-12-14 |
+| 🧭 | [Atelier](https://appsbymo.app/atelier/?ref=rarebigdeal) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🔋 | [Vigil](https://appsbymo.app/vigil/?ref=rarebigdeal) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
 
 ### Productivity
 
@@ -421,6 +423,14 @@ Free & open-source.
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 | 🔷 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF Lifetime** ($20 → $10) | 2025-12-07 |
 | 🗂️ | [Pastery](https://pasteryapp.com/?utm_source=rare-big-deal) | Native smooooth macOS clipboard manager with searchable history, OCR search inside screenshots, app/date/type filters, and text transforms before pasting. | **50% OFF** with code **RAREBIGDEAL50** | 2026-09-04 |
+| 🗓️ | [Margin](https://appsbymo.app/margin/?ref=rarebigdeal) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 📸 | [Scry](https://appsbymo.app/scry/?ref=rarebigdeal) | Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$24~~ $12). Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| ✨ | [Thurayya](https://appsbymo.app/thurayya/?ref=rarebigdeal) | A Mac launcher that learns your routine: press a key and the apps, folders, files and sites you need next are already there. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🕯️ | [Wick](https://appsbymo.app/wick/?ref=rarebigdeal) | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); Mac App Store ~~$15.99~~ $7.99, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🔖 | [Yonder](https://appsbymo.app/yonder/?ref=rarebigdeal) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🌙 | [Soluna](https://appsbymo.app/soluna/?ref=rarebigdeal) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🙂 | [Mo](https://appsbymo.app/mo/?ref=rarebigdeal) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🩺 | [What Happened](https://appsbymo.app/whathappened/?ref=rarebigdeal) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
 
 
 ### Design Tools
@@ -449,6 +459,7 @@ Free & open-source.
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF | 2025-12-03 |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI word processor to draft and edit text on your device. 100% private. | **10% OFF LIFETIME** with promo code **BLACKFRIDAY10** | 2025-12-4 |
 | 📝 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | 2025-12-02 |
+| ✍️ | [Cue](https://appsbymo.app/cue/?ref=rarebigdeal) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 27 - Nov 30, 2026 | 2026-11-30 |
 
 
 ### Menu Bar & More
@@ -465,6 +476,8 @@ Free & open-source.
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **30% OFF** Lifetime Updates. Pay once. | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 | 🧿 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF Lifetime** ($10 → $5) | 2025-12-07 |
+| 📥 | [Chute](https://appsbymo.app/chute/?ref=rarebigdeal) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 😀 | [Emojist](https://appsbymo.app/emojist/?ref=rarebigdeal) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 27 - Nov 30, 2026 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -535,6 +548,10 @@ Free & open-source.
 | 💪 | [NooLife: 10 Week Habit Plan](https://apps.apple.com/app/noolife-10-week-habit-plan/id6754310402) | Change your life in 10 weeks through a personalized, science-based self-improvement plan | **33% OFF** for the 1st year. No code needed | 2025-12-01 |
 | 🗓️ | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** or using [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | 2025-12-05 |
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
+| 📍 | [Pinvoy](https://appsbymo.app/pinvoy/?ref=rarebigdeal) | Opens any shared map link, from Google Maps, Waze, Apple Maps and more, at the exact place in the navigation app you drive with. | **50% OFF** on the App Store (iPhone) ~~$2.99~~ $1.49, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🗓️ | [Margin](https://appsbymo.app/margin/?ref=rarebigdeal) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🔖 | [Yonder](https://appsbymo.app/yonder/?ref=rarebigdeal) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
+| 🌙 | [Soluna](https://appsbymo.app/soluna/?ref=rarebigdeal) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 27 - Nov 30, 2026 | 2026-11-30 |
 
 
 ### Photos & Videos
