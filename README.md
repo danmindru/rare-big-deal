@@ -141,6 +141,7 @@ Free & open-source.
 | 📋 | [CopyMagic](https://copymagic.app/?ref=rare) | The smartest, most-intuitive clipboard manager for Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-10 |
 | 🔔 | [RevenueNotify](https://revenuenotify.com/) | Get real-time Polar.sh notifications for new sales and subscriptions | **$40 OFF** with code **RNBL25** | 2025-12-12 |
 | 🎬 | [ShipClip](https://shipclip.app) | Native Mac screen recorder with zoom-to-click, multi-track audio, camera PiP with background removal, and shareable links with viewer analytics. | **50% OFF** founder pricing at $4.99/mo |  |
+| ⭐️ | [DevUtils](https://devutils.com/?utm_source=rarebigdeal) | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026**. Starts on 2026-11-02 | 2026-12-30 |
 
 
 ### APIs, Tools & SaaS
@@ -304,6 +305,7 @@ Free & open-source.
 | 🎨 | [Editaimg](https://editaimg.com/) | AI-powered image editor to remove bg, edit text, upscale, and swap faces instantly | 20% off Credit Packs - EgcSBNSY | 2026-01-03 |
 | 📸 | Add Person To Photo | AI-powered tool to seamlessly add anyone to group photos or images naturally | 20% discount - ADDME20 | 2027-05-18 |
 | 🎵 | Song Lyrics Review | AI-powered lyrics analysis and review tools for deep insights | 20% off - reviews20 | 2027-01-27 |
+| 🤖 | [TypingMind](https://www.typingmind.com/?utm_source=rarebigdeal) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | 2026-12-15 |
 
 
 
