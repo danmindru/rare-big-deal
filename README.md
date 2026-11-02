@@ -141,6 +141,7 @@ Free & open-source.
 | 📋 | [CopyMagic](https://copymagic.app/?ref=rare) | The smartest, most-intuitive clipboard manager for Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-10 |
 | 🔔 | [RevenueNotify](https://revenuenotify.com/) | Get real-time Polar.sh notifications for new sales and subscriptions | **$40 OFF** with code **RNBL25** | 2025-12-12 |
 | 🎬 | [ShipClip](https://shipclip.app) | Native Mac screen recorder with zoom-to-click, multi-track audio, camera PiP with background removal, and shareable links with viewer analytics. | **50% OFF** founder pricing at $4.99/mo |  |
+| 📋 | [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
