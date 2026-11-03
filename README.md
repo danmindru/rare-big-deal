@@ -259,6 +259,7 @@ Free & open-source.
 | 🚀 | [Meku](https://meku.dev/pricing) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2025** | 2025-12-02 |
 | 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **20% Flat Discount** on Premium Yearly Plan with code **BLFCM2025** | 2025-12-02 |
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** Lifetime Deal | 2025-12-02 |
+| 🛠️ | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026** | 2026-12-02 |
 
 
 ### Productivity
