@@ -392,7 +392,7 @@ Free & open-source.
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) | 2025-12-01 |
-| 🕑 | [Chronoid](https://chronoid.app?utm=rare-big-deal) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-04 |
+| 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($99 → $49.50) with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** | 2025-12-30 |
 | 🗜️ | [Zipic](https://zipic.app?ref=rare-big-deal) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 | 🔋 | [Juicy – Mac Battery Alerts](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25" | 2025-12-02
@@ -636,6 +636,7 @@ Free & open-source.
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🍿 | [AnimStats.com](https://animstats.com/?ref=rarebigdeal) | Create viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform. 4 creation modes: Templates, Editor, AI Shorts, UGC Ads.  | 50% OFF first month with code **BF2025ALL** | 2025-12-02 |
+| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-02 |
 
 
 ### Social
@@ -691,6 +692,7 @@ Free & open-source.
 | ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
 | 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) | 2025-12-01 |
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-02 |
 
 
 ### Marketing
