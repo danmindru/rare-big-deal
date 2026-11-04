@@ -421,6 +421,10 @@ Free & open-source.
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 | 🔷 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF Lifetime** ($20 → $10) | 2025-12-07 |
 | 🗂️ | [Pastery](https://pasteryapp.com/?utm_source=rare-big-deal) | Native smooooth macOS clipboard manager with searchable history, OCR search inside screenshots, app/date/type filters, and text transforms before pasting. | **50% OFF** with code **RAREBIGDEAL50** | 2026-09-04 |
+| 🚢 | [ExtraDock](https://extradock.app) | Create unlimited floating docks and place them anywhere on any screen. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🔀 | [DockFlow](https://dockflowapp.io) | Save Dock presets and switch between them instantly. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🧊 | [CoolDock](https://cooldock.app) | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🔖 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
 
 
 ### Design Tools
@@ -465,6 +469,7 @@ Free & open-source.
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **30% OFF** Lifetime Updates. Pay once. | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 | 🧿 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF Lifetime** ($10 → $5) | 2025-12-07 |
+| 🎛️ | [ExtraBar](https://extrabar.app) | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
