@@ -304,6 +304,7 @@ Free & open-source.
 | 🎨 | [Editaimg](https://editaimg.com/) | AI-powered image editor to remove bg, edit text, upscale, and swap faces instantly | 20% off Credit Packs - EgcSBNSY | 2026-01-03 |
 | 📸 | Add Person To Photo | AI-powered tool to seamlessly add anyone to group photos or images naturally | 20% discount - ADDME20 | 2027-05-18 |
 | 🎵 | Song Lyrics Review | AI-powered lyrics analysis and review tools for deep insights | 20% off - reviews20 | 2027-01-27 |
+| 💎 | [Fluent 2](https://fluentmac.app/?ref=rarebigdeal) | Not another chat window: press ⌥Space in any app and Fluent works with what's in front of you. Polish the email you're writing, summarize a page or YouTube video, find a better price, or let it click through an app for you. Hire AI teammates and save hours on routine tasks, like drafting emails or sorting your Downloads folder. Use the ChatGPT or Claude plan you already pay for, 500+ models or local AI. Desktop pet included. One-time purchase. | **25% OFF** lifetime licenses with code **BF2026** | 2026-12-01 |
 
 
 
