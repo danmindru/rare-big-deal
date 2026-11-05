@@ -197,6 +197,7 @@ Free & open-source.
 | ⏸️ | [DeskBreak](https://deskbreak.app) | Smart break reminders for remote workers and developers. Prevent burnout with customizable desk breaks, activity tracking, and health insights. | **50% OFF** with code **BLACKFRIDAY** | 2025-12-03 |
 | ⚡ | [Ultimate Web Scraper](https://ultimatewebscraper.com) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | **20% OFF** with code **BLACKFRIDAY20** | 2025-12-02 |
 | 🛡️ | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724?mt=12&at=1010loaC) | Safari Web Extension that filters unwanted content on Reddit. Block posts by keywords and domains, hide ads. Works across macOS, iOS, iPadOS, and visionOS. | **50% OFF** ($0.99, was $1.99) | 2025-12-06 |
+| 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code BLACKFRIDAY | 2026-11-30 |
 
 
 ### Productivity & AI
