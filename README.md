@@ -548,6 +548,7 @@ Free & open-source.
 | 📸 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | 2025-12-04 |
 | 📸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | **75% OFF** Lifetime (auto-applied) | 2025-12-04 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
+| 📸 | [SnapTidy: Photo Swipe & Delete](https://aitinyapps.com/en/snaptidy/free-month/?c=rare) | Clean up your iPhone camera roll in small batches: swipe to keep or mark, and nothing is deleted until you confirm. | **1 month FREE** of Pro for new subscribers, then $4.99/month in the US unless cancelled | 2026-12-30 |
 
 
 ### Health & Fitness
