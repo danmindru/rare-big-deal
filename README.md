@@ -184,7 +184,7 @@ Free & open-source.
 | 💸 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | 2025-12-31 |
 | 📄 | [Sassydb](https://saasydb.com) | a SaaS company database for marketers, with leads not found elsewhere | Discount code is BF30 for **30% off** any plan | 2025-12-02 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
-| 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension. Transcripts, search and channel data, one call each. | **30% off** the first year of the annual plan, applied automatically at checkout (no code) | 2026-12-10 |
+| 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension. Transcripts, search and channel data, one call each. | **30% off** the first year of the annual plan, applied automatically at checkout, or with code **BF26GYT** | 2026-12-10 |
 
 
 
