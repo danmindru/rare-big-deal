@@ -374,6 +374,7 @@ Free & open-source.
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
 | 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🌐 | [Webhookify](https://webhookify.io/?ref=rbd) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **70% OFF** with the code **BLACKFRIDAY2025** (yearly plan) | 2025-12-14 |
+| 🌐 | [WebDAV Lite](https://apps.apple.com/app/id6779282964?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**. Limited to 5,000 redemptions. Starts on 2026-11-26 | 2026-12-01 |
 
 ### Productivity
 
@@ -421,6 +422,9 @@ Free & open-source.
 | 💥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF Annual Plan** | 2025-12-02 |
 | 🔷 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF Lifetime** ($20 → $10) | 2025-12-07 |
 | 🗂️ | [Pastery](https://pasteryapp.com/?utm_source=rare-big-deal) | Native smooooth macOS clipboard manager with searchable history, OCR search inside screenshots, app/date/type filters, and text transforms before pasting. | **50% OFF** with code **RAREBIGDEAL50** | 2026-09-04 |
+| ⌨️ | [Keymap](https://keymap.app?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. | **50% OFF** ($6.99 → $3.49) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
+| 📸 | [PicXure](https://picxure.app?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. | **50% OFF** ($18.99 → $9.49) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
+| 🖼️ | [FloatViewer](https://apps.apple.com/app/id6768883420?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Lifetime license. Free app; code unlocks Lifetime. | **50% OFF** Lifetime ($29.99 → $14.99) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### Design Tools
@@ -437,6 +441,7 @@ Free & open-source.
 | ⭐ | [MGC Animation](https://www.mingcute.com/animation?utm_source=dan) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | 2025-12-05 |
 | 🌤 | [MGC Weather](https://mgcweather.framer.website/?utm_source=dan) | 120 graceful weather icons | 30% OFF with code **BF2025** | 2025-12-05 |
 | 🎨 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED | 2025-12-04 |
+| 🎨 | [PixelColor](https://apps.apple.com/app/id6763493579?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. | **43% OFF** ($6.99 → $3.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### Writing & Notes
@@ -465,6 +470,8 @@ Free & open-source.
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **30% OFF** Lifetime Updates. Pay once. | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 | 🧿 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF Lifetime** ($10 → $5) | 2025-12-07 |
+| 🖱️ | [VibeCursor](https://apps.apple.com/app/id6763036198?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. | **33% OFF** ($2.99 → $1.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
+| ⏳ | [DropToDo](https://apps.apple.com/app/id6762462645?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
