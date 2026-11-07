@@ -748,6 +748,7 @@ Free & open-source.
 | 🚀 | [Harry](https://www.useharry.com) | Launch campaigns in 30 seconds, not hours. Automates campaign build and ad setup on Meta, with bulk editing, and creative mapping. | **50% off** Black Friday Deal | 2025-12-31 |
 | ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
 | 🗓️ | [Mixpost](https://mixpost.app/?utm_source=rarebigdealbf&utm_campaign=blackfriday_2025) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | **23% OFF** — automatically applied | 2025-12-02 |
+| 🐝 | [Tickabee](https://tickabee.com/black-friday-2026?utm_source=rarebigdeal) | Social media scheduler for businesses, marketers and creators. Draft posts with AI in ChatGPT or Claude, or write them yourself, then approve and schedule from your Tickabee dashboard or from your AI. | **50% OFF** your first payment (first month or first year) with code **OFF50** | 2026-12-01 |
 
 
 ### Sales Tools
