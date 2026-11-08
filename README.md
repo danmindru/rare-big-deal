@@ -430,7 +430,7 @@ Free & open-source.
 | ⓢ | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | 50% OFF (automatically applied)| 2025-12-05 |
 | 😀 | [Iconbuddy](https://iconbuddy.com) | 300k+ Open Source Icons: Search Fast. Edit Freely. Download Instantly. | $60 OFF | 2025-12-01 |
 | 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
-| 📹 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=rarebigdeal2026) | Native Mac screen recorder and video editor for tutorials and product demos; auto cursor zoom, camera layouts, iPhone/iPad capture. | **Up to 53% OFF**: Lifetime $449 → $209.90 (**BFS2026L**, 53%); Pro 3 Macs $149 → $79.90 (**BFS2026P**, 46%) | 2026-12-11 |
+| 📹 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=rarebigdeal2026) | Native Mac screen recorder and video editor for tutorials and product demos; auto cursor zoom, camera layouts, iPhone/iPad capture. | **Up to 53% OFF**: Lifetime $449 → $209.90 (**BFS2026L**, 53%); Pro 3 Macs $149 → $79.90 (**BFS2026P**, 46%) | 2026-12-15 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 | 🎨 | [MGC UI](https://mgcui.framer.website/?utm_source=dan) | Design system and UI Kit for Figma | 30% OFF with code **BF2025** | 2025-12-05 |
 | ✏️ | [MGC ICON](https://mgc.mingcute.com/?utm_source=dan) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** | 2025-12-05 |
