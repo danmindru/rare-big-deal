@@ -579,6 +579,7 @@ Free & open-source.
 | 🎴 | [Eyevo - TCG Scanner for Pokemon](https://eyevotcg.com/) | Scan, price, and manage your Pokemon TCG collection | **70% OFF** Lifetime PRO (auto-applied in app) | 2025-12-03 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 | 🃏 | [Ripdex - TCG Card Scanner](https://getripdex.com) | Scan any Pokemon card for instant ID, live TCGplayer prices, 90-day trends and a collection tracker. 47,000+ cards. | **FREE** to download on iOS, premium unlocks unlimited scanning | 2026-12-31 |
+| 🎄 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for iPhone and iPad Home Screen and StandBy: snow globes, glowing pumpkins and festive scenes. | **Upcoming Black Friday: US$2.99 → US$1.99** for a one-time Premium unlock, no subscription. **Nov 27–30, 2026**; no code, automatic in-app discount. US pricing; local prices and timing vary. | 2026-11-30 |
 
 
 ### Other
