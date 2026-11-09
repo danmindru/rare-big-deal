@@ -636,7 +636,7 @@ Free & open-source.
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🍿 | [AnimStats.com](https://animstats.com/?ref=rarebigdeal) | Create viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform. 4 creation modes: Templates, Editor, AI Shorts, UGC Ads.  | 50% OFF first month with code **BF2025ALL** | 2025-12-02 |
-| 🎬 | [inReels](https://www.inreels.ai/pricing?ref=rarebigdeal) | AI ad generator: paste a product link and get UGC video ads, static ads and product videos with script, voiceover and captions. Also faceless and brainrot videos for creators. | **50% OFF** all yearly plans with code **BLACKFRIDAY2026** (Hobby $108 → $54/yr, Pro $468 → $234/yr) | 2026-12-01 |
+| 🎬 | [inReels](https://www.inreels.ai/pricing?ref=rarebigdeal) | AI ad generator: paste a product link and get UGC video ads, static ads and product videos with script, voiceover and captions. Also faceless and brainrot videos for creators. | **50% OFF** all yearly plans with code **BLACKFRIDAY2026** | 2026-12-01 |
 
 
 ### Social
