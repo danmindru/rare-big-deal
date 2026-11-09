@@ -141,6 +141,7 @@ Free & open-source.
 | 📋 | [CopyMagic](https://copymagic.app/?ref=rare) | The smartest, most-intuitive clipboard manager for Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-10 |
 | 🔔 | [RevenueNotify](https://revenuenotify.com/) | Get real-time Polar.sh notifications for new sales and subscriptions | **$40 OFF** with code **RNBL25** | 2025-12-12 |
 | 🎬 | [ShipClip](https://shipclip.app) | Native Mac screen recorder with zoom-to-click, multi-track audio, camera PiP with background removal, and shareable links with viewer analytics. | **50% OFF** founder pricing at $4.99/mo |  |
+| 🗄️ | [1bench](https://1bench.dev/black-friday?utm_source=rare-big-deal) | Desktop GUI for 25+ databases: PostgreSQL, MySQL, Redis, ClickHouse, MongoDB, Qdrant and more. Works on Mac, Windows and Linux. | **50% OFF** the Solo lifetime licence ($199 → $99) with code **FCBF26** | 2026-12-07 |
 
 
 ### APIs, Tools & SaaS
