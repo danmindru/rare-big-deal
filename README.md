@@ -171,6 +171,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎥 | [Seedeo](https://seedeo.ai) | Generate video, image, music, and voice assets across leading AI models without juggling separate subscriptions. | **62% OFF** 20,000 non-expiring credits: $99 instead of $259.90, one pack per customer (no code needed) | 2026-12-01 |
 
 
 ### Lifestyle
