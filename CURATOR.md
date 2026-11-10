@@ -16,7 +16,7 @@ List a product only when all of these are true:
 
 A row is one line at the **bottom** of a category table. Do not insert it higher and do not reorder rows that are already there. The same product can be added to more than one category when it really fits each one. On the website, deals in a category are shown alphabetically. That display order is separate from the README order.
 
-The generator already saves a favicon as the logo and the site's share image as the banner. It does not yet take a website screenshot when the share image is missing. Until that exists, open the site and keep a real screenshot before accepting a deal that has no banner.
+The generator saves a favicon as the logo and the site's share image as the banner. When that share image is missing or is not a real picture at a usable size, the trusted generator captures a screenshot of the website itself. It does not draw a replacement. Fork pull requests are checked with the repository's own scripts and without secrets; those checks read the README as data and do not run the pull request's code or open a browser. A person still has to look at the picture before a deal is accepted. The checks do not decide that the product is good, and they do not treat a written discount as proof until someone has looked at the live offer.
 
 ## Deal packs
 
