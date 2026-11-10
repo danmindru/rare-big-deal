@@ -126,6 +126,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
 
 
 ### APIs, Tools & SaaS
@@ -193,6 +194,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
 
 
 ### Design Tools
