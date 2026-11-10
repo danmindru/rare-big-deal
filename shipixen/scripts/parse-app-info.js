@@ -24,6 +24,8 @@ async function main() {
   // Track timing data for each app
   const timingData = [];
 
+  let failedProducts = 0;
+
   const fetchPromises = apps.map(async (app, index) => {
     const startTime = Date.now();
 
@@ -36,6 +38,7 @@ async function main() {
       const elapsed = Date.now() - startTime;
       console.log(`[Parse App Info] [${index + 1}/${apps.length}] ✅ Completed: ${app.name} (${elapsed}ms)`);
     } catch (error) {
+      failedProducts += 1;
       console.error(
         `[Parse App Info] [${index + 1}/${apps.length}] ❌ Failed to generate markdown for ${app.name}:`,
         error.message,
@@ -60,8 +63,8 @@ async function main() {
 
   const results = await Promise.allSettled(fetchPromises);
 
-  const succeeded = results.filter(r => r.status === 'fulfilled').length;
-  const failed = results.filter(r => r.status === 'rejected').length;
+  const succeeded = results.length - failedProducts;
+  const failed = failedProducts;
   const totalElapsed = Date.now() - mainStartTime;
 
   console.log(`\n[Parse App Info] ========================================`);
@@ -94,6 +97,13 @@ async function main() {
   console.log(
     `[Parse App Info] 🧹 Removed ${removed.length} product page(s) that are no longer in the README`,
   );
+
+  if (failedProducts > 0) {
+    console.error(
+      `[Parse App Info] ❌ ${failedProducts} product(s) are missing a usable logo.png or failed to generate`,
+    );
+    process.exitCode = 1;
+  }
 }
 
 main();

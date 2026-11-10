@@ -76,6 +76,7 @@ jobs:
           git checkout pr-head -- \
             shipixen/scripts/validate-submission.js \
             shipixen/scripts/validate-submission.test.js \
+            shipixen/scripts/logo-pipeline.test.js \
             shipixen/scripts/image-downloader.js \
             shipixen/scripts/website-scraper.js \
             shipixen/scripts/favicon-extractor.js \
@@ -86,7 +87,11 @@ jobs:
 
       - name: Run offline regression tests
         working-directory: shipixen
-        run: node --test ./scripts/validate-submission.test.js
+        run: |
+          node --test ./scripts/validate-submission.test.js
+          if [ -f ./scripts/logo-pipeline.test.js ]; then
+            node --test ./scripts/logo-pipeline.test.js
+          fi
 
       - name: Validate the submission
         env:
