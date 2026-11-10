@@ -199,6 +199,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% OFF one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Writing & Notes
@@ -295,6 +296,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% OFF one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Social
@@ -325,6 +327,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% OFF one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Marketing
