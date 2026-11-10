@@ -132,6 +132,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🛡️ | [Scanify](https://scanify.to/pricing) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score. | 50% off Lifetime Pro with code BLACKFRIDAY ($29 → $14.50), or 50% off Pro monthly for 3 months with code BFPRO ($20 → $10/mo) | 2026-12-09 |
 
 
 
