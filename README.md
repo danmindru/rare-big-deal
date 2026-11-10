@@ -159,6 +159,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **37% OFF** with code **BF26** | 2027-01-01 |
 
 
 ### Productivity
@@ -393,6 +394,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **37% OFF** with code **BF26** | 2027-01-01 |
 
 
 ### Ads & Paid listings
@@ -606,6 +608,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🗓️ | [Saventify](https://saventify.com) | Create elegant digital invitations, send them instantly, and manage RSVPs without stress. | **37% OFF** with code **BF26** | 2027-01-01 |
 
 
 [⬆️ All categories](#table-of-contents)
