@@ -200,7 +200,6 @@ Free & open-source.
 | - | - | - | - | - |
 | 🐦 | [BirdFrame](https://getbirdframe.com) | Crops thousands of bird photos in one go on your Mac, at full resolution. | **33% OFF** the one-time unlock ($29.99 → $19.99), no code needed. Starts on 2026-11-20 | 2026-12-01 |
 | 📹 | [ScreenSage Pro](https://screensage.pro/bf2026) | Native Mac screen recorder and video editor for tutorials and product demos; auto cursor zoom, camera layouts, iPhone/iPad capture. | **Up to 53% OFF**: Lifetime $449 → $209.90 (**BFS2026L**, 53%); Pro 3 Macs $149 → $79.90 (**BFS2026P**, 46%) | 2026-12-15 |
-| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% OFF one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 
@@ -307,7 +306,6 @@ Free & open-source.
 | 🎬 | [Kensa](https://www.kensa.cc/deals/black-friday) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance. Turn text, images or a product link into videos. | **25% OFF** the first year of yearly plans: Basic $99 → $74.25, Pro $299 → $224.25, Ultimate $799 → $599.25 (code shown on the deal page). Starts on 2026-11-20 | 2026-12-01 |
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🎬 | [inReels](https://www.inreels.ai/pricing) | AI ad generator: paste a product link and get UGC video ads, static ads and product videos with script, voiceover and captions. Also faceless and brainrot videos for creators. | **50% OFF** all yearly plans with code **BLACKFRIDAY2026** | 2026-12-01 |
-| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% OFF one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 
 
@@ -341,7 +339,6 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-02 |
-| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% OFF one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Marketing
