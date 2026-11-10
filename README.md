@@ -384,6 +384,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📊 | [Airbridge](https://www.airbridge.io/en) | Mobile measurement for app teams. See which ads bring paying users, not just installs | **50% OFF** Core Plan for your first 6 paid months: $20+/mo instead of $40+/mo, with code **BLACKFRIDAY26** | 2026-11-30 |
 
 
 ### Website Builders
