@@ -58,6 +58,28 @@ jobs:
             esac
           done
 
+      - name: Keep the trusted validator
+        env:
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          BASE_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [ -f shipixen/scripts/validate-submission.js ]; then
+            echo "Using the validator from the base branch."
+            exit 0
+          fi
+          if [ "$HEAD_REPO" != "$BASE_REPO" ]; then
+            echo "The base branch has no validator yet, and fork code is not executed."
+            exit 1
+          fi
+          echo "The base branch has no validator yet. Running this same-repo change once."
+          git checkout pr-head -- \
+            shipixen/scripts/validate-submission.js \
+            shipixen/scripts/validate-submission.test.js \
+            shipixen/scripts/lib \
+            shipixen/scripts/fixtures \
+            shipixen/catalog/catalog-tree.json
+
       - name: Run offline regression tests
         working-directory: shipixen
         run: node --test ./scripts/validate-submission.test.js
