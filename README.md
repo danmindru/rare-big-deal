@@ -204,6 +204,8 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
+| ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 
 
 ### Writing & Notes
@@ -301,6 +303,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 
 
 ### Social
