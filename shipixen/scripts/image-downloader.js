@@ -144,7 +144,7 @@ async function downloadImage(url, outputPath, options = {}) {
  * @param {string} productName - Name of the product (for generating paths)
  * @returns {Promise<string[]>} - Array of successfully downloaded image paths
  */
-async function downloadMultipleImages(imageUrls, appDir, productName) {
+async function downloadMultipleImages(imageUrls, appDir, productName, options = {}) {
   console.log(`[Image Downloader] 📦 Downloading ${imageUrls.length} images for ${productName}...`);
   const downloadedImages = [];
   const startTime = Date.now();
@@ -152,15 +152,21 @@ async function downloadMultipleImages(imageUrls, appDir, productName) {
   for (let i = 0; i < imageUrls.length; i++) {
     const imageUrl = imageUrls[i];
     const imageName = i === 0 ? 'og-image.png' : `og-image-${i + 1}.png`;
-    const imagePath = path.join(appDir, imageName);
+    const imagePath =
+      typeof options.placeFile === 'function'
+        ? options.placeFile(imageName)
+        : path.join(appDir, imageName);
+    fs.mkdirSync(path.dirname(imagePath), { recursive: true });
 
     console.log(`[Image Downloader] 📥 Image ${i + 1}/${imageUrls.length}: ${imageUrl}`);
 
-    const isValidImage = await downloadImage(imageUrl, imagePath);
+    const isValidImage = await downloadImage(imageUrl, imagePath, options);
     if (isValidImage) {
-      downloadedImages.push(
-        `/static/images/product/${productName}/${imageName}`,
-      );
+      const publicPath =
+        typeof options.publicPath === 'function'
+          ? options.publicPath(imageName, imagePath)
+          : `/static/images/product/${productName}/${imageName}`;
+      downloadedImages.push(publicPath);
       console.log(`[Image Downloader] ✅ Successfully downloaded image ${i + 1}/${imageUrls.length}`);
     } else {
       console.error(`[Image Downloader] ❌ Failed to download image ${i + 1}/${imageUrls.length}`);

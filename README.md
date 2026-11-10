@@ -2,11 +2,6 @@
 
 Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **tvOS Apps**, **SaaS**, **AI** and **Web Apps**. Discounts for Black Friday, Cyber Monday & more!
 
-The category tables below are empty and ready for new submissions. This file is the live list. Past editions stay archived and are not current offers:
-
-- [2025 edition](shipixen/archive/2025/README.md)
-- [2024 edition](shipixen/archive/2024/README.md)
-
 ----
 
 Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls).<br/>
@@ -14,26 +9,6 @@ Each app that is accepted into this README gets a product page and a backlink fr
 
 Free & open-source.
 <br/> Made with ❤️ by [Dan]( https://x.com/d4m1n) with [PageAI](https://pageai.pro?utm_source=github&utm_campaign=readme).
-
-#### How to add a deal
-
-1. Add your row at the **bottom** of the category table. First come, first served. Do not reorder or rewrite existing rows, and do not reformat the README.
-2. You only need to add a line in this README. The product page is generated from that line.
-3. The same offer can go in more than one category when it genuinely fits each one.
-4. Please submit products in English.
-
-Use the same columns as the empty tables: emoji, name and link, short description, the deal, and the date it ends (`YYYY-MM-DD`).
-
-#### What belongs here
-
-Rare Big Deal lists products that normally cost money and are on a genuine discount right now.
-
-- The usual price has to be real, and the discount has to be something a shopper can check on the product's own site or store.
-- Free apps, free-only plans, expired deals, and discounts that cannot be verified are not added.
-- The product has to work. Broken products, unfinished shells, and generic templates are not added.
-- The row needs a working link. A usable logo and a banner (the image the site uses when the link is shared) need to be available. If the site has no banner, the listing uses a screenshot of the actual website.
-
-How listings are checked, including occasional deal packs, is described in [CURATOR.md](CURATOR.md).
 
 ## Table of Contents
 
@@ -613,8 +588,25 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 [⬆️ All categories](#table-of-contents)
 
+#### How to add a deal
 
+1. Add your row at the **bottom** of the category table. First come, first served. Do not reorder or rewrite existing rows, and do not reformat the README.
+2. You only need to add a line in this README. The product page is generated from that line.
+3. The same offer can go in more than one category when it genuinely fits each one.
+4. Please submit products in English.
 
+Use the same columns as the empty tables: emoji, name and link, short description, the deal, and the date it ends (`YYYY-MM-DD`).
+
+#### What belongs here
+
+Rare Big Deal lists products that normally cost money and are on a genuine discount right now.
+
+- The usual price has to be real, and the discount has to be something a shopper can check on the product's own site or store.
+- Free apps, free-only plans, expired deals, and discounts that cannot be verified are not added.
+- The product has to work. Broken products, unfinished shells, and generic templates are not added.
+- The row needs a working link. A usable logo and a banner (the image the site uses when the link is shared) need to be available. If the site has no banner, the listing uses a screenshot of the actual website.
+
+How listings are checked, including occasional deal packs, is described in [CURATOR.md](CURATOR.md).
 
 --------------------------------
 
@@ -646,3 +638,8 @@ Apihustle is a collection of tools to test, improve and get to know your API ins
 </a>
 
 -----------------
+
+Past editions are archived and are not current offers:
+
+- [2025 edition](shipixen/archive/2025/README.md)
+- [2024 edition](shipixen/archive/2024/README.md)

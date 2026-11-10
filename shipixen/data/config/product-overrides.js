@@ -1,4 +1,10 @@
 // Live per-product overrides. The 2025 snapshot is ../../archive/2025/product-overrides.js.
+// Page AI's live banner lives here so an update does not replace the public
+// file that the 2024 archive page still serves.
 module.exports = {
-  overrides: {},
+  overrides: {
+    'page-ai': {
+      ogImage: 'public/static/images/overrides/page-ai/og-image.png',
+    },
+  },
 };

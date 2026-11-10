@@ -44,11 +44,14 @@ jobs:
             "https://github.com/${{ github.repository }}.git" \
             "refs/pull/${PR}/head:refs/heads/pr-head"
           mkdir -p /tmp/pr-data/shipixen/public/static/images/product \
+            /tmp/pr-data/shipixen/public/static/images/overrides \
             /tmp/pr-data/shipixen/data/config
           git show pr-head:README.md > /tmp/pr-data/README.md
+          # Live returning products may keep current banners on the documented
+          # override path, so those images are allowed pull-request data.
           git ls-tree -r --name-only pr-head | while IFS= read -r path; do
             case "$path" in
-              shipixen/public/static/images/product/*)
+              shipixen/public/static/images/product/*|shipixen/public/static/images/overrides/*)
                 mkdir -p "/tmp/pr-data/$(dirname "$path")"
                 git show "pr-head:$path" > "/tmp/pr-data/$path"
                 ;;

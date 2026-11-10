@@ -164,6 +164,27 @@ function checkArchiveMedia(root) {
   return { errors, publicRefs: publicRefs.size, relativeRefs: relativeRefs.length };
 }
 
+/**
+ * Absolute public files that an archive page still serves by /static/images URL.
+ * A live asset update has to leave these bytes alone.
+ */
+function pinnedPublicFiles(repoRoot) {
+  const archiveRoot = path.join(repoRoot, 'shipixen', 'archive');
+  const publicRoot = path.join(repoRoot, 'shipixen', 'public');
+  const files = new Set();
+  if (!fs.existsSync(archiveRoot)) return files;
+  for (const file of walkTextFiles(archiveRoot)) {
+    const text = fs.readFileSync(file, 'utf8');
+    const found = new Set();
+    readUnique(found, text, PUBLIC_REF);
+    for (const ref of found) {
+      const publicFile = path.resolve(publicRoot, ref.replace(/^\//, ''));
+      if (inside(publicRoot, publicFile)) files.add(publicFile);
+    }
+  }
+  return files;
+}
+
 function writePng(file) {
   const png = Buffer.from(
     'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==',
@@ -207,6 +228,27 @@ function selfTest() {
     const restored = checkArchiveMedia(root);
     if (restored.errors.length !== 0) {
       throw new Error(`expected a matching png to pass, got ${restored.errors.join('; ')}`);
+    }
+
+    // A live banner stored beside the historical file does not replace it.
+    const liveBanner = path.join(
+      root,
+      'shipixen',
+      'public',
+      'static',
+      'images',
+      'overrides',
+      'widget',
+      'og-image.png',
+    );
+    const livePng = writePng(liveBanner);
+    fs.writeFileSync(liveBanner, Buffer.concat([livePng, Buffer.from('live')]));
+    const withLive = checkArchiveMedia(root);
+    if (withLive.errors.length !== 0) {
+      throw new Error(`a separate live image should pass, got ${withLive.errors.join('; ')}`);
+    }
+    if (!fs.readFileSync(publicFile).equals(png)) {
+      throw new Error('the live image write changed the historical public file');
     }
 
     fs.writeFileSync(publicFile, Buffer.concat([png, Buffer.from('nope')]));
@@ -259,7 +301,7 @@ function main() {
   );
 }
 
-module.exports = { checkArchiveMedia, mediaKind };
+module.exports = { checkArchiveMedia, mediaKind, pinnedPublicFiles };
 
 if (require.main === module) {
   main();

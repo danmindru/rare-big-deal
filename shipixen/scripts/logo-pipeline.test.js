@@ -8,6 +8,7 @@ const cheerio = require('cheerio');
 const sharp = require('sharp');
 
 const { fetchAssets } = require('./asset-fetcher');
+const { checkArchiveMedia } = require('./check-archive-media');
 const { acquireProductLogo, logoCandidateUrls } = require('./favicon-extractor');
 const { convertIcoToPng, downloadImage } = require('./image-downloader');
 const { decodeIco } = require('./lib/ico');
@@ -320,6 +321,92 @@ describe('asset generation', () => {
     assert.equal(app.logo, '/static/images/product/gamma/logo.png');
     const logo = await inspectMedia(fs.readFileSync(path.join(product, 'logo.png')), 'logo');
     assert.equal(logo.ok, true);
+  });
+
+  test('a live banner update does not replace a historical public image', async () => {
+    const repo = fs.mkdtempSync(path.join(os.tmpdir(), 'rbd-pinned-banner-'));
+    const historical = await png(800, 420, { r: 10, g: 20, b: 30, alpha: 1 });
+    const live = await png(800, 420, { r: 200, g: 30, b: 40, alpha: 1 });
+    const publicFile = path.join(
+      repo,
+      'shipixen',
+      'public',
+      'static',
+      'images',
+      'product',
+      'page-ai',
+      'og-image.png',
+    );
+    const archivedFile = path.join(
+      repo,
+      'shipixen',
+      'archive',
+      '2025',
+      'images',
+      'product',
+      'page-ai',
+      'og-image.png',
+    );
+    const record = path.join(repo, 'shipixen', 'archive', '2024', 'products', 'page-ai.mdx');
+    fs.mkdirSync(path.dirname(publicFile), { recursive: true });
+    fs.mkdirSync(path.dirname(archivedFile), { recursive: true });
+    fs.mkdirSync(path.dirname(record), { recursive: true });
+    fs.writeFileSync(publicFile, historical);
+    fs.writeFileSync(archivedFile, historical);
+    fs.writeFileSync(record, 'images:\n  - /static/images/product/page-ai/og-image.png\n');
+
+    const app = {
+      name: 'Page AI',
+      website: 'https://pageai.pro',
+      description: 'A paid website generator.',
+      deal: '37% off',
+    };
+    await fetchAssets(app, {
+      outputDir: path.join(repo, 'shipixen', 'public', 'static', 'images'),
+      overrides: {},
+      fetchWebsiteData: async () => ({
+        ...emptySite(),
+        ogImageUrl: 'https://pageai.pro/current-banner.png',
+      }),
+      downloadMultipleImages: async (urls, appDir, productName, options) => {
+        const imagePath = options.placeFile('og-image.png');
+        fs.mkdirSync(path.dirname(imagePath), { recursive: true });
+        fs.writeFileSync(imagePath, live);
+        return [options.publicPath('og-image.png', imagePath)];
+      },
+      ensureUsableBanner: async ({ imagePath }) => {
+        const inspection = await inspectMedia(fs.readFileSync(imagePath), 'banner');
+        return { source: 'og-image', inspection };
+      },
+      acquireProductLogo: async ({ outputPath }) => {
+        fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+        fs.writeFileSync(outputPath, await png(48, 48));
+        return { url: 'https://pageai.pro/apple-touch-icon.png', resized: false };
+      },
+    });
+
+    assert.equal(fs.readFileSync(publicFile).equals(historical), true);
+    assert.equal(app.images[0], '/static/images/overrides/page-ai/og-image.png');
+    const liveFile = path.join(
+      repo,
+      'shipixen',
+      'public',
+      'static',
+      'images',
+      'overrides',
+      'page-ai',
+      'og-image.png',
+    );
+    assert.equal(fs.readFileSync(liveFile).equals(live), true);
+    const kept = checkArchiveMedia(repo);
+    assert.deepEqual(kept.errors, []);
+
+    fs.writeFileSync(publicFile, live);
+    const replaced = checkArchiveMedia(repo);
+    assert.equal(
+      replaced.errors.some((error) => error.includes('does not match')),
+      true,
+    );
   });
 
   test('fails instead of succeeding with no usable logo', async () => {
