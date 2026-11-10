@@ -408,6 +408,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔗 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Full link building workflow for SEO & AI Search. Prospect, qualify, outreach, manage replies, and monitor links in one platform. | **72% OFF** for 3 months, from $99, on [Black Friday Deal](https://www.uprankly.com/link-builder/black-friday) (no code needed) | 2026-12-03 |
 
 
 ### Tools
