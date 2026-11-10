@@ -132,6 +132,8 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📝 | [FormBold](https://formbold.com/pricing) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
+| ⚡ | [Static.run](https://static.run/pricing) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
 
 
 
@@ -157,6 +159,8 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🤖 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **30% Flat Discount** on Premium Yearly Plan with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
+| 🚀 | [Meku](https://meku.dev/pricing) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% Flat Discount** on All Yearly Plans with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
 
 
 ### Productivity
@@ -170,6 +174,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🤖 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | **40% Flat Discount** on All Paid Plans with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
 
 
 ### Lifestyle
@@ -283,6 +288,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎨 | [Lineicons](https://lineicons.com/pricing) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% Flat Discount** on Business Plans with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
 
 
 ### AI Design Tools
@@ -504,6 +510,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎨 | [TailGrids](https://tailgrids.com/pricing) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% Flat Discount** on All Access Plans with code **BLFCM2026**. Starts on 2026-11-17 | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
