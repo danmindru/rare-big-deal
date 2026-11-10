@@ -128,6 +128,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
 | 🗄️ | [DynoTable](https://dynotable.com) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** Individual for 12 months: $54 instead of $108 for the first year, or $6/mo instead of $12, with code **BF50** | 2026-12-03 |
+| 🔀 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**, Nov 20 – Dec 1, 2026, direct purchase only | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
