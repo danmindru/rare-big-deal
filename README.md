@@ -127,6 +127,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
+| 🗄️ | [DynoTable](https://dynotable.com) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** Individual for 12 months: $54 instead of $108 for the first year, or $6/mo instead of $12, with code **BF50** | 2026-12-03 |
 
 
 ### APIs, Tools & SaaS
