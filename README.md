@@ -327,6 +327,7 @@ Free & open-source.
 | 🧠 | [Quizify](https://quizify.io/?utm_source=rarebigdeal) | AI-powered platform for creating interactive quizzes, forms, and surveys without coding. | **25% OFF** Annual plan with code **RAREBIGDEAL25** | 2026-12-31 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 | | [Foca Upscaler](https://focaupscaler.com) | AI image upscaler and enhancer for improving blurry, low-resolution, and compressed images while preserving realistic textures and natural detail. | Get **15 free credits on signup** and **20% OFF** first payment with code **RAREBIGDEAL20** | 2026-05-31 |
+| 🎬 | [ClipUGC](https://clipugc.com/black-friday?utm_source=rarebigdeal) | Make TikTok style UGC videos for your app with AI influencers. Paste your App Store or Play link, add a screen recording, get vertical videos with hooks and captions. Same face in every video. | **50% OFF any plan for 2 months** with code **BLACKFRIDAY** | 2026-12-06 |
 
 
 ### Lifestyle
