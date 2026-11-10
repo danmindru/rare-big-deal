@@ -397,7 +397,6 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🚀 | [LandinTools](https://tools.landin.page/advertise) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | **50% OFF** Featured listing for a full year with code **BF2026** ($49 → $24.50) | 2026-12-31 |
 
 
 ### Other
