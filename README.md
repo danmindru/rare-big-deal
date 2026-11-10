@@ -279,6 +279,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎬 | [Kensa](https://www.kensa.cc/deals/black-friday) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance. Turn text, images or a product link into videos. | **25% OFF** the first year of yearly plans: Basic $99 → $74.25, Pro $299 → $224.25, Ultimate $799 → $599.25 (code shown on the deal page). Starts on 2026-11-20 | 2026-12-01 |
 
 
 ### Social
