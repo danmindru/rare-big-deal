@@ -134,6 +134,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) | 2026-12-01 |
 
 
 
@@ -141,6 +142,8 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) | 2026-12-01 |
+| 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) | 2026-12-01 |
 
 
 ### Productivity & AI
@@ -198,6 +201,8 @@ How listings are checked, including occasional deal packs, is described in [CURA
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
 | 🖼️ | [Picmal](https://picmal.app) | Convert, compress and edit images, video, audio and PDFs on your Mac. Batch hundreds of files at once, offline, nothing gets uploaded. | **50% OFF** every license, one-time purchase, with code **BLACKFRIDAY** | 2026-11-30 |
+| 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) | 2026-12-01 |
+| 💾 | [DiskBuddy](https://diskbuddy.com) | See what's filling your Mac: map your whole disk in one scan, find duplicates and every app's real footprint, and clean up safely to the Trash. | **82% OFF** one-time license for Mac and Windows: $9 instead of $49 (no code needed, limited copies) | 2026-12-01 |
 
 
 ### Design Tools
@@ -289,6 +294,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) | 2026-12-01 |
 
 
 ### AI Design Tools
@@ -366,6 +372,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) | 2026-12-01 |
 
 
 ### Content Creation
