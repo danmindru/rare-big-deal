@@ -763,6 +763,7 @@ Free & open-source.
 | - | - | - | - | - |
 | ✉️ | [Maillayer](https://maillayer.com/) | Mailchimp alternative, self-hosted and truly yours. | **$150 off** | 2025-12-01 |
 | ✉️ | [Triggla](https://triggla.com/) | Stripe-native post-purchase and trial-rescue email automation. 60-second setup, built-in Postmark, 98%+ deliverability. | 40% off with code BLACKFRIDAY40 | 2025-11-30 |
+| ✉️ | [Broadcast](https://sendbroadcast.net/black-friday?ref=rare-big-deal) | Self-hosted email marketing with a one-time license. Newsletters, automations and transactional email on your own server, unlimited subscribers. | **$100 OFF** the Regular License ($250 → $150) with code **BLACKFRIDAY26** | 2026-12-01 |
 
 
 ### Content Creation
