@@ -1,5 +1,6 @@
 const http = require('http');
 const https = require('https');
+const net = require('net');
 const { AddressRejected, vetUrl } = require('./public-address');
 
 const MAX_REDIRECTS = 5;
@@ -52,6 +53,43 @@ function readCapped(stream, maxBytes) {
   });
 }
 
+/**
+ * Node's happy-eyeballs path (autoSelectFamily, the default on current
+ * Node 20 and 22) calls lookup with `{ all: true }` and requires an array of
+ * `{ address, family }`. Returning the classic `(address, family)` pair makes
+ * it walk the IP string and throw `ERR_INVALID_IP_ADDRESS`. The only address
+ * ever returned is the one `vetUrl` already pinned.
+ */
+function pinnedAddressLookup(hostname, pinned) {
+  const family = net.isIP(pinned);
+  return (host, lookupOptions, callback) => {
+    const done = typeof lookupOptions === 'function' ? lookupOptions : callback;
+    const lookupOptionsObject = typeof lookupOptions === 'function' ? {} : lookupOptions || {};
+    if (host !== hostname && host !== pinned) {
+      done(new AddressRejected(`unexpected lookup for ${host}`, 'dns'));
+      return;
+    }
+    if (family !== 4 && family !== 6) {
+      done(new AddressRejected('pinned address is not a public IP', 'dns'));
+      return;
+    }
+    if (
+      (lookupOptionsObject.family === 4 || lookupOptionsObject.family === 6) &&
+      lookupOptionsObject.family !== family
+    ) {
+      const error = new Error(`no address for family ${lookupOptionsObject.family}`);
+      error.code = 'ENOTFOUND';
+      done(error);
+      return;
+    }
+    if (lookupOptionsObject.all) {
+      done(null, [{ address: pinned, family }]);
+      return;
+    }
+    done(null, pinned, family);
+  };
+}
+
 function defaultRequest(target, pinned, options) {
   const lib = target.protocol === 'https:' ? https : http;
   const headers = requestHeaders(options.headers);
@@ -70,14 +108,7 @@ function defaultRequest(target, pinned, options) {
         timeout: timeoutMs,
         servername: target.hostname,
         rejectUnauthorized: true,
-        lookup: (hostname, lookupOptions, callback) => {
-          const done = typeof lookupOptions === 'function' ? lookupOptions : callback;
-          if (hostname !== target.hostname && hostname !== pinned) {
-            done(new AddressRejected(`unexpected lookup for ${hostname}`, 'dns'));
-            return;
-          }
-          done(null, pinned, require('net').isIP(pinned));
-        },
+        lookup: pinnedAddressLookup(target.hostname, pinned),
       },
       (res) => {
         readCapped(res, maxBytes).then(
@@ -138,6 +169,7 @@ module.exports = {
   MAX_REDIRECTS,
   SAFE_REQUEST_HEADERS,
   guardedFetch,
+  pinnedAddressLookup,
   readCapped,
   requestHeaders,
 };

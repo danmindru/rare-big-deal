@@ -4,16 +4,10 @@ const { overrides } = require('../data/config/product-overrides');
 const { sanitizeName } = require('./sanitize-name');
 const { outputDir } = require('./settings');
 const { fetchWebsiteData } = require('./website-scraper');
-const {
-  extractHighestResFavicon,
-  checkExistingLogo,
-} = require('./favicon-extractor');
-const {
-  downloadImage,
-  downloadMultipleImages,
-  convertIcoToPng,
-} = require('./image-downloader');
+const { acquireProductLogo, checkExistingLogo } = require('./favicon-extractor');
+const { downloadImage, downloadMultipleImages } = require('./image-downloader');
 const { ensureUsableBanner } = require('./lib/banner-fallback');
+const { inspectMediaFile } = require('./lib/media-bytes');
 
 /**
  * Applies configured overrides for a product (logo, images, categories, etc.).
@@ -133,77 +127,77 @@ async function processProductImages(app, productName, appDir, imageUrls) {
  * @param {string} appDir - Directory for the product's assets
  * @param {string} faviconUrl - URL of the favicon to download
  */
-async function processProductLogo(app, productName, appDir, faviconUrl) {
-  // Check if faviconUrl is missing or not a valid URL
-  if (!faviconUrl) {
-    console.log(`[Asset Fetcher] ⚠️  Missing favicon URL for ${productName}, checking for existing logo...`);
-    // Check if logo already exists
-    const existingLogo = checkExistingLogo(appDir, productName);
-    if (existingLogo) {
-      app.logo = existingLogo;
-    } else {
-      console.warn(`[Asset Fetcher] ❌ No logo available for ${productName}`);
+function rememberUsableBanner(app, productName, banner) {
+  const bannerPublic = `/static/images/product/${productName}/og-image.png`;
+  const others = (app.images || []).filter((image) => image !== bannerPublic);
+  if (banner && banner.inspection && banner.inspection.ok) {
+    app.images = [bannerPublic, ...others];
+    if (banner.source === 'website-screenshot') {
+      app.bannerSource = 'website-screenshot';
+      console.log(`[Asset Fetcher] 📸 Using a website screenshot as the banner for ${productName}`);
     }
     return;
   }
+  app.images = others;
+  const reason = banner && banner.inspection ? banner.inspection.reason : 'missing';
+  console.warn(`[Asset Fetcher] ⚠️  No usable banner for ${productName}: ${reason}`);
+}
 
-  // Check if it's a valid URL format
+async function requireUsableLogo(app, productName, appDir) {
+  const logoFile = path.join(appDir, 'logo.png');
+  const inspection = await inspectMediaFile(logoFile, 'logo');
+  if (!inspection.ok) {
+    throw new Error(`No usable logo.png for ${productName}: ${inspection.reason}`);
+  }
+  app.logo = `/static/images/product/${productName}/logo.png`;
+  return inspection;
+}
+
+async function processProductLogo(app, productName, appDir, faviconUrl) {
+  const keepExisting = async () => {
+    const existingLogo = await checkExistingLogo(appDir, productName);
+    if (existingLogo) {
+      app.logo = existingLogo;
+      return;
+    }
+    console.warn(`[Asset Fetcher] ❌ No logo available for ${productName}`);
+  };
+
+  if (!faviconUrl) {
+    console.log(`[Asset Fetcher] ⚠️  Missing favicon URL for ${productName}, checking for existing logo...`);
+    await keepExisting();
+    return;
+  }
+
   try {
     new URL(faviconUrl);
   } catch (error) {
     console.log(`[Asset Fetcher] ⚠️  Invalid URL format for ${productName}: ${faviconUrl}`);
-    const existingLogo = checkExistingLogo(appDir, productName);
-    if (existingLogo) {
-      app.logo = existingLogo;
-    } else {
-      console.warn(`[Asset Fetcher] ❌ No logo available for ${productName}`);
-    }
+    await keepExisting();
     return;
-  }
-
-  // Check for common image extensions or allow URLs from known image services
-  const hasImageExtension =
-    faviconUrl.endsWith('.jpg') ||
-    faviconUrl.endsWith('.jpeg') ||
-    faviconUrl.endsWith('.png') ||
-    faviconUrl.endsWith('.webp') ||
-    faviconUrl.endsWith('.ico');
-
-  const isKnownImageService =
-    faviconUrl.includes('google.com/s2/favicons') ||
-    faviconUrl.includes('githubusercontent.com') ||
-    faviconUrl.includes('cloudfront.net') ||
-    faviconUrl.includes('cdn.');
-
-  if (!hasImageExtension && !isKnownImageService) {
-    console.log(`[Asset Fetcher] ⚠️  URL doesn't appear to be an image for ${productName}: ${faviconUrl}`);
-    console.log(`[Asset Fetcher] 🔄 Will attempt download anyway and validate content...`);
   }
 
   console.log(`[Asset Fetcher] 🖼️  Processing logo for ${productName} from: ${faviconUrl}`);
   const logoPath = path.join(appDir, 'logo.png');
-  const isValidImage = await downloadImage(faviconUrl, logoPath);
-
-  if (isValidImage) {
-    if (faviconUrl.endsWith('.ico')) {
-      console.log(`[Asset Fetcher] 🔄 Converting ICO to PNG for ${productName}...`);
-      const icoPath = path.join(appDir, 'logo.png');
-      await fs.promises.rename(logoPath, icoPath);
-      await convertIcoToPng(icoPath, logoPath);
-      console.log(`[Asset Fetcher] ✅ ICO converted to PNG`);
+  const partialPath = path.join(appDir, '.logo-download.png');
+  try {
+    const saved = await downloadImage(faviconUrl, partialPath);
+    if (!saved) {
+      console.warn(`[Asset Fetcher] ⚠️  Logo download failed, checking for existing logo...`);
+      await keepExisting();
+      return;
     }
-
+    const inspection = await inspectMediaFile(partialPath, 'logo');
+    if (!inspection.ok) {
+      console.warn(`[Asset Fetcher] ⚠️  Logo was not usable: ${inspection.reason}`);
+      await keepExisting();
+      return;
+    }
+    await fs.promises.rename(partialPath, logoPath);
     app.logo = `/static/images/product/${productName}/logo.png`;
     console.log(`[Asset Fetcher] ✅ Logo processed successfully: ${app.logo}`);
-  } else {
-    console.warn(`[Asset Fetcher] ⚠️  Logo download failed, checking for existing logo...`);
-    // Check if logo already exists as fallback
-    const existingLogo = checkExistingLogo(appDir, productName);
-    if (existingLogo) {
-      app.logo = existingLogo;
-    } else {
-      console.error(`[Asset Fetcher] ❌ No logo available for ${productName}`);
-    }
+  } finally {
+    await fs.promises.rm(partialPath, { force: true });
   }
 }
 
@@ -212,10 +206,14 @@ async function processProductLogo(app, productName, appDir, faviconUrl) {
  *
  * @param {object} app - The app/product object containing name, website, etc.
  */
-async function fetchAssets(app) {
+async function fetchAssets(app, deps = {}) {
   const { website, name } = app;
   const productName = sanitizeName(name);
-  const appDir = path.join(outputDir, 'product', productName);
+  const outputRoot = deps.outputDir || outputDir;
+  const appDir = path.join(outputRoot, 'product', productName);
+  const loadSite = deps.fetchWebsiteData || fetchWebsiteData;
+  const ensureBanner = deps.ensureUsableBanner || ensureUsableBanner;
+  const acquireLogo = deps.acquireProductLogo || acquireProductLogo;
 
   console.log(`\n[Asset Fetcher] 🚀 Starting asset fetch for: ${name}`);
   console.log(`[Asset Fetcher] 🌐 Website: ${website}`);
@@ -229,12 +227,14 @@ async function fetchAssets(app) {
 
   // If both logo and ogImage(s) are overridden, we're done
   if (override?.logo && (override?.ogImages || override?.ogImage)) {
+    await requireUsableLogo(app, productName, appDir);
     const elapsed = Date.now() - startTime;
     console.log(`[Asset Fetcher] ✅ All assets overridden for ${productName}`);
     console.log(`[Asset Fetcher] ⏱️  Total time: ${elapsed}ms\n`);
     return;
   }
 
+  let failure = null;
   try {
     console.log(`[Asset Fetcher] 🔍 Fetching website data for ${productName}...`);
     const {
@@ -245,7 +245,7 @@ async function fetchAssets(app) {
       description,
       title,
       jsonLd,
-    } = await fetchWebsiteData(website);
+    } = await loadSite(website);
 
     // Log the fetched title
     console.log(`[Asset Fetcher] 📝 Fetched title: "${title}"`);
@@ -266,51 +266,57 @@ async function fetchAssets(app) {
         ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
 
       await processProductImages(app, productName, appDir, imageUrlsToDownload);
-      const banner = await ensureUsableBanner({
+      const banner = await ensureBanner({
         imagePath: path.join(appDir, 'og-image.png'),
         website,
       });
-      if (banner.source === 'website-screenshot') {
-        app.images = [`/static/images/product/${productName}/og-image.png`];
-        app.bannerSource = 'website-screenshot';
-        console.log(`[Asset Fetcher] 📸 Using a website screenshot as the banner for ${productName}`);
-      } else if (!banner.inspection.ok) {
-        app.images = (app.images || []).filter((image) => !image.endsWith('/og-image.png'));
-        console.warn(`[Asset Fetcher] ⚠️  No usable banner for ${productName}: ${banner.inspection.reason}`);
-      }
+      rememberUsableBanner(app, productName, banner);
     } else {
       console.log(`[Asset Fetcher] ⏭️  Skipping image download (overridden)`);
     }
 
-    // Process logo/favicon if not overridden
-    if (!override?.logo && $) {
-      const highestResFaviconUrl = await extractHighestResFavicon(
+    // A missing HTML parse still tries origin icons and the Google favicon service.
+    if (!override?.logo) {
+      const acquired = await acquireLogo({
         $,
         website,
         appStoreImageUrl,
-      );
-
-      await processProductLogo(app, productName, appDir, highestResFaviconUrl);
-    } else if (override?.logo) {
+        outputPath: path.join(appDir, 'logo.png'),
+      });
+      if (acquired) {
+        app.logo = `/static/images/product/${productName}/logo.png`;
+        console.log(
+          `[Asset Fetcher] ✅ Logo from ${acquired.url}${acquired.resized ? ' (scaled to a usable size)' : ''}`,
+        );
+      } else {
+        const existingLogo = await checkExistingLogo(appDir, productName);
+        if (existingLogo) app.logo = existingLogo;
+      }
+    } else {
       console.log(`[Asset Fetcher] ⏭️  Skipping logo download (overridden)`);
     }
-
-    const elapsed = Date.now() - startTime;
-    console.log(`[Asset Fetcher] ✅ Successfully fetched all assets for ${productName}`);
-    console.log(`[Asset Fetcher] ⏱️  Total time: ${elapsed}ms\n`);
   } catch (error) {
+    failure = error;
     const elapsed = Date.now() - startTime;
     console.error(`[Asset Fetcher] ❌ Failed to fetch assets for ${app.name}:`, error.message);
     console.error(`[Asset Fetcher] Stack trace:`, error.stack);
 
-    // Check if logo already exists as fallback
-    const existingLogo = checkExistingLogo(appDir, productName);
-    if (existingLogo) {
-      app.logo = existingLogo;
-    }
+    const existingLogo = await checkExistingLogo(appDir, productName);
+    if (existingLogo) app.logo = existingLogo;
 
     console.log(`[Asset Fetcher] ⏱️  Failed after: ${elapsed}ms\n`);
   }
+
+  try {
+    await requireUsableLogo(app, productName, appDir);
+  } catch (logoError) {
+    if (failure) throw failure;
+    throw logoError;
+  }
+
+  const elapsed = Date.now() - startTime;
+  console.log(`[Asset Fetcher] ✅ Successfully fetched all assets for ${productName}`);
+  console.log(`[Asset Fetcher] ⏱️  Total time: ${elapsed}ms\n`);
 }
 
 module.exports = {
@@ -318,4 +324,6 @@ module.exports = {
   applyOverrides,
   processProductImages,
   processProductLogo,
+  rememberUsableBanner,
+  requireUsableLogo,
 };
