@@ -199,6 +199,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 | 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
 | 🖼️ | [Picmal](https://picmal.app) | Convert, compress and edit images, video, audio and PDFs on your Mac. Batch hundreds of files at once, offline, nothing gets uploaded. | **50% OFF** every license, one-time purchase, with code **BLACKFRIDAY** | 2026-11-30 |
 | 🪟 | [NeoTiler](https://getneotiler.com) | Native macOS window manager with keyboard shortcuts, custom snap areas, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. One-time purchase, no subscription. | **30% OFF** Lifetime License ($6.99, usually $9.99) with code **BF30** | 2026-12-01 |
+| 🎬 | [Cutfac](https://cutfac.com) | Create and refine short videos with Claude Code or Codex on Mac. Bring your own agent subscription. | **40% OFF** one-time licenses with code **BF2026**: 1/3/5 Macs $29.40/$41.40/$59.40 (usually $49/$69/$99) before tax. Includes 1 year of updates; keep the last version afterward. | 2026-12-31 |
 
 
 ### Design Tools
