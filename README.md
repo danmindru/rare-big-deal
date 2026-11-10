@@ -505,6 +505,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🤑 | [UIAble](https://uiable.com/) | UIAble is an AI-ready library built on top of shadcn/ui, offering a complete design system with beautifully crafted components, blocks, dashboards, templates, and full-page layouts. Built for modern web development with Next.js.  UIAble helps you build, customize, and ship polished interfaces faster with ready-to-use building blocks designed for AI-assisted workflows without starting from scratch. | **70% OFF** launch offer on Standard ($99) and Enterprise ($299) lifetime plans (no code needed) |  |
 
 [⬆️ All categories](#table-of-contents)
 
