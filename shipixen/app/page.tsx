@@ -239,8 +239,8 @@ export default async function Home() {
                 >
                   github.com/danmindru/rare-big-deal/pulls
                 </a>
-                . All submissions are automatically accepted in order of
-                submission.
+                . Add the row at the bottom of the category. Accepted deals stay
+                in that order.
               </>
             ),
           },
@@ -260,12 +260,12 @@ export default async function Home() {
           {
             question: 'Are all deals accepted?',
             answer:
-              'Yes, as long as you have a deal, it will be accepted and featured on our webpage.',
+              'No. The list is for products that normally cost money and have a current discount a shopper can verify. Free apps, expired or unclear offers, and products that are broken or not really finished are not added.',
           },
           {
             question: 'Is the process automated?',
             answer:
-              'Yes, everything is automated after submission. If you need any manual changes, please raise a pull request.',
+              'Once a deal is on the main README, its product page is generated from that row. Updates still go through a pull request.',
           },
           {
             question: 'Can I make changes to my submitted deal?',

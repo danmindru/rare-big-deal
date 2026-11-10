@@ -11,9 +11,9 @@ import { LandingShapesCtaBg } from '@/components/landing/cta-backgrounds/Landing
 import { genPageMetadata } from 'app/seo';
 
 export const metadata = genPageMetadata({
-  title: 'Best Deal Picks - Handpicked AI, Marketing & DevTool Deals',
+  title: 'Deal packs',
   description:
-    "We've handpicked the best AI, Marketing, and DevTool on iOS, Mac, SaaS, AI and Web apps that ever existed. Now with crazy discounts! Discover exclusive lifetime deals and limited-time offers.",
+    'Short lists of strong current deals, published only when a category has a selection worth showing together.',
 });
 
 const avatars = [
@@ -64,11 +64,12 @@ export default async function AllBundles() {
       <Header className="mb-0 lg:mb-0" />
 
       <LandingPrimaryTextCtaSection
-        title="Best Deal Picks"
+        title="Deal packs"
         descriptionComponent={
           <p className="max-w-2xl">
-            We've handpicked the best AI, Marketing, DevTool apps that ever
-            existed. Now with crazy discounts!
+            A pack is a short list from one part of the catalog. Nothing is
+            listed here until the deals are current and the set is worth
+            showing together.
           </p>
         }
         textPosition="center"

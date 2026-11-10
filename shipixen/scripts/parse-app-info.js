@@ -3,6 +3,7 @@ const { execSync } = require('child_process');
 const { generateMDXContent } = require('./generate-mdx-content');
 const { parseReadme } = require('./parse-readme');
 const { fetchAssets } = require('./asset-fetcher');
+const { pruneProducts } = require('./prune-products');
 
 // Generate pick index before processing apps
 const generateIndexScript = path.join(__dirname, 'generate-pick-index.js');
@@ -88,6 +89,11 @@ async function main() {
     });
     console.log(`[Parse App Info] ========================================\n`);
   }
+
+  const removed = pruneProducts(apps);
+  console.log(
+    `[Parse App Info] 🧹 Removed ${removed.length} product page(s) that are no longer in the README`,
+  );
 }
 
 main();
