@@ -1,4 +1,4 @@
-const axios = require('axios');
+const { guardedFetch } = require('./lib/guarded-fetch');
 const { extractAppStoreIcon } = require('./appstore');
 
 /**
@@ -91,12 +91,10 @@ async function extractHighestResFavicon($, website, appStoreImageUrl = null) {
     console.log(`[Favicon Extractor] 🎯 Trying URL ${i + 1}/${possibleFaviconUrls.length}: ${url}`);
 
     try {
-      const headResponse = await axios.head(url, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0',
-        },
-        validateStatus: (status) => status < 400,
-        timeout: 10000, // 10 second timeout
+      const headResponse = await guardedFetch(url, {
+        method: 'HEAD',
+        timeoutMs: 10000,
+        maxBytes: 64_000,
       });
 
       const contentType = headResponse.headers['content-type'];
@@ -131,12 +129,10 @@ async function extractHighestResFavicon($, website, appStoreImageUrl = null) {
     const googleFaviconUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=256`;
     console.log(`[Favicon Extractor] 🔎 Attempting Google favicon service: ${googleFaviconUrl}`);
 
-    const headResponse = await axios.head(googleFaviconUrl, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0',
-      },
-      validateStatus: (status) => status < 400,
-      timeout: 10000,
+    const headResponse = await guardedFetch(googleFaviconUrl, {
+      method: 'HEAD',
+      timeoutMs: 10000,
+      maxBytes: 64_000,
     });
 
     const contentType = headResponse.headers['content-type'];

@@ -13,6 +13,7 @@ const {
   downloadMultipleImages,
   convertIcoToPng,
 } = require('./image-downloader');
+const { ensureUsableBanner } = require('./lib/banner-fallback');
 
 /**
  * Applies configured overrides for a product (logo, images, categories, etc.).
@@ -265,6 +266,18 @@ async function fetchAssets(app) {
         ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
 
       await processProductImages(app, productName, appDir, imageUrlsToDownload);
+      const banner = await ensureUsableBanner({
+        imagePath: path.join(appDir, 'og-image.png'),
+        website,
+      });
+      if (banner.source === 'website-screenshot') {
+        app.images = [`/static/images/product/${productName}/og-image.png`];
+        app.bannerSource = 'website-screenshot';
+        console.log(`[Asset Fetcher] 📸 Using a website screenshot as the banner for ${productName}`);
+      } else if (!banner.inspection.ok) {
+        app.images = (app.images || []).filter((image) => !image.endsWith('/og-image.png'));
+        console.warn(`[Asset Fetcher] ⚠️  No usable banner for ${productName}: ${banner.inspection.reason}`);
+      }
     } else {
       console.log(`[Asset Fetcher] ⏭️  Skipping image download (overridden)`);
     }

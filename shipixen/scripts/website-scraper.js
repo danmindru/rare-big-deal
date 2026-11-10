@@ -1,5 +1,5 @@
-const axios = require('axios');
 const cheerio = require('cheerio');
+const { guardedFetch } = require('./lib/guarded-fetch');
 const { extractAppStoreImages } = require('./appstore');
 const { sanitizeTitle } = require('./favicon-extractor');
 
@@ -98,15 +98,17 @@ async function fetchWebsiteData(website) {
 
   try {
     console.log('[Website Scraper] 📡 Making HTTP request...');
-    const response = await axios.get(website, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0',
-      },
-      timeout: 30000, // 30 second timeout
+    const response = await guardedFetch(website, {
+      timeoutMs: 15000,
+      maxBytes: 2_000_000,
+      headers: { accept: 'text/html,application/xhtml+xml' },
     });
+    if (response.status >= 400) {
+      throw new Error(`HTTP ${response.status}`);
+    }
 
     console.log(`[Website Scraper] ✅ HTTP ${response.status} - Parsing HTML...`);
-    const $ = cheerio.load(response.data);
+    const $ = cheerio.load(response.body.toString('utf8'));
 
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
     let ogImageUrls = []; // Array for multiple images

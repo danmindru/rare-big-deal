@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "cross-env PORT=6006 NODE_OPTIONS='--no-warnings' next dev",
     "check:archive-media": "node ./scripts/check-archive-media.js",
-    "build": "node ./scripts/check-archive-media.js && cross-env next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
+    "check:submission": "node ./scripts/validate-submission.js --self",
+    "test:submission": "node --test ./scripts/validate-submission.test.js",
+    "build": "node ./scripts/check-archive-media.js && node ./scripts/validate-submission.js --self && cross-env next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",

@@ -1,6 +1,7 @@
 const fs = require('fs');
-const axios = require('axios');
 const sharp = require('sharp');
+const { AddressRejected } = require('./lib/public-address');
+const { guardedFetch } = require('./lib/guarded-fetch');
 
 // Retry configuration
 const MAX_RETRIES = 2; // Number of retry attempts after initial failure
@@ -25,22 +26,22 @@ function delay(ms) {
  * @throws {Error} - Throws error on failure (to be handled by retry wrapper)
  */
 async function downloadImageCore(url, outputPath) {
-  const response = await axios.get(url, {
-    responseType: 'arraybuffer',
-    headers: {
-      'User-Agent': 'Mozilla/5.0',
-    },
-    validateStatus: (status) => status < 400,
-    timeout: 30000, // 30 second timeout
+  const response = await guardedFetch(url, {
+    timeoutMs: 15000,
+    maxBytes: 8_000_000,
+    headers: { accept: 'image/*,*/*;q=0.1' },
   });
 
   console.log(`[Image Downloader] 📡 HTTP ${response.status} for: ${url}`);
+  if (response.status >= 400) {
+    throw new Error(`HTTP ${response.status}`);
+  }
 
   const contentType = response.headers['content-type'];
   console.log(`[Image Downloader] 📋 Content-Type: ${contentType}`);
 
-  if (contentType && contentType.startsWith('image/')) {
-    let imageBuffer = response.data;
+  if (contentType && String(contentType).startsWith('image/')) {
+    let imageBuffer = response.body;
 
     // If the image is a JPG or WebP, convert it to PNG
     if (
@@ -79,26 +80,31 @@ async function downloadImageCore(url, outputPath) {
  * @param {string} outputPath - The local path where the image should be saved
  * @returns {Promise<boolean>} - Returns true if successful, false otherwise
  */
-async function downloadImage(url, outputPath) {
+async function downloadImage(url, outputPath, options = {}) {
   console.log(`[Image Downloader] 📥 Starting download from: ${url}`);
   let lastError;
+  const maxRetries = options.maxRetries ?? MAX_RETRIES;
 
-  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
     try {
       const result = await downloadImageCore(url, outputPath);
       if (attempt > 0) {
-        console.log(`[Image Downloader] ✅ Succeeded on attempt ${attempt + 1}/${MAX_RETRIES + 1}`);
+        console.log(`[Image Downloader] ✅ Succeeded on attempt ${attempt + 1}/${maxRetries + 1}`);
       }
       return result;
     } catch (error) {
       lastError = error;
+      if (error instanceof AddressRejected) {
+        console.error(`[Image Downloader] ❌ Blocked ${url}: ${error.message}`);
+        return false;
+      }
 
-      if (attempt < MAX_RETRIES) {
+      if (attempt < maxRetries) {
         const backoffDelay =
           RETRY_BACKOFF_MS[attempt] ||
           RETRY_BACKOFF_MS[RETRY_BACKOFF_MS.length - 1];
         console.warn(
-          `[Image Downloader] ⚠️  Attempt ${attempt + 1}/${MAX_RETRIES + 1} failed. Retrying in ${backoffDelay / 1000}s... (${error.message})`,
+          `[Image Downloader] ⚠️  Attempt ${attempt + 1}/${maxRetries + 1} failed. Retrying in ${backoffDelay / 1000}s... (${error.message})`,
         );
         await delay(backoffDelay);
       }
@@ -106,7 +112,7 @@ async function downloadImage(url, outputPath) {
   }
 
   console.error(
-    `[Image Downloader] ❌ Failed to download after ${MAX_RETRIES + 1} attempts from ${url}:`,
+    `[Image Downloader] ❌ Failed to download after ${maxRetries + 1} attempts from ${url}:`,
     lastError.message,
   );
   return false;

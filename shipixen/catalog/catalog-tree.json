@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 1,
+  "headings": [
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "Developer Tools"
+    },
+    {
+      "level": 3,
+      "text": "macOS Apps"
+    },
+    {
+      "level": 3,
+      "text": "APIs, Tools & SaaS"
+    },
+    {
+      "level": 3,
+      "text": "Browser Extensions"
+    },
+    {
+      "level": 3,
+      "text": "Productivity & AI"
+    },
+    {
+      "level": 2,
+      "text": "AI Tools"
+    },
+    {
+      "level": 3,
+      "text": "Developer Tools"
+    },
+    {
+      "level": 3,
+      "text": "Productivity"
+    },
+    {
+      "level": 3,
+      "text": "Other"
+    },
+    {
+      "level": 3,
+      "text": "Lifestyle"
+    },
+    {
+      "level": 2,
+      "text": "MacOS Apps"
+    },
+    {
+      "level": 3,
+      "text": "Developer Tools"
+    },
+    {
+      "level": 3,
+      "text": "Productivity"
+    },
+    {
+      "level": 3,
+      "text": "Design Tools"
+    },
+    {
+      "level": 3,
+      "text": "Writing & Notes"
+    },
+    {
+      "level": 3,
+      "text": "Menu Bar & More"
+    },
+    {
+      "level": 2,
+      "text": "tvOS Apps"
+    },
+    {
+      "level": 3,
+      "text": "Health & Fitness"
+    },
+    {
+      "level": 3,
+      "text": "Design Tools"
+    },
+    {
+      "level": 2,
+      "text": "iOS Apps"
+    },
+    {
+      "level": 3,
+      "text": "Writing & Notes"
+    },
+    {
+      "level": 3,
+      "text": "Productivity"
+    },
+    {
+      "level": 3,
+      "text": "Photos & Videos"
+    },
+    {
+      "level": 3,
+      "text": "Health & Fitness"
+    },
+    {
+      "level": 3,
+      "text": "Hobby & Lifestyle"
+    },
+    {
+      "level": 3,
+      "text": "Other"
+    },
+    {
+      "level": 2,
+      "text": "Design Tools"
+    },
+    {
+      "level": 3,
+      "text": "Productivity"
+    },
+    {
+      "level": 3,
+      "text": "AI Design Tools"
+    },
+    {
+      "level": 3,
+      "text": "Video Tools"
+    },
+    {
+      "level": 3,
+      "text": "Social"
+    },
+    {
+      "level": 2,
+      "text": "Productivity"
+    },
+    {
+      "level": 3,
+      "text": "Todo Apps, Notes & Writing"
+    },
+    {
+      "level": 3,
+      "text": "Team Project Management Software"
+    },
+    {
+      "level": 3,
+      "text": "Image, Video & Audio Editing Tools"
+    },
+    {
+      "level": 3,
+      "text": "Marketing"
+    },
+    {
+      "level": 3,
+      "text": "Other"
+    },
+    {
+      "level": 2,
+      "text": "Marketing"
+    },
+    {
+      "level": 3,
+      "text": "Social"
+    },
+    {
+      "level": 3,
+      "text": "Sales Tools"
+    },
+    {
+      "level": 3,
+      "text": "Email Marketing"
+    },
+    {
+      "level": 3,
+      "text": "Content Creation"
+    },
+    {
+      "level": 3,
+      "text": "Affiliate Marketing"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Website Builders"
+    },
+    {
+      "level": 3,
+      "text": "Ads & Paid listings"
+    },
+    {
+      "level": 3,
+      "text": "Other"
+    },
+    {
+      "level": 2,
+      "text": "SEO Tools"
+    },
+    {
+      "level": 3,
+      "text": "Backlinks"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "Analyze & Audit"
+    },
+    {
+      "level": 3,
+      "text": "Content Creation"
+    },
+    {
+      "level": 2,
+      "text": "John Rush Extravaganza"
+    },
+    {
+      "level": 2,
+      "text": "Boilerplates, Starters & Libraries"
+    },
+    {
+      "level": 3,
+      "text": "React/Next.js"
+    },
+    {
+      "level": 3,
+      "text": "Astro"
+    },
+    {
+      "level": 3,
+      "text": "Nuxt"
+    },
+    {
+      "level": 3,
+      "text": "iOS"
+    },
+    {
+      "level": 3,
+      "text": "Flutter"
+    },
+    {
+      "level": 3,
+      "text": "React Native"
+    },
+    {
+      "level": 3,
+      "text": "Kotlin"
+    },
+    {
+      "level": 3,
+      "text": "Laravel"
+    },
+    {
+      "level": 3,
+      "text": "Django"
+    },
+    {
+      "level": 3,
+      "text": "Chrome Extensions"
+    },
+    {
+      "level": 3,
+      "text": "Libraries & More"
+    },
+    {
+      "level": 2,
+      "text": "Learning"
+    },
+    {
+      "level": 3,
+      "text": "Courses"
+    },
+    {
+      "level": 3,
+      "text": "Art Courses"
+    },
+    {
+      "level": 3,
+      "text": "SEO"
+    },
+    {
+      "level": 3,
+      "text": "Books"
+    },
+    {
+      "level": 3,
+      "text": "Guides & Templates"
+    },
+    {
+      "level": 2,
+      "text": "Health and Fitness"
+    },
+    {
+      "level": 3,
+      "text": "Apps"
+    },
+    {
+      "level": 3,
+      "text": "Web Apps"
+    },
+    {
+      "level": 2,
+      "text": "Finance"
+    },
+    {
+      "level": 3,
+      "text": "Dashboards"
+    },
+    {
+      "level": 3,
+      "text": "Investment Research"
+    },
+    {
+      "level": 3,
+      "text": "Expense tracking"
+    },
+    {
+      "level": 2,
+      "text": "Miscellaneous"
+    },
+    {
+      "level": 3,
+      "text": "All"
+    }
+  ]
+}
