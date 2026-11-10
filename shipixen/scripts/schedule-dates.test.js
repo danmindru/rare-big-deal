@@ -312,7 +312,7 @@ describe('scheduled deal eligibility', () => {
 });
 
 describe('scheduled README rows', () => {
-  test('Habit Pixel and JSON2Video are the only new rows in their tables', async () => {
+  test('Habit Pixel and JSON2Video keep their scheduled rows', async () => {
     const readme = fs.readFileSync(README, 'utf8');
     const catalog = parseCatalog(readme);
     const todos = catalog.tables.find(
@@ -325,25 +325,26 @@ describe('scheduled README rows', () => {
         entry.category === 'Developer Tools' &&
         entry.subcategory === 'APIs, Tools & SaaS',
     );
-    assert.deepEqual(
-      todos.rows.map((entry) => entry.name),
-      ['Habit Pixel'],
-    );
-    assert.equal(todos.rows[0].website, 'https://habitpixel.com/get');
-    assert.equal(todos.rows[0].expires, '2026-12-02');
-    assert.equal(todos.rows[0].deal, HABIT_DEAL);
-    assert.deepEqual(
-      apis.rows.map((entry) => entry.name),
-      ['JSON2Video'],
-    );
+    const habitRow = todos.rows.find((entry) => entry.name === 'Habit Pixel');
+    const jsonRow = apis.rows.find((entry) => entry.name === 'JSON2Video');
+    // Added at the bottom of tables that had no other rows. Later deals are
+    // appended after these, so these rows stay first. The tables can list more products.
+    assert.ok(habitRow);
+    assert.ok(jsonRow);
+    assert.equal(todos.rows[0], habitRow);
+    assert.equal(apis.rows[0], jsonRow);
+    assert.equal(habitRow.website, 'https://habitpixel.com/get');
+    assert.equal(habitRow.expires, '2026-12-02');
+    assert.equal(habitRow.deal, HABIT_DEAL);
     assert.equal(
-      apis.rows[0].website,
+      jsonRow.website,
       'https://json2video.com/pricing/blackfriday-2026/',
     );
-    assert.equal(apis.rows[0].expires, '2026-12-01');
-    assert.equal(apis.rows[0].deal, JSON_DEAL);
-    assert.equal(apis.rows[0].website.includes('c=rbd'), false);
-    assert.equal(apis.rows[0].deal.includes('BF2026RBD'), false);
+    assert.equal(jsonRow.expires, '2026-12-01');
+    assert.equal(jsonRow.deal, JSON_DEAL);
+    assert.equal(jsonRow.website.includes('c=rbd'), false);
+    assert.equal(jsonRow.deal.includes('BF2026'), true);
+    assert.equal(jsonRow.deal.includes('BF2026RBD'), false);
 
     const aiTools = catalog.tables.find(
       (entry) =>
