@@ -128,10 +128,10 @@ function applyCategoryOverrides(categories, subcategories, productName) {
   return finalTags;
 }
 
-function applyMetaOverrides(productName, app) {
+function applyMetaOverrides(productName, app, source = overrides) {
   console.log(`[Apply Overrides] 📝 Processing metadata for: ${productName}`);
 
-  const productOverrides = overrides[productName] || {};
+  const productOverrides = source[productName] || {};
   const hasOverrides = Object.keys(productOverrides).length > 0;
 
   if (hasOverrides) {
@@ -153,6 +153,7 @@ function applyMetaOverrides(productName, app) {
     categories: productOverrides.categories || app.categories,
     subcategories: productOverrides.subcategories || app.subcategories,
     expiresOnDate: productOverrides.expiresOnDate || app.expiresOnDate,
+    validFromDate: productOverrides.validFromDate || app.validFromDate,
   };
 }
 

@@ -1,0 +1,22 @@
+name: Archive media references
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  check-archive-media:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check historical archive media
+        run: node shipixen/scripts/check-archive-media.js

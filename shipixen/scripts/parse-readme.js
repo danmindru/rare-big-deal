@@ -1,14 +1,21 @@
 const { readmePath } = require('./settings');
+const {
+  assertStartOnOrBeforeEnd,
+  validFromDateInDeal,
+} = require('./lib/eligibility');
 const fs = require('fs');
 
 const skipProductNames = [];
 
-async function parseReadme() {
+async function parseReadme(markdown) {
   console.log('\n[Parse README] 📖 Starting README parsing...');
-  console.log(`[Parse README] 📁 Reading from: ${readmePath}`);
+  console.log(
+    `[Parse README] 📁 Reading from: ${markdown == null ? readmePath : 'provided markdown'}`,
+  );
   const startTime = Date.now();
 
-  const readmeContent = fs.readFileSync(readmePath, 'utf-8');
+  const readmeContent =
+    markdown == null ? fs.readFileSync(readmePath, 'utf-8') : String(markdown);
   const lines = readmeContent.split('\n');
 
   console.log(`[Parse README] 📋 Total lines in README: ${lines.length}`);
@@ -34,6 +41,12 @@ async function parseReadme() {
         const description = parts[3];
         const deal = parts[4];
         const expiresOnDate = parts[5] || '';
+        const validFromDate = validFromDateInDeal(deal);
+        try {
+          assertStartOnOrBeforeEnd(validFromDate, expiresOnDate);
+        } catch (error) {
+          throw new Error(`${name}: ${error.message}`);
+        }
 
         if (skipProductNames.includes(name)) {
           skippedCount++;
@@ -48,6 +61,7 @@ async function parseReadme() {
             description,
             deal,
             expiresOnDate,
+            validFromDate,
             categories: [],
             subcategories: [],
           };

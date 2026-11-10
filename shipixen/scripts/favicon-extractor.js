@@ -1,5 +1,25 @@
-const axios = require('axios');
+const fs = require('fs');
+const path = require('path');
+const sharp = require('sharp');
 const { extractAppStoreIcon } = require('./appstore');
+const { downloadImage, writeFileAtomic } = require('./image-downloader');
+const { inspectMedia, inspectMediaFile } = require('./lib/media-bytes');
+
+const APPLE_ICON_PATHS = [
+  '/apple-touch-icon.png',
+  '/apple-touch-icon-precomposed.png',
+  '/apple-icon.png',
+  '/apple-touch-icon-180x180.png',
+  '/apple-touch-icon-152x152.png',
+  '/apple-touch-icon-120x120.png',
+];
+
+const FAVICON_PATHS = ['/icon.png', '/favicon-32x32.png', '/favicon.png', '/favicon.ico'];
+
+// A real icon that is only slightly under the 32px listing minimum can be
+// scaled up. Anything smaller is not a usable logo and is left for the next
+// candidate, including the Google favicon service.
+const UPSCALE_FLOOR = 16;
 
 /**
  * Sanitizes a title string by removing invisible Unicode characters and control characters.
@@ -38,158 +58,204 @@ function sanitizeTitle(title) {
   return sanitized;
 }
 
-/**
- * Extracts the highest resolution favicon from a website.
- *
- * @param {object} $ - Cheerio instance with loaded HTML
- * @param {string} website - The website URL
- * @param {string|null} appStoreImageUrl - Optional App Store image URL to use as fallback
- * @returns {Promise<string|null>} - URL of the highest resolution favicon, or null if not found
- */
-async function extractHighestResFavicon($, website, appStoreImageUrl = null) {
-  console.log(`\n[Favicon Extractor] 🔍 Starting extraction for: ${website}`);
-  const startTime = Date.now();
-
-  // Special handling for Apple App Store URLs to extract app icon
-  if (website.includes('apps.apple.com')) {
-    console.log('[Favicon Extractor] 📱 Detected App Store URL, attempting App Store icon extraction...');
-    try {
-      const appStoreIcon = await extractAppStoreIcon($, website);
-      if (appStoreIcon) {
-        console.log(`[Favicon Extractor] ✅ Successfully extracted App Store icon: ${appStoreIcon}`);
-        return appStoreIcon;
-      }
-      console.log('[Favicon Extractor] ⚠️ App Store icon extraction returned null, falling back to standard extraction');
-    } catch (error) {
-      console.error(`[Favicon Extractor] ❌ Error extracting App Store icon:`, error.message);
-    }
-  }
-
-  // Standard favicon extraction for non-App Store URLs or as fallback
-  console.log('[Favicon Extractor] 🔨 Building list of possible favicon URLs...');
-  const possibleFaviconUrls = [
-    $('link[rel="apple-touch-icon"]').attr('href'),
-    '/apple-touch-icon.png',
-    $('link[rel="icon"][type="image/png"]').attr('href'),
-    '/favicon-32x32.png',
-    '/favicon-16x16.png',
-    '/favicon.png',
-    // Get .ico too
-    $('link[rel="icon"]').attr('href'),
-    $('link[rel="shortcut icon"]').attr('href'),
-    appStoreImageUrl, // Add the app store image URL to the list
-  ]
-    .filter(Boolean)
-    .map((url) => new URL(url, website).href)
-    .filter((url) => !url.toLowerCase().endsWith('.svg')); // Filter out SVG favicons
-
-  console.log(`[Favicon Extractor] 📋 Found ${possibleFaviconUrls.length} possible favicon URLs to try`);
-  console.log('[Favicon Extractor] 🔗 URLs:', possibleFaviconUrls);
-
-  for (let i = 0; i < possibleFaviconUrls.length; i++) {
-    const url = possibleFaviconUrls[i];
-    console.log(`[Favicon Extractor] 🎯 Trying URL ${i + 1}/${possibleFaviconUrls.length}: ${url}`);
-
-    try {
-      const headResponse = await axios.head(url, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0',
-        },
-        validateStatus: (status) => status < 400,
-        timeout: 10000, // 10 second timeout
-      });
-
-      const contentType = headResponse.headers['content-type'];
-      console.log(`[Favicon Extractor]   📡 Response: Status ${headResponse.status}, Content-Type: ${contentType}`);
-
-      if (
-        headResponse.status === 200 &&
-        contentType && contentType.startsWith('image/')
-      ) {
-        const elapsed = Date.now() - startTime;
-        console.log(`[Favicon Extractor] ✅ Successfully found favicon at: ${url}`);
-        console.log(`[Favicon Extractor] ⏱️  Total time: ${elapsed}ms\n`);
-        return url;
-      } else {
-        console.log(`[Favicon Extractor]   ⏭️  Skipping: Invalid status or content type`);
-      }
-    } catch (error) {
-      if (error.code === 'ECONNABORTED') {
-        console.warn(`[Favicon Extractor]   ⏰ Timeout: ${url}`);
-      } else if (error.response) {
-        console.warn(`[Favicon Extractor]   ⚠️  HTTP ${error.response.status}: ${url}`);
-      } else {
-        console.warn(`[Favicon Extractor]   ❌ Error (${error.code || error.message}): ${url}`);
-      }
-    }
-  }
-
-  // Final fallback: Try Google's favicon service with maximum size
-  console.log('[Favicon Extractor] 🌐 All standard URLs failed, trying Google favicon service as last resort...');
+function pushIconUrl(urls, seen, href, base) {
+  if (!href) return;
+  let absolute;
   try {
-    const domain = new URL(website).hostname;
-    const googleFaviconUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=256`;
-    console.log(`[Favicon Extractor] 🔎 Attempting Google favicon service: ${googleFaviconUrl}`);
-
-    const headResponse = await axios.head(googleFaviconUrl, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0',
-      },
-      validateStatus: (status) => status < 400,
-      timeout: 10000,
-    });
-
-    const contentType = headResponse.headers['content-type'];
-    console.log(`[Favicon Extractor]   📡 Response: Status ${headResponse.status}, Content-Type: ${contentType}`);
-
-    if (
-      headResponse.status === 200 &&
-      contentType && contentType.startsWith('image/')
-    ) {
-      const elapsed = Date.now() - startTime;
-      console.log(`[Favicon Extractor] ✅ Successfully retrieved favicon from Google service for ${domain}`);
-      console.log(`[Favicon Extractor] ⏱️  Total time: ${elapsed}ms\n`);
-      return googleFaviconUrl;
-    } else {
-      console.warn(`[Favicon Extractor] ⚠️  Google favicon service returned invalid response`);
-    }
-  } catch (error) {
-    console.error(`[Favicon Extractor] ❌ Google favicon service failed for ${website}:`, error.message);
+    absolute = new URL(href, base);
+  } catch {
+    return;
   }
+  if (absolute.protocol !== 'http:' && absolute.protocol !== 'https:') return;
+  if (absolute.pathname.toLowerCase().endsWith('.svg')) return;
+  const hrefString = absolute.href;
+  if (seen.has(hrefString)) return;
+  seen.add(hrefString);
+  urls.push(hrefString);
+}
 
-  const elapsed = Date.now() - startTime;
-  console.error(`[Favicon Extractor] ❌ FAILED: Could not find any valid favicon for ${website}`);
-  console.log(`[Favicon Extractor] ⏱️  Total time: ${elapsed}ms\n`);
-  return null;
+function iconSize(sizes) {
+  const match = String(sizes || '').match(/(\d+)\s*x\s*(\d+)/i);
+  if (!match) return 0;
+  return Math.min(Number(match[1]), Number(match[2]));
+}
+
+function collectHtmlIcons($) {
+  const apple = [];
+  const other = [];
+  if (!$) return { apple, other };
+  $('link[href]').each((index, element) => {
+    const rel = String($(element).attr('rel') || '')
+      .toLowerCase()
+      .split(/\s+/)
+      .filter(Boolean);
+    if (rel.includes('mask-icon') || rel.includes('preload') || rel.includes('stylesheet')) return;
+    const appleTouch =
+      rel.includes('apple-touch-icon') || rel.includes('apple-touch-icon-precomposed');
+    const icon = appleTouch || rel.includes('icon') || rel.includes('shortcut');
+    if (!icon) return;
+    const type = String($(element).attr('type') || '').toLowerCase();
+    if (type.includes('svg')) return;
+    const href = $(element).attr('href');
+    const entry = { href, size: iconSize($(element).attr('sizes')), index };
+    (appleTouch ? apple : other).push(entry);
+  });
+  const byPreference = (a, b) => b.size - a.size || a.index - b.index;
+  apple.sort(byPreference);
+  other.sort(byPreference);
+  return { apple, other };
 }
 
 /**
- * Checks if a logo file exists in the specified directory.
+ * Icon URLs to try, best first. HTML is optional: a missing parse still tries
+ * the well-known icon paths on the product origin and, last, Google's favicon
+ * service. SVG icons are omitted.
+ */
+async function logoCandidateUrls($, website, appStoreImageUrl = null) {
+  const urls = [];
+  const seen = new Set();
+  const origin = new URL(website).origin;
+
+  if ($ && String(website).includes('apps.apple.com')) {
+    try {
+      const appStoreIcon = await extractAppStoreIcon($, website);
+      pushIconUrl(urls, seen, appStoreIcon, website);
+    } catch (error) {
+      console.warn(`[Favicon Extractor] App Store icon was not used: ${error.message}`);
+    }
+  }
+
+  const htmlIcons = collectHtmlIcons($);
+  for (const entry of htmlIcons.apple) pushIconUrl(urls, seen, entry.href, website);
+  for (const iconPath of APPLE_ICON_PATHS) pushIconUrl(urls, seen, iconPath, origin);
+  for (const entry of htmlIcons.other) pushIconUrl(urls, seen, entry.href, website);
+  for (const iconPath of FAVICON_PATHS) pushIconUrl(urls, seen, iconPath, origin);
+  pushIconUrl(urls, seen, appStoreImageUrl, website);
+
+  const domain = new URL(website).hostname;
+  pushIconUrl(
+    urls,
+    seen,
+    `https://www.google.com/s2/favicons?domain=${encodeURIComponent(domain)}&sz=256`,
+    website,
+  );
+
+  return urls;
+}
+
+async function extractHighestResFavicon($, website, appStoreImageUrl = null) {
+  const urls = await logoCandidateUrls($, website, appStoreImageUrl);
+  return urls[0] || null;
+}
+
+function canUpscale(inspection) {
+  if (!inspection || !inspection.width || !inspection.height) return false;
+  const minSide = Math.min(inspection.width, inspection.height);
+  return minSide >= UPSCALE_FLOOR && (inspection.width < 32 || inspection.height < 32);
+}
+
+async function upscaleLogo(png, inspection) {
+  const scale = 32 / Math.min(inspection.width, inspection.height);
+  const width = Math.max(32, Math.round(inspection.width * scale));
+  const height = Math.max(32, Math.round(inspection.height * scale));
+  return sharp(png)
+    .resize(width, height, { kernel: sharp.kernel.nearest, fit: 'fill' })
+    .png()
+    .toBuffer();
+}
+
+/**
+ * GET each candidate and keep the first image that decodes at logo size.
+ * A smaller real icon is remembered and scaled only when nothing larger exists.
+ * The previous logo.png is replaced only after a usable PNG is ready.
+ */
+async function acquireProductLogo(options) {
+  const candidates = await logoCandidateUrls(options.$, options.website, options.appStoreImageUrl);
+  console.log(`[Favicon Extractor] ${candidates.length} logo candidate(s) for ${options.website}`);
+  const partialPath = `${options.outputPath}.partial`;
+  let bestSmall = null;
+
+  const loadCandidate = async (url) => {
+    const saved = await downloadImage(url, partialPath, {
+      maxRetries: options.maxRetries ?? 0,
+      timeoutMs: options.timeoutMs ?? 10000,
+      maxBytes: options.maxBytes ?? 4_000_000,
+      lookup: options.lookup,
+      requestImpl: options.requestImpl,
+      getBytes: options.getBytes,
+    });
+    if (!saved) return null;
+    try {
+      return await fs.promises.readFile(partialPath);
+    } finally {
+      await fs.promises.rm(partialPath, { force: true });
+    }
+  };
+
+  try {
+    for (const url of candidates) {
+      const png = await loadCandidate(url);
+      if (!png) continue;
+      const inspection = await inspectMedia(png, 'logo');
+      if (inspection.ok) {
+        await writeFileAtomic(options.outputPath, png);
+        console.log(`[Favicon Extractor] ✅ Logo ${inspection.width}x${inspection.height} from ${url}`);
+        return { url, inspection, resized: false };
+      }
+      if (canUpscale(inspection)) {
+        const area = inspection.width * inspection.height;
+        if (!bestSmall || area > bestSmall.area) {
+          bestSmall = { url, png, inspection, area };
+        }
+        console.log(
+          `[Favicon Extractor] ${url} is ${inspection.width}x${inspection.height}, below logo size; continuing`,
+        );
+        continue;
+      }
+      console.log(`[Favicon Extractor] Skipping ${url}: ${inspection.reason}`);
+    }
+
+    if (bestSmall) {
+      const resized = await upscaleLogo(bestSmall.png, bestSmall.inspection);
+      const inspection = await inspectMedia(resized, 'logo');
+      if (inspection.ok) {
+        await writeFileAtomic(options.outputPath, resized);
+        console.log(
+          `[Favicon Extractor] ✅ Scaled ${bestSmall.inspection.width}x${bestSmall.inspection.height} logo from ${bestSmall.url} to ${inspection.width}x${inspection.height}`,
+        );
+        return { url: bestSmall.url, inspection, resized: true };
+      }
+    }
+    return null;
+  } finally {
+    await fs.promises.rm(partialPath, { force: true });
+  }
+}
+
+/**
+ * Checks if a usable logo file exists in the specified directory.
  *
  * @param {string} appDir - Directory to check for logo
  * @param {string} productName - Name of the product
- * @returns {string|null} - Path to the logo if it exists, null otherwise
+ * @returns {Promise<string|null>} - Public path when the file decodes at logo size
  */
-function checkExistingLogo(appDir, productName) {
-  const fs = require('fs');
-  const path = require('path');
+async function checkExistingLogo(appDir, productName) {
   const existingLogoPath = path.join(appDir, 'logo.png');
-
   console.log(`[Favicon Extractor] 🖼️  Checking for existing logo at: ${existingLogoPath}`);
-
-  if (fs.existsSync(existingLogoPath)) {
-    const logoPath = `/static/images/product/${productName}/logo.png`;
-    console.log(`[Favicon Extractor] ✅ Found existing logo for ${productName}: ${logoPath}`);
-    return logoPath;
+  const inspection = await inspectMediaFile(existingLogoPath, 'logo');
+  if (!inspection.ok) {
+    console.log(`[Favicon Extractor] 🔍 No usable logo for ${productName}: ${inspection.reason}`);
+    return null;
   }
-
-  console.log(`[Favicon Extractor] 🔍 No existing logo found for ${productName}`);
-  return null;
+  const logoPath = `/static/images/product/${productName}/logo.png`;
+  console.log(`[Favicon Extractor] ✅ Found existing logo for ${productName}: ${logoPath}`);
+  return logoPath;
 }
 
 module.exports = {
-  sanitizeTitle,
-  extractHighestResFavicon,
+  acquireProductLogo,
   checkExistingLogo,
+  extractHighestResFavicon,
+  logoCandidateUrls,
+  sanitizeTitle,
 };
-
