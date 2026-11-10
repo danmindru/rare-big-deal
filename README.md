@@ -189,7 +189,7 @@ Free & open-source.
 | 🖼️ | [Picmal](https://picmal.app) | Convert, compress and edit images, video, audio and PDFs on your Mac. Batch hundreds of files at once, offline, nothing gets uploaded. | **50% OFF** every license, one-time purchase, with code **BLACKFRIDAY** | 2026-11-30 |
 | 🪟 | [NeoTiler](https://getneotiler.com) | Native macOS window manager with keyboard shortcuts, custom snap areas, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. One-time purchase, no subscription. | **30% OFF** Lifetime License ($6.99, usually $9.99) with code **BF30** | 2026-12-01 |
 | 🎬 | [Cutfac](https://cutfac.com) | Create and refine short videos with Claude Code or Codex on Mac. Bring your own agent subscription. | **40% OFF** one-time licenses with code **BF2026**: 1/3/5 Macs $29.40/$41.40/$59.40 (usually $49/$69/$99) before tax. Includes 1 year of updates; keep the last version afterward. | 2026-12-31 |
-| 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($99 → $49.50) with code **BLACKFRIDAY26** | 2026-12-02 |
+| 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($99 → $49.50) with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🐬 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | **30% OFF** new licences with code **BF30** | 2026-12-03 |
 | 📋 | [CleanClip](https://pricing.cleanclip.cc/src) | Native Mac clipboard manager with searchable history, quick paste, smart lists and Paste Stack. | **30% OFF** with code **BF2026**: Standard $19.99 → $13.99, Pro $29.99 → $20.99 (one-time purchase) | 2026-12-15 |
 
@@ -199,9 +199,10 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🐦 | [BirdFrame](https://getbirdframe.com) | Crops thousands of bird photos in one go on your Mac, at full resolution. | **33% OFF** the one-time unlock ($29.99 → $19.99), no code needed. Starts on 2026-11-20 | 2026-12-01 |
-| 📹 | [ScreenSage Pro](https://screensage.pro/bf2026) | Native Mac screen recorder and video editor for tutorials and product demos; auto cursor zoom, camera layouts, iPhone/iPad capture. | **Up to 53% OFF**: Lifetime $449 → $209.90 (**BFS2026L**, 53%); Pro 3 Macs $149 → $79.90 (**BFS2026P**, 46%) | 2026-12-15 |
+| 📹 | [ScreenSage Pro](https://screensage.pro/bf2026) | Native Mac screen recorder and video editor for tutorials and product demos; auto cursor zoom, camera layouts, iPhone/iPad capture. | **Up to 53% OFF**: Lifetime $449 → $209.90 (53%); Pro 3 Macs $149 → $79.90 (46%), prices shown on the deal page | 2026-12-15 |
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
+| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Writing & Notes
@@ -304,9 +305,10 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🎬 | [Kensa](https://www.kensa.cc/deals/black-friday) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance. Turn text, images or a product link into videos. | **25% OFF** the first year of yearly plans: Basic $99 → $74.25, Pro $299 → $224.25, Ultimate $799 → $599.25 (code shown on the deal page). Starts on 2026-11-20 | 2026-12-01 |
-| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-02 |
+| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🎬 | [inReels](https://www.inreels.ai/pricing) | AI ad generator: paste a product link and get UGC video ads, static ads and product videos with script, voiceover and captions. Also faceless and brainrot videos for creators. | **50% OFF** all yearly plans with code **BLACKFRIDAY2026** | 2026-12-01 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
+| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Social
@@ -338,7 +340,8 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-02 |
+| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-03 |
+| 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 
 
 ### Marketing
