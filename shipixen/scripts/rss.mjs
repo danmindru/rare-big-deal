@@ -3,7 +3,7 @@ import path from 'path';
 import GithubSlugger from 'github-slugger';
 import { escape } from '@shipixen/pliny/utils/htmlEscaper.js';
 import { siteConfig } from '../data/config/site.settings.js';
-import tagData from '../app/tag-data.json' assert { type: 'json' };
+import tagData from '../app/tag-data.json' with { type: 'json' };
 import { allBlogs } from '../.contentlayer/generated/index.mjs';
 
 const BLOG_URL = siteConfig.blogPath ? `/${siteConfig.blogPath}` : '';
