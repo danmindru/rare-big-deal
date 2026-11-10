@@ -132,6 +132,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎬 | [Renderly](https://renderly.video/pricing?code=BLACKFRIDAY2026) | Video rendering API: send a JSON template and your data, get an MP4 back. Includes a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server. | **30% OFF** the first payment of a new Creator or Business subscription with code **BLACKFRIDAY2026** (Creator $29 → $20.30, Business $99 → $69.30 for the first month) | 2026-12-01 |
 
 
 
