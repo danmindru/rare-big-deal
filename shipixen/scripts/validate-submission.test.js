@@ -189,23 +189,51 @@ describe('guarded fetch', () => {
     });
     const port = await listen(server);
     try {
-      let requested = false;
-      await assert.rejects(() => guardedFetch(`http://127.0.0.1:${port}/secret`, {
-        requestImpl: () => {
-          requested = true;
-          throw new Error('request implementation should not run');
-        },
-      }));
-      assert.equal(requested, false);
+      // Default ports 80 and 443 are allowed, so these must fail as private
+      // addresses. An ephemeral port would be rejected by the port rule first.
+      const privateTargets = [
+        'http://127.0.0.1/',
+        'http://127.0.0.1:80/',
+        'https://127.0.0.1/',
+        'https://127.0.0.1:443/',
+        'http://169.254.169.254/',
+        'http://169.254.169.254:80/',
+        'https://169.254.169.254/',
+        'https://169.254.169.254:443/',
+      ];
+      for (const url of privateTargets) {
+        let requested = false;
+        await assert.rejects(
+          () => guardedFetch(url, {
+            requestImpl: () => {
+              requested = true;
+              throw new Error('request implementation should not run');
+            },
+          }),
+          (error) => error instanceof AddressRejected && error.code === 'private-address',
+        );
+        assert.equal(requested, false);
+        assert.equal(hits, 0);
+      }
+
+      const listenerAttempts = [];
       const blockedDownload = await downloadImage(
         `http://127.0.0.1:${port}/logo.png`,
         path.join(os.tmpdir(), 'blocked-logo.png'),
+        { onAttempt: (attempt) => listenerAttempts.push(attempt) },
       );
       assert.equal(blockedDownload, false);
-      const started = Date.now();
-      const downloaded = await downloadImage('http://169.254.169.254/latest/meta-data', path.join(os.tmpdir(), 'meta.png'));
+      assert.deepEqual(listenerAttempts, [0]);
+      assert.equal(hits, 0);
+
+      const metadataAttempts = [];
+      const downloaded = await downloadImage(
+        'http://169.254.169.254/latest/meta-data',
+        path.join(os.tmpdir(), 'meta.png'),
+        { onAttempt: (attempt) => metadataAttempts.push(attempt) },
+      );
       assert.equal(downloaded, false);
-      assert.ok(Date.now() - started < 1000);
+      assert.deepEqual(metadataAttempts, [0]);
       const page = await fetchWebsiteData('http://169.254.169.254/');
       assert.equal(page.ogImageUrl, null);
       assert.equal(hits, 0);

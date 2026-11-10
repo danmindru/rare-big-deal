@@ -76,6 +76,10 @@ jobs:
           git checkout pr-head -- \
             shipixen/scripts/validate-submission.js \
             shipixen/scripts/validate-submission.test.js \
+            shipixen/scripts/image-downloader.js \
+            shipixen/scripts/website-scraper.js \
+            shipixen/scripts/favicon-extractor.js \
+            shipixen/scripts/asset-fetcher.js \
             shipixen/scripts/lib \
             shipixen/scripts/fixtures \
             shipixen/catalog/catalog-tree.json

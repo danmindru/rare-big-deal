@@ -86,6 +86,7 @@ async function downloadImage(url, outputPath, options = {}) {
   const maxRetries = options.maxRetries ?? MAX_RETRIES;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    if (typeof options.onAttempt === 'function') options.onAttempt(attempt);
     try {
       const result = await downloadImageCore(url, outputPath);
       if (attempt > 0) {
