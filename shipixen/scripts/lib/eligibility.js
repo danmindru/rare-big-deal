@@ -20,10 +20,29 @@ function validDate(value) {
   );
 }
 
+// ISO calendar date only. "Starts on 2026-11-19T00:00:00" is not a date.
+const STARTS_ON_DATE = /Starts on (\d{4}-\d{2}-\d{2})(?![0-9T:-])/;
+
+function validFromDateInDeal(deal) {
+  const match = String(deal || '').match(STARTS_ON_DATE);
+  if (!match || !validDate(match[1])) return '';
+  return match[1];
+}
+
+function assertStartOnOrBeforeEnd(validFromDate, expiresOnDate) {
+  const start = String(validFromDate || '').trim();
+  const end = String(expiresOnDate || '').trim();
+  if (!start || !end || !validDate(start) || !validDate(end)) return;
+  if (start > end) {
+    throw new Error(`Start date ${start} is after end date ${end}.`);
+  }
+}
+
 /**
  * Objective text and date checks only. A stated discount is not treated as
  * proof that the price is live, and a freemium product with a discounted paid
- * plan is not rejected. Unknowns stay for a person.
+ * plan is not rejected. Unknowns stay for a person. A future start date is
+ * allowed. A start date after the end date is not.
  */
 function assessEligibility(row, today) {
   const deal = plainDeal(row.deal);
@@ -49,11 +68,20 @@ function assessEligibility(row, today) {
       reason: `Offer date ${expires} is before ${today}.`,
     });
   } else {
-    findings.push({
-      check: 'expiry',
-      status: 'pass',
-      reason: `End date ${expires} is today or later. This does not prove the price on the site.`,
-    });
+    const starts = validFromDateInDeal(row.deal);
+    if (starts && starts > expires) {
+      findings.push({
+        check: 'expiry',
+        status: 'fail',
+        reason: `Start date ${starts} is after end date ${expires}.`,
+      });
+    } else {
+      findings.push({
+        check: 'expiry',
+        status: 'pass',
+        reason: `End date ${expires} is today or later. This does not prove the price on the site.`,
+      });
+    }
   }
 
   const statesDiscount = DISCOUNT_SIGNAL.test(deal);
@@ -111,7 +139,9 @@ function assessEligibility(row, today) {
 }
 
 module.exports = {
+  assertStartOnOrBeforeEnd,
   assessEligibility,
   plainDeal,
   validDate,
+  validFromDateInDeal,
 };

@@ -109,7 +109,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-
+| 🎬 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT. | **25% OFF** the first year of yearly plans with code **BF2026**: Professional $299.70 (was $399.60), Hobby $149.63 (was $199.50). Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Browser Extensions
@@ -297,6 +297,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| ✅ | [Habit Pixel](https://habitpixel.com/get) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF** Lifetime ($29.99 → $19.99), applied automatically in the app. Starts on 2026-11-19 | 2026-12-02 |
 
 
 ### Team Project Management Software
@@ -596,6 +597,8 @@ Free & open-source.
 4. Please submit products in English.
 
 Use the same columns as the empty tables: emoji, name and link, short description, the deal, and the date it ends (`YYYY-MM-DD`).
+
+A scheduled deal can include `Starts on YYYY-MM-DD` in the deal cell.
 
 #### What belongs here
 

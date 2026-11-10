@@ -95,6 +95,9 @@ jobs:
           if [ -f ./scripts/logo-pipeline.test.js ]; then
             node --test ./scripts/logo-pipeline.test.js
           fi
+          if [ -f ./scripts/schedule-dates.test.js ]; then
+            node --test ./scripts/schedule-dates.test.js
+          fi
 
       - name: Validate the submission
         env:
