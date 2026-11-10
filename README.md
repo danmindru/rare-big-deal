@@ -195,6 +195,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Automate screenshots on Mac for tutorials, QA evidence, website capture, and timelapses. | **40% OFF** Lifetime licenses (1 or 3 seats) with code **BF2026** | 2026-12-31 |
+| 🖼️ | [Picmal](https://picmal.app) | Convert, compress and edit images, video, audio and PDFs on your Mac. Batch hundreds of files at once, offline, nothing gets uploaded. | **50% OFF** every license, one-time purchase, with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 ### Design Tools
@@ -207,6 +208,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🌼 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. No account, no subscription, no AI. | **50% OFF** one-time purchase with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 ### Menu Bar & More
