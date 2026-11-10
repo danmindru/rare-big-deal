@@ -397,6 +397,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🚀 | [LandinTools](https://tools.landin.page/advertise) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | **50% OFF** Featured listing for a full year with code **BF2026** ($49 → $24.50) | 2026-12-31 |
 
 
 ### Other
@@ -549,6 +550,7 @@ How listings are checked, including occasional deal packs, is described in [CURA
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/#pricing) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | **50% OFF** with code **BLACK**: Just The Guide $19.50 (usually $39), The Guide + Tools + Templates $24.50 (usually $49) | |
 
 
 [⬆️ All categories](#table-of-contents)
