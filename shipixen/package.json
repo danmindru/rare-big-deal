@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "cross-env PORT=6006 NODE_OPTIONS='--no-warnings' next dev",
-    "build": "cross-env next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
+    "check:archive-media": "node ./scripts/check-archive-media.js",
+    "build": "node ./scripts/check-archive-media.js && cross-env next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",
