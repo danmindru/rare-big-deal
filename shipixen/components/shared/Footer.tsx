@@ -20,6 +20,7 @@ import { footerLinks } from '@/data/config/footerLinks';
 import { TiktokIcon } from '@/components/icons/TiktokIcon';
 import { ThreadsIcon } from '@/components/icons/ThreadsIcon';
 import { ProductHuntBadge } from '@/components/shared/ProductHuntBadge';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 export default function Footer({ className }: { className?: string }) {
   const columnNumber = footerLinks.filter(({ links }) => links.length).length;
@@ -135,7 +136,7 @@ export default function Footer({ className }: { className?: string }) {
         <div className="py-8 px-2 flex flex-col items-center">
           <div className="mb-3 flex flex-wrap justify-center gap-4">
             {siteConfig.email && (
-              <a href={`mailto:${siteConfig.email}`}>
+              <a href={withOutboundRef(`mailto:${siteConfig.email}`)}>
                 <Button variant="ghost" size="icon" aria-label="Email">
                   <MailIcon className="w-6 h-6" />
                 </Button>
@@ -143,7 +144,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.twitter && (
-              <a href={siteConfig.twitter}>
+              <a href={withOutboundRef(siteConfig.twitter)}>
                 <Button
                   variant="ghost"
                   size="icon"
@@ -155,7 +156,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.instagram && (
-              <a href={siteConfig.instagram}>
+              <a href={withOutboundRef(siteConfig.instagram)}>
                 <Button variant="ghost" size="icon" aria-label="Instagram">
                   <InstagramIcon className="w-5 h-5" />
                 </Button>
@@ -163,7 +164,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.tiktok && (
-              <a href={siteConfig.tiktok}>
+              <a href={withOutboundRef(siteConfig.tiktok)}>
                 <Button variant="ghost" size="icon" aria-label="TikTok">
                   <TiktokIcon className="w-5 h-5" />
                 </Button>
@@ -171,7 +172,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.github && (
-              <a href={siteConfig.github}>
+              <a href={withOutboundRef(siteConfig.github)}>
                 <Button variant="ghost" size="icon" aria-label="GitHub">
                   <GithubIcon className="w-6 h-6" />
                 </Button>
@@ -179,7 +180,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.linkedin && (
-              <a href={siteConfig.linkedin}>
+              <a href={withOutboundRef(siteConfig.linkedin)}>
                 <Button variant="ghost" size="icon" aria-label="LinkedIn">
                   <LinkedinIcon className="w-6 h-6" />
                 </Button>
@@ -187,7 +188,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.youtube && (
-              <a href={siteConfig.youtube}>
+              <a href={withOutboundRef(siteConfig.youtube)}>
                 <Button variant="ghost" size="icon" aria-label="YouTube">
                   <YoutubeIcon className="w-7 h-7" />
                 </Button>
@@ -195,7 +196,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.facebook && (
-              <a href={siteConfig.facebook}>
+              <a href={withOutboundRef(siteConfig.facebook)}>
                 <Button variant="ghost" size="icon" aria-label="Facebook">
                   <FacebookIcon className="w-6 h-6" />
                 </Button>
@@ -203,7 +204,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.threads && (
-              <a href={siteConfig.threads}>
+              <a href={withOutboundRef(siteConfig.threads)}>
                 <Button variant="ghost" size="icon" aria-label="Threads">
                   <ThreadsIcon className="w-6 h-6" />
                 </Button>
@@ -211,7 +212,7 @@ export default function Footer({ className }: { className?: string }) {
             )}
 
             {siteConfig.mastodon && (
-              <a href={siteConfig.mastodon}>
+              <a href={withOutboundRef(siteConfig.mastodon)}>
                 <Button variant="ghost" size="icon" aria-label="Mastodon">
                   <BoxesIcon className="w-6 h-6" />
                 </Button>

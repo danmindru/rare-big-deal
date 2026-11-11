@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import { BadgeCheck } from 'lucide-react';
 import Image from '@/components/shared/Image';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 export interface TestimonialItem {
   className?: string;
@@ -33,7 +34,7 @@ export const LandingTestimonial = ({
 
   return (
     <a
-      href={url}
+      href={withOutboundRef(url)}
       target="_blank"
       rel="noopener noreferrer"
       className={clsx(

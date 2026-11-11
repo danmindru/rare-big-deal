@@ -1,5 +1,6 @@
 import clsx from 'clsx';
 import Link from 'next/link';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 const Wrapper = ({
   children,
@@ -15,7 +16,10 @@ const Wrapper = ({
   }
 
   return (
-    <Link className="w-full h-full flex flex-col items-stretch" href={href}>
+    <Link
+      className="w-full h-full flex flex-col items-stretch"
+      href={withOutboundRef(href)}
+    >
       <div
         className={clsx(
           'w-full h-full !absolute top-0 left-0 fancy-glass',

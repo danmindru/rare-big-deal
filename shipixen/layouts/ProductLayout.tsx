@@ -19,6 +19,7 @@ import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 import clsx from 'clsx';
 import { PostItem } from '@/components/blog/home/PostItem';
 import { ProductCarousel } from '@/components/shared/ui/product-carousel';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 const postDateTemplate: Intl.DateTimeFormatOptions = {
   year: 'numeric',
@@ -346,7 +347,7 @@ export default function PostLayout({
             <div className="lg:bg-white dark:lg:bg-slate-900 lg:px-10 lg:py-4 divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="prose max-w-none pb-8 pt-10 dark:prose-invert">
                 <a
-                  href={website}
+                  href={withOutboundRef(website)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex gap-2 items-center"
@@ -438,7 +439,7 @@ export default function PostLayout({
                       </span>
                       {appAuthorUrl ? (
                         <a
-                          href={appAuthorUrl}
+                          href={withOutboundRef(appAuthorUrl)}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-sm text-primary-500 hover:text-primary-700 dark:hover:text-primary-400 underline"

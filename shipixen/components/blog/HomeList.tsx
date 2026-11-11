@@ -25,6 +25,7 @@ import theJohnApps from '@/data/picks/the-john-apps';
 import boilerplates from '@/data/picks/boilerplates';
 import { Button } from '@/components/shared/ui/button';
 import { cn } from '@/lib/utils';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 const MAX_DISPLAY = 1000;
 
@@ -110,7 +111,9 @@ export default function HomeList({
     () => homepageShowcases.visibleHomepageShowcases(Object.keys(categories)),
     [categories],
   );
-  const topShowcases = visibleShowcases.filter((pack) => pack.placement === 'top');
+  const topShowcases = visibleShowcases.filter(
+    (pack) => pack.placement === 'top',
+  );
   const showcaseByCategory = useMemo(() => {
     const map: Record<string, (typeof visibleShowcases)[number]> = {};
     for (const pack of visibleShowcases) {
@@ -383,7 +386,9 @@ export function CategorySection({
               <div>
                 <Button size={'sm'} variant={'outlinePrimary'} asChild>
                   <a
-                    href="https://github.com/danmindru/rare-big-deal/issues/130"
+                    href={withOutboundRef(
+                      'https://github.com/danmindru/rare-big-deal/issues/130',
+                    )}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
