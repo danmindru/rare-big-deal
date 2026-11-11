@@ -371,6 +371,89 @@ describe('submission catalog', () => {
     });
     assert.ok(codes(escaped.failures).includes('override'));
   });
+
+  test('uses a documented override image when the included logo or banner would fail', async () => {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), 'rbd-media-override-'));
+    const product = path.join(root, 'gamma');
+    fs.mkdirSync(product);
+    fs.writeFileSync(path.join(product, 'logo.png'), await png(1, 1));
+    fs.copyFileSync(path.join(FIXTURES, 'html-as.png'), path.join(product, 'og-image.png'));
+
+    const shipixen = fs.mkdtempSync(path.join(os.tmpdir(), 'rbd-override-media-'));
+    const logoPath = 'public/static/images/overrides/gamma/logo.png';
+    const bannerPath = 'public/static/images/overrides/gamma/og-image.png';
+    fs.mkdirSync(path.dirname(path.join(shipixen, logoPath)), { recursive: true });
+    fs.writeFileSync(path.join(shipixen, logoPath), await png(48, 48));
+    fs.writeFileSync(path.join(shipixen, bannerPath), await png(800, 420));
+
+    const withOverrides = (source) =>
+      validate('appended.md', {
+        mediaRoot: root,
+        overrideRoot: shipixen,
+        overridesSource: source,
+      });
+    const gammaOf = (result) => result.records.find((record) => record.binding.product === 'Gamma');
+    const documented = (fields) => `module.exports = { overrides: { gamma: { ${fields} } } };`;
+
+    const usable = await withOverrides(documented(`logo: '${logoPath}', ogImage: '${bannerPath}'`));
+    assert.deepEqual(codes(usable.failures), []);
+    assert.equal(gammaOf(usable).checks.logo.status, 'pass');
+    assert.equal(gammaOf(usable).checks.banner.status, 'pass');
+
+    const fromList = await withOverrides(documented(`logo: '${logoPath}', ogImages: ['${bannerPath}']`));
+    assert.deepEqual(codes(fromList.failures), []);
+    assert.equal(gammaOf(fromList).checks.logo.status, 'pass');
+    assert.equal(gammaOf(fromList).checks.banner.status, 'pass');
+
+    const absent = await withOverrides(
+      `module.exports = { overrides: { other: { logo: '${logoPath}', ogImage: '${bannerPath}' } } };`,
+    );
+    assert.equal(gammaOf(absent).checks.logo.status, 'fail');
+    assert.match(gammaOf(absent).checks.logo.reason, /below the usable logo size/);
+    assert.equal(gammaOf(absent).checks.banner.status, 'fail');
+    assert.match(gammaOf(absent).checks.banner.reason, /HTML/);
+
+    fs.writeFileSync(path.join(product, 'logo.png'), await png(64, 64));
+    fs.writeFileSync(path.join(product, 'og-image.png'), await png(800, 420));
+
+    const missing = await withOverrides(
+      documented(`logo: 'public/static/images/overrides/gamma/missing.png'`),
+    );
+    assert.equal(gammaOf(missing).checks.logo.status, 'fail');
+    assert.match(gammaOf(missing).checks.logo.reason, /missing/);
+    assert.equal(gammaOf(missing).checks.banner.status, 'pass');
+
+    const badLogo = 'public/static/images/overrides/gamma/bad-logo.png';
+    fs.writeFileSync(path.join(shipixen, badLogo), fs.readFileSync(path.join(FIXTURES, 'html-as.png')));
+    const undecodable = await withOverrides(documented(`logo: '${badLogo}'`));
+    assert.equal(gammaOf(undecodable).checks.logo.status, 'fail');
+    assert.match(gammaOf(undecodable).checks.logo.reason, /HTML/);
+    assert.equal(/below the usable logo size/.test(gammaOf(undecodable).checks.logo.reason), false);
+
+    const tinyLogo = 'public/static/images/overrides/gamma/tiny-logo.png';
+    fs.writeFileSync(path.join(shipixen, tinyLogo), await png(1, 1));
+    const tiny = await withOverrides(documented(`logo: '${tinyLogo}'`));
+    assert.equal(gammaOf(tiny).checks.logo.status, 'fail');
+    assert.match(gammaOf(tiny).checks.logo.reason, /below the usable logo size/);
+
+    const smallBanner = 'public/static/images/overrides/gamma/small-banner.png';
+    fs.writeFileSync(path.join(shipixen, smallBanner), await png(48, 48));
+    const shortBanner = await withOverrides(documented(`logo: '${logoPath}', ogImage: '${smallBanner}'`));
+    assert.equal(gammaOf(shortBanner).checks.logo.status, 'pass');
+    assert.equal(gammaOf(shortBanner).checks.banner.status, 'fail');
+    assert.match(gammaOf(shortBanner).checks.banner.reason, /below the usable banner size/);
+
+    const preferred = await withOverrides(
+      documented(`logo: '${logoPath}', ogImage: '${smallBanner}', ogImages: ['${bannerPath}']`),
+    );
+    assert.equal(gammaOf(preferred).checks.logo.status, 'pass');
+    assert.equal(gammaOf(preferred).checks.banner.status, 'pass');
+
+    const escaped = await withOverrides(documented(`logo: '../../etc/passwd.png'`));
+    assert.equal(gammaOf(escaped).checks.logo.status, 'fail');
+    assert.match(gammaOf(escaped).checks.logo.reason, /inside the repository/);
+    assert.equal(gammaOf(escaped).checks.banner.status, 'pass');
+  });
 });
 
 describe('evidence records', () => {
