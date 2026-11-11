@@ -400,6 +400,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧲 | [LeadMerlin](https://leadmerlin.com/black-friday/) | Local business leads for AI agents and automations: search Google Maps by niche and city, get owner names, checked emails, phone line types and the tech each site runs, via API, agent skill or dashboard. | **40% OFF** your first payment with code **BF2026**, so the whole first year on yearly plans: Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr. Monthly plans: 40% off the first month | 2026-12-02 |
 
 ### Email Marketing
 
