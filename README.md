@@ -136,6 +136,7 @@ Free & open-source.
 | 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code BLACKFRIDAY | 2026-11-30 |
 | 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) |  |
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
+| 🧭 | [Start Page HQ](https://startpagehq.com/) | Turn any browser's new tab into a personal dashboard with 63+ widgets: notes, tasks, RSS, calendar, weather, AI and dev tools, synced across Chrome, Firefox, Safari, Edge and every device. | **50% OFF** Premium, no code needed: $2/mo instead of $4, $12/yr instead of $24 (half price kept for good), or $24 lifetime instead of $48 | 2026-11-30 |
 
 
 ### Productivity & AI
