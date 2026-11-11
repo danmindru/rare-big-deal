@@ -122,6 +122,8 @@ Free & open-source.
 | 📚 | [POSH](https://poshtui.com/black-friday) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans with code **BLACKFRIDAY2026**, kept while you stay subscribed: €7 → €4.90/month, €60 → €42/year. New subscriptions only | 2026-12-02 |
 | ✍️ | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature/) | Email signature management for Google Workspace and Microsoft 365 teams. | **50% off** Teams: 2 years for the price of 1, no code needed. $180 for 24 months on the 1–5 user plan ($15/month billed annually); larger teams pay by seat band | 2026-12-04 |
 | 🛡️ | [Scanify](https://scanify.to) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50), Nov 10–Dec 9, 2026 | 2026-12-09 |
+| 🔐 | [SSOJet](https://ssojet.com/blog/black-friday-deals) | Single sign-on for B2B apps. | **20% OFF** with code **BF2026** | 2026-12-15 |
+| 🔑 | [MojoAuth](https://mojoauth.com/) | Passwordless login for apps. | **20% OFF** with code **BF2026** | 2026-12-15 |
 
 
 ### Browser Extensions
@@ -160,6 +162,7 @@ Free & open-source.
 | 💎 | [Fluent 2](https://fluentmac.app) | Not another chat window: press ⌥Space in any app and Fluent works with what's in front of you. Polish the email you're writing, summarize a page or YouTube video, find a better price, or let it click through an app for you. Hire AI teammates and save hours on routine tasks, like drafting emails or sorting your Downloads folder. Use the ChatGPT or Claude plan you already pay for, 500+ models or local AI. Desktop pet included. One-time purchase. | **25% OFF** lifetime licenses with code **BF2026** | 2026-12-01 |
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
 | 🍳 | [Cooked](https://www.cookeddev.lol/pricing) | Paste a job link and Cooked tailors your CV to it in under a minute: ATS score, missing keywords, a rewritten CV and a matching cover letter. Only uses experience already on your CV. Free plan: 3 CVs a day. | **51% OFF** Lifetime Pro: one payment of $59 instead of $119.88/yr. First 20 buyers only (no code needed) | 2026-12-02 |
+| ✍️ | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content. | **50% OFF** with code **BF2026** | 2026-12-15 |
 
 
 
@@ -169,6 +172,8 @@ Free & open-source.
 | - | - | - | - | - |
 | 🎥 | [Seedeo](https://seedeo.ai) | Generate video, image, music, and voice assets across leading AI models without juggling separate subscriptions. | **62% OFF** 20,000 non-expiring credits: $99 instead of $259.90, one pack per customer (no code needed) | 2026-12-01 |
 | 🎬 | [ClipUGC](https://clipugc.com/black-friday) | Make TikTok style UGC videos for your app with AI influencers. Paste your App Store or Play link, add a screen recording, get vertical videos with hooks and captions. Same face in every video. | **50% OFF any plan for 2 months** with code **BLACKFRIDAY** | 2026-12-06 |
+| 🎙️ | [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals) | AI voiceover for video and audio. | **35% OFF** with code **BF2026** | 2026-12-15 |
+| 📞 | [Voksha](https://voksha.com/) | AI receptionist that answers your business calls. | **30% OFF** with code **FESTIVE30**, valid for 3 months from Nov 5, 2026 |  |
 
 
 ### Lifestyle
@@ -401,6 +406,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🐝 | [Tickabee](https://tickabee.com/black-friday-2026) | Social media scheduler for businesses, marketers and creators. Draft posts with AI in ChatGPT or Claude, or write them yourself, then approve and schedule from your Tickabee dashboard or from your AI. | **50% OFF** your first payment (first month or first year) with code **OFF50**. Starts on 2026-11-20 | 2026-12-01 |
 | 🚀 | [Nuelink](https://offer.nuelink.com/mcp/) | Agentic social media scheduling and automation for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it | **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments with code **BFCM26** | 2026-11-30 |
+| 📅 | [Social9](https://social9.com/) | Social media scheduling. | **30% OFF** with code **BF2026** | 2026-12-15 |
 
 
 ### Sales Tools
@@ -416,6 +422,7 @@ Free & open-source.
 | ✉️ | [Broadcast](https://sendbroadcast.net/black-friday) | Self-hosted email marketing with a one-time license. Newsletters, automations and transactional email on your own server, unlimited subscribers. | **$100 OFF** the Regular License ($250 → $150) with code **BLACKFRIDAY26** | 2026-12-01 |
 | 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
 | 📨 | [Sequenzy](https://sequenzy.com/black-friday) | Email marketing for SaaS and online stores. Newsletters, automated sequences and transactional email from one account, with Stripe and Shopify integrations and unlimited contacts on every plan. | **30% OFF** any annual plan with code **BLACKFRIDAY** (15,000 emails/month $205 → $143.50/year) |  |
+| ✉️ | [Mailazy](https://mailazy.com/blog/black-friday-deals) | Email sending and marketing. | **30% OFF** with code **THANKS30**, valid for 3 months from Nov 5, 2026 |  |
 
 
 ### Content Creation
@@ -423,6 +430,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧩 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress website builder from the team behind Astra. Describe your business and get a complete WordPress site with hosting, domain and email included. | **Up to 47% OFF** all plans, from $79 (auto-applied) | 2026-12-07 |
+| 🔎 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS: see and improve how ChatGPT, Perplexity and Claude cite your brand. | **20% OFF** with code **BF2026** | 2026-12-15 |
 
 
 ### Affiliate Marketing
