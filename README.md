@@ -317,7 +317,7 @@ Free & open-source.
 | 🗓️ | [Margin](https://appsbymo.app/margin/) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
-| ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| ⏳ | [Pretty Progress Countdown](https://prettyprogress.app) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -415,7 +415,6 @@ Free & open-source.
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 🪟 | [SteveShines](https://steveshines.com/offers/black-friday/) | Windows apps from one independent developer, on Microsoft Store: VidFetch and Direct Link Downloader save supported videos and M3U8/HLS streams; QuickMedia, Video Converter and FixVideo convert, compress and repair video; Tapescript turns speech into text and subtitles offline. | **Up to 50% OFF Pro Lifetime** on Microsoft Store, applied automatically, no code (US prices): VidFetch ~~$25.99~~ **$12.99**, Direct Link Downloader ~~$25.99~~ **$15.59**, QuickMedia ~~$24.99~~ **$14.99**, Tapescript ~~$19.99~~ **$11.99**, Video Converter ~~$19.99~~ **$11.99**, FixVideo ~~$19.99~~ **$13.39** (FixVideo through Nov 30) | 2026-11-29 |
-| 🎬 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com) | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% OFF Lifetime License with code BLACKFRIDAY26 | 2026-12-01 |
 
 
 ### Marketing
@@ -556,7 +555,6 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔑 | [Rindstack](https://kendeepp.gumroad.com/l/pdaeoo) | Small, readable Next.js 15 starter for selling licensed software: Lemon Squeezy checkout, signature-verified webhooks, license keys with per-plan device limits, and English/Chinese/Japanese UI. | **30% OFF** with code **BF30** (Personal $99 → $69.30). Starts on 2026-11-24 | 2026-12-01 |
-| 🗂️ | [Dirstarter](https://dirstarter.com) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | **50% OFF** lifetime license: Basic $75 instead of $150, Pro $100 instead of $200, with code **BF2026** | 2026-12-01 |
 
 
 ### Astro
@@ -671,7 +669,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🧬 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| 🧬 | [PepFlow](https://pepflow.app) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 
 
 ### Web Apps
