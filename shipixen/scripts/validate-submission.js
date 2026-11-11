@@ -57,10 +57,213 @@ function inspectOverrideSource(source) {
     paths.push(match[1]);
     match = pattern.exec(source);
   }
-  return { ok: true, paths };
+  return { ok: true, paths, products: productMediaOverrides(source, paths) };
 }
 
-async function inspectProductMedia(row, mediaRoot) {
+function tokenizeOverrideSource(source) {
+  const tokens = [];
+  let i = 0;
+  while (i < source.length) {
+    const ch = source[i];
+    if (/\s/.test(ch)) {
+      i += 1;
+      continue;
+    }
+    if (ch === '/' && source[i + 1] === '/') {
+      i += 2;
+      while (i < source.length && source[i] !== '\n') i += 1;
+      continue;
+    }
+    if (ch === '/' && source[i + 1] === '*') {
+      i += 2;
+      const end = source.indexOf('*/', i);
+      i = end === -1 ? source.length : end + 2;
+      continue;
+    }
+    if (ch === '"' || ch === "'") {
+      const quote = ch;
+      i += 1;
+      let value = '';
+      while (i < source.length && source[i] !== quote) {
+        if (source[i] === '\\' && i + 1 < source.length) {
+          value += source[i + 1];
+          i += 2;
+          continue;
+        }
+        value += source[i];
+        i += 1;
+      }
+      i += 1;
+      tokens.push({ type: 'string', value });
+      continue;
+    }
+    if (/[A-Za-z_$]/.test(ch)) {
+      let value = '';
+      while (i < source.length && /[A-Za-z0-9_$-]/.test(source[i])) {
+        value += source[i];
+        i += 1;
+      }
+      tokens.push({ type: 'ident', value });
+      continue;
+    }
+    if ('{}[]:,.'.includes(ch)) {
+      tokens.push({ type: 'punct', value: ch });
+      i += 1;
+      continue;
+    }
+    i += 1;
+  }
+  return tokens;
+}
+
+// Paths already accepted by the safe scan, keyed by product slug. ogImages[0]
+// is the banner when both forms are present, matching the asset fetcher.
+function productMediaOverrides(source, listedPaths) {
+  const listed = new Set(listedPaths);
+  const products = {};
+  const tokens = tokenizeOverrideSource(source);
+  let brace = 0;
+  let bracket = 0;
+  let overridesBrace = null;
+  let product = null;
+  let productBrace = null;
+  let pendingKey = null;
+  let ogImagesBracket = null;
+
+  const assign = (role, value) => {
+    if (!product || typeof value !== 'string' || !listed.has(value)) return;
+    if (!products[product]) products[product] = {};
+    if (role === 'logo') {
+      products[product].logo = value;
+      return;
+    }
+    if (products[product].bannerSource === 'ogImages' && role === 'ogImage') return;
+    products[product].banner = value;
+    products[product].bannerSource = role;
+  };
+
+  for (let index = 0; index < tokens.length; index += 1) {
+    const token = tokens[index];
+    if (token.type === 'punct') {
+      if (token.value === '{') {
+        brace += 1;
+        if (pendingKey === 'overrides' && overridesBrace == null) {
+          overridesBrace = brace;
+        } else if (
+          overridesBrace != null &&
+          product == null &&
+          pendingKey &&
+          brace === overridesBrace + 1
+        ) {
+          product = sanitizeName(pendingKey);
+          productBrace = brace;
+          products[product] = {};
+        }
+        pendingKey = null;
+      } else if (token.value === '}') {
+        if (productBrace != null && brace === productBrace) {
+          product = null;
+          productBrace = null;
+        }
+        brace -= 1;
+        if (overridesBrace != null && brace < overridesBrace) overridesBrace = null;
+        pendingKey = null;
+      } else if (token.value === '[') {
+        bracket += 1;
+        if (product && pendingKey === 'ogImages' && ogImagesBracket == null) ogImagesBracket = bracket;
+        pendingKey = null;
+      } else if (token.value === ']') {
+        if (ogImagesBracket === bracket) ogImagesBracket = null;
+        bracket -= 1;
+      } else if (token.value === ',') {
+        pendingKey = null;
+      }
+      continue;
+    }
+
+    const next = tokens[index + 1];
+    if (next && next.type === 'punct' && next.value === ':') {
+      pendingKey = token.value;
+      continue;
+    }
+    if (product && pendingKey === 'logo') assign('logo', token.value);
+    else if (product && pendingKey === 'ogImage') assign('ogImage', token.value);
+    else if (
+      product &&
+      token.type === 'string' &&
+      ogImagesBracket != null &&
+      products[product] &&
+      products[product].bannerSource !== 'ogImages'
+    ) {
+      assign('ogImages', token.value);
+    }
+    pendingKey = null;
+  }
+
+  for (const slug of Object.keys(products)) {
+    delete products[slug].bannerSource;
+    if (typeof products[slug].logo !== 'string') delete products[slug].logo;
+    if (typeof products[slug].banner !== 'string') delete products[slug].banner;
+    if (!products[slug].logo && !products[slug].banner) delete products[slug];
+  }
+  return products;
+}
+
+async function inspectDocumentedMedia(check, overridePath, overrideRoot) {
+  if (typeof overridePath !== 'string' || overridePath.includes('..') || path.isAbsolute(overridePath)) {
+    return {
+      check,
+      status: 'fail',
+      reason: `Override path ${overridePath} has to stay inside the repository.`,
+    };
+  }
+  if (!overrideRoot) {
+    return {
+      check,
+      status: 'fail',
+      reason: `Override image ${overridePath} is missing.`,
+    };
+  }
+  const filePath = path.resolve(overrideRoot, overridePath);
+  if (!insideRoot(overrideRoot, filePath) || !fs.existsSync(filePath)) {
+    return {
+      check,
+      status: 'fail',
+      reason: `Override image ${overridePath} is missing.`,
+    };
+  }
+  const inspection = await inspectMediaFile(filePath, check === 'logo' ? 'logo' : 'banner');
+  return {
+    check,
+    status: inspection.ok ? 'pass' : 'fail',
+    reason: inspection.reason,
+  };
+}
+
+// Included files under images/product/<slug>/ stay the historical bytes when an
+// archive page still serves them. A documented logo or ogImage override is the
+// live file the logo and banner checks have to accept.
+async function inspectProductMedia(row, mediaRoot, overrideContext) {
+  const slug = sanitizeName(row.name);
+  const documented =
+    (overrideContext && overrideContext.products && overrideContext.products[slug]) || {};
+  const historical = await inspectIncludedProductMedia(row, mediaRoot);
+  if (typeof documented.logo !== 'string' && typeof documented.banner !== 'string') return historical;
+  const findings = [];
+  for (const item of historical) {
+    const overridePath = item.check === 'logo' ? documented.logo : documented.banner;
+    if (typeof overridePath !== 'string') {
+      findings.push(item);
+      continue;
+    }
+    findings.push(
+      await inspectDocumentedMedia(item.check, overridePath, overrideContext && overrideContext.overrideRoot),
+    );
+  }
+  return findings;
+}
+
+async function inspectIncludedProductMedia(row, mediaRoot) {
   if (!mediaRoot || !fs.existsSync(mediaRoot)) {
     return [
       {
@@ -146,11 +349,16 @@ async function validateSubmission(options) {
     }
   }
 
+  let overrideContext = { products: {}, overrideRoot: options.overrideRoot || null };
   if (options.overridesSource != null) {
     const overrides = inspectOverrideSource(options.overridesSource);
     if (!overrides.ok) {
       failures.push({ code: 'override', message: overrides.reason, line: 1 });
     } else {
+      overrideContext = {
+        products: overrides.products || {},
+        overrideRoot: options.overrideRoot || null,
+      };
       for (const overridePath of overrides.paths) {
         if (overridePath.includes('..') || path.isAbsolute(overridePath)) {
           failures.push({
@@ -214,7 +422,7 @@ async function validateSubmission(options) {
     }
     for (const row of [...change.added, ...change.edited]) {
       const eligibility = assessEligibility(row, today);
-      const media = await inspectProductMedia(row, options.mediaRoot);
+      const media = await inspectProductMedia(row, options.mediaRoot, overrideContext);
       const findings = [...eligibility, ...media];
       for (const finding of findings) {
         const item = {
