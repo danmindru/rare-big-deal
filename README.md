@@ -241,6 +241,7 @@ Free & open-source.
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 📸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license with code BLACKFRIDAY ($39 → $19.50) | 2026-11-30 |
 | 📧 | [Mailflare](https://mailflare.co) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Design Tools
@@ -263,6 +264,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🌼 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. No account, no subscription, no AI. | **50% OFF** one-time purchase with code **BLACKFRIDAY** | 2026-11-30 |
 | ✍️ | [Cue](https://appsbymo.app/cue/) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Menu Bar & More
@@ -309,6 +311,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Productivity
@@ -402,6 +405,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF** Lifetime ($29.99 → $19.99), applied automatically in the app. Starts on 2026-11-19 | 2026-12-02 |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Team Project Management Software
