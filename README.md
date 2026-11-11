@@ -241,6 +241,7 @@ Free & open-source.
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 📸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license with code BLACKFRIDAY ($39 → $19.50) | 2026-11-30 |
 | 📧 | [Mailflare](https://mailflare.co) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
+| 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime · code `SIDEBARBF50` | 2026-12-07 |
 
 
 ### Design Tools
@@ -431,6 +432,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🤝 | [Portico](https://portico.run/lifetime) | Client onboarding for small firms. One link walks a new client through intake and payment, then leaves them a private portal with everything they signed. | **25% OFF** lifetime plans, no code needed: Solo $37, Practice $89, Firm $172, one payment. Starts on 2026-11-23 | 2026-12-01 |
 | 📊 | [WhatPulse](https://whatpulse.org) | See how you use your computer: keystrokes, mouse clicks, app usage and bandwidth as heatmaps and stats. Tracks activity, never content. Windows, macOS and Linux. | **35% OFF** the annual plan with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
+| 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime · code `SIDEBARBF50` | 2026-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
