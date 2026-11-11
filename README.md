@@ -223,6 +223,9 @@ Free & open-source.
 | 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) |  |
 | 📸 | [ScreenVerb](https://screenverb.com) | The screenshot app built around AI. Capture any window or region, choose an AI action, and insert the result where you were typing. For Mac, iPhone and iPad. | **50% OFF** Pro and Universal Lifetime with code **SVBF2026** (Pro $39 → $19.50, one-time purchase) | 2026-12-05 |
 | 🗣️ | [Univocal](https://univocalapp.com) | Read-aloud with word highlighting plus dictation for Mac, all on-device. | **62% OFF**: $15 instead of $39 with code **BF2026**. Starts on 2026-11-20 | 2026-11-30 |
+| 🖊 | [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple, one-time purchase. | **30% OFF** ($14 → $9.80) with code **PRESENTIFY30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
+| 🎭 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
+| 🔢 | [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
 
 
 ### Design Tools
@@ -235,6 +238,7 @@ Free & open-source.
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 📚 | [Bindrik](https://bindrik.com/en) | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-11-30 |
+| 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Writing & Notes
@@ -272,6 +276,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -301,6 +306,9 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📸 | [BatchMark - Photo Watermark](https://batchmark.dispatchcat.com/en/) | Batch-add watermarks, frames and borders to photos on iPhone and iPad, then export them all at once. | **50% OFF** Lifetime ($79.99 → $39.99), bought in the app. [Holiday sale](https://batchmark.dispatchcat.com/en/holiday-sale/) · [App Store](https://apps.apple.com/us/app/batchmark-photo-watermark/id6759683285). Starts on 2026-11-15 | 2026-12-25 |
+| 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| 📷 | [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF** ($99.99 → $49.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| 👨‍👩‍👧 | [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF** ($49.99 → $24.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Health & Fitness
