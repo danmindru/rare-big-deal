@@ -29,3 +29,11 @@ jobs:
         run: |
           node ./scripts/check-official-media.js
           node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js
+
+      # next build fails the deploy on ESLint errors in eslint.dirs (app,
+      # components, layouts, scripts). Running node on these scripts does not.
+      # Do not pass --fix: an auto-fixable error would go green here and still
+      # fail the Vercel production build.
+      - name: Next.js lint (same pass as next build)
+        working-directory: shipixen
+        run: npx next lint
