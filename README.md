@@ -483,6 +483,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🔗 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Full link building workflow for SEO & AI Search. Prospect, qualify, outreach, manage replies, and monitor links in one platform. | **72% OFF** for 3 months, from $99, on [Black Friday Deal](https://www.uprankly.com/link-builder/black-friday) (no code needed) | 2026-12-03 |
 | 🔗 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | **36% OFF** the monthly Pro plan ($149 → $95/month), auto-applied, no code needed. Starts on 2026-11-15 | 2026-11-30 |
+| 🐰 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Your coding agent (Claude Code, Codex) exchanges contextual nofollow backlinks with other reviewed sites, via a Skill, MCP or API. You approve every link. | **30% OFF** the first annual payment with code **BLACKFRIDAY2026**: $210 → $147, then $210/year. First-time paying customers, annual plan only | 2026-11-30 |
 
 
 ### Tools
