@@ -457,6 +457,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔗 | [PressDrop](https://pressdrop.io) | Your startup on 500+ news sites for SEO and AEO | **$50 OFF** with code **PDBF26**, does not apply to Shared Drops. Starts on 2026-11-11 | 2026-11-30 |
 
 
 ### Other
@@ -477,6 +478,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🔗 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Full link building workflow for SEO & AI Search. Prospect, qualify, outreach, manage replies, and monitor links in one platform. | **72% OFF** for 3 months, from $99, on [Black Friday Deal](https://www.uprankly.com/link-builder/black-friday) (no code needed) | 2026-12-03 |
 | 🔗 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | **36% OFF** the monthly Pro plan ($149 → $95/month), auto-applied, no code needed. Starts on 2026-11-15 | 2026-11-30 |
+| 🔗 | [PressDrop](https://pressdrop.io) | Your startup on 500+ news sites for SEO and AEO | **$50 OFF** with code **PDBF26**, does not apply to Shared Drops. Starts on 2026-11-11 | 2026-11-30 |
 
 
 ### Tools
