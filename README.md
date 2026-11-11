@@ -187,6 +187,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧭 | [Atelier](https://appsbymo.app/atelier/) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🔋 | [Vigil](https://appsbymo.app/vigil/) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🪣 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad and web. Browse, upload, preview and share files across AWS S3, Cloudflare R2, Backblaze B2, DigitalOcean Spaces and other S3-compatible storage. | **40% OFF** lifetime licenses with code **BF2026** ($39 → $23.40, one-time purchase) | 2026-12-01 |
 
 ### Productivity
 
@@ -208,6 +209,7 @@ Free & open-source.
 | 🙂 | [Mo](https://appsbymo.app/mo/) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🩺 | [What Happened](https://appsbymo.app/whathappened/) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) |  |
+| 📸 | [ScreenVerb](https://screenverb.com) | The screenshot app built around AI. Capture any window or region, choose an AI action, and insert the result where you were typing. For Mac, iPhone and iPad. | **50% OFF** Pro and Universal Lifetime with code **SVBF2026** (Pro $39 → $19.50, one-time purchase) | 2026-12-05 |
 
 
 ### Design Tools
@@ -237,6 +239,7 @@ Free & open-source.
 | 🖥️ | [iKnowMyDisplay](https://iknowmydisplay.com) | Every display control macOS hides, in the menu bar: external monitor brightness, resolution, refresh rate, HDR, colour and a TV remote, plus Check this monitor for 30 Hz, blurry text or flicker. Apple silicon, macOS 15 or later. One-time purchase. | **25% OFF** with iKnowMyMac as the [iKnow Suite](https://iknowmydisplay.com/suite): both apps $7.99 → $5.99 (2 Macs $14.99 → $10.99, 5 Macs $39.99 → $29.99). No code needed, while launch licences last. Starts on 2026-11-27 | 2026-12-01 |
 | 📥 | [Chute](https://appsbymo.app/chute/) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 😀 | [Emojist](https://appsbymo.app/emojist/) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🖱️ | [MouseUp](https://mouseup.app) | Make your external mouse feel right on Mac: smooth scrolling, click debounce, zoom with the wheel and custom buttons. | **50% OFF** lifetime license with code **MMFBF2026** ($7.99 → $4.00, one-time purchase) | 2026-12-05 |
 
 
 [⬆️ All categories](#table-of-contents)
