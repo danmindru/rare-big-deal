@@ -125,6 +125,7 @@ Free & open-source.
 | 🔐 | [SSOJet](https://ssojet.com/blog/black-friday-deals) | Single sign-on for B2B apps: add SAML, OIDC and SCIM without rebuilding your auth. | **20% OFF** with code **BF2026** | 2026-12-15 |
 | 📝 | [FormBold](https://formbold.com) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | ⚡ | [Static.run](https://static.run) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
+| 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 | 2026-12-31 |
 
 
 ### Browser Extensions
@@ -233,6 +234,7 @@ Free & open-source.
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
+| 📚 | [Bindrik](https://bindrik.com/en) | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-11-30 |
 
 
 ### Writing & Notes
@@ -411,6 +413,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🐝 | [Tickabee](https://tickabee.com/black-friday-2026) | Social media scheduler for businesses, marketers and creators. Draft posts with AI in ChatGPT or Claude, or write them yourself, then approve and schedule from your Tickabee dashboard or from your AI. | **50% OFF** your first payment (first month or first year) with code **OFF50**. Starts on 2026-11-20 | 2026-12-01 |
 | 🚀 | [Nuelink](https://offer.nuelink.com/mcp/) | Agentic social media scheduling and automation for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it | **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments with code **BFCM26** | 2026-11-30 |
+| 🔴 | [Karmit](https://karmit.co) | Find the right subreddits, learn each community from its top posts, and monitor Reddit mentions in real time to turn conversations into product insights and customers. | **30% OFF** with code **BF2026** | 2026-12-02 |
 
 
 ### Sales Tools
@@ -520,6 +523,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔑 | [Rindstack](https://kendeepp.gumroad.com/l/pdaeoo) | Small, readable Next.js 15 starter for selling licensed software: Lemon Squeezy checkout, signature-verified webhooks, license keys with per-plan device limits, and English/Chinese/Japanese UI. | **30% OFF** with code **BF30** (Personal $99 → $69.30). Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Astro
@@ -563,6 +567,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧾 | [Billstack](https://kendeepp.gumroad.com/l/qrzrsa) | Invoice & billing portal UI components for Laravel Livewire: line items, tax summary, payment status badges and a filterable invoice list. Widgets only, bring your own payment provider. | **30% OFF** ($29 → $20.30) with code **BF30**. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Django
