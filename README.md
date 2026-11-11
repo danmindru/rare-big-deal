@@ -127,6 +127,8 @@ Free & open-source.
 | 📝 | [FormBold](https://formbold.com) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | ⚡ | [Static.run](https://static.run) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 | 2026-12-31 |
+|  | [Kinsta](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans (new customers only) | 2026-12-01 |
+| 🌄 | [Swiper Studio](https://studio.swiperjs.com/) | No-code visual builder for Swiper.js sliders, carousels and galleries with templates and premium effects. Export clean React, Vue, Next.js, HTML or Webflow code. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48 (sale price kept on renewal), or $48 lifetime instead of $96 | 2026-11-30 |
 
 
 ### Browser Extensions
@@ -136,6 +138,7 @@ Free & open-source.
 | 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code BLACKFRIDAY | 2026-11-30 |
 | 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) |  |
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
+| 🧭 | [Start Page HQ](https://startpagehq.com/) | Turn any browser's new tab into a personal dashboard with 63+ widgets: notes, tasks, RSS, calendar, weather, AI and dev tools, synced across Chrome, Firefox, Safari, Edge and every device. | **50% OFF** Premium, no code needed: $2/mo instead of $4, $12/yr instead of $24 (half price kept for good), or $24 lifetime instead of $48 | 2026-11-30 |
 
 
 ### Productivity & AI
@@ -182,6 +185,7 @@ Free & open-source.
 | 🎙️ | [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals) | AI voiceover for video and audio, with 700+ voices. Commercial rights on paid plans. | **35% OFF** with code **BF2026** | 2026-12-15 |
 | 📞 | [Voksha](https://voksha.com/blog/black-friday-deals) | AI receptionist that answers your business calls, takes a message, and can book appointments. | **30% OFF** with code **FESTIVE30**, valid for 3 months from Nov 5, 2026 |  |
 | 🤖 | [Nivon](https://nivon.ai) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | **40% OFF** all paid plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
+| 🧩 | [MindPal](https://mindpal.io/pricing) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock. Publish them on a link, an embed or your own domain. No code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026**, applied at checkout. Billed yearly: Pro ~~$39~~ $16/mo, Advanced ~~$149~~ $60/mo, Ultra ~~$374~~ $150/mo | 2026-12-11 |
 
 
 ### Lifestyle
@@ -241,6 +245,7 @@ Free & open-source.
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 📸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license with code BLACKFRIDAY ($39 → $19.50) | 2026-11-30 |
 | 📧 | [Mailflare](https://mailflare.co) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Design Tools
@@ -263,6 +268,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🌼 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. No account, no subscription, no AI. | **50% OFF** one-time purchase with code **BLACKFRIDAY** | 2026-11-30 |
 | ✍️ | [Cue](https://appsbymo.app/cue/) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Menu Bar & More
@@ -278,6 +284,7 @@ Free & open-source.
 | 🖱️ | [VibeCursor](https://apps.apple.com/app/id6763036198) | Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. | **33% OFF** ($2.99 → $1.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 | ⏳ | [DropToDo](https://apps.apple.com/app/id6762462645) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
+| 🖱️ | [WheelClick](https://wheelclick.app/) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -309,6 +316,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Productivity
@@ -330,6 +338,7 @@ Free & open-source.
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 📷 | [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF** ($99.99 → $49.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 👨‍👩‍👧 | [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF** ($49.99 → $24.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| 🧹 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Clear out your iPhone and iPad camera roll a few photos at a time. Swipe to keep or mark; nothing is deleted until you confirm. | **50% OFF** Pro Lifetime ($39.99 → $19.99), bought in the app. No code required. [App Store](https://apps.apple.com/us/app/snaptidy-photo-swipe-delete/id6780214942). Starts on 2026-11-27 | 2026-11-30 |
 
 
 ### Health & Fitness
@@ -364,6 +373,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% OFF** Business plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
+| 🎞️ | [PaneFlow](https://paneflow.com/) | Design animated slideshows and presentations in minutes, no code. Add 3D device mockups and motion, then export to code, video or PDF and embed anywhere. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48, or $48 lifetime instead of $96 | 2026-11-30 |
 
 
 ### AI Design Tools
@@ -402,12 +412,14 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF** Lifetime ($29.99 → $19.99), applied automatically in the app. Starts on 2026-11-19 | 2026-12-02 |
+| 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Team Project Management Software
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📇 | [t0ggles](https://t0ggles.com/) | Fast project management for teams and AI agents: all your projects on one board, with notes, forms, AI tasks and an MCP server. | **50% OFF** the first year of the annual plan: $2.50 instead of $5 per user/month (no code needed) | 2026-11-30 |
 
 
 ### Image, Video & Audio Editing Tools
@@ -454,6 +466,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧲 | [LeadMerlin](https://leadmerlin.com/black-friday/) | Local business leads for AI agents and automations: search Google Maps by niche and city, get owner names, checked emails, phone line types and the tech each site runs, via API, agent skill or dashboard. | **40% OFF** your first payment with code **BF2026**, so the whole first year on yearly plans: Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr. Monthly plans: 40% off the first month | 2026-12-02 |
+| 💸 | [Evendeals](https://evendeals.com/) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** | 2026-11-30 |
 
 ### Email Marketing
 
