@@ -408,6 +408,7 @@ Free & open-source.
 | - | - | - | - | - |
 | ✉️ | [Broadcast](https://sendbroadcast.net/black-friday) | Self-hosted email marketing with a one-time license. Newsletters, automations and transactional email on your own server, unlimited subscribers. | **$100 OFF** the Regular License ($250 → $150) with code **BLACKFRIDAY26** | 2026-12-01 |
 | 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
+| 📨 | [Sequenzy](https://sequenzy.com/black-friday) | Email marketing for SaaS and online stores. Newsletters, automated sequences and transactional email from one account, with Stripe and Shopify integrations and unlimited contacts on every plan. | **30% OFF** any annual plan with code **BLACKFRIDAY** (15,000 emails/month $205 → $143.50/year) |  |
 
 
 ### Content Creation
