@@ -120,6 +120,8 @@ Free & open-source.
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
 | 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
 | 📚 | [POSH](https://poshtui.com/black-friday) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans with code **BLACKFRIDAY2026**, kept while you stay subscribed: €7 → €4.90/month, €60 → €42/year. New subscriptions only | 2026-12-02 |
+| ✍️ | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature/) | Email signature management for Google Workspace and Microsoft 365 teams. | **50% off** Teams: 2 years for the price of 1, no code needed. $180 for 24 months on the 1–5 user plan ($15/month billed annually); larger teams pay by seat band | 2026-12-04 |
+| 🛡️ | [Scanify](https://scanify.to) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50), Nov 10–Dec 9, 2026 | 2026-12-09 |
 
 
 ### Browser Extensions
@@ -210,6 +212,7 @@ Free & open-source.
 | 🩺 | [What Happened](https://appsbymo.app/whathappened/) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) |  |
 | 📸 | [ScreenVerb](https://screenverb.com) | The screenshot app built around AI. Capture any window or region, choose an AI action, and insert the result where you were typing. For Mac, iPhone and iPad. | **50% OFF** Pro and Universal Lifetime with code **SVBF2026** (Pro $39 → $19.50, one-time purchase) | 2026-12-05 |
+| 🗣️ | [Univocal](https://univocalapp.com) | Read-aloud with word highlighting plus dictation for Mac, all on-device. | **62% OFF**: $15 instead of $39 with code **BF2026**. Starts on 2026-11-20 | 2026-11-30 |
 
 
 ### Design Tools
@@ -370,6 +373,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
+| 🪟 | [SteveShines](https://steveshines.com/offers/black-friday/) | Windows apps from one independent developer, on Microsoft Store: VidFetch and Direct Link Downloader save supported videos and M3U8/HLS streams; QuickMedia, Video Converter and FixVideo convert, compress and repair video; Tapescript turns speech into text and subtitles offline. | **Up to 50% OFF Pro Lifetime** on Microsoft Store, applied automatically, no code (US prices): VidFetch ~~$25.99~~ **$12.99**, Direct Link Downloader ~~$25.99~~ **$15.59**, QuickMedia ~~$24.99~~ **$14.99**, Tapescript ~~$19.99~~ **$11.99**, Video Converter ~~$19.99~~ **$11.99**, FixVideo ~~$19.99~~ **$13.39** (FixVideo through Nov 30) | 2026-11-29 |
 
 
 ### Marketing
