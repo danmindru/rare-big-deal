@@ -360,6 +360,7 @@ Free & open-source.
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 🎬 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and selling for filmmakers. Your film streams from the file you upload, with no extra re-encode. | **30% OFF** all yearly plans, kept at every renewal while you stay subscribed: Lite $69.30 instead of $99, Pro $300.30 instead of $429, Max $762.30 instead of $1,089, Studio $1,686.30 instead of $2,409 (no code needed). Starts on 2026-11-23 | 2026-11-30 |
+| ✂️ | [BlitzReels](https://blitzreels.com/black-friday) | AI clipping and scheduling for creators. Paste a long video or a YouTube link and get captioned vertical clips for TikTok, Reels and Shorts, then schedule them to your accounts. Also makes AI images and faceless videos, and works with ChatGPT and Claude. | **60% less than paying monthly** on yearly plans, no code needed: Starter $348 → $139 for the first year, Growth $948 → $379, Agency $2,388 → $949, then the normal yearly price. +90 bonus credits (about 10 clips) | 2026-12-01 |
 
 
 ### Social
@@ -422,6 +423,7 @@ Free & open-source.
 | 🐝 | [Tickabee](https://tickabee.com/black-friday-2026) | Social media scheduler for businesses, marketers and creators. Draft posts with AI in ChatGPT or Claude, or write them yourself, then approve and schedule from your Tickabee dashboard or from your AI. | **50% OFF** your first payment (first month or first year) with code **OFF50**. Starts on 2026-11-20 | 2026-12-01 |
 | 🚀 | [Nuelink](https://offer.nuelink.com/mcp/) | Agentic social media scheduling and automation for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it | **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments with code **BFCM26** | 2026-11-30 |
 | 🔴 | [Karmit](https://karmit.co) | Find the right subreddits, learn each community from its top posts, and monitor Reddit mentions in real time to turn conversations into product insights and customers. | **30% OFF** with code **BF2026** | 2026-12-02 |
+| ✂️ | [BlitzReels](https://blitzreels.com/black-friday) | AI clipping and scheduling for creators. Paste a long video or a YouTube link and get captioned vertical clips for TikTok, Reels and Shorts, then schedule them to your accounts. Also makes AI images and faceless videos, and works with ChatGPT and Claude. | **60% less than paying monthly** on yearly plans, no code needed: Starter $348 → $139 for the first year, Growth $948 → $379, Agency $2,388 → $949, then the normal yearly price. +90 bonus credits (about 10 clips) | 2026-12-01 |
 
 
 ### Sales Tools
