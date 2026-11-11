@@ -330,6 +330,7 @@ Free & open-source.
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 📷 | [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF** ($99.99 → $49.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 👨‍👩‍👧 | [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF** ($49.99 → $24.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| 🧹 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Clear out your iPhone and iPad camera roll a few photos at a time. Swipe to keep or mark; nothing is deleted until you confirm. | **50% OFF** Pro Lifetime ($39.99 → $19.99), bought in the app. No code required. [App Store](https://apps.apple.com/us/app/snaptidy-photo-swipe-delete/id6780214942). Starts on 2026-11-27 | 2026-11-30 |
 
 
 ### Health & Fitness
