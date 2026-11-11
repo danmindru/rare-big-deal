@@ -408,6 +408,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📇 | [t0ggles](https://t0ggles.com/?ref=app) | Fast project management for teams and AI agents: all your projects on one board, with notes, forms, AI tasks and an MCP server. | **50% OFF** the first year of the annual plan: $2.50 instead of $5 per user/month (no code needed) | 2026-11-30 |
 
 
 ### Image, Video & Audio Editing Tools
