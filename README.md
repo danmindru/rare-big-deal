@@ -364,6 +364,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% OFF** Business plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
+| 🎞️ | [PaneFlow](https://paneflow.com/) | Design animated slideshows and presentations in minutes, no code. Add 3D device mockups and motion, then export to code, video or PDF and embed anywhere. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48, or $48 lifetime instead of $96 | 2026-11-30 |
 
 
 ### AI Design Tools
