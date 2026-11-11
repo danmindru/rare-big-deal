@@ -332,6 +332,7 @@ Free & open-source.
 | 🎬 | [inReels](https://www.inreels.ai/pricing) | AI ad generator: paste a product link and get UGC video ads, static ads and product videos with script, voiceover and captions. Also faceless and brainrot videos for creators. | **50% OFF** all yearly plans with code **BLACKFRIDAY2026** | 2026-12-01 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
+| 🎬 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and selling for filmmakers. Your film streams from the file you upload, with no extra re-encode. | **30% OFF** all yearly plans, kept at every renewal while you stay subscribed: Lite $69.30 instead of $99, Pro $300.30 instead of $429, Max $762.30 instead of $1,089, Studio $1,686.30 instead of $2,409 (no code needed). Starts on 2026-11-23 | 2026-11-30 |
 
 
 ### Social
