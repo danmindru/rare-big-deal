@@ -37,6 +37,19 @@ function publicUrl(publicRoot, filePath) {
 }
 
 /**
+ * Official art configured under public/static/images/overrides/ is served from
+ * that file. It is not copied onto the auto-fetched product path, which a
+ * later run could replace with a locale og:image.
+ */
+function publicOverrideUrl(overridePath) {
+  if (typeof overridePath !== 'string') return null;
+  const normalized = overridePath.replace(/\\/g, '/');
+  const marker = 'public/static/images/overrides/';
+  if (!normalized.startsWith(marker) || normalized.includes('..')) return null;
+  return `/${normalized.slice('public/'.length)}`;
+}
+
+/**
  * Archive pages pin some /static/images/product files. A new live logo or
  * banner for that product is written under static/images/overrides instead.
  */
@@ -104,8 +117,30 @@ function applyOverrides(app, productName, appDir, publish, overrideMap) {
     }
   }
 
-  // Handle ogImages (plural) with priority over ogImage (singular)
-  if (
+  // A configured official image always wins. Do not replace it with an
+  // auto-fetched og:image (those can be another language or a capture).
+  const configuredImages =
+    override.ogImages && Array.isArray(override.ogImages) && override.ogImages.length > 0
+      ? override.ogImages
+      : override.ogImage
+        ? [override.ogImage]
+        : [];
+  const officialUrls = configuredImages.map((imagePath) => publicOverrideUrl(imagePath));
+  if (configuredImages.length > 0 && officialUrls.every(Boolean)) {
+    const missing = configuredImages.filter((imagePath) => {
+      return !fs.existsSync(path.join(__dirname, '..', imagePath));
+    });
+    if (missing.length > 0) {
+      console.error(
+        `[Asset Fetcher] ❌ Official override image is missing for ${productName}: ${missing.join(', ')}`,
+      );
+    } else {
+      app.images = officialUrls;
+      console.log(
+        `[Asset Fetcher] ✅ Official override banner wins for ${productName}: ${officialUrls.join(', ')}`,
+      );
+    }
+  } else if (
     override.ogImages &&
     Array.isArray(override.ogImages) &&
     override.ogImages.length > 0
@@ -361,8 +396,9 @@ async function fetchAssets(app, deps = {}) {
       console.log(`[Asset Fetcher] ✅ Stored JSON-LD structured data for ${productName}`);
     }
 
-    // Process images if not overridden. A pinned historical file is never the
-    // download or screenshot destination.
+    // Process images if not overridden. A configured official banner wins, so
+    // an auto-fetched og:image is never written over it. A pinned historical
+    // file is never the download or screenshot destination.
     if (!override?.ogImages && !override?.ogImage) {
       const imageUrlsToDownload =
         ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
@@ -458,6 +494,7 @@ async function fetchAssets(app, deps = {}) {
 module.exports = {
   fetchAssets,
   applyOverrides,
+  publicOverrideUrl,
   processProductImages,
   processProductLogo,
   rememberUsableBanner,

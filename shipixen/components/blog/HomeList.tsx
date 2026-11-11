@@ -14,8 +14,7 @@ import { allBlogs, Blog } from 'shipixen-contentlayer/generated';
 import { PostItem } from '@/components/blog/home/PostItem';
 import CopyToClipboardButton from '@/components/shared/CopyToClipboardButton';
 import { Showcase } from '@/components/showcase/Showcase';
-import bestApps from '@/data/picks/best-apps';
-import shipApps from '@/data/picks/ship-apps';
+import homepageShowcases from '@/data/homepage-showcases';
 import nicheApps from '@/data/picks/niche-apps';
 import marketingApps from '@/data/picks/marketing-apps';
 import developerTools from '@/data/picks/developer-tools';
@@ -103,20 +102,22 @@ export default function HomeList({
     return categoryMap;
   }, [posts]);
 
-  const sortedCategories = useMemo(() => {
-    const priorityCategories = [
-      'AI Tools',
-      'Developer Tools',
-      'iOS Apps',
-      'MacOS Apps',
-      'Boilerplates, Starters & Libraries',
-      'Marketing',
-    ];
-    const otherCategories = Object.keys(categories)
-      .filter((category) => !priorityCategories.includes(category))
-      .sort();
-    return [...priorityCategories, ...otherCategories];
-  }, [categories]);
+  const sortedCategories = useMemo(
+    () => homepageShowcases.homepageCategoryOrder(Object.keys(categories)),
+    [categories],
+  );
+  const visibleShowcases = useMemo(
+    () => homepageShowcases.visibleHomepageShowcases(Object.keys(categories)),
+    [categories],
+  );
+  const topShowcases = visibleShowcases.filter((pack) => pack.placement === 'top');
+  const showcaseByCategory = useMemo(() => {
+    const map: Record<string, (typeof visibleShowcases)[number]> = {};
+    for (const pack of visibleShowcases) {
+      if (pack.beforeCategory) map[pack.beforeCategory] = pack;
+    }
+    return map;
+  }, [visibleShowcases]);
 
   const toggleSubcategory = (category: string, subcategory: string) => {
     setSelectedSubcategories((prevSelected) => {
@@ -195,7 +196,14 @@ export default function HomeList({
 
   return (
     <>
-      <Showcase className="mt-4" bundle={bestApps} autoplayOnHover />
+      {topShowcases.map((pack) => (
+        <Showcase
+          key={pack.name}
+          className="mt-4"
+          bundle={pack}
+          autoplayOnHover
+        />
+      ))}
       <div className="flex flex-col gap-4">
         {sortedCategories.map((category) => (
           <CategorySection
@@ -208,6 +216,7 @@ export default function HomeList({
             showImage={showImage}
             showCaseClass="mt-4"
             hideCarousels={[]}
+            showcase={showcaseByCategory[category] ?? null}
           />
         ))}
 
@@ -249,6 +258,7 @@ export function CategorySection({
   showTitle = true,
   showCaseClass = '',
   hideCarousels = [],
+  showcase,
 }: {
   category: string;
   posts: CoreContent<Blog>[];
@@ -261,6 +271,13 @@ export function CategorySection({
   showTitle?: boolean;
   showCaseClass?: string;
   hideCarousels?: string[];
+  // undefined keeps the category page's own pack. null renders none.
+  // A bundle is the homepage pack after products already shown above are removed.
+  showcase?: {
+    name: string;
+    description: string;
+    apps: string[];
+  } | null;
 }) {
   const [textToCopy, setTextToCopy] = useState<string>(category);
 
@@ -275,44 +292,50 @@ export function CategorySection({
 
   return (
     <>
-      {slug(category) === slug('Boilerplates, Starters & Libraries') &&
-      !hideCarousels.includes('Boilerplates, Starters & Libraries') ? (
-        <Showcase className={showCaseClass} bundle={boilerplates} />
-      ) : null}
+      {showcase === undefined ? (
+        <>
+          {slug(category) === slug('Boilerplates, Starters & Libraries') &&
+          !hideCarousels.includes('Boilerplates, Starters & Libraries') ? (
+            <Showcase className={showCaseClass} bundle={boilerplates} />
+          ) : null}
 
-      {slug(category) === slug('Learning') &&
-      !hideCarousels.includes('Learning') ? (
-        <Showcase className={showCaseClass} bundle={nicheApps} />
-      ) : null}
+          {slug(category) === slug('Learning') &&
+          !hideCarousels.includes('Learning') ? (
+            <Showcase className={showCaseClass} bundle={nicheApps} />
+          ) : null}
 
-      {slug(category) === slug('Marketing') &&
-      !hideCarousels.includes('Marketing') ? (
-        <Showcase className={showCaseClass} bundle={marketingApps} />
-      ) : null}
+          {slug(category) === slug('Marketing') &&
+          !hideCarousels.includes('Marketing') ? (
+            <Showcase className={showCaseClass} bundle={marketingApps} />
+          ) : null}
 
-      {slug(category) === slug('Developer Tools') &&
-      !hideCarousels.includes('Developer Tools') ? (
-        <Showcase className={showCaseClass} bundle={developerTools} />
-      ) : null}
+          {slug(category) === slug('Developer Tools') &&
+          !hideCarousels.includes('Developer Tools') ? (
+            <Showcase className={showCaseClass} bundle={developerTools} />
+          ) : null}
 
-      {slug(category) === slug('AI Tools') &&
-      !hideCarousels.includes('AI Tools') ? (
-        <Showcase bundle={aiApps} />
-      ) : null}
+          {slug(category) === slug('AI Tools') &&
+          !hideCarousels.includes('AI Tools') ? (
+            <Showcase bundle={aiApps} />
+          ) : null}
 
-      {slug(category) === slug('MacOS Apps') &&
-      !hideCarousels.includes('MacOS Apps') ? (
-        <Showcase bundle={macApps} />
-      ) : null}
+          {slug(category) === slug('MacOS Apps') &&
+          !hideCarousels.includes('MacOS Apps') ? (
+            <Showcase bundle={macApps} />
+          ) : null}
 
-      {slug(category) === slug('iOS Apps') &&
-      !hideCarousels.includes('iOS Apps') ? (
-        <Showcase bundle={iosApps} />
-      ) : null}
+          {slug(category) === slug('iOS Apps') &&
+          !hideCarousels.includes('iOS Apps') ? (
+            <Showcase bundle={iosApps} />
+          ) : null}
 
-      {slug(category) === slug('John Rush Extravaganza') &&
-      !hideCarousels.includes('John Rush Extravaganza') ? (
-        <Showcase bundle={theJohnApps} />
+          {slug(category) === slug('John Rush Extravaganza') &&
+          !hideCarousels.includes('John Rush Extravaganza') ? (
+            <Showcase bundle={theJohnApps} />
+          ) : null}
+        </>
+      ) : showcase && showcase.apps.length > 0 ? (
+        <Showcase className={showCaseClass} bundle={showcase} />
       ) : null}
 
       <div className={cn('mb-8', categoryClassName)} id={category}>

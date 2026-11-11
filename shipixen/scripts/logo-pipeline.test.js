@@ -409,6 +409,44 @@ describe('asset generation', () => {
     );
   });
 
+  test('a configured official banner wins over an auto-fetched og image', async () => {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), 'rbd-override-wins-'));
+    const product = path.join(root, 'product', 'gamma');
+    fs.mkdirSync(product, { recursive: true });
+    const locale = await png(800, 420, { r: 1, g: 2, b: 3, alpha: 1 });
+    fs.writeFileSync(path.join(product, 'og-image.png'), locale);
+    let downloaded = false;
+    const app = {
+      name: 'Gamma',
+      website: 'https://gamma.example',
+      description: 'A paid tool.',
+      deal: '25% off',
+    };
+    await fetchAssets(app, {
+      outputDir: root,
+      overrides: {
+        gamma: { ogImage: 'public/static/images/overrides/page-ai/og-image.png' },
+      },
+      fetchWebsiteData: async () => ({
+        ...emptySite(),
+        ogImageUrl: 'https://gamma.example/locale-og.png',
+        title: 'Locale title that must not replace the official banner',
+      }),
+      downloadMultipleImages: async () => {
+        downloaded = true;
+        return ['/static/images/product/gamma/og-image.png'];
+      },
+      acquireProductLogo: async ({ outputPath }) => {
+        fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+        fs.writeFileSync(outputPath, await png(48, 48));
+        return { url: 'https://gamma.example/apple-touch-icon.png', resized: false };
+      },
+    });
+    assert.equal(downloaded, false);
+    assert.equal(app.images[0], '/static/images/overrides/page-ai/og-image.png');
+    assert.equal(fs.readFileSync(path.join(product, 'og-image.png')).equals(locale), true);
+  });
+
   test('fails instead of succeeding with no usable logo', async () => {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), 'rbd-no-logo-'));
     const app = { name: 'Gamma', website: 'https://gamma.example', description: 'A paid tool.', deal: '25% off' };

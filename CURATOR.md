@@ -12,7 +12,7 @@ List a product only when all of these are true:
 - It has a genuine discount that is live now. The regular price and the offer have to be visible on the product's own site or store. A code, a marked-down price, or an offer already applied at that URL all count when they can be checked.
 - The date it ends is in the future, or the offer is clearly still running. Expired deals and offers that cannot be checked are not added.
 - The product works. Broken pages, empty shells, and generic templates are not added. A screenshot has to be looked at for every product. The picture is evidence of the product itself, not of how it was built.
-- There is a usable logo (or favicon) and a banner. The banner is the share image already published by the site (`og:image` or the store's main image). If that image is missing or unusable, use a screenshot of the actual website instead. Do not invent a banner.
+- There is a usable logo (or favicon) and a banner. The banner is the share image already published by the site (`og:image` or the store's main image). If that image is missing or unusable, use a screenshot of the actual website instead. Do not invent a banner. Look at the words in that picture before accepting it. If the banner text is not English, do not use the auto-fetched image. When the owner supplies official English marketing art, store it under `shipixen/public/static/images/overrides/` and point `shipixen/data/config/product-overrides.js` at it. That override is what the product page and homepage serve, and a later fetch must not replace it.
 
 A row is one line at the **bottom** of a category table. Do not insert it higher and do not reorder rows that are already there. The same product can be added to more than one category when it really fits each one. On the website, deals in a category are shown alphabetically. That display order is separate from the README order.
 
@@ -38,6 +38,8 @@ After the current submission backlog has been decided:
 - Every 24 hours, decide whether one category deserves a pack of its strongest current deals.
 
 Publish a pack only when the deals are real and the set belongs together. Skip the day when it does not. There is no quota. Do not invent popularity, do not arrange a special discount with a vendor, and do not relax the paid, current, quality, or image rules to fill a pack. A pack must not move rows in the README. The names in `apps` have to match the README titles exactly.
+
+Best Apps is the editorial highlight on the homepage and can list Page AI and Saventify. A homepage carousel further down the page must not show a product that a carousel above it already showed. If removing those repeats would leave the pack empty, or would leave the same set of products, do not render that carousel. Do not add filler products to keep a second carousel.
 
 The 2025 packs are kept in `shipixen/archive/2025/picks/`. The live pack files are the same slots with empty `apps` lists, ready for a later selection.
 
