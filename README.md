@@ -169,6 +169,7 @@ Free & open-source.
 | 🍳 | [Cooked](https://www.cookeddev.lol/pricing) | Paste a job link and Cooked tailors your CV to it in under a minute: ATS score, missing keywords, a rewritten CV and a matching cover letter. Only uses experience already on your CV. Free plan: 3 CVs a day. | **51% OFF** Lifetime Pro: one payment of $59 instead of $119.88/yr. First 20 buyers only (no code needed) | 2026-12-02 |
 | ✍️ | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content, with 5,000+ tools that verify before they generate. | **50% OFF** with code **BF2026** | 2026-12-15 |
 | 📝 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your own device. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
+| 💬 | [Vinaa](https://www.vinaa.ai/?utm_source=rarebigdeal) | Native Mac app for chatting with cloud and local AI models. | **Up to 45% OFF** lifetime licenses | 2026-11-30 |
 
 
 
