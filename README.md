@@ -118,7 +118,7 @@ Free & open-source.
 | 🕷️ | [Piloterr](https://www.piloterr.com/blackfriday) | Web scraping API that handles headless browsers and rotating proxies for you. | **50% OFF** the first 3 months on all monthly plans with code **BLACKFRIDAY50** | 2026-11-30 |
 | 🎬 | [Renderly](https://renderly.video/pricing) | Video rendering API: send a JSON template and your data, get an MP4 back. Includes a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server. | **30% OFF** the first payment of a new Creator or Business subscription with code **BLACKFRIDAY2026** (Creator $29 → $20.30, Business $99 → $69.30 for the first month). Starts on 2026-11-27 | 2026-12-01 |
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
-| 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) | 2026-12-01 |
+| 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
 | 📚 | [POSH](https://poshtui.com/black-friday) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans with code **BLACKFRIDAY2026**, kept while you stay subscribed: €7 → €4.90/month, €60 → €42/year. New subscriptions only | 2026-12-02 |
 
 
@@ -127,8 +127,8 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code BLACKFRIDAY | 2026-11-30 |
-| 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) | 2026-12-01 |
-| 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) | 2026-12-01 |
+| 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) |  |
+| 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 
 
 ### Productivity & AI
@@ -184,8 +184,8 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🧭 | [Atelier](https://appsbymo.app/atelier/) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🔋 | [Vigil](https://appsbymo.app/vigil/) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
+| 🧭 | [Atelier](https://appsbymo.app/atelier/) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🔋 | [Vigil](https://appsbymo.app/vigil/) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 
 ### Productivity
 
@@ -198,15 +198,15 @@ Free & open-source.
 | 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($99 → $49.50) with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🐬 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | **30% OFF** new licences with code **BF30** | 2026-12-03 |
 | 📋 | [CleanClip](https://pricing.cleanclip.cc/src) | Native Mac clipboard manager with searchable history, quick paste, smart lists and Paste Stack. | **30% OFF** with code **BF2026**: Standard $19.99 → $13.99, Pro $29.99 → $20.99 (one-time purchase) | 2026-12-15 |
-| 🗓️ | [Margin](https://appsbymo.app/margin/) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 📸 | [Scry](https://appsbymo.app/scry/) | Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$24~~ $12). Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| ✨ | [Thurayya](https://appsbymo.app/thurayya/) | A Mac launcher that learns your routine: press a key and the apps, folders, files and sites you need next are already there. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🕯️ | [Wick](https://appsbymo.app/wick/) | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); Mac App Store ~~$15.99~~ $7.99, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🙂 | [Mo](https://appsbymo.app/mo/) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🩺 | [What Happened](https://appsbymo.app/whathappened/) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) | 2026-12-01 |
+| 🗓️ | [Margin](https://appsbymo.app/margin/) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 📸 | [Scry](https://appsbymo.app/scry/) | Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$24~~ $12). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| ✨ | [Thurayya](https://appsbymo.app/thurayya/) | A Mac launcher that learns your routine: press a key and the apps, folders, files and sites you need next are already there. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🕯️ | [Wick](https://appsbymo.app/wick/) | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🙂 | [Mo](https://appsbymo.app/mo/) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🩺 | [What Happened](https://appsbymo.app/whathappened/) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) |  |
 
 
 ### Design Tools
@@ -225,7 +225,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🌼 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. No account, no subscription, no AI. | **50% OFF** one-time purchase with code **BLACKFRIDAY** | 2026-11-30 |
-| ✍️ | [Cue](https://appsbymo.app/cue/) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 | 2026-11-30 |
+| ✍️ | [Cue](https://appsbymo.app/cue/) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 
 
 ### Menu Bar & More
@@ -234,8 +234,8 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧭 | [iKnowMyMac](https://iknowmymac.com) | Menu bar app that remembers what your Mac did while you weren't looking: what woke it, overnight battery drain by app, every USB device and new login items. Agent Undo puts back files a coding agent changed. Apple silicon, macOS 15 or later. One-time purchase. | **25% OFF** with iKnowMyDisplay as the [iKnow Suite](https://iknowmydisplay.com/suite): both apps $7.99 → $5.99 (2 Macs $14.99 → $10.99, 5 Macs $39.99 → $29.99). No code needed, while launch licences last. Starts on 2026-11-27 | 2026-12-01 |
 | 🖥️ | [iKnowMyDisplay](https://iknowmydisplay.com) | Every display control macOS hides, in the menu bar: external monitor brightness, resolution, refresh rate, HDR, colour and a TV remote, plus Check this monitor for 30 Hz, blurry text or flicker. Apple silicon, macOS 15 or later. One-time purchase. | **25% OFF** with iKnowMyMac as the [iKnow Suite](https://iknowmydisplay.com/suite): both apps $7.99 → $5.99 (2 Macs $14.99 → $10.99, 5 Macs $39.99 → $29.99). No code needed, while launch licences last. Starts on 2026-11-27 | 2026-12-01 |
-| 📥 | [Chute](https://appsbymo.app/chute/) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 😀 | [Emojist](https://appsbymo.app/emojist/) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 | 2026-11-30 |
+| 📥 | [Chute](https://appsbymo.app/chute/) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 😀 | [Emojist](https://appsbymo.app/emojist/) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -272,10 +272,10 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 📍 | [Pinvoy](https://appsbymo.app/pinvoy/) | Opens any shared map link, from Google Maps, Waze, Apple Maps and more, at the exact place in the navigation app you drive with. | **50% OFF** on the App Store (iPhone) ~~$2.99~~ $1.49, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🗓️ | [Margin](https://appsbymo.app/margin/) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
-| 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-11-30 |
+| 📍 | [Pinvoy](https://appsbymo.app/pinvoy/) | Opens any shared map link, from Google Maps, Waze, Apple Maps and more, at the exact place in the navigation app you drive with. | **50% OFF** on the App Store (iPhone) ~~$2.99~~ $1.49, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🗓️ | [Margin](https://appsbymo.app/margin/) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -314,7 +314,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) | 2026-12-01 |
+| 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 
 
 ### AI Design Tools
@@ -404,7 +404,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ✉️ | [Broadcast](https://sendbroadcast.net/black-friday) | Self-hosted email marketing with a one-time license. Newsletters, automations and transactional email on your own server, unlimited subscribers. | **$100 OFF** the Regular License ($250 → $150) with code **BLACKFRIDAY26** | 2026-12-01 |
-| 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) | 2026-12-01 |
+| 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
 
 
 ### Content Creation
