@@ -4,14 +4,15 @@ const {
 } = require('./apply-overrides');
 const { sanitizeName } = require('./sanitize-name');
 const { markdownDir } = require('./settings');
+const {
+  assertStartOnOrBeforeEnd,
+  validFromDateInDeal,
+} = require('./lib/eligibility');
 const fs = require('fs');
 const path = require('path');
 const { getLeaderboardPosition } = require('./leaderboard-utils');
 
-async function generateMDXContent(app) {
-  console.log(`[Generate MDX Content] 📝 Generating MDX for: ${app.name}`);
-  const startTime = Date.now();
-
+function buildMDXContent(app) {
   const tags = applyCategoryOverrides(
     app.categories,
     app.subcategories,
@@ -24,7 +25,15 @@ async function generateMDXContent(app) {
     website,
     deal,
     expiresOnDate,
+    validFromDate,
   } = applyMetaOverrides(sanitizeName(app.name), app);
+  const startDate = (validFromDate || validFromDateInDeal(deal) || '').trim();
+  const endDate = (expiresOnDate || '').trim();
+  try {
+    assertStartOnOrBeforeEnd(startDate, endDate);
+  } catch (error) {
+    throw new Error(`${app.name}: ${error.message}`);
+  }
 
   // Extract JSON-LD data with fallbacks
   const jsonLd = app.jsonLd || {};
@@ -69,7 +78,7 @@ ${(app.subcategories || [])
 deal: >
   ${deal?.trim()}
 website: ${website}
-${expiresOnDate ? `expiresOnDate: ${expiresOnDate}` : ''}
+${startDate ? `validFromDate: ${startDate}\n` : ''}${endDate ? `expiresOnDate: ${endDate}` : ''}
 layout: ProductLayout
 `;
 
@@ -175,8 +184,16 @@ ${formattedContentMetaDescription}
 `;
   }
 
+  return mdxContent;
+}
+
+async function generateMDXContent(app, directory = markdownDir) {
+  console.log(`[Generate MDX Content] 📝 Generating MDX for: ${app.name}`);
+  const startTime = Date.now();
+  const mdxContent = buildMDXContent(app);
+
   const markdownOutputPath = path.join(
-    markdownDir,
+    directory,
     `${sanitizeName(app.name)}.mdx`,
   );
   fs.writeFileSync(markdownOutputPath, mdxContent);
@@ -187,4 +204,4 @@ ${formattedContentMetaDescription}
   );
 }
 
-module.exports = { generateMDXContent };
+module.exports = { buildMDXContent, generateMDXContent };

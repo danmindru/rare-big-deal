@@ -44,11 +44,17 @@ export default function MostPopularClient() {
       <section className="max-w-2xl 2xl:max-w-3xl w-full mt-12 p-6">
         <div className="flex flex-col w-full items-center justify-between">
           <div className="flex flex-col gap-4 w-full">
-            <ul className={'grid gap-4'}>
-              {sortedPosts.map((post) => (
-                <PostItem key={post.slug} post={post} showImage={true} />
-              ))}
-            </ul>
+            {sortedPosts.length === 0 ? (
+              <p className="text-sm text-gray-500">
+                No deals are in the live catalog yet.
+              </p>
+            ) : (
+              <ul className={'grid gap-4'}>
+                {sortedPosts.map((post) => (
+                  <PostItem key={post.slug} post={post} showImage={true} />
+                ))}
+              </ul>
+            )}
           </div>
         </div>
       </section>

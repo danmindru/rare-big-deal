@@ -58,9 +58,13 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "Update app info"
-          git pull --rebase
-          git push
+          if git diff --cached --quiet; then
+            echo "No product changes to commit"
+          else
+            git commit -m "Update app info"
+            git pull --rebase
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.RBD_GITHUB_TOKEN }}
 
@@ -116,6 +120,10 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add shipixen/data/stats.js
-          git commit -m 'Update repository stats'
-          git pull --rebase
-          git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          if git diff --cached --quiet; then
+            echo "No stat changes to commit"
+          else
+            git commit -m 'Update repository stats'
+            git pull --rebase
+            git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          fi

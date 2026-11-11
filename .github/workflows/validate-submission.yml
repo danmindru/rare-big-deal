@@ -1,0 +1,127 @@
+# Validates README submissions with the scripts from the base branch.
+# The pull request is data: its README and product images are read, never executed.
+# This workflow is pull_request, not pull_request_target, and it has no secrets.
+# A pull request that edits this file does not receive credentials.
+# Browser capture stays out of fork CI. It runs in the trusted generator.
+
+name: Validate submission
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the trusted base
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: shipixen/package-lock.json
+
+      - name: Install validator dependencies
+        working-directory: shipixen
+        run: npm ci
+
+      - name: Read the pull request as data
+        env:
+          PR: ${{ github.event.pull_request.number }}
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          set -euo pipefail
+          git fetch --no-tags --depth=1 \
+            "https://github.com/${{ github.repository }}.git" \
+            "refs/pull/${PR}/head:refs/heads/pr-head"
+          mkdir -p /tmp/pr-data/shipixen/public/static/images/product \
+            /tmp/pr-data/shipixen/public/static/images/overrides \
+            /tmp/pr-data/shipixen/data/config
+          git show pr-head:README.md > /tmp/pr-data/README.md
+          # Live returning products may keep current banners on the documented
+          # override path, so those images are allowed pull-request data.
+          git ls-tree -r --name-only pr-head | while IFS= read -r path; do
+            case "$path" in
+              shipixen/public/static/images/product/*|shipixen/public/static/images/overrides/*)
+                mkdir -p "/tmp/pr-data/$(dirname "$path")"
+                git show "pr-head:$path" > "/tmp/pr-data/$path"
+                ;;
+              shipixen/data/config/product-overrides.js)
+                git show "pr-head:$path" > "/tmp/pr-data/$path"
+                ;;
+            esac
+          done
+
+      - name: Keep the trusted validator
+        env:
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          BASE_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [ -f shipixen/scripts/validate-submission.js ]; then
+            echo "Using the validator from the base branch."
+            exit 0
+          fi
+          if [ "$HEAD_REPO" != "$BASE_REPO" ]; then
+            echo "The base branch has no validator yet, and fork code is not executed."
+            exit 1
+          fi
+          echo "The base branch has no validator yet. Running this same-repo change once."
+          git checkout pr-head -- \
+            shipixen/scripts/validate-submission.js \
+            shipixen/scripts/validate-submission.test.js \
+            shipixen/scripts/logo-pipeline.test.js \
+            shipixen/scripts/image-downloader.js \
+            shipixen/scripts/website-scraper.js \
+            shipixen/scripts/favicon-extractor.js \
+            shipixen/scripts/asset-fetcher.js \
+            shipixen/scripts/lib \
+            shipixen/scripts/fixtures \
+            shipixen/catalog/catalog-tree.json
+
+      - name: Run offline regression tests
+        working-directory: shipixen
+        run: |
+          node --test ./scripts/validate-submission.test.js
+          if [ -f ./scripts/logo-pipeline.test.js ]; then
+            node --test ./scripts/logo-pipeline.test.js
+          fi
+          if [ -f ./scripts/schedule-dates.test.js ]; then
+            node --test ./scripts/schedule-dates.test.js
+          fi
+
+      - name: Validate the submission
+        env:
+          PR: ${{ github.event.pull_request.number }}
+          SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+          args=(
+            --base README.md
+            --head /tmp/pr-data/README.md
+            --pr "$PR"
+            --sha "$SHA"
+            --media-root /tmp/pr-data/shipixen/public/static/images/product
+            --evidence /tmp/pr-data/evidence.json
+          )
+          if [ -f /tmp/pr-data/shipixen/data/config/product-overrides.js ]; then
+            args+=(--overrides /tmp/pr-data/shipixen/data/config/product-overrides.js)
+          fi
+          node shipixen/scripts/validate-submission.js "${args[@]}"
+
+      - name: Upload the evidence artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: submission-evidence
+          path: /tmp/pr-data/evidence.json
+          if-no-files-found: ignore
