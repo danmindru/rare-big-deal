@@ -169,6 +169,7 @@ Free & open-source.
 | 🍳 | [Cooked](https://www.cookeddev.lol/pricing) | Paste a job link and Cooked tailors your CV to it in under a minute: ATS score, missing keywords, a rewritten CV and a matching cover letter. Only uses experience already on your CV. Free plan: 3 CVs a day. | **51% OFF** Lifetime Pro: one payment of $59 instead of $119.88/yr. First 20 buyers only (no code needed) | 2026-12-02 |
 | ✍️ | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content, with 5,000+ tools that verify before they generate. | **50% OFF** with code **BF2026** | 2026-12-15 |
 | 📝 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your own device. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
+| 💬 | [Vinaa](https://www.vinaa.ai) | Native Mac app for chatting with cloud and local AI models, with projects, folders, MCP tools and local storage. | **Up to 45% OFF** lifetime licenses: 1 Mac $30 instead of $40, 2 Macs $39 instead of $70, 3 Macs $55 instead of $100 (no code needed) | 2026-11-30 |
 
 
 
@@ -239,6 +240,7 @@ Free & open-source.
 | 🖼️ | [FloatViewer](https://apps.apple.com/app/id6768883420) | Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Lifetime license. Free app; code unlocks Lifetime. | **50% OFF** Lifetime ($29.99 → $14.99) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 📸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license with code BLACKFRIDAY ($39 → $19.50) | 2026-11-30 |
+| 📧 | [Mailflare](https://mailflare.co) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
 
 
 ### Design Tools
