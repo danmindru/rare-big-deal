@@ -42,7 +42,7 @@ function firstListedImage(mdx) {
   for (let i = 1; i < lines.length; i += 1) {
     const line = lines[i];
     if (!line.startsWith('  ')) break;
-    const item = line.match(/^  - (.+)$/);
+    const item = line.match(/^ {2}- (.+)$/);
     if (item) return item[1].trim();
   }
   return null;
