@@ -3,6 +3,10 @@
 // file that the 2024 archive page still serves.
 module.exports = {
   overrides: {
+    facescreen: {
+      logo: 'public/static/images/overrides/facescreen/logo.png',
+      ogImage: 'public/static/images/overrides/facescreen/og-image.png',
+    },
     'page-ai': {
       ogImage: 'public/static/images/overrides/page-ai/og-image.png',
     },
