@@ -119,6 +119,7 @@ Free & open-source.
 | 🎬 | [Renderly](https://renderly.video/pricing) | Video rendering API: send a JSON template and your data, get an MP4 back. Includes a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server. | **30% OFF** the first payment of a new Creator or Business subscription with code **BLACKFRIDAY2026** (Creator $29 → $20.30, Business $99 → $69.30 for the first month). Starts on 2026-11-27 | 2026-12-01 |
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
 | 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) | 2026-12-01 |
+| 📚 | [POSH](https://poshtui.com/black-friday) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans with code **BLACKFRIDAY2026**, kept while you stay subscribed: €7 → €4.90/month, €60 → €42/year. New subscriptions only | 2026-12-02 |
 
 
 ### Browser Extensions
