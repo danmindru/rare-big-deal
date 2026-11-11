@@ -21,6 +21,7 @@ import {
   CarouselPrevious,
 } from '@/components/shared/ui/carousel';
 import { usePathname } from 'next/navigation';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 const fallbackImage = '/static/images/fallback.png';
 
@@ -104,7 +105,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                 )}
               >
                 <Link
-                  href={`/products/${app.slug}`}
+                  href={withOutboundRef(`/products/${app.slug}`)}
                   className="flex flex-col w-full items-center"
                 >
                   <Image

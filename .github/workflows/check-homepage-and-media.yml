@@ -28,7 +28,7 @@ jobs:
         working-directory: shipixen
         run: |
           node ./scripts/check-official-media.js
-          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js
+          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js ./scripts/outbound-ref.test.js
 
       # next build fails the deploy on ESLint errors in eslint.dirs (app,
       # components, layouts, scripts). Running node on these scripts does not.

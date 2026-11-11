@@ -12,6 +12,7 @@ import { metadata } from '@/data/config/metadata';
 // import { BundleShowcase } from '@/components/showcase/BundleShowcase';
 import Link from 'next/link';
 import { LandingWavesCtaBg } from '@/components/landing/cta-backgrounds/LandingWavesCtaBg';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 const avatars = [
   {
@@ -81,7 +82,9 @@ export default async function Home() {
 
           <div className="flex items-center">
             <a
-              href="https://github.com/danmindru/rare-big-deal/graphs/contributors"
+              href={withOutboundRef(
+                'https://github.com/danmindru/rare-big-deal/graphs/contributors',
+              )}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -113,7 +116,9 @@ export default async function Home() {
             </p>
 
             <a
-              href="https://github.com/danmindru/rare-big-deal"
+              href={withOutboundRef(
+                'https://github.com/danmindru/rare-big-deal',
+              )}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -141,15 +146,15 @@ export default async function Home() {
           title="Hear It from Our Users"
           description="Discover what our happy customers have to say about their experience with Rare Big Deal:"
           testimonialItems={[
-             {
+            {
               name: 'Matthias Neumayer',
               text: 'Love this!',
               handle: '@matthiasneumayer',
               imageSrc: '/static/images/people/32.jpg',
               url: 'https://www.linkedin.com/feed/update/urn:li:activity:7393563664001421312?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7393563664001421312%2C7393564140943925249%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287393564140943925249%2Curn%3Ali%3Aactivity%3A7393563664001421312%29',
-             },
+            },
 
-             {
+            {
               name: 'Nikki S',
               text: 'Very cool – great idea! 💡',
               handle: '@nikkis',
@@ -234,7 +239,9 @@ export default async function Home() {
               <>
                 You can submit a deal by creating a pull request at{' '}
                 <a
-                  href="https://github.com/danmindru/rare-big-deal/pulls"
+                  href={withOutboundRef(
+                    'https://github.com/danmindru/rare-big-deal/pulls',
+                  )}
                   className="underline"
                 >
                   github.com/danmindru/rare-big-deal/pulls
@@ -249,7 +256,10 @@ export default async function Home() {
             answer: (
               <>
                 All submitted deals are featured on our webpage at{' '}
-                <a href="https://rarebigdeal.com" className="underline">
+                <a
+                  href={withOutboundRef('https://rarebigdeal.com')}
+                  className="underline"
+                >
                   rarebigdeal.com
                 </a>
                 . The submissions will be categorized and displayed
@@ -298,7 +308,10 @@ export default async function Home() {
             answer: (
               <>
                 There is no option to do that currently. Get in touch with us at{' '}
-                <a href={metadata.twitter} className="underline">
+                <a
+                  href={withOutboundRef(metadata.twitter)}
+                  className="underline"
+                >
                   here
                 </a>{' '}
                 for more information.

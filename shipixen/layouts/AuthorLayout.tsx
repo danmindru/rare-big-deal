@@ -2,6 +2,7 @@ import { ReactNode } from 'react';
 import type { Authors } from 'shipixen-contentlayer/generated';
 import Image from '@/components/shared/Image';
 import { Button } from '@/components/shared/ui/button';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 import {
   MailIcon,
@@ -54,7 +55,7 @@ export default function AuthorLayout({ children, content }: Props) {
             <div className="text-gray-500 dark:text-gray-400">{company}</div>
             <div className="flex space-x-3 pt-6">
               {email && (
-                <a href={`mailto:${email}`}>
+                <a href={withOutboundRef(`mailto:${email}`)}>
                   <Button variant="outline" size="icon">
                     <MailIcon className="w-6 h-6" />
                   </Button>
@@ -62,7 +63,7 @@ export default function AuthorLayout({ children, content }: Props) {
               )}
 
               {github && (
-                <a href={github}>
+                <a href={withOutboundRef(github)}>
                   <Button variant="outline" size="icon">
                     <GithubIcon className="w-6 h-6" />
                   </Button>
@@ -70,7 +71,7 @@ export default function AuthorLayout({ children, content }: Props) {
               )}
 
               {linkedin && (
-                <a href={linkedin}>
+                <a href={withOutboundRef(linkedin)}>
                   <Button variant="outline" size="icon">
                     <LinkedinIcon className="w-6 h-6" />
                   </Button>
@@ -78,7 +79,7 @@ export default function AuthorLayout({ children, content }: Props) {
               )}
 
               {twitter && (
-                <a href={twitter}>
+                <a href={withOutboundRef(twitter)}>
                   <Button variant="outline" size="icon">
                     <TwitterIcon className="w-6 h-6" />
                   </Button>

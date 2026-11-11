@@ -1,5 +1,7 @@
 'use client';
 
+import { withOutboundRef } from '@/lib/outbound-ref';
+
 export const ProductHuntBadge = ({
   postName,
   postId,
@@ -33,7 +35,9 @@ export const ProductHuntBadge = ({
 
   return (
     <a
-      href={`https://www.producthunt.com/posts/${postName.toLowerCase()}?utm_source=${postName.toLowerCase()}`}
+      href={withOutboundRef(
+        `https://www.producthunt.com/posts/${postName.toLowerCase()}?utm_source=${postName.toLowerCase()}`,
+      )}
       target={`_blank`}
       rel={`noopener noreferrer`}
     >

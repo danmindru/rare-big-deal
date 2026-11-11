@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import type { LinkProps } from 'next/link';
 import { AnchorHTMLAttributes } from 'react';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 export const CustomLink = ({
   href,
@@ -18,7 +19,16 @@ export const CustomLink = ({
     return <a href={href} {...rest} />;
   }
 
-  return <a target="_blank" rel="noopener noreferrer" href={href} {...rest} />;
+  const outboundHref = typeof href === 'string' ? withOutboundRef(href) : href;
+
+  return (
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href={outboundHref}
+      {...rest}
+    />
+  );
 };
 
 export default CustomLink;

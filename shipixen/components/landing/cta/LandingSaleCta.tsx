@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import { Button } from '@/components/shared/ui/button';
 import { GlowBg } from '@/components/shared/ui/glow-bg';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 /**
  * A component meant to be used in the landing page.
@@ -81,7 +82,11 @@ export const LandingSaleCtaSection = ({
         <div className="mt-6 flex flex-wrap gap-4 w-full items-center">
           {ctaLabel ? (
             <Button size="xl" asChild variant={variant} className="shrink-0">
-              <a href={ctaHref} target="_blank" rel="noopener noreferrer">
+              <a
+                href={withOutboundRef(ctaHref)}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 {ctaLabel}
               </a>
             </Button>
@@ -97,7 +102,7 @@ export const LandingSaleCtaSection = ({
               }
             >
               <a
-                href={secondaryCtaHref}
+                href={withOutboundRef(secondaryCtaHref)}
                 target="_blank"
                 rel="noopener noreferrer"
               >

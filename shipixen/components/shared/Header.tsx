@@ -8,6 +8,7 @@ import SearchButton from '../search/SearchButton';
 import ActiveLink from '@/components/shared/ActiveLink';
 import Image from '@/components/shared/Image';
 import { GithubIcon } from 'lucide-react';
+import { withOutboundRef } from '@/lib/outbound-ref';
 
 const Header = ({
   containerClassName,
@@ -86,7 +87,7 @@ const Header = ({
 
           <a
             className="hidden sm:flex"
-            href="https://github.com/danmindru/rare-big-deal"
+            href={withOutboundRef('https://github.com/danmindru/rare-big-deal')}
           >
             <GithubIcon size={24} className="w-4 h-4 md:w-6 md:h-6" />
           </a>
