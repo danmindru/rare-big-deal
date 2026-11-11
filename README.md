@@ -531,6 +531,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| ⏩ | [ShipAhead](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | **50% OFF** for the first 100 customers, $99 (was $199). Auto-applied, no code needed | 2026-11-30 |
 
 
 ### iOS
