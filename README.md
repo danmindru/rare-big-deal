@@ -127,6 +127,7 @@ Free & open-source.
 | 📝 | [FormBold](https://formbold.com) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | ⚡ | [Static.run](https://static.run) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 | 2026-12-31 |
+| 🌄 | [Swiper Studio](https://studio.swiperjs.com/) | No-code visual builder for Swiper.js sliders, carousels and galleries with templates and premium effects. Export clean React, Vue, Next.js, HTML or Webflow code. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48 (sale price kept on renewal), or $48 lifetime instead of $96 | 2026-11-30 |
 
 
 ### Browser Extensions
