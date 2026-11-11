@@ -633,6 +633,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧪 | [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | [**30% OFF one year ($69.90)**](https://labex.io/checkout?type=2&coupon=2026BF30) with code **2026BF30**; [**50% OFF two years ($99.90)**](https://labex.io/checkout?type=4&coupon=2026BF50) with code **2026BF50**. New and existing users. | 2026-12-07 |
 
 
 
