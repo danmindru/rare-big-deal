@@ -6,5 +6,9 @@ module.exports = {
     'page-ai': {
       ogImage: 'public/static/images/overrides/page-ai/og-image.png',
     },
+    pimosa: {
+      logo: 'public/static/images/overrides/pimosa/logo.png',
+      ogImage: 'public/static/images/overrides/pimosa/og-image.png',
+    },
   },
 };
