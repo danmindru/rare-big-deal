@@ -14,6 +14,7 @@ import { allBlogs, Blog } from 'shipixen-contentlayer/generated';
 import { PostItem } from '@/components/blog/home/PostItem';
 import CopyToClipboardButton from '@/components/shared/CopyToClipboardButton';
 import { Showcase } from '@/components/showcase/Showcase';
+import bestApps from '@/data/picks/best-apps';
 import shipApps from '@/data/picks/ship-apps';
 import nicheApps from '@/data/picks/niche-apps';
 import marketingApps from '@/data/picks/marketing-apps';
@@ -194,6 +195,7 @@ export default function HomeList({
 
   return (
     <>
+      <Showcase className="mt-4" bundle={bestApps} autoplayOnHover />
       <div className="flex flex-col gap-4">
         {sortedCategories.map((category) => (
           <CategorySection

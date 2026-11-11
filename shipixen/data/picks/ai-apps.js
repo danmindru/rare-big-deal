@@ -1,5 +1,5 @@
 module.exports = {
   name: 'Best AI Apps',
   description: "You've never seen AI do things like these before.",
-  apps: [],
+  apps: ['Page AI'],
 };
