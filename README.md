@@ -157,6 +157,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 💎 | [Fluent 2](https://fluentmac.app) | Not another chat window: press ⌥Space in any app and Fluent works with what's in front of you. Polish the email you're writing, summarize a page or YouTube video, find a better price, or let it click through an app for you. Hire AI teammates and save hours on routine tasks, like drafting emails or sorting your Downloads folder. Use the ChatGPT or Claude plan you already pay for, 500+ models or local AI. Desktop pet included. One-time purchase. | **25% OFF** lifetime licenses with code **BF2026** | 2026-12-01 |
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
+| 🍳 | [Cooked](https://www.cookeddev.lol/pricing) | Paste a job link and Cooked tailors your CV to it in under a minute: ATS score, missing keywords, a rewritten CV and a matching cover letter. Only uses experience already on your CV. Free plan: 3 CVs a day. | **51% OFF** Lifetime Pro: one payment of $59 instead of $119.88/yr. First 20 buyers only (no code needed) | 2026-12-02 |
 
 
 
