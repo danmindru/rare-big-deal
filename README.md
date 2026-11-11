@@ -240,6 +240,7 @@ Free & open-source.
 | 🖼️ | [FloatViewer](https://apps.apple.com/app/id6768883420) | Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Lifetime license. Free app; code unlocks Lifetime. | **50% OFF** Lifetime ($29.99 → $14.99) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 📸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license with code BLACKFRIDAY ($39 → $19.50) | 2026-11-30 |
+| 📧 | [Mailflare](https://mailflare.co) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
 
 
 ### Design Tools
