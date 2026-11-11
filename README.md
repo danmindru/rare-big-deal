@@ -202,6 +202,7 @@ Free & open-source.
 | 🧭 | [Atelier](https://appsbymo.app/atelier/) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🔋 | [Vigil](https://appsbymo.app/vigil/) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🪣 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad and web. Browse, upload, preview and share files across AWS S3, Cloudflare R2, Backblaze B2, DigitalOcean Spaces and other S3-compatible storage. | **40% OFF** lifetime licenses with code **BF2026** ($39 → $23.40, one-time purchase) | 2026-12-01 |
+| 🌐 | [WebDAV Lite](https://apps.apple.com/app/id6779282964) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**. Limited to 5,000 redemptions. Starts on 2026-11-26 | 2026-12-01 |
 
 ### Productivity
 
@@ -229,6 +230,15 @@ Free & open-source.
 | 🎭 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
 | 🔢 | [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
 | 🎙️ | [MuteDeck](https://mutedeck.com) | One-press mute, camera, screen share and recording controls across Zoom, Teams, Google Meet, Webex, Slack and more, with live status on your Stream Deck or screen. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
+| 🚢 | [ExtraDock](https://extradock.app) | Create unlimited floating docks and place them anywhere on any screen. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🔀 | [DockFlow](https://dockflowapp.io) | Save Dock presets and switch between them instantly. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🧊 | [CoolDock](https://cooldock.app) | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🔖 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| ⌨️ | [Keymap](https://keymap.app) | Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. | **50% OFF** ($6.99 → $3.49) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
+| 📸 | [PicXure](https://picxure.app) | Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. | **50% OFF** ($18.99 → $9.49) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
+| 🖼️ | [FloatViewer](https://apps.apple.com/app/id6768883420) | Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Lifetime license. Free app; code unlocks Lifetime. | **50% OFF** Lifetime ($29.99 → $14.99) with code **BF2026**. Starts on 2026-11-26 | 2026-12-01 |
+| ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| 📸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license with code BLACKFRIDAY ($39 → $19.50) | 2026-11-30 |
 
 
 ### Design Tools
@@ -242,6 +252,7 @@ Free & open-source.
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 📚 | [Bindrik](https://bindrik.com/en) | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-11-30 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| 🎨 | [PixelColor](https://apps.apple.com/app/id6763493579) | Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. | **43% OFF** ($6.99 → $3.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### Writing & Notes
@@ -261,6 +272,10 @@ Free & open-source.
 | 📥 | [Chute](https://appsbymo.app/chute/) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 😀 | [Emojist](https://appsbymo.app/emojist/) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🖱️ | [MouseUp](https://mouseup.app) | Make your external mouse feel right on Mac: smooth scrolling, click debounce, zoom with the wheel and custom buttons. | **50% OFF** lifetime license with code **MMFBF2026** ($7.99 → $4.00, one-time purchase) | 2026-12-05 |
+| 🎛️ | [ExtraBar](https://extrabar.app) | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**. Starts on 2026-11-12 | 2026-12-01 |
+| 🖱️ | [VibeCursor](https://apps.apple.com/app/id6763036198) | Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. | **33% OFF** ($2.99 → $1.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
+| ⏳ | [DropToDo](https://apps.apple.com/app/id6762462645) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
+| 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -302,6 +317,7 @@ Free & open-source.
 | 🗓️ | [Margin](https://appsbymo.app/margin/) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
+| ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -331,6 +347,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -398,6 +415,7 @@ Free & open-source.
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 🪟 | [SteveShines](https://steveshines.com/offers/black-friday/) | Windows apps from one independent developer, on Microsoft Store: VidFetch and Direct Link Downloader save supported videos and M3U8/HLS streams; QuickMedia, Video Converter and FixVideo convert, compress and repair video; Tapescript turns speech into text and subtitles offline. | **Up to 50% OFF Pro Lifetime** on Microsoft Store, applied automatically, no code (US prices): VidFetch ~~$25.99~~ **$12.99**, Direct Link Downloader ~~$25.99~~ **$15.59**, QuickMedia ~~$24.99~~ **$14.99**, Tapescript ~~$19.99~~ **$11.99**, Video Converter ~~$19.99~~ **$11.99**, FixVideo ~~$19.99~~ **$13.39** (FixVideo through Nov 30) | 2026-11-29 |
+| 🎬 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com) | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% OFF Lifetime License with code BLACKFRIDAY26 | 2026-12-01 |
 
 
 ### Marketing
@@ -538,6 +556,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔑 | [Rindstack](https://kendeepp.gumroad.com/l/pdaeoo) | Small, readable Next.js 15 starter for selling licensed software: Lemon Squeezy checkout, signature-verified webhooks, license keys with per-plan device limits, and English/Chinese/Japanese UI. | **30% OFF** with code **BF30** (Personal $99 → $69.30). Starts on 2026-11-24 | 2026-12-01 |
+| 🗂️ | [Dirstarter](https://dirstarter.com) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | **50% OFF** lifetime license: Basic $75 instead of $150, Pro $100 instead of $200, with code **BF2026** | 2026-12-01 |
 
 
 ### Astro
@@ -652,6 +671,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧬 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 
 
 ### Web Apps
@@ -682,6 +702,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
