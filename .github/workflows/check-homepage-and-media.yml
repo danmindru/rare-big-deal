@@ -1,0 +1,31 @@
+name: Homepage packs and official media
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: shipixen/package-lock.json
+
+      - name: Install dependencies
+        working-directory: shipixen
+        run: npm ci
+
+      - name: Official banners and homepage carousels
+        working-directory: shipixen
+        run: |
+          node ./scripts/check-official-media.js
+          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js
