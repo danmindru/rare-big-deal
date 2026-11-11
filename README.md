@@ -278,6 +278,7 @@ Free & open-source.
 | 🖱️ | [VibeCursor](https://apps.apple.com/app/id6763036198) | Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. | **33% OFF** ($2.99 → $1.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 | ⏳ | [DropToDo](https://apps.apple.com/app/id6762462645) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
+| 🖱️ | [WheelClick](https://wheelclick.app/?ref=rarebigdeal) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
