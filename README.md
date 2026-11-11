@@ -106,6 +106,7 @@ Free & open-source.
 | 🗄️ | [1bench](https://1bench.dev/black-friday) | Desktop GUI for 25+ databases: PostgreSQL, MySQL, Redis, ClickHouse, MongoDB, Qdrant and more. Works on Mac, Windows and Linux. | **50% OFF** the Solo lifetime licence ($199 → $99) with code **FCBF26**. Starts on 2026-11-20 | 2026-12-01 |
 | 🔀 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**, direct purchase only. Starts on 2026-11-20 | 2026-12-01 |
 | 🧑‍💻 | [HackUtilities](https://hackutilities.com) | Desktop workspace for developers who build with AI coding agents: dev servers, terminals and Claude Code, Codex, Gemini CLI or OpenCode sessions side by side, plus 46 developer tools that mostly work offline. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
+| 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -208,6 +209,7 @@ Free & open-source.
 | 🔋 | [Vigil](https://appsbymo.app/vigil/) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🪣 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad and web. Browse, upload, preview and share files across AWS S3, Cloudflare R2, Backblaze B2, DigitalOcean Spaces and other S3-compatible storage. | **40% OFF** lifetime licenses with code **BF2026** ($39 → $23.40, one-time purchase) | 2026-12-01 |
 | 🌐 | [WebDAV Lite](https://apps.apple.com/app/id6779282964) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**. Limited to 5,000 redemptions. Starts on 2026-11-26 | 2026-12-01 |
+| 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 
 ### Productivity
 
@@ -286,6 +288,7 @@ Free & open-source.
 | ⏳ | [DropToDo](https://apps.apple.com/app/id6762462645) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 | 🖱️ | [WheelClick](https://wheelclick.app/) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
+| 🧹 | [SiftMac](https://siftmac.com/pricing) | Mac disk cleaner that says, for every item, whether it comes back before deleting it. Anything that can't rebuild waits 7 days on an Undo Shelf. One-time purchase for 2 Macs. | **25% OFF** the Founding licence ($12 → $9, one-time purchase), no code needed. Starts on 2026-11-27 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -469,6 +472,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧲 | [LeadMerlin](https://leadmerlin.com/black-friday/) | Local business leads for AI agents and automations: search Google Maps by niche and city, get owner names, checked emails, phone line types and the tech each site runs, via API, agent skill or dashboard. | **40% OFF** your first payment with code **BF2026**, so the whole first year on yearly plans: Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr. Monthly plans: 40% off the first month | 2026-12-02 |
 | 💸 | [Evendeals](https://evendeals.com/) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** | 2026-11-30 |
+| 🔎 | [LinkFinder AI](https://linkfinderai.com/lifetime-deal) | Find emails, phone numbers and LinkedIn data from a LinkedIn URL, a name or a company, one at a time or a whole CSV / Google Sheet, in the app, by API or from Claude and ChatGPT (MCP). | **Lifetime deal instead of a monthly plan**: $149 once for 2,500 credits every month (first 50 seats, then $179), or $299 once for 7,500 credits every month. No code needed | 2026-11-30 |
 
 ### Email Marketing
 
