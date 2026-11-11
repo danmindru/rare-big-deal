@@ -469,6 +469,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧲 | [LeadMerlin](https://leadmerlin.com/black-friday/) | Local business leads for AI agents and automations: search Google Maps by niche and city, get owner names, checked emails, phone line types and the tech each site runs, via API, agent skill or dashboard. | **40% OFF** your first payment with code **BF2026**, so the whole first year on yearly plans: Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr. Monthly plans: 40% off the first month | 2026-12-02 |
 | 💸 | [Evendeals](https://evendeals.com/) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** | 2026-11-30 |
+| 🔎 | [LinkFinder AI](https://linkfinderai.com/lifetime-deal?utm_source=rarebigdeal&utm_campaign=bf2026) | Find emails, phone numbers and LinkedIn data from a LinkedIn URL, a name or a company, one at a time or a whole CSV / Google Sheet, in the app, by API or from Claude and ChatGPT (MCP). | **Lifetime deal instead of a monthly plan**: $149 once for 2,500 credits every month, or $299 once for 7,500 credits every month. No code needed | 2026-11-30 |
 
 ### Email Marketing
 
