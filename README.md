@@ -105,6 +105,7 @@ Free & open-source.
 | 🗄️ | [DynoTable](https://dynotable.com) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** Individual for 12 months: $54 instead of $108 for the first year, or $6/mo instead of $12, with code **BF50** | 2026-12-03 |
 | 🗄️ | [1bench](https://1bench.dev/black-friday) | Desktop GUI for 25+ databases: PostgreSQL, MySQL, Redis, ClickHouse, MongoDB, Qdrant and more. Works on Mac, Windows and Linux. | **50% OFF** the Solo lifetime licence ($199 → $99) with code **FCBF26**. Starts on 2026-11-20 | 2026-12-01 |
 | 🔀 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**, direct purchase only. Starts on 2026-11-20 | 2026-12-01 |
+| 🧑‍💻 | [HackUtilities](https://hackutilities.com) | Desktop workspace for developers who build with AI coding agents: dev servers, terminals and Claude Code, Codex, Gemini CLI or OpenCode sessions side by side, plus 46 developer tools that mostly work offline. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 
 
 ### APIs, Tools & SaaS
@@ -167,6 +168,7 @@ Free & open-source.
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
 | 🍳 | [Cooked](https://www.cookeddev.lol/pricing) | Paste a job link and Cooked tailors your CV to it in under a minute: ATS score, missing keywords, a rewritten CV and a matching cover letter. Only uses experience already on your CV. Free plan: 3 CVs a day. | **51% OFF** Lifetime Pro: one payment of $59 instead of $119.88/yr. First 20 buyers only (no code needed) | 2026-12-02 |
 | ✍️ | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content, with 5,000+ tools that verify before they generate. | **50% OFF** with code **BF2026** | 2026-12-15 |
+| 📝 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your own device. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 
 
 
@@ -226,6 +228,7 @@ Free & open-source.
 | 🖊 | [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple, one-time purchase. | **30% OFF** ($14 → $9.80) with code **PRESENTIFY30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
 | 🎭 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
 | 🔢 | [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website. Starts on 2026-11-18 | 2026-12-02 |
+| 🎙️ | [MuteDeck](https://mutedeck.com) | One-press mute, camera, screen share and recording controls across Zoom, Teams, Google Meet, Webex, Slack and more, with live status on your Stream Deck or screen. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 
 
 ### Design Tools
@@ -407,6 +410,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🤝 | [Portico](https://portico.run/lifetime) | Client onboarding for small firms. One link walks a new client through intake and payment, then leaves them a private portal with everything they signed. | **25% OFF** lifetime plans, no code needed: Solo $37, Practice $89, Firm $172, one payment. Starts on 2026-11-23 | 2026-12-01 |
+| 📊 | [WhatPulse](https://whatpulse.org) | See how you use your computer: keystrokes, mouse clicks, app usage and bandwidth as heatmaps and stats. Tracks activity, never content. Windows, macOS and Linux. | **35% OFF** the annual plan with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 
 
 [⬆️ All categories](#table-of-contents)
