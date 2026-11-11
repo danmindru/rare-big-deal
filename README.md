@@ -106,6 +106,7 @@ Free & open-source.
 | 🗄️ | [1bench](https://1bench.dev/black-friday) | Desktop GUI for 25+ databases: PostgreSQL, MySQL, Redis, ClickHouse, MongoDB, Qdrant and more. Works on Mac, Windows and Linux. | **50% OFF** the Solo lifetime licence ($199 → $99) with code **FCBF26**. Starts on 2026-11-20 | 2026-12-01 |
 | 🔀 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**, direct purchase only. Starts on 2026-11-20 | 2026-12-01 |
 | 🧑‍💻 | [HackUtilities](https://hackutilities.com) | Desktop workspace for developers who build with AI coding agents: dev servers, terminals and Claude Code, Codex, Gemini CLI or OpenCode sessions side by side, plus 46 developer tools that mostly work offline. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
+| 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. Free and open source, with a paid Pro plan. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -208,6 +209,7 @@ Free & open-source.
 | 🔋 | [Vigil](https://appsbymo.app/vigil/) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🪣 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad and web. Browse, upload, preview and share files across AWS S3, Cloudflare R2, Backblaze B2, DigitalOcean Spaces and other S3-compatible storage. | **40% OFF** lifetime licenses with code **BF2026** ($39 → $23.40, one-time purchase) | 2026-12-01 |
 | 🌐 | [WebDAV Lite](https://apps.apple.com/app/id6779282964) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**. Limited to 5,000 redemptions. Starts on 2026-11-26 | 2026-12-01 |
+| 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. Free and open source, with a paid Pro plan. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 
 ### Productivity
 
