@@ -208,6 +208,7 @@ Free & open-source.
 | 🙂 | [Mo](https://appsbymo.app/mo/) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🩺 | [What Happened](https://appsbymo.app/whathappened/) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🧰 | [OneMacApp](https://onemacapp.com) | 43 native Mac tools for video, audio, images and PDFs in one app. Private, on-device, one shortcut away. | **60% OFF** all plans, one-time purchase: 1 Mac $11.60 instead of $29, 2 Macs $19.60 instead of $49, 3 Macs $27.60 instead of $69 (no code needed) |  |
+| 📧 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
 
 
 ### Design Tools
