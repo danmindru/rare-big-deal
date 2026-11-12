@@ -140,6 +140,8 @@ Free & open-source.
 | 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) |  |
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 | 🧭 | [Start Page HQ](https://startpagehq.com/) | Turn any browser's new tab into a personal dashboard with 63+ widgets: notes, tasks, RSS, calendar, weather, AI and dev tools, synced across Chrome, Firefox, Safari, Edge and every device. | **50% OFF** Premium, no code needed: $2/mo instead of $4, $12/yr instead of $24 (half price kept for good), or $24 lifetime instead of $48 | 2026-11-30 |
+| ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | **51% OFF** one-time license: $39 → $19, including 5 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
+| 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | **69% OFF** one-time license: $29 → $9, including 3 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 
 
 ### Productivity & AI
