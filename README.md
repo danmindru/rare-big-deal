@@ -266,6 +266,8 @@ Free & open-source.
 | 🎭 | [Stage View 2](https://noteifyapp.com/stage-view/) | Preview every window in a Stage Manager group, then activate, minimize or close it. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $7.99 → $5.59, Lifetime $19.99 → $13.99, one-time purchase | 2026-11-30 |
 | 🔎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Every open tab from Safari, Chrome, Brave and Opera in one searchable list. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
+| 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
+| 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
 
 
 ### Design Tools
