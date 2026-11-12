@@ -579,6 +579,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔑 | [Rindstack](https://kendeepp.gumroad.com/l/pdaeoo) | Small, readable Next.js 15 starter for selling licensed software: Lemon Squeezy checkout, signature-verified webhooks, license keys with per-plan device limits, and English/Chinese/Japanese UI. | **30% OFF** with code **BF30** (Personal $99 → $69.30). Starts on 2026-11-24 | 2026-12-01 |
+| 🗂️ | [Dirstarter](https://dirstarter.com) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | **50% OFF** lifetime license: Basic $75 instead of $150, Pro $100 instead of $200, with code **BF2026** (applied automatically on the site) | 2026-12-01 |
 
 
 ### Astro
