@@ -68,7 +68,6 @@ export const footerLinks: Array<{
       { href: '/categories/developer-tools', title: 'All Categories' },
       { href: '/handpicked-deals', title: 'Staff Picks' },
       { href: '/most-popular', title: 'Most Popular' },
-      { href: '/leaderboard', title: 'Leaderboard' },
       { href: '/all-deals', title: 'All Deals' },
       { href: '/all-apps', title: 'All Apps' },
       {
