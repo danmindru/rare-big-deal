@@ -204,7 +204,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-
+| ✈️ | [Let's Trip](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | **50% OFF** Premium: $5/month (was $10) or $50/year (was $100). | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
