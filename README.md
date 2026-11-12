@@ -131,6 +131,7 @@ Free & open-source.
 |  | [Kinsta](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans (new customers only) | 2026-12-01 |
 | 🌄 | [Swiper Studio](https://studio.swiperjs.com/) | No-code visual builder for Swiper.js sliders, carousels and galleries with templates and premium effects. Export clean React, Vue, Next.js, HTML or Webflow code. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48 (sale price kept on renewal), or $48 lifetime instead of $96 | 2026-11-30 |
 | 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing) | App Store intelligence and ASO for indie developers: keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server for Claude and Cursor. | **Lifetime Pro for $89**, one payment instead of $69.99/year, no code needed (shown on the pricing page) | 2026-11-30 |
+| 🤖 | [Wovo](https://wovo.one/?ref=rarebigdeal2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
 
 
 ### Browser Extensions
@@ -165,6 +166,7 @@ Free & open-source.
 | 🛠️ | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026** | 2026-12-02 |
 | 🤖 | [Aymo AI](https://aymo.ai) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **30% OFF** the Premium yearly plan with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🚀 | [Meku](https://meku.dev) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
+| 🤖 | [Wovo](https://wovo.one/?ref=rarebigdeal2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
 
 
 ### Productivity
