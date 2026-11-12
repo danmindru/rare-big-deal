@@ -25,8 +25,11 @@ module.exports = {
       ogImage: 'public/static/images/overrides/saventify/og-image.png',
     },
     // Official 192px Sip icon. The 2024 archive still serves the older 72px file.
+    // The live banner is the reviewed product-site screenshot. The product path
+    // is pinned by the archive, so a fetch would replace it with the icon card.
     sip: {
       logo: 'public/static/images/overrides/sip/logo.png',
+      ogImage: 'public/static/images/overrides/sip/og-image.png',
     },
     // noteifyapp.com serves one MacPlus favicon for every app, so each logo is that app's own icon.
     contextclip: {
@@ -94,6 +97,11 @@ module.exports = {
     roomtape: {
       logo: 'public/static/images/overrides/roomtape/logo.png',
       ogImage: 'public/static/images/overrides/roomtape/og-image.png',
+    },
+    // The deal page is a Cloudflare challenge, and the apple-touch icon fetch
+    // failed, which left a 48px favicon. Keep the reviewed 180px icon.
+    voksha: {
+      logo: 'public/static/images/overrides/voksha/logo.png',
     },
   },
 };
