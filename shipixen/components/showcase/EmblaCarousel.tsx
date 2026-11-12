@@ -11,6 +11,7 @@ import { useAutoplayProgress } from '@/components/showcase/EmblaCarouselAutoplay
 import clsx from 'clsx';
 import ReactMarkdown from 'react-markdown';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
+import { dealCardText } from '@/lib/deal-card-text';
 import { cn } from '@/lib/utils';
 import {
   Carousel,
@@ -177,7 +178,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                       )}
                       disallowedElements={['a']}
                     >
-                      {app.deal}
+                      {dealCardText(app.deal)}
                     </ReactMarkdown>
                   </div>
                 </Link>

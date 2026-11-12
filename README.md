@@ -145,6 +145,7 @@ Free & open-source.
 | 🧭 | [Start Page HQ](https://startpagehq.com/) | Turn any browser's new tab into a personal dashboard with 63+ widgets: notes, tasks, RSS, calendar, weather, AI and dev tools, synced across Chrome, Firefox, Safari, Edge and every device. | **50% OFF** Premium, no code needed: $2/mo instead of $4, $12/yr instead of $24 (half price kept for good), or $24 lifetime instead of $48 | 2026-11-30 |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | **51% OFF** one-time license: $39 → $19, including 5 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 | 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | **69% OFF** one-time license: $29 → $9, including 3 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
+| 🔒 | [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that blurs emails, API keys and customer data on any web page before you screen share or record. Detection runs locally. | **40% OFF** the lifetime license with code **BF2026** | 2026-12-02 |
 
 
 ### Productivity & AI
@@ -181,6 +182,8 @@ Free & open-source.
 | 📝 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your own device. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 | 💬 | [Vinaa](https://www.vinaa.ai) | Native Mac app for chatting with cloud and local AI models, with projects, folders, MCP tools and local storage. | **Up to 45% OFF** lifetime licenses: 1 Mac $30 instead of $40, 2 Macs $39 instead of $70, 3 Macs $55 instead of $100 (no code needed) | 2026-11-30 |
 | ✍️ | [Orwellix](https://orwellix.com/lifetime-deal) | AI writing editor: an agent edits your whole document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in the same document. | **Lifetime plan**: one payment of $249 instead of $468/year for Premium, with more AI credits, grammar characters and plagiarism words than Premium every month (no code needed, only 300 deals) | 2026-12-31 |
+| ✍️ | [Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** with code **BLACKFRIDAY2026**: monthly ~~$20~~ **$10** for the first month, or annual ~~$108~~ **$54** for the first year (USD, before tax). First-time paying customers only; renewals at normal price. Ends 4 December 2026, 23:59 Europe/Warsaw. | 2026-12-04 |
+| ✍️ | [RewriteBar](https://rewritebar.com/black-friday) | Mac menu bar app that rewrites selected text with AI in any app: fix grammar, adjust tone, translate and summarize. Works with built-in AI or your own API key. | **50% OFF** with code **BF2026**, applied automatically on the Black Friday page: Standard lifetime license ~~$29~~ $14.50, one-time purchase | 2026-12-03 |
 
 
 
@@ -266,6 +269,8 @@ Free & open-source.
 | 🎭 | [Stage View 2](https://noteifyapp.com/stage-view/) | Preview every window in a Stage Manager group, then activate, minimize or close it. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $7.99 → $5.59, Lifetime $19.99 → $13.99, one-time purchase | 2026-11-30 |
 | 🔎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Every open tab from Safari, Chrome, Brave and Opera in one searchable list. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
+| 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
+| 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
 
 
 ### Design Tools
@@ -280,7 +285,7 @@ Free & open-source.
 | 📚 | [Bindrik](https://bindrik.com/en) | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-11-30 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 🎨 | [PixelColor](https://apps.apple.com/app/id6763493579) | Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. | **43% OFF** ($6.99 → $3.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
-| 💧 | [Sip](https://sipapp.io) | Modern color picker for Mac: collect, organize, edit and share colors and palettes with your team. | **50% OFF** ($29.99 per seat, 1 year of updates) with code **BLACKFRIDAY26** on Nov 27–29 ([Black Friday page](https://sipapp.io/blackfriday/)) and code **CYBERMONDAY26** on Nov 30–Dec 2 ([Cyber Monday page](https://sipapp.io/cybermonday/)). Starts on 2026-11-27 | 2026-12-02 |
+| 💧 | [Sip](https://sipapp.io) | Modern color picker for Mac: collect, organize, edit and share colors and palettes with your team. | **50% OFF** ($29.99 per seat, 1 year of updates) with code **BLACKFRIDAY26** on Nov 27–29 and code **CYBERMONDAY26** on Nov 30–Dec 2. Starts on 2026-11-27 | 2026-12-02 |
 
 
 ### Writing & Notes
@@ -292,6 +297,7 @@ Free & open-source.
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 🌳 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Text outliner for nonlinear thinking: the same notes as a list or as a sideways tree. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $29.99 → $20.99, one-time purchase | 2026-11-30 |
 | ✍️ | [Plus AI](https://noteifyapp.com/plus-ai/) | AI text assistant: compose emails, improve, summarize and translate text in any app. Works with your own OpenAI API key. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: Lifetime $9.99 → $6.99, one-time purchase | 2026-11-30 |
+| ✍️ | [RewriteBar](https://rewritebar.com/black-friday) | Mac menu bar app that rewrites selected text with AI in any app: fix grammar, adjust tone, translate and summarize. Works with built-in AI or your own API key. | **50% OFF** with code **BF2026**, applied automatically on the Black Friday page: Standard lifetime license ~~$29~~ $14.50, one-time purchase | 2026-12-03 |
 
 
 ### Menu Bar & More
@@ -400,6 +406,7 @@ Free & open-source.
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% OFF** Business plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🎞️ | [PaneFlow](https://paneflow.com/) | Design animated slideshows and presentations in minutes, no code. Add 3D device mockups and motion, then export to code, video or PDF and embed anywhere. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48, or $48 lifetime instead of $96 | 2026-11-30 |
+| ✨ | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | **50% OFF** all mockup bundles and the first billing period of monthly and annual plans, no code needed | 2026-12-01 |
 
 
 ### AI Design Tools

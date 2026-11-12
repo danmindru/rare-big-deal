@@ -31,7 +31,19 @@ module.exports = {
       logo: 'public/static/images/overrides/sip/logo.png',
       ogImage: 'public/static/images/overrides/sip/og-image.png',
     },
+    // rewritebar.com/black-friday publishes no og:image. The banner is a screenshot of that page.
+    rewritebar: {
+      ogImage: 'public/static/images/overrides/rewritebar/og-image.png',
+    },
     // noteifyapp.com serves one MacPlus favicon for every app, so each logo is that app's own icon.
+    // Quick Exposé 3's published share image is the app icon. The banner is a screenshot of the product hero.
+    'quick-expos-3': {
+      logo: 'public/static/images/overrides/quick-expos-3/logo.png',
+      ogImage: 'public/static/images/overrides/quick-expos-3/og-image.png',
+    },
+    'classic-commander': {
+      logo: 'public/static/images/overrides/classic-commander/logo.png',
+    },
     contextclip: {
       logo: 'public/static/images/overrides/contextclip/logo.png',
     },
