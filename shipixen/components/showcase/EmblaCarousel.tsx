@@ -26,6 +26,12 @@ import { withOutboundRef } from '@/lib/outbound-ref';
 
 const fallbackImage = '/static/images/fallback.png';
 
+const dealMarkdownComponents = {
+  p: ({ children }: { children?: React.ReactNode }) => (
+    <p className="line-clamp-2">{children}</p>
+  ),
+};
+
 type PropType = {
   apps: CoreContent<Blog>[];
   options?: EmblaOptionsType;
@@ -94,6 +100,7 @@ const EmblaCarousel: React.FC<PropType> = ({
         <CarouselContent className="-ml-0">
           {apps.map((app, index) => {
             const tintColor = hashStringToColor(app.title);
+            const dealText = dealCardText(app.deal);
 
             return (
               <CarouselItem
@@ -171,15 +178,20 @@ const EmblaCarousel: React.FC<PropType> = ({
                       </h2>
                     </div>
 
-                    <ReactMarkdown
+                    <div
+                      title={dealText}
                       className={cn(
-                        'text-sm mt-4 transition-opacity delay-500 ease-in duration-700 text-green-500',
+                        'mt-4 w-fit max-w-lg px-6 text-center text-sm text-green-500 transition-opacity delay-500 ease-in duration-700',
                         currentIndex === index ? 'opacity-100' : 'opacity-0',
                       )}
-                      disallowedElements={['a']}
                     >
-                      {dealCardText(app.deal)}
-                    </ReactMarkdown>
+                      <ReactMarkdown
+                        disallowedElements={['a']}
+                        components={dealMarkdownComponents}
+                      >
+                        {dealText}
+                      </ReactMarkdown>
+                    </div>
                   </div>
                 </Link>
               </CarouselItem>
