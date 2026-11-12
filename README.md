@@ -125,6 +125,7 @@ Free & open-source.
 | ✍️ | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature/) | Email signature management for Google Workspace and Microsoft 365 teams. | **50% off** Teams: 2 years for the price of 1, no code needed. $180 for 24 months on the 1–5 user plan ($15/month billed annually); larger teams pay by seat band | 2026-12-04 |
 | 🛡️ | [Scanify](https://scanify.to) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50), Nov 10–Dec 9, 2026 | 2026-12-09 |
 | 🔐 | [SSOJet](https://ssojet.com/blog/black-friday-deals) | Single sign-on for B2B apps: add SAML, OIDC and SCIM without rebuilding your auth. | **20% OFF** with code **BF2026** | 2026-12-15 |
+| 🔑 | [MojoAuth](https://mojoauth.com/blog/black-friday-deals) | Passwordless login for apps. | **20% OFF** with code **BF2026** | 2026-12-15 |
 | 📝 | [FormBold](https://formbold.com) | Powerful form backend to receive submissions via Email, Slack, Notion, and more, no coding required. Simplify form handling with an API-powered backend. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | ⚡ | [Static.run](https://static.run) | Blazing-fast static site hosting platform optimized for modern web projects with analytics and one-click deployment. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 | 2026-12-31 |
@@ -188,6 +189,7 @@ Free & open-source.
 | 🎬 | [ClipUGC](https://clipugc.com/black-friday) | Make TikTok style UGC videos for your app with AI influencers. Paste your App Store or Play link, add a screen recording, get vertical videos with hooks and captions. Same face in every video. | **50% OFF any plan for 2 months** with code **BLACKFRIDAY** | 2026-12-06 |
 | 🎙️ | [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals) | AI voiceover for video and audio, with 700+ voices. Commercial rights on paid plans. | **35% OFF** with code **BF2026** | 2026-12-15 |
 | 📞 | [Voksha](https://voksha.com/blog/black-friday-deals) | AI receptionist that answers your business calls, takes a message, and can book appointments. | **30% OFF** with code **FESTIVE30**, valid for 3 months from Nov 5, 2026 |  |
+| 💬 | [Fidiora](https://fidiora.com/) | AI customer support that resolves customer questions, captures leads and routes the rest to your team. | **25% OFF** with code **FID25OFF** | 2026-12-31 |
 | 🤖 | [Nivon](https://nivon.ai) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | **40% OFF** all paid plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🧩 | [MindPal](https://mindpal.io/pricing) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock. Publish them on a link, an embed or your own domain. No code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026**, applied at checkout. Billed yearly: Pro ~~$39~~ $16/mo, Advanced ~~$149~~ $60/mo, Ultra ~~$374~~ $150/mo | 2026-12-11 |
 
@@ -485,6 +487,7 @@ Free & open-source.
 | 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
 | 📨 | [Sequenzy](https://sequenzy.com/black-friday) | Email marketing for SaaS and online stores. Newsletters, automated sequences and transactional email from one account, with Stripe and Shopify integrations and unlimited contacts on every plan. | **30% OFF** any annual plan with code **BLACKFRIDAY** (15,000 emails/month $205 → $143.50/year) |  |
 | ✉️ | [Mailazy](https://mailazy.com/blog/black-friday-deals) | Behavioral emails and newsletters you write in plain English, sent through your own SMTP provider. | **30% OFF** with code **THANKS30**, valid for 3 months from Nov 5, 2026 |  |
+| 📅 | [Social9](https://social9.com/blog/black-friday-deals) | Social media scheduling. | **30% OFF** with code **BF2026** | 2026-12-15 |
 
 
 ### Content Creation
