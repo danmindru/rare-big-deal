@@ -80,7 +80,8 @@ describe('homepage showcase dedupe', () => {
     ]);
     assert.equal(visible[0].name, 'Best Apps');
     assert.equal(visible[0].placement, 'top');
-    assert.deepEqual(visible[0].apps, ['Page AI', 'Saventify']);
+    assert.deepEqual(visible[0].apps, ['Page AI', 'Saventify', 'Sip']);
+    assert.deepEqual(visible[0].apps.slice(0, 2), ['Page AI', 'Saventify']);
     const seen = new Set();
     for (const pack of visible) {
       for (const app of pack.apps) {

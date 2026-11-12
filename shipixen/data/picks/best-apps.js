@@ -1,5 +1,5 @@
 module.exports = {
   name: 'Best Apps',
   description: "Deals like these you don't skip on. Apps you love, discounted.",
-  apps: ['Page AI', 'Saventify'],
+  apps: ['Page AI', 'Saventify', 'Sip'],
 };
