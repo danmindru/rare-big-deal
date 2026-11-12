@@ -5,6 +5,7 @@ import { Blog } from 'shipixen-contentlayer/generated';
 import Image from '@/components/shared/Image';
 import { InteractiveStatCard } from '@/components/shared/InteractiveStatCard';
 import { StatCardButtonHoverComponent } from '@/components/shared/StatCardButtonHoverComponent';
+import { dealCardText } from '@/lib/deal-card-text';
 import { cn } from '@/lib/utils';
 import ReactMarkdown from 'react-markdown';
 import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
@@ -98,7 +99,7 @@ export function PostItem({
 
   const dealText = useMemo(() => {
     if (!deal) return '';
-    return isExpired ? `(expired)` : deal;
+    return isExpired ? `(expired)` : dealCardText(deal);
   }, [deal, isExpired]);
 
   return (
