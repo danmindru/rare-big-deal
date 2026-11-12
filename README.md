@@ -130,6 +130,7 @@ Free & open-source.
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 | 2026-12-31 |
 |  | [Kinsta](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans (new customers only) | 2026-12-01 |
 | 🌄 | [Swiper Studio](https://studio.swiperjs.com/) | No-code visual builder for Swiper.js sliders, carousels and galleries with templates and premium effects. Export clean React, Vue, Next.js, HTML or Webflow code. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48 (sale price kept on renewal), or $48 lifetime instead of $96 | 2026-11-30 |
+| 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing) | App Store intelligence and ASO for indie developers: keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server for Claude and Cursor. | **Lifetime Pro for $89**, one payment instead of $69.99/year, no code needed (shown on the pricing page) | 2026-11-30 |
 
 
 ### Browser Extensions
@@ -140,6 +141,8 @@ Free & open-source.
 | 🛠️ | [SuperDev Pro](https://superdevpro.com) | 50+ web developer tools in one Chrome & Firefox extension: inspect CSS, edit text, swap fonts, pick colors, extract images and test responsive layouts. | **60% OFF** Lifetime: $31.60 instead of $79 (no code needed) |  |
 | 🎯 | [Picker.Design](https://picker.design) | Chrome extension that extracts clean HTML + CSS from any element, clones full pages into one file and turns any site's design system into an AI-ready prompt. | **80% OFF** Lifetime license: $29 instead of $149 (no code needed, limited spots) |  |
 | 🧭 | [Start Page HQ](https://startpagehq.com/) | Turn any browser's new tab into a personal dashboard with 63+ widgets: notes, tasks, RSS, calendar, weather, AI and dev tools, synced across Chrome, Firefox, Safari, Edge and every device. | **50% OFF** Premium, no code needed: $2/mo instead of $4, $12/yr instead of $24 (half price kept for good), or $24 lifetime instead of $48 | 2026-11-30 |
+| ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | **51% OFF** one-time license: $39 → $19, including 5 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
+| 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | **69% OFF** one-time license: $29 → $9, including 3 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 
 
 ### Productivity & AI
