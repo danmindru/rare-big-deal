@@ -34,7 +34,7 @@ export default function PopularDeals() {
       <div className="flex items-baseline justify-between gap-3">
         <h2 id="popular-deals-heading" className="text-lg font-bold">
           <Link href="/leaderboard" className="hover:text-primary-500">
-            Most popular this week
+            Most viewed deals
           </Link>
         </h2>
         <Link
