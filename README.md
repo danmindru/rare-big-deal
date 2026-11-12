@@ -181,6 +181,7 @@ Free & open-source.
 | 📝 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your own device. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 | 💬 | [Vinaa](https://www.vinaa.ai) | Native Mac app for chatting with cloud and local AI models, with projects, folders, MCP tools and local storage. | **Up to 45% OFF** lifetime licenses: 1 Mac $30 instead of $40, 2 Macs $39 instead of $70, 3 Macs $55 instead of $100 (no code needed) | 2026-11-30 |
 | ✍️ | [Orwellix](https://orwellix.com/lifetime-deal) | AI writing editor: an agent edits your whole document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in the same document. | **Lifetime plan**: one payment of $249 instead of $468/year for Premium, with more AI credits, grammar characters and plagiarism words than Premium every month (no code needed, only 300 deals) | 2026-12-31 |
+| ✍️ | [Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** with code **BLACKFRIDAY2026**: monthly ~~$20~~ **$10** for the first month, or annual ~~$108~~ **$54** for the first year (USD, before tax). First-time paying customers only; renewals at normal price. No expiry. |  |
 
 
 
