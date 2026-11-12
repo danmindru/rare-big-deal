@@ -213,6 +213,7 @@ Free & open-source.
 | 🪣 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad and web. Browse, upload, preview and share files across AWS S3, Cloudflare R2, Backblaze B2, DigitalOcean Spaces and other S3-compatible storage. | **40% OFF** lifetime licenses with code **BF2026** ($39 → $23.40, one-time purchase) | 2026-12-01 |
 | 🌐 | [WebDAV Lite](https://apps.apple.com/app/id6779282964) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**. Limited to 5,000 redemptions. Starts on 2026-11-26 | 2026-12-01 |
 | 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
+| 🎯 | [ContextClip](https://noteifyapp.com/contextclip/) | Point at a control, press one shortcut, and paste the screenshot plus its accessibility structure into Claude Code, Cursor or Codex. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 
 ### Productivity
 
@@ -252,6 +253,16 @@ Free & open-source.
 | 📧 | [Mailflare](https://mailflare.co) | Self-hosted Google Workspace alternative with custom-domain email, calendar, booking, drive and AI agents, plus a native Mac app. | **40% OFF** Pro ($29 → $17.40) and Team ($249 → $149.40) lifetime licenses with code **RAREBF2026**. Starts on 2026-11-20 | 2026-12-02 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime ($79 → $39.50) with code **SIDEBARBF50** | 2026-12-07 |
+| 🪟 | [DockView 2](https://noteifyapp.com/dockview/) | Hover any Dock icon to preview every open window of that app and switch to it. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $49.99 → $34.99, one-time purchase | 2026-11-30 |
+| 🚀 | [ActiveDock 2](https://noteifyapp.com/activedock/) | Customizable Dock replacement with window previews, groups and folders, app launcher and Start menu. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $19.99 → $13.99, Lifetime $59.99 → $41.99, one-time purchase | 2026-11-30 |
+| 🗂️ | [MultiDock 2](https://noteifyapp.com/multidock/) | Extra panels for the apps, files and folders you use together. Pin them to a screen edge or float them, alongside the Dock. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $39.99 → $27.99, one-time purchase | 2026-11-30 |
+| 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
+| ⌥ | [SuperTab 7](https://noteifyapp.com/supertab/) | One panel on Option-Tab: apps, every window of every app, clipboard history, recent documents and files. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $19.99 → $13.99, Lifetime $49.99 → $34.99, one-time purchase | 2026-11-30 |
+| ⌘ | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | Switch apps and windows from the keyboard. A faster, more capable replacement for the built-in Cmd-Tab switcher. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, Lifetime $29.99 → $20.99, one-time purchase | 2026-11-30 |
+| 🎭 | [Stage View](https://noteifyapp.com/stage-view/) | Preview every window in a Stage Manager group, then activate, minimize or close it. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $7.99 → $5.59, Lifetime $19.99 → $13.99, one-time purchase | 2026-11-30 |
+| 🔎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Every open tab from Safari, Chrome, Brave and Opera in one searchable list. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $39.99 → $27.99, one-time purchase | 2026-11-30 |
+| 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
+| 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
 
 
 ### Design Tools
@@ -275,6 +286,8 @@ Free & open-source.
 | 🌼 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. No account, no subscription, no AI. | **50% OFF** one-time purchase with code **BLACKFRIDAY** | 2026-11-30 |
 | ✍️ | [Cue](https://appsbymo.app/cue/) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| 🌳 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Text outliner for nonlinear thinking: the same notes as a list or as a sideways tree. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $29.99 → $20.99, one-time purchase | 2026-11-30 |
+| ✍️ | [Plus AI](https://noteifyapp.com/plus-ai/) | AI text assistant: compose emails, improve, summarize and translate text in any app. Works with your own OpenAI API key. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: Lifetime $9.99 → $6.99, one-time purchase | 2026-11-30 |
 
 
 ### Menu Bar & More
