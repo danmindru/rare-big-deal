@@ -85,5 +85,15 @@ module.exports = {
       logo: 'public/static/images/overrides/koofr/logo.png',
       ogImage: 'public/static/images/overrides/koofr/og-image.png',
     },
+    // extensions.loopspec.com answers every fetch with a Cloudflare challenge,
+    // so the Chrome Web Store icon and the English store screenshot are the art.
+    gramcheck: {
+      logo: 'public/static/images/overrides/gramcheck/logo.png',
+      ogImage: 'public/static/images/overrides/gramcheck/og-image.png',
+    },
+    roomtape: {
+      logo: 'public/static/images/overrides/roomtape/logo.png',
+      ogImage: 'public/static/images/overrides/roomtape/og-image.png',
+    },
   },
 };
