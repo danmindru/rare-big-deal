@@ -177,6 +177,7 @@ Free & open-source.
 | ✍️ | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content, with 5,000+ tools that verify before they generate. | **50% OFF** with code **BF2026** | 2026-12-15 |
 | 📝 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your own device. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. Mac and Windows. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 | 💬 | [Vinaa](https://www.vinaa.ai) | Native Mac app for chatting with cloud and local AI models, with projects, folders, MCP tools and local storage. | **Up to 45% OFF** lifetime licenses: 1 Mac $30 instead of $40, 2 Macs $39 instead of $70, 3 Macs $55 instead of $100 (no code needed) | 2026-11-30 |
+| ✍️ | [Orwellix](https://orwellix.com/lifetime-deal?utm_source=rarebigdeal&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor: an agent edits your whole document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in the same document. | **Lifetime plan**: one payment of $249 instead of $468/year for Premium, with more AI credits, grammar characters and plagiarism words than Premium every month (no code needed, only 300 deals) | 2026-12-31 |
 
 
 
@@ -420,6 +421,7 @@ Free & open-source.
 | - | - | - | - | - |
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF** Lifetime ($29.99 → $19.99), applied automatically in the app. Starts on 2026-11-19 | 2026-12-02 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| ✍️ | [Orwellix](https://orwellix.com/lifetime-deal?utm_source=rarebigdeal&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor: an agent edits your whole document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in the same document. | **Lifetime plan**: one payment of $249 instead of $468/year for Premium, with more AI credits, grammar characters and plagiarism words than Premium every month (no code needed, only 300 deals) | 2026-12-31 |
 
 
 ### Team Project Management Software
