@@ -281,6 +281,7 @@ Free & open-source.
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 🎨 | [PixelColor](https://apps.apple.com/app/id6763493579) | Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. | **43% OFF** ($6.99 → $3.99) on the Mac App Store. No code needed. Starts on 2026-11-26 | 2026-12-01 |
 | 💧 | [Sip](https://sipapp.io) | Modern color picker for Mac: collect, organize, edit and share colors and palettes with your team. | **50% OFF** ($29.99 per seat, 1 year of updates) with code **BLACKFRIDAY26** on Nov 27–29 ([Black Friday page](https://sipapp.io/blackfriday/)) and code **CYBERMONDAY26** on Nov 30–Dec 2 ([Cyber Monday page](https://sipapp.io/cybermonday/)). Starts on 2026-11-27 | 2026-12-02 |
+| ✨ | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | **50% OFF** all bundles, monthly plans, and annual plans. Starts on 2026-11-06 | 2026-12-01 |
 
 
 ### Writing & Notes
