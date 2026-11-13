@@ -376,6 +376,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): $39.99 → $26.99 USD on iOS. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
 
 
 ### Hobby & Lifestyle
@@ -725,6 +726,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧬 | [PepFlow](https://pepflow.app) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): iOS $39.99 → $26.99 USD; Android $31.99 → $20.99 USD. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
 
 
 ### Web Apps
