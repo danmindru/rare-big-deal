@@ -204,6 +204,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎤 | [RapStar Studio](https://rapstarstudio.com/pricing) | Custom AI rap songs from names and facts: two song versions plus two 720p lyric videos with your photo. No account needed. | **30% OFF** one-time custom rap song ($9.90 → $6.93) with code **BF2026** | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -413,6 +414,8 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔤 | [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots and labels while keeping the original font and background intact. Web app, API and MCP server. | **30% OFF** non-expiring credit packs (6 edits $3 → $2.10, 40 edits $10 → $7) with code **BF2026** | 2026-12-01 |
+| 🥞 | [Unmerge](https://unmerge.app/pricing) | Separate flat images, illustrations and anime character art into movable transparent PSD and PNG layers with AI background inpainting. Web app, API and MCP server. | **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs: Starter $3.90 (45 → 60 credits), Basic $10 (130 → 175 credits), auto-applied, no code needed | 2026-12-01 |
 
 
 ### Video Tools
@@ -426,6 +429,7 @@ Free & open-source.
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 🎬 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and selling for filmmakers. Your film streams from the file you upload, with no extra re-encode. | **30% OFF** all yearly plans, kept at every renewal while you stay subscribed: Lite $69.30 instead of $99, Pro $300.30 instead of $429, Max $762.30 instead of $1,089, Studio $1,686.30 instead of $2,409 (no code needed). Starts on 2026-11-23 | 2026-11-30 |
 | ✂️ | [BlitzReels](https://blitzreels.com/black-friday) | AI clipping and scheduling for creators. Paste a long video or a YouTube link and get captioned vertical clips for TikTok, Reels and Shorts, then schedule them to your accounts. Also makes AI images and faceless videos, and works with ChatGPT and Claude. | **60% less than paying monthly** on yearly plans, no code needed: Starter $348 → $139 for the first year, Growth $948 → $379, Agency $2,388 → $949, then the normal yearly price. +90 bonus credits (about 10 clips) | 2026-12-01 |
+| 🐶 | [PugSoda](https://pugsoda.com/pricing) | Turn one photo into trending AI meme, dance and photo-studio videos in your browser. | **30% OFF** the first month on monthly plans (Starter $14 → $9.80, Creator $34 → $23.80, Studio $96 → $67.20) with code **BF2026**, plus **+25%–30% bonus credits** on top-up packs | 2026-12-01 |
 
 
 ### Social
@@ -549,6 +553,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📊 | [Fourth Feed](https://fourthfeed.com/write) | Sponsored side-by-side benchmark comparisons for AI video tools on an independent directory. | **30% OFF** maker post credit packs (1 post $19 → $13.30, 3 posts $39 → $27.30, 9 posts $99 → $69.30) with code **BF2026** | 2026-12-01 |
 
 
 ### Other
