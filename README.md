@@ -133,6 +133,7 @@ Free & open-source.
 | 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing) | App Store intelligence and ASO for indie developers: keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server for Claude and Cursor. | **Lifetime Pro for $89**, one payment instead of $69.99/year, no code needed (shown on the pricing page) | 2026-11-30 |
 | 🔑 | [MojoAuth](https://mojoauth.com/blog/black-friday-deals) | Passwordless login for consumer apps: passkeys, magic links, email/SMS/WhatsApp OTP and social login behind one API. | **20% OFF** paid plans with code **BF2026** | 2026-12-15 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
+| 🔗 | [Surfolks](https://surfolks.com/pricing) | Relationship tool for LinkedIn and X: follow up to 50 people and read all their public posts in one focused feed, with ICP goals, people discovery and engagement insights. | **$99 lifetime**, one payment instead of $49/mo (less than 2 months of the monthly plan). 50 people included, first 100 deals, no code needed | 2026-12-01 |
 
 
 ### Browser Extensions
