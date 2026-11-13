@@ -133,6 +133,7 @@ Free & open-source.
 | 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing) | App Store intelligence and ASO for indie developers: keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server for Claude and Cursor. | **Lifetime Pro for $89**, one payment instead of $69.99/year, no code needed (shown on the pricing page) | 2026-11-30 |
 | 🔑 | [MojoAuth](https://mojoauth.com/blog/black-friday-deals) | Passwordless login for consumer apps: passkeys, magic links, email/SMS/WhatsApp OTP and social login behind one API. | **20% OFF** paid plans with code **BF2026** | 2026-12-15 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
+| 🛠️ | [DevIntern](https://devintern.com/pricing/) | Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations. | **40% OFF** the first invoice with code **BLACKFRIDAY26**. Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40. Starts on 2026-11-20 | 2026-12-01 |
 
 
 ### Browser Extensions
