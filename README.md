@@ -364,6 +364,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| ☁️ | [Darkroom](https://darkroom.co/black-friday) | Darkroom is the Apple Design Award winning premium photo editing and video processing app designed for creators who value workflow speed, simplicity, and power. With professional-grade tools like AI-backed Masks, RAW editing, curves, color grading, and batch processing. | **50% OFF** first year plans for $19.99 from $39.99, with code **BLACKFRIDAY26**. Starts on 2026-11-13 | 2026-12-03 |
 | 📸 | [BatchMark - Photo Watermark](https://batchmark.dispatchcat.com/en/) | Batch-add watermarks, frames and borders to photos on iPhone and iPad, then export them all at once. | **50% OFF** Lifetime ($79.99 → $39.99), bought in the app. [Holiday sale](https://batchmark.dispatchcat.com/en/holiday-sale/) · [App Store](https://apps.apple.com/us/app/batchmark-photo-watermark/id6759683285). Starts on 2026-11-15 | 2026-12-25 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 📷 | [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF** ($99.99 → $49.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
