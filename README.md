@@ -453,6 +453,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🧾 | [Belvak](https://belvak.com/pricing?deal=WEL202680) | All-in-one app for small service companies: projects, clients, time tracking, invoices, payments, maintenance contracts and payroll in one place. | **80% OFF** your first payment on the Professional plan with code **WEL202680**: $15 → $3 for the first month, or $144 → $28.80 for the first year (first 200 redemptions) | 2027-01-31 |
 | 📇 | [t0ggles](https://t0ggles.com/) | Fast project management for teams and AI agents: all your projects on one board, with notes, forms, AI tasks and an MCP server. | **50% OFF** the first year of the annual plan: $2.50 instead of $5 per user/month (no code needed) | 2026-11-30 |
 
 
