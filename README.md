@@ -358,6 +358,7 @@ Free & open-source.
 | 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| ⏳ | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen?utm_source=rbd_bf26) |SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. It learns your rhythm and nudges you before anything slips. No streaks, no account, no ads. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -407,6 +408,7 @@ Free & open-source.
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% OFF** Business plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🎞️ | [PaneFlow](https://paneflow.com/) | Design animated slideshows and presentations in minutes, no code. Add 3D device mockups and motion, then export to code, video or PDF and embed anywhere. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48, or $48 lifetime instead of $96 | 2026-11-30 |
 | ✨ | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | **50% OFF** all mockup bundles and the first billing period of monthly and annual plans, no code needed | 2026-12-01 |
+| 🎨 | [AppScreenPro](https://appscreenpro.com/?utm_source=rbd_bf26) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | Extra **30% OFF** Lifetime  **30BF2026**. Early access already open from 2026-11-12 | 2026-12-01 |
 
 
 ### AI Design Tools
@@ -478,6 +480,8 @@ Free & open-source.
 | 🤝 | [Portico](https://portico.run/lifetime) | Client onboarding for small firms. One link walks a new client through intake and payment, then leaves them a private portal with everything they signed. | **25% OFF** lifetime plans, no code needed: Solo $37, Practice $89, Firm $172, one payment. Starts on 2026-11-23 | 2026-12-01 |
 | 📊 | [WhatPulse](https://whatpulse.org) | See how you use your computer: keystrokes, mouse clicks, app usage and bandwidth as heatmaps and stats. Tracks activity, never content. Windows, macOS and Linux. | **35% OFF** the annual plan with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 | 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime ($79 → $39.50) with code **SIDEBARBF50** | 2026-12-07 |
+| 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/?utm_source=rbd-bf26) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026**  | 2026-12-02 |
+| 🔖 | [Bookmark Manger+Quick Search](https://devapt.com/bookmark-manager/?utm_source=rbd-bf26) | The bookmark manager built for power users. Lightning-fast spotlight search, smart matching, and advanced organization — all without leaving your current page. | **30% OFF** lifetime license using **30BF2026**  | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -521,6 +525,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧩 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress website builder from the team behind Astra. Describe your business and get a complete WordPress site with hosting, domain and email included. | **Up to 47% OFF** all plans, from $79 (auto-applied) | 2026-12-07 |
 | 🔎 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS: see and improve how ChatGPT, Perplexity and Claude cite your brand. | **20% OFF** with code **BF2026** | 2026-12-15 |
+| 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/?utm_source=rbd-bf26) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026**  | 2026-12-02 |
 
 
 ### Affiliate Marketing
