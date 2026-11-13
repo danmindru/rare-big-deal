@@ -169,6 +169,7 @@ Free & open-source.
 | 🤖 | [Aymo AI](https://aymo.ai) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **30% OFF** the Premium yearly plan with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🚀 | [Meku](https://meku.dev) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
+| 🛰️ | [Outlier](https://outlier.host/pricing/?utm_source=rarebigdeal&utm_medium=deals) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **31% OFF**, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. One-time purchase | 2026-12-02 |
 
 
 ### Productivity
@@ -426,6 +427,7 @@ Free & open-source.
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 🎬 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and selling for filmmakers. Your film streams from the file you upload, with no extra re-encode. | **30% OFF** all yearly plans, kept at every renewal while you stay subscribed: Lite $69.30 instead of $99, Pro $300.30 instead of $429, Max $762.30 instead of $1,089, Studio $1,686.30 instead of $2,409 (no code needed). Starts on 2026-11-23 | 2026-11-30 |
 | ✂️ | [BlitzReels](https://blitzreels.com/black-friday) | AI clipping and scheduling for creators. Paste a long video or a YouTube link and get captioned vertical clips for TikTok, Reels and Shorts, then schedule them to your accounts. Also makes AI images and faceless videos, and works with ChatGPT and Claude. | **60% less than paying monthly** on yearly plans, no code needed: Starter $348 → $139 for the first year, Growth $948 → $379, Agency $2,388 → $949, then the normal yearly price. +90 bonus credits (about 10 clips) | 2026-12-01 |
+| 🎞️ | [Crisp](https://crispvideo.app/pricing/?utm_source=rarebigdeal&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. | **31% OFF**, no code needed. Black Friday sale: $9.99 once, 31% off our November price of $14.50, through December 2. Then $19. One-time purchase | 2026-12-02 |
 
 
 ### Social
@@ -582,6 +584,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔧 | [Check Engine SEO](https://checkengineseo.com/pricing/?utm_source=rarebigdeal&utm_medium=deals) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. Free version available. | **32% OFF**, no code needed. Black Friday sale: $19.99 once, 32% off our November price of $29.50, through December 2. Then $39. One-time purchase | 2026-12-02 |
 
 
 ### Content Creation
