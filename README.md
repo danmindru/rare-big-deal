@@ -576,6 +576,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔭 | [Ascope](https://ascope.app/#pricing) | ASO tool and keyword rank tracker for Mac and Windows. Tracks App Store and Google Play rankings daily in 50+ countries, with Apple's popularity score and a difficulty score for every keyword, plus an MCP server for Cursor and Claude. | **63% OFF** Lifetime license: ~~$189~~ **$69** one-time, no code needed | 2026-11-30 |
 
 
 ### Analyze & Audit
