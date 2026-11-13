@@ -407,6 +407,10 @@ Free & open-source.
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% OFF** Business plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🎞️ | [PaneFlow](https://paneflow.com/) | Design animated slideshows and presentations in minutes, no code. Add 3D device mockups and motion, then export to code, video or PDF and embed anywhere. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48, or $48 lifetime instead of $96 | 2026-11-30 |
 | ✨ | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | **50% OFF** all mockup bundles and the first billing period of monthly and annual plans, no code needed | 2026-12-01 |
+| 🎨 | [MingCute Icons](https://mgc.mingcute.com/?utm_source=rare) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) with code **BF2026** | 2026-12-05 |
+| 🎨 | [MingCute UI](https://ui.mingcute.com/?utm_source=rar) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) with code **BF2026** | 2026-12-05 |
+| 🎨 | [Animation Icons](https://www.mingcute.com/animation?utm_source=rar) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) with code **BF2026** | 2026-12-05 |
+| 🎨 | [Weather Icons](https://mgcweather.framer.website/?utm_source=rar) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) with code **BF2026** | 2026-12-05 |
 
 
 ### AI Design Tools
