@@ -576,6 +576,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% off the first annual year vs 12 standard monthly payments**, or **28% off the first 3 monthly payments**. Standard rates apply afterward. Eligible subscriptions only; no stacking. Click the Black Friday deal to auto-apply the discount at checkout. [Offer terms](https://zerorank.ai/pricing). Ends November 30, 2026 at 23:59 Europe/Tirane. | 2026-11-30 |
 
 
 ### Analyze & Audit
