@@ -478,6 +478,7 @@ Free & open-source.
 | 🤝 | [Portico](https://portico.run/lifetime) | Client onboarding for small firms. One link walks a new client through intake and payment, then leaves them a private portal with everything they signed. | **25% OFF** lifetime plans, no code needed: Solo $37, Practice $89, Firm $172, one payment. Starts on 2026-11-23 | 2026-12-01 |
 | 📊 | [WhatPulse](https://whatpulse.org) | See how you use your computer: keystrokes, mouse clicks, app usage and bandwidth as heatmaps and stats. Tracks activity, never content. Windows, macOS and Linux. | **35% OFF** the annual plan with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 | 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime ($79 → $39.50) with code **SIDEBARBF50** | 2026-12-07 |
+| ⌨️ | [SimpleFill](https://simplefill.app) | Text expansion, AI actions, and one-click form filling in your browser. Type a shortcut to expand snippets, or fill a whole form in one go. Works in Chrome, Firefox, Edge, and Safari. | **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) with code **LAUNCH**, on the Chrome, Firefox, and Edge checkout | 2026-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
