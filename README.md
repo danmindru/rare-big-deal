@@ -133,6 +133,7 @@ Free & open-source.
 | 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing) | App Store intelligence and ASO for indie developers: keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server for Claude and Cursor. | **Lifetime Pro for $89**, one payment instead of $69.99/year, no code needed (shown on the pricing page) | 2026-11-30 |
 | 🔑 | [MojoAuth](https://mojoauth.com/blog/black-friday-deals) | Passwordless login for consumer apps: passkeys, magic links, email/SMS/WhatsApp OTP and social login behind one API. | **20% OFF** paid plans with code **BF2026** | 2026-12-15 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
+| 🚀 | [Aikeedo](https://aikeedo.com/black-friday/?utm_source=rarebigdeal&utm_medium=deal-listing&utm_campaign=bfcm2026) | Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform. | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus **$100 OFF** the first year of All-Access. Applied automatically, no code. | 2026-12-01 |
 
 
 ### Browser Extensions
@@ -198,6 +199,7 @@ Free & open-source.
 | 🤖 | [Nivon](https://nivon.ai) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | **40% OFF** all paid plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🧩 | [MindPal](https://mindpal.io/pricing) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock. Publish them on a link, an embed or your own domain. No code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026**, applied at checkout. Billed yearly: Pro ~~$39~~ $16/mo, Advanced ~~$149~~ $60/mo, Ultra ~~$374~~ $150/mo | 2026-12-11 |
 | 💬 | [Fidiora](https://fidiora.com/) | AI customer support that resolves customer questions, captures leads and routes the rest to your team. | **25% OFF** per-resolution pricing with code **FID25OFF** | 2026-12-31 |
+| 🚀 | [Aikeedo](https://aikeedo.com/black-friday/?utm_source=rarebigdeal&utm_medium=deal-listing&utm_campaign=bfcm2026) | Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform. | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus **$100 OFF** the first year of All-Access. Applied automatically, no code. | 2026-12-01 |
 
 
 ### Lifestyle
