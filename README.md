@@ -313,6 +313,7 @@ Free & open-source.
 | 🌳 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Text outliner for nonlinear thinking: the same notes as a list or as a sideways tree. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $29.99 → $20.99, one-time purchase | 2026-11-30 |
 | ✍️ | [Plus AI](https://noteifyapp.com/plus-ai/) | AI text assistant: compose emails, improve, summarize and translate text in any app. Works with your own OpenAI API key. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: Lifetime $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | ✍️ | [RewriteBar](https://rewritebar.com/black-friday) | Mac menu bar app that rewrites selected text with AI in any app: fix grammar, adjust tone, translate and summarize. Works with built-in AI or your own API key. | **50% OFF** with code **BF2026**, applied automatically on the Black Friday page: Standard lifetime license ~~$29~~ $14.50, one-time purchase | 2026-12-03 |
+| ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 
 
 ### Menu Bar & More
@@ -363,6 +364,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 
 
 ### Productivity
