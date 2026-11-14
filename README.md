@@ -271,6 +271,7 @@ Free & open-source.
 | 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
+| 📋 | [CopyPasta](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch: encrypted clipboard history, Paste Stack and more. One-time purchase. | **50% OFF** all licenses, applied automatically at checkout or with code **BLACKFRIDAY26**: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20 | 2026-12-06 |
 
 
 ### Design Tools
@@ -652,6 +653,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧾 | [Billstack](https://kendeepp.gumroad.com/l/qrzrsa) | Invoice & billing portal UI components for Laravel Livewire: line items, tax summary, payment status badges and a filterable invoice list. Widgets only, bring your own payment provider. | **30% OFF** ($29 → $20.30) with code **BF30**. Starts on 2026-11-24 | 2026-12-01 |
+| 🧰 | [SaaSykit](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. Pay once, build unlimited projects. | **50% OFF** all versions, applied automatically at checkout or with code **BLACKFRIDAY26**: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50 | 2026-12-06 |
 
 
 ### Django
