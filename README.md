@@ -286,6 +286,8 @@ Free & open-source.
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🪟 | [BetterStage](https://betterstage.app/pricing) | Native macOS window and workspace manager: named Stages across all your monitors, TabStack auto-tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. Free tier; Pro is a one-time purchase. | **20% OFF** lifetime Pro with code **BLACKFRIDAY20** at checkout: 1 Mac $19.99 → $15.99, 3 Macs $39.99 → $31.99, 5 Macs $49.99 → $39.99. Starts on 2026-11-23 | 2026-11-30 |
 | 📋 | [CopyPasta](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch: encrypted clipboard history, Paste Stack and more. One-time purchase. | **50% OFF** all licenses, applied automatically at checkout or with code **BLACKFRIDAY26**: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20 | 2026-12-06 |
+| 📋 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad. Keeps everything you copy searchable, organized and synced through iCloud. | **50% OFF** the standalone Mac version with code **INDIEGOODIESBF26** ($14.99 → $7.49, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
+| ⚡ | [Almighty](https://indiegoodies.com/almighty) | 107 tweaks and tools for macOS in one native app: window snapping, hidden settings, shortcuts and more. | **50% OFF** the standalone version with code **INDIEGOODIESBF26** ($14.99 → $7.49, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 
 
 ### Design Tools
@@ -313,6 +315,7 @@ Free & open-source.
 | 🌳 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Text outliner for nonlinear thinking: the same notes as a list or as a sideways tree. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $29.99 → $20.99, one-time purchase | 2026-11-30 |
 | ✍️ | [Plus AI](https://noteifyapp.com/plus-ai/) | AI text assistant: compose emails, improve, summarize and translate text in any app. Works with your own OpenAI API key. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: Lifetime $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | ✍️ | [RewriteBar](https://rewritebar.com/black-friday) | Mac menu bar app that rewrites selected text with AI in any app: fix grammar, adjust tone, translate and summarize. Works with built-in AI or your own API key. | **50% OFF** with code **BF2026**, applied automatically on the Black Friday page: Standard lifetime license ~~$29~~ $14.50, one-time purchase | 2026-12-03 |
+| ⌨️ | [Typefu](https://indiegoodies.com/typefu) | Text expander for Mac: snippets, fill-in templates and AI actions on selected text. | **50% OFF** Typefu Pro with code **INDIEGOODIESBF26** ($7.99 → $3.99, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 
 
 ### Menu Bar & More
@@ -331,6 +334,7 @@ Free & open-source.
 | 🖱️ | [WheelClick](https://wheelclick.app/) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
 | 🧹 | [SiftMac](https://siftmac.com/pricing) | Mac disk cleaner that says, for every item, whether it comes back before deleting it. Anything that can't rebuild waits 7 days on an Undo Shelf. One-time purchase for 2 Macs. | **25% OFF** the Founding licence ($12 → $9, one-time purchase), no code needed. Starts on 2026-11-27 | 2026-11-30 |
 | 🔀 | [Defaultify](https://defaultify.app/) | Choose which app opens every file type and link on your Mac, and get told when an installer quietly changes one. Also on Android. One-time purchase, no subscription. | **50% OFF** Pro with code **INDIE50** ($6.99 → $3.49). Starts on 2026-11-27 | 2026-12-01 |
+| 📅 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month and agenda views, world clocks, and a countdown with one-click join for your next meeting. | **50% OFF** with code **INDIEGOODIESBF26** ($7.99 → $3.99, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
