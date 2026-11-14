@@ -271,6 +271,7 @@ Free & open-source.
 | 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
+| 🌫️ | [Kiri](https://trykiri.app/?utm_source=rarebigdeal) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Design Tools
@@ -315,6 +316,7 @@ Free & open-source.
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 | 🖱️ | [WheelClick](https://wheelclick.app/) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
 | 🧹 | [SiftMac](https://siftmac.com/pricing) | Mac disk cleaner that says, for every item, whether it comes back before deleting it. Anything that can't rebuild waits 7 days on an Undo Shelf. One-time purchase for 2 Macs. | **25% OFF** the Founding licence ($12 → $9, one-time purchase), no code needed. Starts on 2026-11-27 | 2026-11-30 |
+| 🔀 | [Defaultify](https://defaultify.app/?utm_source=rarebigdeal) | Choose which app opens every file type and link on your Mac, and get told when an installer quietly changes one. Also on Android. One-time purchase, no subscription. | **50% OFF** Pro with code **INDIE50** ($6.99 → $3.49). Starts on 2026-11-27 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -376,6 +378,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🌫️ | [Kiri](https://trykiri.app/?utm_source=rarebigdeal) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Hobby & Lifestyle
