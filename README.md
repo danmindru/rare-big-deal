@@ -146,6 +146,7 @@ Free & open-source.
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | **51% OFF** one-time license: $39 → $19, including 5 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 | 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | **69% OFF** one-time license: $29 → $9, including 3 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 | 🔒 | [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that blurs emails, API keys and customer data on any web page before you screen share or record. Detection runs locally. | **40% OFF** the lifetime license with code **BF2026** | 2026-12-02 |
+| 📓 | [NotebookLM Tools](https://www.nlmtools.com/pricing?utm_source=rare-big-deal&utm_medium=referral&utm_campaign=black-friday-2026) | Chrome & Firefox extension that adds bulk import, folders, source export and batch quiz and flashcard generation to NotebookLM (now Gemini Notebook). | **30% OFF** 1-Month and 1-Year Pro with code **BLACKFRIDAY2026**: $4.90 instead of $7, $20.30 instead of $29, one-time payments (Lifetime not included) | 2026-12-02 |
 
 
 ### Productivity & AI
