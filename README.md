@@ -769,6 +769,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🗓️ | [Saventify](https://saventify.com) | Create elegant digital invitations, send them instantly, and manage RSVPs without stress. | **37% OFF** with code **BF26** | 2027-01-01 |
+| 💼 | [DailyRemote](https://dailyremote.com/get-started) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | **39% OFF** Premium monthly, quarterly and yearly plans ($23 → $14.03, $46 → $28.06, $89 → $54.29) with code **BFBNRTZSY**, for new Premium subscribers | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
