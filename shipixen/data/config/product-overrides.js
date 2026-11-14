@@ -149,5 +149,20 @@ module.exports = {
     'copy-text-easily': {
       logo: 'public/static/images/overrides/copy-text-easily/logo.png',
     },
+    // These three sites answer with a Cloudflare challenge from CI. The banners
+    // are the official og:image files: MGC_cover.png and mingcute_animation.png
+    // from mingcute-docs, and ui.mingcute.com/images/social-preview.png.
+    // MingCute UI's apple-touch icon is the logo. Icons and Animation publish
+    // their own favicons, which the parser can still download.
+    'mingcute-icons': {
+      ogImage: 'public/static/images/overrides/mingcute-icons/og-image.png',
+    },
+    'mingcute-ui': {
+      logo: 'public/static/images/overrides/mingcute-ui/logo.png',
+      ogImage: 'public/static/images/overrides/mingcute-ui/og-image.png',
+    },
+    'animation-icons': {
+      ogImage: 'public/static/images/overrides/animation-icons/og-image.png',
+    },
   },
 };
