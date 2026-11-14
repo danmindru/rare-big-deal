@@ -286,6 +286,7 @@ Free & open-source.
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🪟 | [BetterStage](https://betterstage.app/pricing) | Native macOS window and workspace manager: named Stages across all your monitors, TabStack auto-tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. Free tier; Pro is a one-time purchase. | **20% OFF** lifetime Pro with code **BLACKFRIDAY20** at checkout: 1 Mac $19.99 → $15.99, 3 Macs $39.99 → $31.99, 5 Macs $49.99 → $39.99. Starts on 2026-11-23 | 2026-11-30 |
 | 📋 | [CopyPasta](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch: encrypted clipboard history, Paste Stack and more. One-time purchase. | **50% OFF** all licenses, applied automatically at checkout or with code **BLACKFRIDAY26**: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20 | 2026-12-06 |
+| 🔍 | [FileMinutes](https://www.fileminutes.com/?utm_source=rarebigdeal) | A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout | 2026-11-30 |
 
 
 ### Design Tools
