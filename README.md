@@ -121,7 +121,7 @@ Free & open-source.
 | 🎬 | [Renderly](https://renderly.video/pricing) | Video rendering API: send a JSON template and your data, get an MP4 back. Includes a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server. | **30% OFF** the first payment of a new Creator or Business subscription with code **BLACKFRIDAY2026** (Creator $29 → $20.30, Business $99 → $69.30 for the first month). Starts on 2026-11-27 | 2026-12-01 |
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
 | 📬 | [Maillayer](https://maillayer.com) | Self-hosted Resend and Mailchimp alternative. Buy once, deploy on your own server and send unlimited emails via Amazon SES, SendGrid or Mailgun. | **60% OFF** Lifetime license: $59.60 instead of $149 (no code needed) |  |
-| 📚 | [POSH](https://poshtui.com/black-friday) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans with code **BLACKFRIDAY2026**, kept while you stay subscribed: €7 → €4.90/month, €60 → €42/year. New subscriptions only | 2026-12-02 |
+| 📚 | [POSH](https://poshtui.com/black-friday) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans with code **BLACKFRIDAY2026**, kept while you stay subscribed: €5 → €3.50/month, €45 → €31.50/year. New subscriptions only | 2026-12-02 |
 | ✍️ | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature/) | Email signature management for Google Workspace and Microsoft 365 teams. | **50% off** Teams: 2 years for the price of 1, no code needed. $180 for 24 months on the 1–5 user plan ($15/month billed annually); larger teams pay by seat band | 2026-12-04 |
 | 🛡️ | [Scanify](https://scanify.to) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50), Nov 10–Dec 9, 2026 | 2026-12-09 |
 | 🔐 | [SSOJet](https://ssojet.com/blog/black-friday-deals) | Single sign-on for B2B apps: add SAML, OIDC and SCIM without rebuilding your auth. | **20% OFF** with code **BF2026** | 2026-12-15 |
@@ -153,6 +153,7 @@ Free & open-source.
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | **51% OFF** one-time license: $39 → $19, including 5 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 | 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | **69% OFF** one-time license: $29 → $9, including 3 years of updates. No code needed. Nov 5–Dec 2, 2026 | 2026-12-02 |
 | 🔒 | [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that blurs emails, API keys and customer data on any web page before you screen share or record. Detection runs locally. | **40% OFF** the lifetime license with code **BF2026** | 2026-12-02 |
+| 📓 | [NotebookLM Tools](https://www.nlmtools.com/pricing) | Chrome & Firefox extension that adds bulk import, folders, source export and batch quiz and flashcard generation to NotebookLM (now Gemini Notebook). | **30% OFF** 1-Month and 1-Year Pro with code **BLACKFRIDAY2026**: $4.90 instead of $7, $20.30 instead of $29, one-time payments (Lifetime not included) | 2026-12-02 |
 
 
 ### Productivity & AI
@@ -283,6 +284,8 @@ Free & open-source.
 | 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 🪟 | [BetterStage](https://betterstage.app/pricing) | Native macOS window and workspace manager: named Stages across all your monitors, TabStack auto-tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. Free tier; Pro is a one-time purchase. | **20% OFF** lifetime Pro with code **BLACKFRIDAY20** at checkout: 1 Mac $19.99 → $15.99, 3 Macs $39.99 → $31.99, 5 Macs $49.99 → $39.99. Starts on 2026-11-23 | 2026-11-30 |
+| 📋 | [CopyPasta](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch: encrypted clipboard history, Paste Stack and more. One-time purchase. | **50% OFF** all licenses, applied automatically at checkout or with code **BLACKFRIDAY26**: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20 | 2026-12-06 |
 
 
 ### Design Tools
@@ -612,6 +615,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🔭 | [Ascope](https://ascope.app/) | ASO tool and keyword rank tracker for Mac and Windows. Tracks App Store and Google Play rankings daily in 50+ countries, with Apple's popularity score and a difficulty score for every keyword, plus an MCP server for Cursor and Claude. | **63% OFF** Lifetime license: ~~$189~~ **$69** one-time, no code needed | 2026-11-30 |
 | 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% OFF** the first year on annual plans, or **28% OFF** the first 3 months, auto-applied at checkout | 2026-11-30 |
+| 🏁 | [Keyword Race](https://keywordrace.com) | App Store keyword research for indie iOS developers: competing apps, your position and estimated demand, paid once. | **40% OFF** lifetime access ($59 → $35), no code needed | 2026-12-02 |
 
 
 ### Analyze & Audit
@@ -689,6 +693,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧾 | [Billstack](https://kendeepp.gumroad.com/l/qrzrsa) | Invoice & billing portal UI components for Laravel Livewire: line items, tax summary, payment status badges and a filterable invoice list. Widgets only, bring your own payment provider. | **30% OFF** ($29 → $20.30) with code **BF30**. Starts on 2026-11-24 | 2026-12-01 |
+| 🧰 | [SaaSykit](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. Pay once, build unlimited projects. | **50% OFF** all versions, applied automatically at checkout or with code **BLACKFRIDAY26**: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50 | 2026-12-06 |
 
 
 ### Django
@@ -723,6 +728,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧪 | [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | [**30% OFF one year ($69.90)**](https://labex.io/checkout?type=2&coupon=2026BF30) with code **2026BF30**; [**50% OFF two years ($99.90)**](https://labex.io/checkout?type=4&coupon=2026BF50) with code **2026BF50**. New and existing users. | 2026-12-07 |
 | 🛡️ | [Vantagepoint](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs and more. | **70% OFF** all hacking labs and certifications, applied automatically (labs $99 → $29.70, certifications $299 → $89.70) | 2026-12-15 |
+| 🛡️ | [Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | **67% OFF** Wireless Operator: $197 instead of $599, no code needed | 2026-12-01 |
 
 
 
