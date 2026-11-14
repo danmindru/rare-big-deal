@@ -686,6 +686,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧪 | [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | [**30% OFF one year ($69.90)**](https://labex.io/checkout?type=2&coupon=2026BF30) with code **2026BF30**; [**50% OFF two years ($99.90)**](https://labex.io/checkout?type=4&coupon=2026BF50) with code **2026BF50**. New and existing users. | 2026-12-07 |
 | 🛡️ | [Vantagepoint](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs and more. | **70% OFF** all hacking labs and certifications, applied automatically (labs $99 → $29.70, certifications $299 → $89.70) | 2026-12-15 |
+| 🛡️ | [Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. $197 instead of $599 (67% off, no code needed) | 2026-12-01 |
 
 
 
