@@ -426,6 +426,7 @@ Free & open-source.
 | 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**: $4.79 instead of $11.99 on the Mac App Store, no code needed, or $4.80 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
 | 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: $4.00 instead of $9.99 with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs | 2026-12-01 |
 | 👤 | [ProfileLauncher](https://loshadki.app/profilelauncher/) | Open Safari, Chrome, Edge, Brave and Firefox profiles from the menu bar, a keyboard shortcut or Spotlight. | **60% OFF**: $2.00 instead of $4.99 with code **BLACKFRIDAY26**, one-time purchase | 2026-12-01 |
+| ☀️ | [Big Weather](https://apps.apple.com/app/big-weather/id1531449281) | Weather in the Mac menu bar, with a few words about tomorrow and a weekly rundown written on-device by Apple Intelligence. | **33% OFF** Lifetime: ~~$29.99~~ **$19.99** one-time, no code needed. Starts on 2026-11-16 | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
