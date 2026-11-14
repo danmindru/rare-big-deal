@@ -454,6 +454,7 @@ Free & open-source.
 | 🎞️ | [Crisp](https://crispvideo.app/pricing/) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. | **31% OFF**, no code needed. Black Friday sale: $9.99 once, 31% off our November price of $14.50, through December 2. Then $19. One-time purchase | 2026-12-02 |
 | 🎓 | [Colossyan](https://www.colossyan.com/pricing) | AI video and course creation for training teams: turn documents, slides and screen recordings into training videos and interactive courses with AI avatars, in 120+ languages. | **40% OFF** the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59/mo → $35.40/mo billed yearly, extra editors included. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
+| 📺 | [LiveReacting](https://www.livereacting.com/pricing) | Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | **50% OFF** your first year of annual plans (Small, Medium, Large, 24/7 Streaming) with code **BF2026**. New customers only. Starts on 2026-11-20 | 2026-12-04 |
 
 
 ### Social
