@@ -12,6 +12,14 @@ const fs = require('fs');
 const path = require('path');
 const { getLeaderboardPosition } = require('./leaderboard-utils');
 
+function plainText(value) {
+  if (Array.isArray(value)) return value.map(plainText).filter(Boolean).join(', ');
+  if (value && typeof value === 'object') {
+    return plainText(value.name || value['@value'] || '');
+  }
+  return String(value || '').trim();
+}
+
 function buildMDXContent(app) {
   const tags = applyCategoryOverrides(
     app.categories,
@@ -100,8 +108,11 @@ layout: ProductLayout
       mdxContent += `appReviewCount: ${jsonLd.reviewCount}\n`;
     }
     if (jsonLd.operatingSystem) {
-      mdxContent += `appOperatingSystem: >
-  ${jsonLd.operatingSystem.trim()}\n`;
+      const operatingSystem = plainText(jsonLd.operatingSystem);
+      if (operatingSystem) {
+        mdxContent += `appOperatingSystem: >
+  ${operatingSystem}\n`;
+      }
     }
     if (jsonLd.availableOnDevice) {
       mdxContent += `appAvailableOnDevice: ${jsonLd.availableOnDevice}\n`;
