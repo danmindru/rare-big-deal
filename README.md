@@ -271,6 +271,7 @@ Free & open-source.
 | 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
+| 🪟 | [BetterStage](https://betterstage.app/pricing?utm_source=rarebigdeal&utm_campaign=bf2026) | Native macOS window and workspace manager: named Stages across all your monitors, TabStack auto-tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. Free tier; Pro is a one-time purchase. | **20% OFF** lifetime Pro with code **BLACKFRIDAY20** at checkout: 1 Mac $19.99 → $15.99, 3 Macs $39.99 → $31.99, 5 Macs $49.99 → $39.99. Starts on 2026-11-23 | 2026-11-30 |
 
 
 ### Design Tools
