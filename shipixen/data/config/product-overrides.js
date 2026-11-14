@@ -164,5 +164,11 @@ module.exports = {
     'animation-icons': {
       ogImage: 'public/static/images/overrides/animation-icons/og-image.png',
     },
+    // training.thexero.co.uk favicon is 32px and the share image is a 3354x2771 photo.
+    // The logo is the header mark; the banner is a 1200x630 crop of the Black Friday page.
+    'wireless-operator': {
+      logo: 'public/static/images/overrides/wireless-operator/logo.png',
+      ogImage: 'public/static/images/overrides/wireless-operator/og-image.png',
+    },
   },
 };
