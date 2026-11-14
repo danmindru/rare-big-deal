@@ -116,7 +116,7 @@ Free & open-source.
 | 🎬 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT. | **25% OFF** the first year of yearly plans with code **BF2026**: Professional $299.70 (was $399.60), Hobby $149.63 (was $199.50). Starts on 2026-11-24 | 2026-12-01 |
 | 🔍 | [Outmano](https://outmano.com) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent via MCP. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only) | 2026-12-02 |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: request forms, legal deadlines, lookups and approved deletions in Stripe, Shopify, Mailchimp and more. | **30% OFF** the first year of yearly plans with code **CYBER-AGENCY** (5 sites) or **CYBER-SITE** (1 site), new customers. Starts on 2026-11-27 | 2026-12-04 |
-| 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension. Transcripts, search and channel data, one call each. | **30% off** the first year of the annual plan, applied automatically at checkout, or with code **BF26GYT** | 2026-12-10 |
+| 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension. Transcripts, search and channel data, one call each. | **Lifetime access for $149** one-time: 3,000 credits every month for life, limited to the first 100 buyers. Or **30% off** the first year of the annual plan ($54 → $37.80), applied automatically at checkout or with code **BF26GYT** | 2026-12-10 |
 | 🕷️ | [Piloterr](https://www.piloterr.com/blackfriday) | Web scraping API that handles headless browsers and rotating proxies for you. | **50% OFF** the first 3 months on all monthly plans with code **BLACKFRIDAY50** | 2026-11-30 |
 | 🎬 | [Renderly](https://renderly.video/pricing) | Video rendering API: send a JSON template and your data, get an MP4 back. Includes a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server. | **30% OFF** the first payment of a new Creator or Business subscription with code **BLACKFRIDAY2026** (Creator $29 → $20.30, Business $99 → $69.30 for the first month). Starts on 2026-11-27 | 2026-12-01 |
 | 📝 | [RapidForm](https://rapidform.com/lifetime) | AI form builder: describe a form, get it in 60 seconds, embed it anywhere. File uploads, conditional logic, webhooks, plus an API and MCP server for Claude, ChatGPT and Cursor. | **63% OFF** Lifetime Business plan: one payment of $129 instead of $348/yr. First 20 spots at $129, next 30 at $149, 50 in total (no code needed) | 2026-11-30 |
@@ -133,6 +133,13 @@ Free & open-source.
 | 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing) | App Store intelligence and ASO for indie developers: keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server for Claude and Cursor. | **Lifetime Pro for $89**, one payment instead of $69.99/year, no code needed (shown on the pricing page) | 2026-11-30 |
 | 🔑 | [MojoAuth](https://mojoauth.com/blog/black-friday-deals) | Passwordless login for consumer apps: passkeys, magic links, email/SMS/WhatsApp OTP and social login behind one API. | **20% OFF** paid plans with code **BF2026** | 2026-12-15 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
+| 🛠️ | [DevIntern](https://devintern.com/pricing/) | Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations. | **40% OFF** the first invoice with code **BLACKFRIDAY26**. Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40. Starts on 2026-11-20 | 2026-12-01 |
+| 📡 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | Live threat-intelligence radar for CVEs, actively exploited vulnerabilities (CISA KEV), malware and attack patterns, with API, RSS, SBOM scans and alerts. | **50% OFF** the first month or the whole first year of any subscription plan, applied automatically: Individual €120 → €60/yr, Base €490 → €245/yr, Pro €1,490 → €745/yr (incl. 21% VAT) | 2026-12-01 |
+| 🔑 | [OffSeq Breach](https://breach.offseq.com/#pricing) | Credential-exposure monitoring for your domains across leaked datasets, forums, Telegram channels and marketplaces, with alerts by email, Slack, webhook or API. | **50% OFF** the first billing period of any paid plan with code **BLACK**: Basic €24 → €12, Pro €60 → €30, Enterprise €120 → €60 for the first month (excl. VAT) | 2026-12-02 |
+| 🍯 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | Real-time honeypot threat intelligence from a worldwide sensor fleet, with attacker clustering, campaign attribution, session replay and blocklist, STIX and MISP exports. | **50% OFF** the first 3 months of any plan (code pre-filled at checkout) with code **BFCM2026**: Starter €49 → €24.50/mo, Pro €149 → €74.50/mo, Business €399 → €199.50/mo for 3 months (excl. VAT) | 2026-11-30 |
+| 🛡️ | [Guard by OffSeq](https://guard.report/monitoring) | Website security and NIS2/GDPR compliance check covering TLS, security headers, DNS and SPF/DKIM/DMARC, with prioritised reports and continuous monitoring. | **50% OFF** the full report and the first month of monitoring, applied automatically: Full report €39.90 → €19.95, monitoring €25 → €12.50 first month per domain (incl. 21% VAT) | 2026-12-01 |
+| 💻 | [OffSeq Pulse](https://pulse.offseq.com/pricing) | EU-hosted device posture for Windows, macOS and Linux that checks 12 hardening controls mapped to NIS2, CIS v8.1 and Latvian Cabinet Regulation No. 397, with one-click fixes and audit evidence. | **50% OFF** the first year or first month for new customers, applied automatically: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT); first 2 devices free | 2026-12-02 |
+| 🚀 | [Aikeedo](https://aikeedo.com/black-friday/) | Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform. | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus **$100 OFF** the first year of All-Access. Applied automatically, no code. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Browser Extensions
@@ -169,6 +176,7 @@ Free & open-source.
 | 🤖 | [Aymo AI](https://aymo.ai) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **30% OFF** the Premium yearly plan with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🚀 | [Meku](https://meku.dev) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% OFF** all yearly plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
+| 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **31% OFF**, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. One-time purchase | 2026-12-02 |
 
 
 ### Productivity
@@ -198,12 +206,15 @@ Free & open-source.
 | 🤖 | [Nivon](https://nivon.ai) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | **40% OFF** all paid plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🧩 | [MindPal](https://mindpal.io/pricing) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock. Publish them on a link, an embed or your own domain. No code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026**, applied at checkout. Billed yearly: Pro ~~$39~~ $16/mo, Advanced ~~$149~~ $60/mo, Ultra ~~$374~~ $150/mo | 2026-12-11 |
 | 💬 | [Fidiora](https://fidiora.com/) | AI customer support that resolves customer questions, captures leads and routes the rest to your team. | **25% OFF** per-resolution pricing with code **FID25OFF** | 2026-12-31 |
+| 🚀 | [Aikeedo](https://aikeedo.com/black-friday/) | Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform. | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus **$100 OFF** the first year of All-Access. Applied automatically, no code. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Lifestyle
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| ✈️ | [Let's Trip](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | **50% OFF** Premium: $5/month (was $10) or $50/year (was $100). | 2026-12-01 |
+| 🎤 | [RapStar Studio](https://rapstarstudio.com/pricing) | Custom AI rap songs from names and facts: two song versions plus two 720p lyric videos with your photo. No account needed. | **30% OFF** one-time custom rap song ($9.90 → $6.93) with code **BF2026** | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -271,6 +282,7 @@ Free & open-source.
 | 📋 | [ClipboardGrid](https://noteifyapp.com/clipboardgrid/) | Your recent copies as large cards across the screen: press a number to paste, pin what you reuse, search everything you copied. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99, one-time purchase | 2026-11-30 |
 | 📁 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Two-panel file manager with classic commander keys: F5 copies, F6 moves, Space sizes a folder, tabs in each panel. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $29.99 → $20.99, one-time purchase | 2026-11-30 |
+| 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Design Tools
@@ -315,6 +327,7 @@ Free & open-source.
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 | 🖱️ | [WheelClick](https://wheelclick.app/) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
 | 🧹 | [SiftMac](https://siftmac.com/pricing) | Mac disk cleaner that says, for every item, whether it comes back before deleting it. Anything that can't rebuild waits 7 days on an Undo Shelf. One-time purchase for 2 Macs. | **25% OFF** the Founding licence ($12 → $9, one-time purchase), no code needed. Starts on 2026-11-27 | 2026-11-30 |
+| 🔀 | [Defaultify](https://defaultify.app/) | Choose which app opens every file type and link on your Mac, and get told when an installer quietly changes one. Also on Android. One-time purchase, no subscription. | **50% OFF** Pro with code **INDIE50** ($6.99 → $3.49). Starts on 2026-11-27 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -358,6 +371,7 @@ Free & open-source.
 | 🔖 | [Yonder](https://appsbymo.app/yonder/) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | 🌙 | [Soluna](https://appsbymo.app/soluna/) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | **50% OFF** with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 | 2026-12-01 |
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app) | Beautiful countdown and progress widgets to visualise and track events and deadlines. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| ⏳ | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. It learns your rhythm and nudges you before anything slips. No streaks, no account, no ads. | **50% OFF** Lifetime: $59.99 → $29.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -370,12 +384,15 @@ Free & open-source.
 | 👨‍👩‍👧 | [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF** ($49.99 → $24.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | 🧹 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Clear out your iPhone and iPad camera roll a few photos at a time. Swipe to keep or mark; nothing is deleted until you confirm. | **50% OFF** Pro Lifetime ($39.99 → $19.99), bought in the app. No code required. [App Store](https://apps.apple.com/us/app/snaptidy-photo-swipe-delete/id6780214942). Starts on 2026-11-27 | 2026-11-30 |
 | ☁️ | [Koofr](https://koofr.eu/black-friday/) | Auto backup photos and videos from your iPhone and iPad camera roll to secure and reliable EU cloud storage that respects your privacy. Access via web, desktop, mobile, WebDAV and rclone. | **55% OFF** yearly plans from 250 GB to 5 TB (e.g. 1 TB €99 → €44.26/year, excl. VAT), gift cards included, with code **BF2026**. Starts on 2026-11-16 | 2026-11-30 |
+| ☁️ | [Darkroom](https://darkroom.co/black-friday) | Darkroom is the Apple Design Award winning premium photo editing and video processing app designed for creators who value workflow speed, simplicity, and power. With professional-grade tools like AI-backed Masks, RAW editing, curves, color grading, and batch processing. | **50% OFF** first year plans for $19.99 from $39.99, with code **BLACKFRIDAY26** | 2026-12-03 |
 
 
 ### Health & Fitness
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): $39.99 → $26.99 USD on iOS. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
+| 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Hobby & Lifestyle
@@ -407,12 +424,19 @@ Free & open-source.
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% OFF** Business plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 🎞️ | [PaneFlow](https://paneflow.com/) | Design animated slideshows and presentations in minutes, no code. Add 3D device mockups and motion, then export to code, video or PDF and embed anywhere. | **50% OFF** all plans, no code needed: $4/mo instead of $8, $24/yr instead of $48, or $48 lifetime instead of $96 | 2026-11-30 |
 | ✨ | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | **50% OFF** all mockup bundles and the first billing period of monthly and annual plans, no code needed | 2026-12-01 |
+| 🎨 | [MingCute Icons](https://mgc.mingcute.com/) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41.30) with code **BF2026** | 2026-12-05 |
+| 🎨 | [MingCute UI](https://ui.mingcute.com/) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41.30) with code **BF2026** | 2026-12-05 |
+| 🎨 | [Animation Icons](https://www.mingcute.com/animation) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.50) with code **BF2026** | 2026-12-05 |
+| 🎨 | [Weather Icons](https://mgcweather.framer.website/) | 120 graceful weather icons | **30% OFF** ($25 → $17.50) with code **BF2026** | 2026-12-05 |
+| 🎨 | [AppScreenPro](https://appscreenpro.com/) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | Extra **30% OFF** Lifetime Pro with code **30BF2026** | 2026-12-01 |
 
 
 ### AI Design Tools
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔤 | [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots and labels while keeping the original font and background intact. Web app, API and MCP server. | **30% OFF** non-expiring credit packs (6 edits $3 → $2.10, 40 edits $10 → $7) with code **BF2026** | 2026-12-01 |
+| 🥞 | [Unmerge](https://unmerge.app/pricing) | Separate flat images, illustrations and anime character art into movable transparent PSD and PNG layers with AI background inpainting. Web app, API and MCP server. | **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs: Starter $3.90 (45 → 60 credits), Basic $10 (130 → 175 credits), auto-applied, no code needed | 2026-12-01 |
 
 
 ### Video Tools
@@ -426,6 +450,10 @@ Free & open-source.
 | 🧰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | **40% OFF** one-time with code **BLACKFRIDAY40** (auto-applied): Personal $29 → $17.40, Plus $49 → $29.40 | 2026-11-30 |
 | 🎬 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and selling for filmmakers. Your film streams from the file you upload, with no extra re-encode. | **30% OFF** all yearly plans, kept at every renewal while you stay subscribed: Lite $69.30 instead of $99, Pro $300.30 instead of $429, Max $762.30 instead of $1,089, Studio $1,686.30 instead of $2,409 (no code needed). Starts on 2026-11-23 | 2026-11-30 |
 | ✂️ | [BlitzReels](https://blitzreels.com/black-friday) | AI clipping and scheduling for creators. Paste a long video or a YouTube link and get captioned vertical clips for TikTok, Reels and Shorts, then schedule them to your accounts. Also makes AI images and faceless videos, and works with ChatGPT and Claude. | **60% less than paying monthly** on yearly plans, no code needed: Starter $348 → $139 for the first year, Growth $948 → $379, Agency $2,388 → $949, then the normal yearly price. +90 bonus credits (about 10 clips) | 2026-12-01 |
+| 🐶 | [PugSoda](https://pugsoda.com/pricing) | Turn one photo into trending AI meme, dance and photo-studio videos in your browser. | **30% OFF** the first month on monthly plans (Starter $14 → $9.80, Creator $34 → $23.80, Studio $96 → $67.20) with code **BF2026**, plus **+25%–30% bonus credits** on top-up packs | 2026-12-01 |
+| 🎞️ | [Crisp](https://crispvideo.app/pricing/) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. | **31% OFF**, no code needed. Black Friday sale: $9.99 once, 31% off our November price of $14.50, through December 2. Then $19. One-time purchase | 2026-12-02 |
+| 🎓 | [Colossyan](https://www.colossyan.com/pricing) | AI video and course creation for training teams: turn documents, slides and screen recordings into training videos and interactive courses with AI avatars, in 120+ languages. | **40% OFF** the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59/mo → $35.40/mo billed yearly, extra editors included. Starts on 2026-11-23 | 2026-11-30 |
+| 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
 
 
 ### Social
@@ -454,6 +482,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📇 | [t0ggles](https://t0ggles.com/) | Fast project management for teams and AI agents: all your projects on one board, with notes, forms, AI tasks and an MCP server. | **50% OFF** the first year of the annual plan: $2.50 instead of $5 per user/month (no code needed) | 2026-11-30 |
+| 🧾 | [Belvak](https://belvak.com/pricing) | All-in-one app for small service companies: projects, clients, time tracking, invoices, payments, maintenance contracts and payroll in one place. | **80% OFF** your first payment on the Professional plan with code **WEL202680**: $15 → $3 for the first month, or $144 → $28.80 for the first year (first 200 redemptions) | 2027-01-31 |
 
 
 ### Image, Video & Audio Editing Tools
@@ -478,6 +507,8 @@ Free & open-source.
 | 🤝 | [Portico](https://portico.run/lifetime) | Client onboarding for small firms. One link walks a new client through intake and payment, then leaves them a private portal with everything they signed. | **25% OFF** lifetime plans, no code needed: Solo $37, Practice $89, Firm $172, one payment. Starts on 2026-11-23 | 2026-12-01 |
 | 📊 | [WhatPulse](https://whatpulse.org) | See how you use your computer: keystrokes, mouse clicks, app usage and bandwidth as heatmaps and stats. Tracks activity, never content. Windows, macOS and Linux. | **35% OFF** the annual plan with code **BFCM2026**. Starts on 2026-11-26 | 2026-12-12 |
 | 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime ($79 → $39.50) with code **SIDEBARBF50** | 2026-12-07 |
+| ⌨️ | [SimpleFill](https://simplefill.app) | Text expansion, AI actions, and one-click form filling in your browser. Type a shortcut to expand snippets, or fill a whole form in one go. Works in Chrome, Firefox, Edge, and Safari. | **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) with code **LAUNCH**, on the Chrome, Firefox, and Edge checkout | 2026-12-07 |
+| 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026** | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -485,6 +516,7 @@ Free & open-source.
 --------------------------------
 
 ## Marketing
+
 
 ### Social
 
@@ -495,6 +527,8 @@ Free & open-source.
 | 🔴 | [Karmit](https://karmit.co) | Find the right subreddits, learn each community from its top posts, and monitor Reddit mentions in real time to turn conversations into product insights and customers. | **30% OFF** with code **BF2026** | 2026-12-02 |
 | ✂️ | [BlitzReels](https://blitzreels.com/black-friday) | AI clipping and scheduling for creators. Paste a long video or a YouTube link and get captioned vertical clips for TikTok, Reels and Shorts, then schedule them to your accounts. Also makes AI images and faceless videos, and works with ChatGPT and Claude. | **60% less than paying monthly** on yearly plans, no code needed: Starter $348 → $139 for the first year, Growth $948 → $379, Agency $2,388 → $949, then the normal yearly price. +90 bonus credits (about 10 clips) | 2026-12-01 |
 | 📅 | [Social9](https://social9.com/blog/black-friday-deals) | Social media scheduler with AI: drafts a week or a month of posts and publishes them across 11 networks. | **30% OFF** paid plans with code **BF2026** | 2026-12-15 |
+| 📌 | [PinBoostr](https://pinboostr.com/pricing/) | Pinterest scheduler for bloggers and online stores. Pulls posts and products from your site, writes pin titles and descriptions with AI, designs pin images and schedules them across your boards. You approve every pin before it goes live. | **Black Friday yearly prices, locked while you stay subscribed**, no code needed: Scheduler $79.99 → **$29/year**, Starter (unlimited accounts) $199 → **$49/year**, Growth $399 → **$99/year**. Starts on 2026-11-23 | 2026-12-01 |
+| 🔗 | [Surfolks](https://surfolks.com/pricing) | Relationship tool for LinkedIn and X: follow up to 50 people and read all their public posts in one focused feed, with ICP goals, people discovery and engagement insights. | **$99 lifetime**, one payment instead of $49/mo. 50 people included, first 100 deals, no code needed | 2026-12-01 |
 
 
 ### Sales Tools
@@ -576,12 +610,15 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔭 | [Ascope](https://ascope.app/) | ASO tool and keyword rank tracker for Mac and Windows. Tracks App Store and Google Play rankings daily in 50+ countries, with Apple's popularity score and a difficulty score for every keyword, plus an MCP server for Cursor and Claude. | **63% OFF** Lifetime license: ~~$189~~ **$69** one-time, no code needed | 2026-11-30 |
+| 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% OFF** the first year on annual plans, or **28% OFF** the first 3 months, auto-applied at checkout | 2026-11-30 |
 
 
 ### Analyze & Audit
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔧 | [Check Engine SEO](https://checkengineseo.com/pricing/) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. Free version available. | **32% OFF**, no code needed. Black Friday sale: $19.99 once, 32% off our November price of $29.50, through December 2. Then $39. One-time purchase | 2026-12-02 |
 
 
 ### Content Creation
@@ -725,6 +762,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🧬 | [PepFlow](https://pepflow.app) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
+| 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): iOS $39.99 → $26.99 USD; Android $31.99 → $20.99 USD. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
 
 
 ### Web Apps

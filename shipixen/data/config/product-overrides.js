@@ -115,5 +115,54 @@ module.exports = {
     voksha: {
       logo: 'public/static/images/overrides/voksha/logo.png',
     },
+    // rapstarstudio.com publishes no og:image, and its only icon is an SVG.
+    // The banner is a screenshot of the product homepage. The logo is that SVG, rasterized.
+    'rapstar-studio': {
+      logo: 'public/static/images/overrides/rapstar-studio/logo.png',
+      ogImage: 'public/static/images/overrides/rapstar-studio/og-image.png',
+    },
+    // zerorank.ai publishes no og:image. The banner is a screenshot of the product homepage.
+    zerorank: {
+      ogImage: 'public/static/images/overrides/zerorank/og-image.png',
+    },
+    // The pricing page has no og:image. This is the official 1200x630 homepage card.
+    outlier: {
+      ogImage: 'public/static/images/overrides/outlier/og-image.png',
+    },
+    // The pricing page has no og:image. This is the official 1200x630 homepage card.
+    crisp: {
+      ogImage: 'public/static/images/overrides/crisp/og-image.png',
+    },
+    // The linked favicon is 48px. This is the official 500px logo.png from the site.
+    getyoutubetranscript: {
+      logo: 'public/static/images/overrides/getyoutubetranscript/logo.png',
+    },
+    // The linked favicon is a 32px ico. This is the official 400px icon.webp.
+    aikeedo: {
+      logo: 'public/static/images/overrides/aikeedo/logo.png',
+    },
+    // devapt.com serves a small favicon. This is the official SinceWhen app icon.
+    'sincewhen-days-since-tracker': {
+      logo: 'public/static/images/overrides/sincewhen-days-since-tracker/logo.png',
+    },
+    // devapt.com serves a small favicon. This is the official 128px product icon.
+    'copy-text-easily': {
+      logo: 'public/static/images/overrides/copy-text-easily/logo.png',
+    },
+    // These three sites answer with a Cloudflare challenge from CI. The banners
+    // are the official og:image files: MGC_cover.png and mingcute_animation.png
+    // from mingcute-docs, and ui.mingcute.com/images/social-preview.png.
+    // MingCute UI's apple-touch icon is the logo. Icons and Animation publish
+    // their own favicons, which the parser can still download.
+    'mingcute-icons': {
+      ogImage: 'public/static/images/overrides/mingcute-icons/og-image.png',
+    },
+    'mingcute-ui': {
+      logo: 'public/static/images/overrides/mingcute-ui/logo.png',
+      ogImage: 'public/static/images/overrides/mingcute-ui/og-image.png',
+    },
+    'animation-icons': {
+      ogImage: 'public/static/images/overrides/animation-icons/og-image.png',
+    },
   },
 };
