@@ -28,7 +28,13 @@ jobs:
         working-directory: shipixen
         run: |
           node ./scripts/check-official-media.js
-          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js ./scripts/outbound-ref.test.js ./scripts/bot-challenge.test.js
+          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js ./scripts/outbound-ref.test.js ./scripts/bot-challenge.test.js ./scripts/generate-mdx-content.test.js
+
+      # Same @mdx-js/mdx parse Contentlayer runs during `next build`.
+      # Catches README void tags such as `<br>` copied into product MDX.
+      - name: Compile product MDX
+        working-directory: shipixen
+        run: node ./scripts/check-product-mdx.mjs
 
       # next build fails the deploy on ESLint errors in eslint.dirs (app,
       # components, layouts, scripts). Running node on these scripts does not.

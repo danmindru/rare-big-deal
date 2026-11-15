@@ -98,6 +98,9 @@ jobs:
           if [ -f ./scripts/schedule-dates.test.js ]; then
             node --test ./scripts/schedule-dates.test.js
           fi
+          if [ -f ./scripts/generate-mdx-content.test.js ]; then
+            node --test ./scripts/generate-mdx-content.test.js
+          fi
 
       - name: Validate the submission
         env:
