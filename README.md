@@ -396,6 +396,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): $39.99 → $26.99 USD on iOS. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 💪 | [RepCount](https://www.repcountapp.com/black-friday) | Gym workout tracker for iPhone and Android. Unlimited workouts, routines and custom exercises are free; Premium adds detailed progress charts, records for every rep range, exercise history mid-workout and CSV export. | **50% OFF** the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US. Applied in the app (banner, popup and Premium screen), no code needed. Local prices vary. Starts on 2026-11-22 | 2026-12-02 |
 
 
 ### Hobby & Lifestyle
@@ -769,6 +770,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧬 | [PepFlow](https://pepflow.app) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): iOS $39.99 → $26.99 USD; Android $31.99 → $20.99 USD. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
+| 💪 | [RepCount](https://www.repcountapp.com/black-friday) | Gym workout tracker for iPhone and Android. Unlimited workouts, routines and custom exercises are free; Premium adds detailed progress charts, records for every rep range, exercise history mid-workout and CSV export. | **50% OFF** the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US. Applied in the app (banner, popup and Premium screen), no code needed. Local prices vary. Starts on 2026-11-22 | 2026-12-02 |
 
 
 ### Web Apps
