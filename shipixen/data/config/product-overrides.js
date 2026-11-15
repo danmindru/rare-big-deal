@@ -314,5 +314,9 @@ module.exports = {
       logo: 'public/static/images/overrides/own-page/logo.png',
       ogImage: 'public/static/images/overrides/own-page/og-image.png',
     },
+    // Gumroad's favicon for FlexiBackup is the maker's photo. This is the official 512px app icon from flexibackup.swiftsenpai.com.
+    flexibackup: {
+      logo: 'public/static/images/overrides/flexibackup/logo.png',
+    },
   },
 };
