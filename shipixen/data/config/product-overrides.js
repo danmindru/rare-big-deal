@@ -112,8 +112,10 @@ module.exports = {
     },
     // The deal page is a Cloudflare challenge, and the apple-touch icon fetch
     // failed, which left a 48px favicon. Keep the reviewed 180px icon.
+    // The banner is a reviewed 1200x630 screenshot of the product homepage.
     voksha: {
       logo: 'public/static/images/overrides/voksha/logo.png',
+      ogImage: 'public/static/images/overrides/voksha/og-image.png',
     },
     // rapstarstudio.com publishes no og:image, and its only icon is an SVG.
     // The banner is a screenshot of the product homepage. The logo is that SVG, rasterized.
@@ -185,6 +187,21 @@ module.exports = {
     // indiegoodies.com/typefu uses the square app icon as og:image. This is a screenshot of the product page.
     typefu: {
       ogImage: 'public/static/images/overrides/typefu/og-image.png',
+    },
+    // getneotiler.com answered with a Cloudflare "Performing security verification"
+    // page. The banner is a reviewed 1200x630 screenshot of the product homepage.
+    neotiler: {
+      ogImage: 'public/static/images/overrides/neotiler/og-image.png',
+    },
+    // superdevpro.com answered with a Cloudflare "Performing security verification"
+    // page. The banner is a reviewed 1200x630 screenshot of the product homepage.
+    'superdev-pro': {
+      ogImage: 'public/static/images/overrides/superdev-pro/og-image.png',
+    },
+    // labex.io answered with a Cloudflare "Performing security verification"
+    // page. The banner is a reviewed 1200x630 screenshot of the product homepage.
+    'labex-pro': {
+      ogImage: 'public/static/images/overrides/labex-pro/og-image.png',
     },
   },
 };

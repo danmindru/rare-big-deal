@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
+const { BotChallengeError, detectBotChallenge } = require('./lib/bot-challenge');
 const { decodeIco } = require('./lib/ico');
 const { AddressRejected } = require('./lib/public-address');
 const { guardedFetch } = require('./lib/guarded-fetch');
@@ -74,8 +75,24 @@ async function downloadImageCore(url, outputPath, options = {}) {
     });
   }
 
+  if (!response) {
+    throw new Error('HTTP error');
+  }
+  const kind = response.body ? mediaKind(response.body) : null;
+  const challengeText =
+    response.body && (!kind || kind === 'html' || kind === 'svg')
+      ? response.body.toString('utf8')
+      : '';
+  const challenge = detectBotChallenge({
+    headers: response.headers,
+    body: challengeText,
+  });
+  if (challenge.challenged) {
+    throw new BotChallengeError(challenge);
+  }
+
   console.log(`[Image Downloader] 📡 HTTP ${response.status} for: ${url}`);
-  if (!response || response.status >= 400) {
+  if (response.status >= 400) {
     throw new Error(`HTTP ${response.status || 'error'}`);
   }
   if (!response.body || response.body.length === 0) {
@@ -112,7 +129,7 @@ async function downloadImage(url, outputPath, options = {}) {
       return result;
     } catch (error) {
       lastError = error;
-      if (error instanceof AddressRejected) {
+      if (error instanceof AddressRejected || error instanceof BotChallengeError) {
         console.error(`[Image Downloader] ❌ Blocked ${url}: ${error.message}`);
         return false;
       }
