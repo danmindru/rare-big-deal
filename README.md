@@ -140,6 +140,7 @@ Free & open-source.
 | 🛡️ | [Guard by OffSeq](https://guard.report/monitoring) | Website security and NIS2/GDPR compliance check covering TLS, security headers, DNS and SPF/DKIM/DMARC, with prioritised reports and continuous monitoring. | **50% OFF** the full report and the first month of monitoring, applied automatically: Full report €39.90 → €19.95, monitoring €25 → €12.50 first month per domain (incl. 21% VAT) | 2026-12-01 |
 | 💻 | [OffSeq Pulse](https://pulse.offseq.com/pricing) | EU-hosted device posture for Windows, macOS and Linux that checks 12 hardening controls mapped to NIS2, CIS v8.1 and Latvian Cabinet Regulation No. 397, with one-click fixes and audit evidence. | **50% OFF** the first year or first month for new customers, applied automatically: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT); first 2 devices free | 2026-12-02 |
 | 🚀 | [Aikeedo](https://aikeedo.com/black-friday/) | Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform. | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus **$100 OFF** the first year of All-Access. Applied automatically, no code. Starts on 2026-11-24 | 2026-12-01 |
+| 🤖 | [HiAPI](https://hiapi.ai/en/promotions/black-friday-2026) | Pay-as-you-go API with one key for image, video, audio and text models such as GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok and Qwen; OpenAI-compatible Responses and Chat Completions for text, asynchronous task APIs for media, per-model pricing and automatic refunds on failed tasks. | **Up to 30% more** on top-ups: top up $500 and get up to $650 (up to 10% bonus per top-up, up to 20% back on image/video/audio usage); accounts with a paid top-up get 10M DeepSeek V4.1 Flash tokens per day. No code needed. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Browser Extensions
@@ -286,6 +287,9 @@ Free & open-source.
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🪟 | [BetterStage](https://betterstage.app/pricing) | Native macOS window and workspace manager: named Stages across all your monitors, TabStack auto-tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. Free tier; Pro is a one-time purchase. | **20% OFF** lifetime Pro with code **BLACKFRIDAY20** at checkout: 1 Mac $19.99 → $15.99, 3 Macs $39.99 → $31.99, 5 Macs $49.99 → $39.99. Starts on 2026-11-23 | 2026-11-30 |
 | 📋 | [CopyPasta](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch: encrypted clipboard history, Paste Stack and more. One-time purchase. | **50% OFF** all licenses, applied automatically at checkout or with code **BLACKFRIDAY26**: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20 | 2026-12-06 |
+| 📋 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad. Keeps everything you copy searchable, organized and synced through iCloud. | **50% OFF** the standalone Mac version with code **INDIEGOODIESBF26** ($14.99 → $7.49, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
+| ⚡ | [Almighty](https://indiegoodies.com/almighty) | 107 tweaks and tools for macOS in one native app: window snapping, hidden settings, shortcuts and more. | **50% OFF** the standalone version with code **INDIEGOODIESBF26** ($14.99 → $7.49, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
+| 🔍 | [FileMinutes](https://www.fileminutes.com/) | A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout | 2026-11-30 |
 
 
 ### Design Tools
@@ -313,6 +317,8 @@ Free & open-source.
 | 🌳 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Text outliner for nonlinear thinking: the same notes as a list or as a sideways tree. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $14.99 → $10.49, Lifetime $29.99 → $20.99, one-time purchase | 2026-11-30 |
 | ✍️ | [Plus AI](https://noteifyapp.com/plus-ai/) | AI text assistant: compose emails, improve, summarize and translate text in any app. Works with your own OpenAI API key. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: Lifetime $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | ✍️ | [RewriteBar](https://rewritebar.com/black-friday) | Mac menu bar app that rewrites selected text with AI in any app: fix grammar, adjust tone, translate and summarize. Works with built-in AI or your own API key. | **50% OFF** with code **BF2026**, applied automatically on the Black Friday page: Standard lifetime license ~~$29~~ $14.50, one-time purchase | 2026-12-03 |
+| ⌨️ | [Typefu](https://indiegoodies.com/typefu) | Text expander for Mac: snippets, fill-in templates and AI actions on selected text. | **50% OFF** Typefu Pro with code **INDIEGOODIESBF26** ($7.99 → $3.99, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
+| ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 
 
 ### Menu Bar & More
@@ -331,6 +337,7 @@ Free & open-source.
 | 🖱️ | [WheelClick](https://wheelclick.app/) | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Three-finger click and tap on the trackpad are free forever. From the maker of MiddleClick. | **50% OFF** the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Starts on 2026-11-20 | 2026-12-03 |
 | 🧹 | [SiftMac](https://siftmac.com/pricing) | Mac disk cleaner that says, for every item, whether it comes back before deleting it. Anything that can't rebuild waits 7 days on an Undo Shelf. One-time purchase for 2 Macs. | **25% OFF** the Founding licence ($12 → $9, one-time purchase), no code needed. Starts on 2026-11-27 | 2026-11-30 |
 | 🔀 | [Defaultify](https://defaultify.app/) | Choose which app opens every file type and link on your Mac, and get told when an installer quietly changes one. Also on Android. One-time purchase, no subscription. | **50% OFF** Pro with code **INDIE50** ($6.99 → $3.49). Starts on 2026-11-27 | 2026-12-01 |
+| 📅 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month and agenda views, world clocks, and a countdown with one-click join for your next meeting. | **50% OFF** with code **INDIEGOODIESBF26** ($7.99 → $3.99, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -363,6 +370,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
+| ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 
 
 ### Productivity
@@ -396,6 +404,9 @@ Free & open-source.
 | - | - | - | - | - |
 | 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): $39.99 → $26.99 USD on iOS. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 🌧️ | [Sleep Sounds](https://apps.apple.com/us/app/sleep-sounds/id390555459) | Mix 36 looping nature and ambient sounds (rain, ocean waves, café and more), each at its own volume, with a sleep timer. For iOS, iPadOS and macOS. | **80% OFF** the one-time purchase ($4.99 → $0.99 USD). No code required. Starts on 2026-11-26 | 2026-11-30 |
+| 🎹 | [Sleep Songs](https://apps.apple.com/us/app/sleep-songs/id481128551) | 12 calm, professionally recorded songs that loop, playlists by minutes or loops, and a sleep timer. For iOS, iPadOS and macOS. | **80% OFF** the one-time purchase ($4.99 → $0.99 USD). No code required. Starts on 2026-11-26 | 2026-11-30 |
+| 💪 | [RepCount](https://www.repcountapp.com/black-friday) | Gym workout tracker for iPhone and Android. Unlimited workouts, routines and custom exercises are free; Premium adds detailed progress charts, records for every rep range, exercise history mid-workout and CSV export. | **50% OFF** the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US. Applied in the app (banner, popup and Premium screen), no code needed. Local prices vary. Starts on 2026-11-22 | 2026-12-02 |
 
 
 ### Hobby & Lifestyle
@@ -512,6 +523,7 @@ Free & open-source.
 | 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime ($79 → $39.50) with code **SIDEBARBF50** | 2026-12-07 |
 | ⌨️ | [SimpleFill](https://simplefill.app) | Text expansion, AI actions, and one-click form filling in your browser. Type a shortcut to expand snippets, or fill a whole form in one go. Works in Chrome, Firefox, Edge, and Safari. | **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) with code **LAUNCH**, on the Chrome, Firefox, and Edge checkout | 2026-12-07 |
 | 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026** | 2026-12-02 |
+| 🔖 | [Bookmark Manager + Quick Search](https://devapt.com/bookmark-manager/) | The bookmark manager built for power users. Lightning-fast spotlight search, smart matching, and advanced organization — all without leaving your current page. | **30% OFF** lifetime license using **30BF2026** | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -769,6 +781,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🧬 | [PepFlow](https://pepflow.app) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF** the first year of the annual plan: $29.99 → $14.99 USD. Applied in the app, no code needed. Starts on 2026-11-20; ends December 1, 2026 | 2026-12-01 |
 | 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): iOS $39.99 → $26.99 USD; Android $31.99 → $20.99 USD. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
+| 💪 | [RepCount](https://www.repcountapp.com/black-friday) | Gym workout tracker for iPhone and Android. Unlimited workouts, routines and custom exercises are free; Premium adds detailed progress charts, records for every rep range, exercise history mid-workout and CSV export. | **50% OFF** the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US. Applied in the app (banner, popup and Premium screen), no code needed. Local prices vary. Starts on 2026-11-22 | 2026-12-02 |
 
 
 ### Web Apps
