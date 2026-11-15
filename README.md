@@ -512,6 +512,7 @@ Free & open-source.
 | 📌 | [SupaSidebar](https://supasidebar.com) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime ($79 → $39.50) with code **SIDEBARBF50** | 2026-12-07 |
 | ⌨️ | [SimpleFill](https://simplefill.app) | Text expansion, AI actions, and one-click form filling in your browser. Type a shortcut to expand snippets, or fill a whole form in one go. Works in Chrome, Firefox, Edge, and Safari. | **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) with code **LAUNCH**, on the Chrome, Firefox, and Edge checkout | 2026-12-07 |
 | 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026** | 2026-12-02 |
+| 🔖 | [Bookmark Manger+Quick Search](https://devapt.com/bookmark-manager/?utm_source=rbd-bf26) | The bookmark manager built for power users. Lightning-fast spotlight search, smart matching, and advanced organization — all without leaving your current page. | **30% OFF** lifetime license using **30BF2026**  | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
