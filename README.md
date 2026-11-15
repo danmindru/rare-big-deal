@@ -235,6 +235,7 @@ Free & open-source.
 | 🌐 | [WebDAV Lite](https://apps.apple.com/app/id6779282964) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**. Limited to 5,000 redemptions. Starts on 2026-11-26 | 2026-12-01 |
 | 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 | 🎯 | [ContextClip](https://noteifyapp.com/contextclip/) | Point at a control, press one shortcut, and paste the screenshot plus its accessibility structure into Claude Code, Cursor or Codex. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
+| ⌨️ | [AtAt](https://atatapp.com/black-friday) | @ for people. @@ for AI. Type @@ in any Mac text field to ask Claude Code, Codex, Ollama, your own API key or Siri AI with screen, clipboard and Finder context, plus an atat CLI for terminal agents. Apple silicon, macOS 15+, 14-day trial. | **47% OFF** Lifetime ($169 → $89, one-time purchase) and **$20 OFF** the first year of Yearly ($59 → $39, then $59/yr). Applied automatically at checkout, no code needed. Starts on 2026-11-24 | 2026-12-01 |
 
 ### Productivity
 
