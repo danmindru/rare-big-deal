@@ -233,7 +233,9 @@ module.exports = {
       ogImage: 'public/static/images/overrides/okaytab/og-image.png',
     },
     // robofy.ai's published share image is a 535x516 graphic. The banner is a reviewed 1200x630 screenshot of the product page.
+    // The site's current favicon is 32px. This is the earlier official 180px app icon.
     robofy: {
+      logo: 'public/static/images/overrides/robofy/logo.png',
       ogImage: 'public/static/images/overrides/robofy/og-image.png',
     },
     // compresto.app/pricing publishes no og:image. The banner is a reviewed 1200x630 screenshot of the pricing page.
@@ -317,6 +319,42 @@ module.exports = {
     // Gumroad's favicon for FlexiBackup is the maker's photo. This is the official 512px app icon from flexibackup.swiftsenpai.com.
     flexibackup: {
       logo: 'public/static/images/overrides/flexibackup/logo.png',
+    },
+    // The site's current favicon is 48px. This is the earlier official 256px app icon.
+    almighty: {
+      logo: 'public/static/images/overrides/almighty/logo.png',
+    },
+    // The site's current favicon is 64px. This is the earlier official 180px app icon.
+    copypasta: {
+      logo: 'public/static/images/overrides/copypasta/logo.png',
+    },
+    // The site's current favicon is 48px. This is the earlier official 180px app icon.
+    cutfac: {
+      logo: 'public/static/images/overrides/cutfac/logo.png',
+    },
+    // The site's current favicon is 48px. This is the earlier official 180px app icon.
+    'let-s-trip': {
+      logo: 'public/static/images/overrides/let-s-trip/logo.png',
+    },
+    // The site's current favicon is 64px. This is the earlier official 180px app icon.
+    looq: {
+      logo: 'public/static/images/overrides/looq/logo.png',
+    },
+    // The site's current favicon is 48px. This is the earlier official 256px app icon.
+    pastepal: {
+      logo: 'public/static/images/overrides/pastepal/logo.png',
+    },
+    // The site's current favicon is 48px. This is the earlier official 180px app icon.
+    starlie: {
+      logo: 'public/static/images/overrides/starlie/logo.png',
+    },
+    // atatapp.com's auto banner is a page screenshot partly covered by a cookie banner. This is the official 1200x630 og.png.
+    atat: {
+      ogImage: 'public/static/images/overrides/atat/og-image.png',
+    },
+    // radiantly.space/pricing publishes no og:image. This is the official 1200x630 homepage card.
+    radiantly: {
+      ogImage: 'public/static/images/overrides/radiantly/og-image.png',
     },
   },
 };
