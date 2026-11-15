@@ -2,6 +2,8 @@ const { spawn } = require('child_process');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
+const { challengeBannerReason, detectBotChallenge, titleFromHtml } = require('./bot-challenge');
+const { guardedFetch } = require('./guarded-fetch');
 const { inspectMedia } = require('./media-bytes');
 const { createPublicProxy } = require('./public-proxy');
 const { vetUrl } = require('./public-address');
@@ -14,8 +16,20 @@ function chromeBin() {
 
 function runProcess(spawnImpl, bin, args, timeoutMs, outputPath) {
   return new Promise((resolve, reject) => {
-    const child = spawnImpl(bin, args, { stdio: 'ignore', detached: true });
+    const child = spawnImpl(bin, args, {
+      stdio: ['ignore', 'pipe', 'ignore'],
+      detached: true,
+    });
     if (child && typeof child.unref === 'function') child.unref();
+    const chunks = [];
+    let stdoutBytes = 0;
+    if (child && child.stdout && typeof child.stdout.on === 'function') {
+      child.stdout.on('data', (chunk) => {
+        stdoutBytes += chunk.length;
+        if (stdoutBytes <= 2_000_000) chunks.push(chunk);
+      });
+    }
+    const stdout = () => (chunks.length ? Buffer.concat(chunks).toString('utf8') : '');
     let settled = false;
     let lastSize = -1;
     const finish = (error, result) => {
@@ -24,7 +38,7 @@ function runProcess(spawnImpl, bin, args, timeoutMs, outputPath) {
       clearTimeout(timer);
       clearInterval(poll);
       if (error) reject(error);
-      else resolve(result);
+      else resolve({ stdout: stdout(), ...result });
     };
     const kill = () => {
       if (!child || !child.pid) return;
@@ -52,8 +66,39 @@ function runProcess(spawnImpl, bin, args, timeoutMs, outputPath) {
       lastSize = size;
     }, 300);
     child.on('error', (error) => finish(error));
-    child.on('exit', () => finish(null, { timedOut: false }));
+    child.on('exit', () => setImmediate(() => finish(null, { timedOut: false })));
   });
+}
+
+function refusedChallenge(result) {
+  return {
+    ok: false,
+    source: null,
+    inspection: {
+      ok: false,
+      status: 'fail',
+      reason: challengeBannerReason(result),
+    },
+  };
+}
+
+async function readPageSignals(url, options) {
+  if (options.page) return options.page;
+  const response =
+    typeof options.fetchPage === 'function'
+      ? await options.fetchPage(url)
+      : await guardedFetch(url, {
+          timeoutMs: options.timeoutMs || 15000,
+          maxBytes: 2_000_000,
+          headers: { accept: 'text/html,application/xhtml+xml' },
+          lookup: options.lookup,
+        });
+  const body = response && response.body ? response.body.toString('utf8') : '';
+  return {
+    headers: response && response.headers,
+    title: response && response.title ? response.title : titleFromHtml(body),
+    body,
+  };
 }
 
 /**
@@ -66,6 +111,16 @@ async function captureWebsiteScreenshot(options) {
   const outputPath = options.outputPath;
   const width = options.width || WINDOW.width;
   const height = options.height || WINDOW.height;
+  try {
+    const signals = await readPageSignals(vetted.url.href, options);
+    const challenge = detectBotChallenge(signals || {});
+    if (challenge.challenged) {
+      if (outputPath && fs.existsSync(outputPath)) fs.rmSync(outputPath, { force: true });
+      return refusedChallenge(challenge);
+    }
+  } catch {
+    // A failed preflight still tries the browser. The rendered DOM is checked below.
+  }
   const proxy = await createPublicProxy({
     lookup: options.lookup,
     connectImpl: options.connectImpl,
@@ -98,16 +153,25 @@ async function captureWebsiteScreenshot(options) {
       '--hide-scrollbars',
       '--virtual-time-budget=8000',
       '--timeout=15000',
+      '--dump-dom',
       `--screenshot=${outputPath}`,
       vetted.url.href,
     ];
-    await runProcess(
+    const outcome = await runProcess(
       spawnImpl,
       options.chromePath || chromeBin(),
       args,
       options.timeoutMs || 25000,
       outputPath,
     );
+    const rendered = detectBotChallenge({
+      title: titleFromHtml(outcome && outcome.stdout),
+      body: outcome && outcome.stdout,
+    });
+    if (rendered.challenged) {
+      if (outputPath && fs.existsSync(outputPath)) fs.rmSync(outputPath, { force: true });
+      return refusedChallenge(rendered);
+    }
     if (!fs.existsSync(outputPath)) {
       return {
         ok: false,

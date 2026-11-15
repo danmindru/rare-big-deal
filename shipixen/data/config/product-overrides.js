@@ -186,5 +186,15 @@ module.exports = {
     typefu: {
       ogImage: 'public/static/images/overrides/typefu/og-image.png',
     },
+    // getneotiler.com answered with a Cloudflare "Performing security verification"
+    // page. The banner is a reviewed 1200x630 screenshot of the product homepage.
+    neotiler: {
+      ogImage: 'public/static/images/overrides/neotiler/og-image.png',
+    },
+    // superdevpro.com answered with a Cloudflare "Performing security verification"
+    // page. The banner is a reviewed 1200x630 screenshot of the product homepage.
+    'superdev-pro': {
+      ogImage: 'public/static/images/overrides/superdev-pro/og-image.png',
+    },
   },
 };

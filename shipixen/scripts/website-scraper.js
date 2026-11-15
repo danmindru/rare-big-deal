@@ -1,5 +1,6 @@
 const cheerio = require('cheerio');
 const { guardedFetch } = require('./lib/guarded-fetch');
+const { detectBotChallenge } = require('./lib/bot-challenge');
 const { extractAppStoreImages } = require('./appstore');
 const { sanitizeTitle } = require('./favicon-extractor');
 
@@ -88,7 +89,7 @@ function extractJsonLd($) {
  * @param {string} website - The URL of the website to scrape
  * @returns {Promise<object>} - Object containing og:image, description, title, etc.
  */
-async function fetchWebsiteData(website) {
+async function fetchWebsiteData(website, options = {}) {
   console.log(`\n[Website Scraper] 🌐 Fetching data from: ${website}`);
   const startTime = Date.now();
 
@@ -99,16 +100,14 @@ async function fetchWebsiteData(website) {
   try {
     console.log('[Website Scraper] 📡 Making HTTP request...');
     const response = await guardedFetch(website, {
-      timeoutMs: 15000,
-      maxBytes: 2_000_000,
+      timeoutMs: options.timeoutMs || 15000,
+      maxBytes: options.maxBytes || 2_000_000,
       headers: { accept: 'text/html,application/xhtml+xml' },
+      lookup: options.lookup,
+      requestImpl: options.requestImpl,
     });
-    if (response.status >= 400) {
-      throw new Error(`HTTP ${response.status}`);
-    }
-
-    console.log(`[Website Scraper] ✅ HTTP ${response.status} - Parsing HTML...`);
-    const $ = cheerio.load(response.body.toString('utf8'));
+    const html = response.body ? response.body.toString('utf8') : '';
+    const $ = cheerio.load(html);
 
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
     let ogImageUrls = []; // Array for multiple images
@@ -135,6 +134,21 @@ async function fetchWebsiteData(website) {
     // Sanitize the title
     title = sanitizeTitle(title);
 
+    const botChallenge = detectBotChallenge({
+      headers: response.headers,
+      title,
+      body: html,
+    });
+    if (response.status >= 400 && !botChallenge.challenged) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    if (botChallenge.challenged) {
+      console.warn(
+        `[Website Scraper] ⚠️  Bot challenge page: ${botChallenge.reason}`,
+      );
+    }
+
+    console.log(`[Website Scraper] ✅ HTTP ${response.status} - Parsing HTML...`);
     console.log(`[Website Scraper] 📝 Extracted title: "${title}"`);
     console.log(`[Website Scraper] 📄 Extracted description: "${description?.substring(0, 100)}${description?.length > 100 ? '...' : ''}"`);
 
@@ -183,6 +197,7 @@ async function fetchWebsiteData(website) {
       description,
       title,
       jsonLd: jsonLdData, // Include JSON-LD data
+      botChallenge,
     };
   } catch (error) {
     const elapsed = Date.now() - startTime;
@@ -198,6 +213,7 @@ async function fetchWebsiteData(website) {
       description,
       title,
       jsonLd: null,
+      botChallenge: null,
     };
   }
 }

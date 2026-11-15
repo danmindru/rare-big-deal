@@ -80,7 +80,14 @@ describe('homepage showcase dedupe', () => {
     ]);
     assert.equal(visible[0].name, 'Best Apps');
     assert.equal(visible[0].placement, 'top');
-    assert.deepEqual(visible[0].apps, ['Page AI', 'Saventify', 'Sip']);
+    assert.deepEqual(visible[0].apps, [
+      'Page AI',
+      'Saventify',
+      'Sip',
+      'Sequenzy',
+      'Kinsta',
+      'Darkroom',
+    ]);
     assert.deepEqual(visible[0].apps.slice(0, 2), ['Page AI', 'Saventify']);
     const seen = new Set();
     for (const pack of visible) {
@@ -100,6 +107,10 @@ describe('homepage showcase dedupe', () => {
     );
     assert.equal(
       visible.some((pack) => pack.apps.includes('Saventify') && pack.name !== 'Best Apps'),
+      false,
+    );
+    assert.equal(
+      visible.some((pack) => pack.apps.includes('Sequenzy') && pack.name !== 'Best Apps'),
       false,
     );
     const order = homepageCategoryOrder(['Learning', 'AI Tools', 'Miscellaneous']);

@@ -381,6 +381,7 @@ async function fetchAssets(app, deps = {}) {
       description,
       title,
       jsonLd,
+      botChallenge,
     } = await loadSite(website);
 
     // Log the fetched title
@@ -424,13 +425,14 @@ async function fetchAssets(app, deps = {}) {
             publish.urlFor(historicalBanner, 'og-image.png'),
           );
         } else {
-          const banner = await ensureBanner({ imagePath: bannerChoice.file, website });
+          const banner = await ensureBanner({ imagePath: bannerChoice.file, website, botChallenge });
           rememberUsableBanner(app, productName, banner, publish.urlFor(bannerChoice.file, 'og-image.png'));
         }
       } else {
         const banner = await ensureBanner({
           imagePath: bannerChoice.file,
           website,
+          botChallenge,
         });
         rememberUsableBanner(app, productName, banner, publish.urlFor(bannerChoice.file, 'og-image.png'));
       }
