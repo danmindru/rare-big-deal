@@ -396,6 +396,8 @@ Free & open-source.
 | - | - | - | - | - |
 | 🐣 | [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game: walk to your daily goal to hatch an egg and collect Beasts. | **33% OFF** Pro Lifetime (one-time, IAP): $39.99 → $26.99 USD on iOS. Applied automatically in the app, no code needed. Local prices vary. | 2026-11-30 |
 | 🌫️ | [Kiri](https://trykiri.app/) | A screen time app that never locks you out. When your time is up, mist covers the screen; wipe it away, take a breath, and decide. For iPhone, Android and Mac. One-time purchase, no subscription. | **50% OFF** Kiri Pro ($9.99 → $4.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 🌧️ | [Sleep Sounds](https://apps.apple.com/us/app/sleep-sounds/id390555459) | Mix 36 looping nature and ambient sounds (rain, ocean waves, café and more), each at its own volume, with a sleep timer. For iOS, iPadOS and macOS. | **80% OFF** the one-time purchase ($4.99 → $0.99 USD). No code required. Starts on 2026-11-26 | 2026-11-30 |
+| 🎹 | [Sleep Songs](https://apps.apple.com/us/app/sleep-songs/id481128551) | 12 calm, professionally recorded songs that loop, playlists by minutes or loops, and a sleep timer. For iOS, iPadOS and macOS. | **80% OFF** the one-time purchase ($4.99 → $0.99 USD). No code required. Starts on 2026-11-26 | 2026-11-30 |
 
 
 ### Hobby & Lifestyle
