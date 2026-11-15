@@ -12,8 +12,54 @@ const fs = require('fs');
 const path = require('path');
 const { getLeaderboardPosition } = require('./leaderboard-utils');
 
+// HTML void elements. README deal cells may use `<br>`; MDX requires `<br />`.
+const VOID_HTML_TAGS = [
+  'area',
+  'base',
+  'br',
+  'col',
+  'embed',
+  'hr',
+  'img',
+  'input',
+  'link',
+  'meta',
+  'param',
+  'source',
+  'track',
+  'wbr',
+];
+
+const VOID_TAG_SOURCE = VOID_HTML_TAGS.join('|');
+const VOID_OPEN_TAG = new RegExp(
+  `<(${VOID_TAG_SOURCE})(\\s+[^<>]*?)?\\s*/?>`,
+  'gi',
+);
+const VOID_CLOSE_TAG = new RegExp(`</(${VOID_TAG_SOURCE})\\s*>`, 'gi');
+
+function replaceVoidTags(text) {
+  return text
+    .replace(VOID_CLOSE_TAG, '')
+    .replace(VOID_OPEN_TAG, (_, tag, attrs = '') => {
+      const cleaned = String(attrs)
+        .replace(/\s*\/\s*$/, '')
+        .trim();
+      const name = String(tag).toLowerCase();
+      return cleaned ? `<${name} ${cleaned} />` : `<${name} />`;
+    });
+}
+
+function normalizeVoidHtmlTags(value) {
+  if (typeof value !== 'string' || value === '') return value;
+  return value
+    .split(/(```[\s\S]*?```|`[^`\n]*`)/g)
+    .map((part, index) => (index % 2 === 1 ? part : replaceVoidTags(part)))
+    .join('');
+}
+
 function plainText(value) {
-  if (Array.isArray(value)) return value.map(plainText).filter(Boolean).join(', ');
+  if (Array.isArray(value))
+    return value.map(plainText).filter(Boolean).join(', ');
   if (value && typeof value === 'object') {
     return plainText(value.name || value['@value'] || '');
   }
@@ -27,15 +73,19 @@ function buildMDXContent(app) {
     sanitizeName(app.name),
   );
   const {
-    description,
-    metaDescription,
-    metaTitle,
+    description: rawDescription,
+    metaDescription: rawMetaDescription,
+    metaTitle: rawMetaTitle,
     website,
-    deal,
+    deal: rawDeal,
     expiresOnDate,
     validFromDate,
   } = applyMetaOverrides(sanitizeName(app.name), app);
-  const startDate = (validFromDate || validFromDateInDeal(deal) || '').trim();
+  const startDate = (
+    validFromDate ||
+    validFromDateInDeal(rawDeal) ||
+    ''
+  ).trim();
   const endDate = (expiresOnDate || '').trim();
   try {
     assertStartOnOrBeforeEnd(startDate, endDate);
@@ -47,12 +97,19 @@ function buildMDXContent(app) {
   const jsonLd = app.jsonLd || {};
   const hasJsonLd = jsonLd && Object.keys(jsonLd).length > 0;
 
+  // README is HTML. Self-close void tags before they are written into MDX.
+  const description = normalizeVoidHtmlTags(rawDescription);
+  const metaDescription = normalizeVoidHtmlTags(rawMetaDescription);
+  const metaTitle = normalizeVoidHtmlTags(rawMetaTitle);
+  const deal = normalizeVoidHtmlTags(rawDeal);
+
   // Use JSON-LD description if available, append meta description
   let finalDescription = description?.trim() || '';
   if (hasJsonLd && jsonLd.description) {
     finalDescription = jsonLd.description.trim();
     // improve formatting of bullets for markdown
     finalDescription = finalDescription.replace(/•/g, '-');
+    finalDescription = normalizeVoidHtmlTags(finalDescription);
   }
 
   let mdxContent = `---
@@ -215,4 +272,8 @@ async function generateMDXContent(app, directory = markdownDir) {
   );
 }
 
-module.exports = { buildMDXContent, generateMDXContent };
+module.exports = {
+  buildMDXContent,
+  generateMDXContent,
+  normalizeVoidHtmlTags,
+};
