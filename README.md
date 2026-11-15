@@ -290,6 +290,7 @@ Free & open-source.
 | 📋 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad. Keeps everything you copy searchable, organized and synced through iCloud. | **50% OFF** the standalone Mac version with code **INDIEGOODIESBF26** ($14.99 → $7.49, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 | ⚡ | [Almighty](https://indiegoodies.com/almighty) | 107 tweaks and tools for macOS in one native app: window snapping, hidden settings, shortcuts and more. | **50% OFF** the standalone version with code **INDIEGOODIESBF26** ($14.99 → $7.49, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 | 🔍 | [FileMinutes](https://www.fileminutes.com/) | A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout | 2026-11-30 |
+| 💾 | [FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Back up your iPhone and iPad straight to an external drive on Mac, freeing up Mac storage and relying less on iCloud. | **50% OFF** one-time purchase ($5.99 → $2.99) with code **BLACK2026** | 2026-12-06 |
 
 
 ### Design Tools
