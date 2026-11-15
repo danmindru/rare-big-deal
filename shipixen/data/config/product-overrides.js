@@ -182,5 +182,9 @@ module.exports = {
     'bookmark-manager-quick-search': {
       logo: 'public/static/images/overrides/bookmark-manager-quick-search/logo.png',
     },
+    // indiegoodies.com/typefu uses the square app icon as og:image. This is a screenshot of the product page.
+    typefu: {
+      ogImage: 'public/static/images/overrides/typefu/og-image.png',
+    },
   },
 };
