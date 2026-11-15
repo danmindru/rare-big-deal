@@ -170,5 +170,17 @@ module.exports = {
       logo: 'public/static/images/overrides/wireless-operator/logo.png',
       ogImage: 'public/static/images/overrides/wireless-operator/og-image.png',
     },
+    // cloisterink.com has no icon. This is the official 512px App Store icon.
+    'cloister-ink': {
+      logo: 'public/static/images/overrides/cloister-ink/logo.png',
+    },
+    // fileminutes.com links a 32px favicon. This is the official 192px app icon from the site.
+    fileminutes: {
+      logo: 'public/static/images/overrides/fileminutes/logo.png',
+    },
+    // devapt.com serves a small favicon. This is the official 128px Chrome Web Store icon.
+    'bookmark-manager-quick-search': {
+      logo: 'public/static/images/overrides/bookmark-manager-quick-search/logo.png',
+    },
   },
 };
