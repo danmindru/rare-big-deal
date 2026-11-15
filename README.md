@@ -559,6 +559,7 @@ Free & open-source.
 | 🎞️ | [Crisp](https://crispvideo.app/pricing/) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. | **31% OFF**, no code needed. Black Friday sale: $9.99 once, 31% off our November price of $14.50, through December 2. Then $19. One-time purchase | 2026-12-02 |
 | 🎓 | [Colossyan](https://www.colossyan.com/pricing) | AI video and course creation for training teams: turn documents, slides and screen recordings into training videos and interactive courses with AI avatars, in 120+ languages. | **40% OFF** the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59/mo → $35.40/mo billed yearly, extra editors included. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
+| 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
 
 
 ### Social
@@ -604,6 +605,7 @@ Free & open-source.
 | 🎬 | [MotionShine](https://motionshine.com/) | Native Mac screen recorder with auto zoom, smooth cursor, backgrounds, captions and a built-in editor. | **50% OFF** every paid plan with code **BF50** (Pro Forever $99 → $49.50) | 2026-12-05 |
 | 🎥 | [palmscreen](https://www.palmscreen.app/black-friday/) | Screenshots and screen recordings in one Mac app, with auto-zoom, annotations and clean backgrounds. One-time purchase. | **$19** instead of $29 with code **BLACKWEEK**. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [Magic Automa AI](https://www.magicautoma.com/) | Desktop automation for video editors: one-click macros for DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro and OBS. Windows and macOS. | **40% OFF** lifetime licences with code **BLACKFRIDAY2026** (Studio €49.99 → €29.99) | 2026-11-30 |
+| 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
 
 
 ### Marketing
