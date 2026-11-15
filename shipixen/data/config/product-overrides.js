@@ -203,5 +203,116 @@ module.exports = {
     'labex-pro': {
       ogImage: 'public/static/images/overrides/labex-pro/og-image.png',
     },
+    // lidnight.app publishes no og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    lidnight: {
+      ogImage: 'public/static/images/overrides/lidnight/og-image.png',
+    },
+    // apps.apple.com serves the generic Apple favicon. This is the WhaleDeck app icon.
+    whaledeck: {
+      logo: 'public/static/images/overrides/whaledeck/logo.png',
+    },
+    // tableplus.com's apple touch icon is the official 152px elephant. This pins that icon.
+    tableplus: {
+      logo: 'public/static/images/overrides/tableplus/logo.png',
+    },
+    // stratosapp.dev publishes an SVG share image and no favicon. The logo is that mark rasterized, and the banner is a reviewed 1200x630 screenshot of the product page.
+    stratos: {
+      logo: 'public/static/images/overrides/stratos/logo.png',
+      ogImage: 'public/static/images/overrides/stratos/og-image.png',
+    },
+    // wordify.com's favicon.png is 50px. This is the site SVG mark, rasterized.
+    wordify: {
+      logo: 'public/static/images/overrides/wordify/logo.png',
+    },
+    // antshot.com publishes no og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    antshot: {
+      ogImage: 'public/static/images/overrides/antshot/og-image.png',
+    },
+    // okaytab.app/og/okaytab.png was not a usable banner. This is a reviewed 1200x630 screenshot of the product page.
+    okaytab: {
+      ogImage: 'public/static/images/overrides/okaytab/og-image.png',
+    },
+    // robofy.ai's published share image is a 535x516 graphic. The banner is a reviewed 1200x630 screenshot of the product page.
+    robofy: {
+      ogImage: 'public/static/images/overrides/robofy/og-image.png',
+    },
+    // compresto.app/pricing publishes no og:image. The banner is a reviewed 1200x630 screenshot of the pricing page.
+    compresto: {
+      ogImage: 'public/static/images/overrides/compresto/og-image.png',
+    },
+    // files2notion.com links a 32px favicon. This is the official 1024px logo.png from the site.
+    'files-to-notion': {
+      logo: 'public/static/images/overrides/files-to-notion/logo.png',
+    },
+    // keyboardstack.com publishes no og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    keyboardstack: {
+      ogImage: 'public/static/images/overrides/keyboardstack/og-image.png',
+    },
+    // wins.cool's card.png was not a usable banner. This is a reviewed 1200x630 screenshot of the product page.
+    wins: {
+      ogImage: 'public/static/images/overrides/wins/og-image.png',
+    },
+    // duckboard.pro links a 48px favicon. This is the site SVG mark, rasterized.
+    duckboard: {
+      logo: 'public/static/images/overrides/duckboard/logo.png',
+    },
+    // infinidesk.app publishes no og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    infinidesk: {
+      ogImage: 'public/static/images/overrides/infinidesk/og-image.png',
+    },
+    // ubidrop.com links a 48px favicon. This is the site SVG mark, rasterized.
+    ubidrop: {
+      logo: 'public/static/images/overrides/ubidrop/logo.png',
+    },
+    // assignee.app links a 32px favicon. This is the reviewed 128px product icon.
+    assignee: {
+      logo: 'public/static/images/overrides/assignee/logo.png',
+    },
+    // remotr.app publishes the square app icon as og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    remotr: {
+      ogImage: 'public/static/images/overrides/remotr/og-image.png',
+    },
+    // dailytimetracking.com's open-graph.jpg was not a usable banner. This is a reviewed 1200x630 screenshot of the product page.
+    'daily-time-tracking': {
+      ogImage: 'public/static/images/overrides/daily-time-tracking/og-image.png',
+    },
+    // simpleum.com's og-image-en.jpg was not a usable banner. This is a reviewed 1200x630 screenshot of the product page.
+    simpleumsafe: {
+      ogImage: 'public/static/images/overrides/simpleumsafe/og-image.png',
+    },
+    // getjuicy.app links a 48px favicon. This is the reviewed 512px product icon.
+    'juicy-battery': {
+      logo: 'public/static/images/overrides/juicy-battery/logo.png',
+    },
+    // darksleep.app links a 48px favicon and publishes no og:image. The logo is the reviewed sunrise mark, and the banner is a reviewed 1200x630 screenshot of the product page.
+    'dark-sleep': {
+      logo: 'public/static/images/overrides/dark-sleep/logo.png',
+      ogImage: 'public/static/images/overrides/dark-sleep/og-image.png',
+    },
+    // y-pod.app publishes the square app icon as og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    'y-pod': {
+      ogImage: 'public/static/images/overrides/y-pod/og-image.png',
+    },
+    // ujiapps.com publishes the square FastingLady icon as og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    fastinglady: {
+      ogImage: 'public/static/images/overrides/fastinglady/og-image.png',
+    },
+    // par.sawirstudio.com publishes no og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    par: {
+      ogImage: 'public/static/images/overrides/par/og-image.png',
+    },
+    // blogtopin.com links a 48px favicon. This is the official 800px product icon.
+    blogtopin: {
+      logo: 'public/static/images/overrides/blogtopin/logo.png',
+    },
+    // pageduel.com publishes no og:image. The banner is a reviewed 1200x630 screenshot of the product page.
+    pageduel: {
+      ogImage: 'public/static/images/overrides/pageduel/og-image.png',
+    },
+    // own.page serves a 48px icon and publishes no og:image. The logo is the SVG mark rasterized, and the banner is a reviewed 1200x630 screenshot of the product page.
+    'own-page': {
+      logo: 'public/static/images/overrides/own-page/logo.png',
+      ogImage: 'public/static/images/overrides/own-page/og-image.png',
+    },
   },
 };
