@@ -640,6 +640,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+🎁 | [Gleam.io](https://gleam.io/black-friday) | Run giveaways, contests, rewards, email capture campaigns and UGC galleries to grow your audience and generate leads. | Up to 60% OFF: Buy any Competitions plan with yearly billing and get all four Gleam apps for the same price, for as long as your subscription remains active. No code needed. Starts on 2026-11-20 | 2026-12-02
 
 
 ### Other
