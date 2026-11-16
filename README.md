@@ -380,6 +380,7 @@ Free & open-source.
 | 💧 | [Sip](https://sipapp.io) | Modern color picker for Mac: collect, organize, edit and share colors and palettes with your team. | **50% OFF** ($29.99 per seat, 1 year of updates) with code **BLACKFRIDAY26** on Nov 27–29 and code **CYBERMONDAY26** on Nov 30–Dec 2. Starts on 2026-11-27 | 2026-12-02 |
 | 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable. Opens .procreate and .psd files. | **50% OFF** the one-time purchase ($12.99 → $6.49) on the App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🖌️ | [Dabbit](https://dabbit.app/) | Color-managed color picker for Mac: copy colors in any format, build palettes and send them to Figma. | **30% OFF** the one-time license with code **BLACKFRIDAY**, applied at checkout | 2026-12-01 |
+| ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
 
 
 ### Writing & Notes
@@ -426,6 +427,8 @@ Free & open-source.
 | 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**: $4.79 instead of $11.99 on the Mac App Store, no code needed, or $4.80 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
 | 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: $4.00 instead of $9.99 with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs | 2026-12-01 |
 | 👤 | [ProfileLauncher](https://loshadki.app/profilelauncher/) | Open Safari, Chrome, Edge, Brave and Firefox profiles from the menu bar, a keyboard shortcut or Spotlight. | **60% OFF**: $2.00 instead of $4.99 with code **BLACKFRIDAY26**, one-time purchase | 2026-12-01 |
+| 💻 | [LidAwake Pro](https://erstgebaut.de/lidawake/) | Close the lid, your Mac keeps working. Menu bar app with overheat, low-battery and charger-only safeguards; Pro adds Movie on a TV and waits for downloads and video exports to finish. Apple silicon, macOS 13 or later. One-time purchase. | **20% OFF** (€9.99 → €7.99, one-time purchase) with code **RAREBIG20** | 2026-12-03 |
+| ☕ | [DeskRest](https://deskrest.com/offers) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work. | **80% OFF** lifetime licenses with code **BLACKFRIDAY80** | 2026-12-10 |
 
 
 [⬆️ All categories](#table-of-contents)

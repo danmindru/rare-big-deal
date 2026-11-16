@@ -356,5 +356,64 @@ module.exports = {
     radiantly: {
       ogImage: 'public/static/images/overrides/radiantly/og-image.png',
     },
+    // loshadki.app publishes the square app icon as og:image and one 180px horse icon for every app.
+    // The logo is the 1024px ShellHistory icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    shellhistory: {
+      logo: 'public/static/images/overrides/shellhistory/logo.png',
+      ogImage: 'public/static/images/overrides/shellhistory/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 1024px RegExp icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    regexp: {
+      logo: 'public/static/images/overrides/regexp/logo.png',
+      ogImage: 'public/static/images/overrides/regexp/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 1024px RenameNinja icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    renameninja: {
+      logo: 'public/static/images/overrides/renameninja/logo.png',
+      ogImage: 'public/static/images/overrides/renameninja/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 512px SmartInbox icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    smartinbox: {
+      logo: 'public/static/images/overrides/smartinbox/logo.png',
+      ogImage: 'public/static/images/overrides/smartinbox/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 1024px CheckCraft icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    checkcraft: {
+      logo: 'public/static/images/overrides/checkcraft/logo.png',
+      ogImage: 'public/static/images/overrides/checkcraft/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 1024px OpenIn icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    openin: {
+      logo: 'public/static/images/overrides/openin/logo.png',
+      ogImage: 'public/static/images/overrides/openin/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 512px Paddock icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    paddock: {
+      logo: 'public/static/images/overrides/paddock/logo.png',
+      ogImage: 'public/static/images/overrides/paddock/og-image.png',
+    },
+    // The published share image is the square app icon. The logo is the 512px ProfileLauncher icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    profilelauncher: {
+      logo: 'public/static/images/overrides/profilelauncher/logo.png',
+      ogImage: 'public/static/images/overrides/profilelauncher/og-image.png',
+    },
+    // The App Store og:image is a Placeholder icon card, and the page icon is that same mark at 400px.
+    // The logo is the App Store icon. The banner is a reviewed 1200x630 screenshot of the Mac App Store page.
+    qrat: {
+      logo: 'public/static/images/overrides/qrat/logo.png',
+      ogImage: 'public/static/images/overrides/qrat/og-image.png',
+    },
+    // The course og:image is an 800x328 2024 diagram, and the course page video embed fails in headless Chrome.
+    // The banner is a reviewed 1200x630 screenshot of the Modern Security homepage.
+    'modern-security-ai-security-certification': {
+      ogImage: 'public/static/images/overrides/modern-security-ai-security-certification/og-image.png',
+    },
   },
 };
