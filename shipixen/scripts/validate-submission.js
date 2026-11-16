@@ -3,7 +3,7 @@ const path = require('path');
 const { assessEligibility } = require('./lib/eligibility');
 const { machineRecord, upsertRecord } = require('./lib/evidence-record');
 const { inspectMediaFile } = require('./lib/media-bytes');
-const { compareCatalogs, parseCatalog } = require('./lib/readme-catalog');
+const { compareCatalogs, forgivenEmptySectionRemoval, parseCatalog } = require('./lib/readme-catalog');
 const { sanitizeName } = require('./sanitize-name');
 
 const TREE_PATH = path.join(__dirname, '..', 'catalog', 'catalog-tree.json');
@@ -318,6 +318,24 @@ async function inspectIncludedProductMedia(row, mediaRoot) {
   return findings;
 }
 
+function withoutForgivenRemovals(findings, forgiveness) {
+  if (!forgiveness) return findings;
+  const removedTable = ': the deal table was removed.';
+  return findings.filter((finding) => {
+    if (
+      finding.code === 'tree' &&
+      finding.message.startsWith('The category and subcategory tree has to stay as it is')
+    ) {
+      return false;
+    }
+    if (finding.code === 'header' && finding.message.endsWith(removedTable)) {
+      const label = finding.message.slice(0, -removedTable.length);
+      if (forgiveness.labels.has(label)) return false;
+    }
+    return true;
+  });
+}
+
 function checksFromFindings(findings) {
   const checks = {};
   for (const finding of findings) {
@@ -329,7 +347,9 @@ function checksFromFindings(findings) {
 async function validateSubmission(options) {
   const today = options.today || todayUtc();
   const compared = compareCatalogs(options.baseMarkdown, options.headMarkdown);
-  const failures = compared.findings.map((finding) => ({
+  const forgiveness = forgivenEmptySectionRemoval(compared, options.baseTree, options.tree);
+  const findings = withoutForgivenRemovals(compared.findings, forgiveness);
+  const failures = findings.map((finding) => ({
     code: finding.code,
     message: finding.message,
     line: finding.line,
@@ -467,6 +487,7 @@ function parseArgs(argv) {
     else if (arg === '--overrides') out.overrides = argv[++i];
     else if (arg === '--evidence') out.evidence = argv[++i];
     else if (arg === '--ledger') out.ledger = argv[++i];
+    else if (arg === '--head-tree') out.headTree = argv[++i];
     else throw new Error(`unknown argument ${arg}`);
   }
   return out;
@@ -486,6 +507,12 @@ async function main() {
         ? path.join(__dirname, '..', 'data', 'config', 'product-overrides.js')
         : null;
   const overridesSource = overridesFile ? fs.readFileSync(overridesFile, 'utf8') : null;
+  const baseTree = fs.existsSync(TREE_PATH) ? loadTree() : null;
+  const headTree = args.headTree
+    ? JSON.parse(fs.readFileSync(args.headTree, 'utf8'))
+    : args.self
+      ? baseTree
+      : null;
   const result = await validateSubmission({
     baseMarkdown,
     headMarkdown,
@@ -495,7 +522,8 @@ async function main() {
     mediaRoot: args.mediaRoot,
     overridesSource,
     overrideRoot: overridesFile ? path.resolve(path.dirname(overridesFile), '..', '..') : null,
-    tree: args.self ? loadTree() : null,
+    baseTree: headTree ? baseTree : null,
+    tree: headTree,
     recordCatalog: Boolean(args.headSha) || args.self,
   });
 
