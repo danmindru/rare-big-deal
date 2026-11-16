@@ -375,6 +375,7 @@ Free & open-source.
 | 💧 | [Sip](https://sipapp.io) | Modern color picker for Mac: collect, organize, edit and share colors and palettes with your team. | **50% OFF** ($29.99 per seat, 1 year of updates) with code **BLACKFRIDAY26** on Nov 27–29 and code **CYBERMONDAY26** on Nov 30–Dec 2. Starts on 2026-11-27 | 2026-12-02 |
 | 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable. Opens .procreate and .psd files. | **50% OFF** the one-time purchase ($12.99 → $6.49) on the App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🖌️ | [Dabbit](https://dabbit.app/) | Color-managed color picker for Mac: copy colors in any format, build palettes and send them to Figma. | **30% OFF** the one-time license with code **BLACKFRIDAY**, applied at checkout | 2026-12-01 |
+| ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make attractive QR codes that could boost your scan ratio. Hundreds of templates included, highly customizable. | **50%** OFF QRat Pro Lifetime: $9.99 -> $4.99 with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. Starts on 2026-11-16 | 2026-12-01 |
 
 
 ### Writing & Notes
