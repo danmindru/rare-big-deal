@@ -725,6 +725,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📡 | [Radar Lab](https://partnershipintel.com/?utm_source=rarebigdeal#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF Pro yearly**: ~~$299~~ **$99/year**, locked for as long as you stay. No code needed | 2026-11-30 |
 
 
 ### Other
