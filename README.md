@@ -64,7 +64,6 @@ Free & open-source.
   - [Tools](#tools)
   - [Analyze \& Audit](#analyze--audit)
   - [Content Creation](#content-creation-1)
-- [John Rush Extravaganza](#john-rush-extravaganza)
 - [Boilerplates, Starters \& Libraries](#boilerplates-starters--libraries)
   - [React/Next.js](#reactnextjs)
   - [Astro](#astro)
@@ -780,12 +779,6 @@ Free & open-source.
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
-
-## John Rush Extravaganza
-
-| | Name | Description | Deal | Expires on date |
-| - | - | - | - | - |
-
 
 ## Boilerplates, Starters & Libraries
 

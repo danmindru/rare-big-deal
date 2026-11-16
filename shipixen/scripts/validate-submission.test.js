@@ -24,6 +24,7 @@ const { createPublicProxy } = require('./lib/public-proxy');
 const { captureWebsiteScreenshot } = require('./lib/screenshot-fallback');
 const { downloadImage } = require('./image-downloader');
 const { fetchWebsiteData } = require('./website-scraper');
+const { parseCatalog } = require('./lib/readme-catalog');
 const { validateSubmission } = require('./validate-submission');
 
 const FIXTURES = path.join(__dirname, 'fixtures', 'submission');
@@ -37,6 +38,23 @@ function readFixture(name) {
 function codes(items) {
   return items.map((item) => item.code);
 }
+
+function catalogTree(markdown) {
+  return {
+    headings: parseCatalog(markdown).headings.map((heading) => ({
+      level: heading.level,
+      text: heading.text,
+    })),
+  };
+}
+
+const EMPTY_SHELF = `
+
+## Shelf
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+`;
 
 function validate(headName, extra = {}) {
   return validateSubmission({
@@ -641,6 +659,99 @@ describe('screenshot fallback', () => {
       fs.copyFileSync(output, process.env.RBD_LIVE_SCREENSHOT_OUT || output);
     },
   );
+});
+
+describe('empty section removal', () => {
+  test('allows an empty category when the catalog tree drops it and still checks a new product row', async () => {
+    const baseMarkdown = readFixture('base.md') + EMPTY_SHELF;
+    const headMarkdown = readFixture('appended.md');
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(headMarkdown),
+    });
+    assert.deepEqual(codes(result.failures), []);
+    const gamma = result.records.find((record) => record.binding.product === 'Gamma');
+    assert.equal(gamma.checks.discount.status, 'needs-human');
+  });
+
+  test('still reports a product row removed beside an allowed empty category', async () => {
+    const baseMarkdown = readFixture('base.md') + EMPTY_SHELF;
+    const headMarkdown = readFixture('base.md').replace(
+      '| 🛠 | [Beta](https://beta.example) | Another paid tool. | **$20 off** the annual plan | 2026-12-15 |\n',
+      '',
+    );
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(headMarkdown),
+    });
+    assert.deepEqual(codes(result.failures), []);
+    assert.equal(
+      result.warnings.some((item) => item.message.includes('"Beta" was removed')),
+      true,
+    );
+  });
+
+  test('rejects an empty category unless the catalog tree removes it too', async () => {
+    const baseMarkdown = readFixture('base.md') + EMPTY_SHELF;
+    const headMarkdown = readFixture('base.md');
+    const kept = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(baseMarkdown),
+    });
+    assert.ok(codes(kept.failures).includes('tree'));
+    assert.ok(codes(kept.failures).includes('header'));
+
+    const unapproved = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+    });
+    assert.ok(codes(unapproved.failures).includes('tree'));
+    assert.ok(codes(unapproved.failures).includes('header'));
+  });
+
+  test('rejects removal of a section that still has product rows', async () => {
+    const baseMarkdown = readFixture('base.md');
+    const headMarkdown = `## Developer Tools
+
+### APIs, Tools & SaaS
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🧰 | [Alpha](https://alpha.example) | A paid tool for shipping. | **30% off** the Pro plan with code SAVE | 2026-12-01 |
+`;
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(headMarkdown),
+    });
+    assert.ok(codes(result.failures).includes('tree'));
+    assert.ok(codes(result.failures).includes('header'));
+    assert.equal(
+      result.warnings.some((item) => item.message.includes('"Alpha" was removed')),
+      true,
+    );
+    assert.equal(
+      result.warnings.some((item) => item.message.includes('"Beta" was removed')),
+      true,
+    );
+  });
 });
 
 describe('live catalog', () => {

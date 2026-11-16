@@ -6,7 +6,6 @@ const macApps = require('./picks/mac-apps');
 const boilerplates = require('./picks/boilerplates');
 const marketingApps = require('./picks/marketing-apps');
 const nicheApps = require('./picks/niche-apps');
-const theJohnApps = require('./picks/the-john-apps');
 
 // Same order HomeList uses for category sections. Priority categories are
 // always present; every other live category follows, sorted.
@@ -28,7 +27,6 @@ const PACK_BEFORE_CATEGORY = {
   'Boilerplates, Starters & Libraries': boilerplates,
   Marketing: marketingApps,
   Learning: nicheApps,
-  'John Rush Extravaganza': theJohnApps,
 };
 
 function packKey(name) {

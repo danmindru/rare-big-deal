@@ -1,5 +1,7 @@
 # Validates README submissions with the scripts from the base branch.
-# The pull request is data: its README and product images are read, never executed.
+# Fork pull requests are data: their README and product images are read, never executed.
+# A same-repo catalog update is used only when the base validator does not yet
+# understand an empty-section removal.
 # This workflow is pull_request, not pull_request_target, and it has no secrets.
 # A pull request that edits this file does not receive credentials.
 # Browser capture stays out of fork CI. It runs in the trusted generator.
@@ -45,8 +47,10 @@ jobs:
             "refs/pull/${PR}/head:refs/heads/pr-head"
           mkdir -p /tmp/pr-data/shipixen/public/static/images/product \
             /tmp/pr-data/shipixen/public/static/images/overrides \
-            /tmp/pr-data/shipixen/data/config
+            /tmp/pr-data/shipixen/data/config \
+            /tmp/pr-data/shipixen/catalog
           git show pr-head:README.md > /tmp/pr-data/README.md
+          git show pr-head:shipixen/catalog/catalog-tree.json > /tmp/pr-data/shipixen/catalog/catalog-tree.json
           # Live returning products may keep current banners on the documented
           # override path, so those images are allowed pull-request data.
           git ls-tree -r --name-only pr-head | while IFS= read -r path; do
@@ -69,6 +73,15 @@ jobs:
           set -euo pipefail
           if [ -f shipixen/scripts/validate-submission.js ]; then
             echo "Using the validator from the base branch."
+            # This pull request's catalog rules apply only until the base branch
+            # understands an empty-section removal. Fork code is not executed.
+            if [ "$HEAD_REPO" = "$BASE_REPO" ] && ! grep -q -- '--head-tree' shipixen/scripts/validate-submission.js; then
+              echo "Base validator cannot read a head catalog tree. Using this same-repo catalog update."
+              git checkout pr-head -- \
+                shipixen/scripts/validate-submission.js \
+                shipixen/scripts/validate-submission.test.js \
+                shipixen/scripts/lib/readme-catalog.js
+            fi
             exit 0
           fi
           if [ "$HEAD_REPO" != "$BASE_REPO" ]; then
@@ -118,6 +131,9 @@ jobs:
           )
           if [ -f /tmp/pr-data/shipixen/data/config/product-overrides.js ]; then
             args+=(--overrides /tmp/pr-data/shipixen/data/config/product-overrides.js)
+          fi
+          if grep -q -- '--head-tree' shipixen/scripts/validate-submission.js; then
+            args+=(--head-tree /tmp/pr-data/shipixen/catalog/catalog-tree.json)
           fi
           node shipixen/scripts/validate-submission.js "${args[@]}"
 

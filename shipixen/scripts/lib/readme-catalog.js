@@ -337,9 +337,97 @@ function compareCatalogs(baseMarkdown, headMarkdown) {
   return { base, head, findings, changes };
 }
 
+function headingIdentity(heading) {
+  return { level: heading.level, text: heading.text };
+}
+
+function sameHeadings(left, right) {
+  return JSON.stringify(left.map(headingIdentity)) === JSON.stringify(right.map(headingIdentity));
+}
+
+// Headings removed from base, in base order, with no additions or reordering.
+// Duplicate names stay aligned by walking both lists together.
+function removedHeadingIndexes(baseHeadings, headHeadings) {
+  let headIndex = 0;
+  const removed = [];
+  for (let index = 0; index < baseHeadings.length; index += 1) {
+    const headHeading = headHeadings[headIndex];
+    if (
+      headHeading &&
+      headHeading.level === baseHeadings[index].level &&
+      headHeading.text === baseHeadings[index].text
+    ) {
+      headIndex += 1;
+    } else {
+      removed.push(index);
+    }
+  }
+  if (headIndex !== headHeadings.length) return null;
+  return removed;
+}
+
+function productRowCount(catalog, category, subcategory) {
+  let count = 0;
+  for (const table of catalog.tables) {
+    if ((table.category || '') !== (category || '')) continue;
+    if ((table.subcategory || '') !== (subcategory || '')) continue;
+    count += table.rows.length;
+  }
+  return count;
+}
+
+/**
+ * A category or section with no product rows may leave the catalog when the
+ * committed category tree drops those same headings and nothing else moves.
+ * Returns the table labels to stop treating as a deleted deal table, or null
+ * when the diff is any other structural change.
+ */
+function forgivenEmptySectionRemoval(compared, baseTree, headTree) {
+  if (!baseTree || !headTree) return null;
+  const baseHeadings = compared.base.headings;
+  const headHeadings = compared.head.headings;
+  const removed = removedHeadingIndexes(baseHeadings, headHeadings);
+  if (!removed || removed.length === 0) return null;
+  if (!sameHeadings(baseHeadings, baseTree.headings || [])) return null;
+  if (!sameHeadings(headHeadings, headTree.headings || [])) return null;
+
+  const removedSet = new Set(removed);
+  const labels = new Set();
+  for (const index of removed) {
+    const heading = baseHeadings[index];
+    if (heading.level === 2) {
+      let end = baseHeadings.length;
+      for (let next = index + 1; next < baseHeadings.length; next += 1) {
+        if (baseHeadings[next].level === 2) {
+          end = next;
+          break;
+        }
+      }
+      for (let child = index; child < end; child += 1) {
+        if (!removedSet.has(child)) return null;
+        if (child !== index && baseHeadings[child].level !== 3) return null;
+      }
+      if (productRowCount(compared.base, heading.text, '') > 0) return null;
+      labels.add(heading.text);
+      for (let child = index + 1; child < end; child += 1) {
+        const section = baseHeadings[child];
+        if (productRowCount(compared.base, heading.text, section.text) > 0) return null;
+        labels.add(`${heading.text} / ${section.text}`);
+      }
+    } else if (heading.level === 3) {
+      if (productRowCount(compared.base, heading.category, heading.text) > 0) return null;
+      labels.add(`${heading.category} / ${heading.text}`);
+    } else {
+      return null;
+    }
+  }
+  return { labels };
+}
+
 module.exports = {
   EXPECTED_HEADER,
   compareCatalogs,
+  forgivenEmptySectionRemoval,
   normalizeUrl,
   parseCatalog,
   rowKey,
