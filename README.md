@@ -381,6 +381,7 @@ Free & open-source.
 | 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable. Opens .procreate and .psd files. | **50% OFF** the one-time purchase ($12.99 → $6.49) on the App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🖌️ | [Dabbit](https://dabbit.app/) | Color-managed color picker for Mac: copy colors in any format, build palettes and send them to Figma. | **30% OFF** the one-time license with code **BLACKFRIDAY**, applied at checkout | 2026-12-01 |
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
+| ⓢ | [Sitely 8](https://sitely.app) | Sitely AI+Visual Website Builder for macOS · Build the website you always wanted, visually or using AI with MCP on your Mac | 50% OFF one time purchase - 30% OFF subs first year (automatically applied) | 2026-12-08 |
 
 
 ### Writing & Notes
@@ -526,6 +527,7 @@ Free & open-source.
 | ☁️ | [Koofr](https://koofr.eu/black-friday/) | Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, and external cloud integrations. Access via web, desktop, mobile, WebDAV, rclone, Linux. | **55% OFF** yearly plans from 250 GB to 5 TB (e.g. 1 TB €99 → €44.26/year, excl. VAT), gift cards included, with code **BF2026**. Starts on 2026-11-16 | 2026-11-30 |
 | 🧮 | [Par](https://par.sawirstudio.com/black-friday-2026/) | RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds and statistics. | **60% OFF** the one-time purchase ($4.99 → $1.99), no code needed. Starts on 2026-11-26 | 2026-11-30 |
 | 🌦️ | [Comic Weather](https://comicweather.app/black-friday) | iPhone weather app that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), no code needed. Starts on 2026-11-27 | 2026-11-30 |
+| ⓢ | [Sitely 8](https://sitely.app) | Sitely AI+Visual Website Builder for iPad · Build the website you always wanted, visually on your iPad | 50% OFF one time purchase - 30% OFF subs first year (automatically applied) | 2026-12-08 |
 
 
 [⬆️ All categories](#table-of-contents)
