@@ -429,6 +429,7 @@ Free & open-source.
 | 👤 | [ProfileLauncher](https://loshadki.app/profilelauncher/) | Open Safari, Chrome, Edge, Brave and Firefox profiles from the menu bar, a keyboard shortcut or Spotlight. | **60% OFF**: $2.00 instead of $4.99 with code **BLACKFRIDAY26**, one-time purchase | 2026-12-01 |
 | 💻 | [LidAwake Pro](https://erstgebaut.de/lidawake/) | Close the lid, your Mac keeps working. Menu bar app with overheat, low-battery and charger-only safeguards; Pro adds Movie on a TV and waits for downloads and video exports to finish. Apple silicon, macOS 13 or later. One-time purchase. | **20% OFF** (€9.99 → €7.99, one-time purchase) with code **RAREBIG20** | 2026-12-03 |
 | ☕ | [DeskRest](https://deskrest.com/offers) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work. | **80% OFF** lifetime licenses with code **BLACKFRIDAY80** | 2026-12-10 |
+| 🌠 | [Wishbar](https://wishbar.app/black-friday) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an alert when NVIDIA nears the price you set, the pound to rupee rate or your train line's delays. A free ChatGPT account is enough. One-time purchase, macOS 13 or later. | **Up to 48% OFF** one-time licences: 1 Mac $39 → $20, 2 Macs $49 → $27, 5 Macs $69 → $41. No code needed. Starts on 2026-11-27 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
