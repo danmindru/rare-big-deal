@@ -273,6 +273,8 @@ Free & open-source.
 | 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 | 🎯 | [ContextClip](https://noteifyapp.com/contextclip/) | Point at a control, press one shortcut, and paste the screenshot plus its accessibility structure into Claude Code, Cursor or Codex. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | ⌨️ | [AtAt](https://atatapp.com/black-friday) | @ for people. @@ for AI. Type @@ in any Mac text field to ask Claude Code, Codex, Ollama, your own API key or Siri AI with screen, clipboard and Finder context, plus an atat CLI for terminal agents. Apple silicon, macOS 15+, 14-day trial. | **47% OFF** Lifetime ($169 → $89, one-time purchase) and **$20 OFF** the first year of Yearly ($59 → $39, then $59/yr). Applied automatically at checkout, no code needed. Starts on 2026-11-24 | 2026-12-01 |
+| 🐚 | [ShellHistory](https://loshadki.app/shellhistory/) | Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command. | **60% OFF**: $5.59 instead of $13.99 on the Mac App Store (iPhone and iPad included), no code needed, or $5.60 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 🔍 | [RegExp](https://loshadki.app/regexp/) | Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go, on Mac, iPhone and iPad. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options. | **60% OFF** RegExp Pro: $1.19 instead of $2.99, an in-app purchase on the App Store, no code needed | 2026-12-01 |
 
 ### Productivity
 
@@ -358,6 +360,9 @@ Free & open-source.
 | 🔑 | [License Store](https://www.apptorium.com/license-store/black-friday) | Mac app that keeps software license keys, receipts and download links in one searchable library. | **38% OFF** ($7.99 → $4.99) one-time purchase, no code needed | 2026-12-06 |
 | 📖 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | **50% OFF** lifetime ($49.99 → $24.99) in the App Store, applied automatically. Starts on 2026-11-25 | 2026-12-01 |
 | 💾 | [FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Back up your iPhone and iPad straight to an external drive on Mac, freeing up Mac storage and relying less on iCloud. | **50% OFF** one-time purchase ($5.99 → $2.99) with code **BLACK2026** | 2026-12-06 |
+| 🥷 | [RenameNinja](https://loshadki.app/renameninja/) | Rename hundreds of files on your Mac in one go, with fields from names and photo, video, audio and PDF metadata, your own JavaScript, and Undo. | **60% OFF**: $3.99 instead of $9.99 on the Mac App Store, no code needed, or $4.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 📥 | [SmartInbox](https://loshadki.app/smartinbox/) | Spam, phishing and cold sales out of your Inbox in Mail, decided by Apple Intelligence on your Mac or a model you choose. Requires macOS 26. | **60% OFF**: $1.99 instead of $4.99 on the Mac App Store, no code needed, or $2.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 🧾 | [CheckCraft](https://loshadki.app/checkcraft/) | Print checks from your Mac, iPhone or iPad: several at once, void and duplicate checks, a test page to line up your printer, and export to Quicken. | **60% OFF**: $1.99 instead of $4.99 on the App Store, one purchase for Mac, iPhone and iPad, no code needed | 2026-12-01 |
 
 
 ### Design Tools
@@ -418,6 +423,9 @@ Free & open-source.
 | ❄️ | [SnowWall](https://snowwall.app/black-friday/) | Weather effects for the Mac desktop: snow settles on windows, rain fogs the glass, frost grows from the edges. | **33% OFF** SnowWall Pro ($14.99 → $9.99) in the Mac App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🎵 | [MiniTune](https://minitune.app) | Menu bar music player for Mac: YouTube, Apple Music, Spotify, Subsonic and local files, with lyrics. One-time purchase. | **37% OFF** ($7.99 → $4.99) with code **MINITUNEBF26**, applied from the Buy button | 2026-11-30 |
 | 👋 | [SlapMac](https://slapmac.com/) | Slap your MacBook and it talks back: reactive sound packs, a motion-triggered anti-theft alarm and lid effects. | **30% OFF** ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers | 2026-12-01 |
+| 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**: $4.79 instead of $11.99 on the Mac App Store, no code needed, or $4.80 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: $4.00 instead of $9.99 with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs | 2026-12-01 |
+| 👤 | [ProfileLauncher](https://loshadki.app/profilelauncher/) | Open Safari, Chrome, Edge, Brave and Firefox profiles from the menu bar, a keyboard shortcut or Spotlight. | **60% OFF**: $2.00 instead of $4.99 with code **BLACKFRIDAY26**, one-time purchase | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
