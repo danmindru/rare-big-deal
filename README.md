@@ -122,6 +122,7 @@ Free & open-source.
 | 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac virtualization platform: run macOS, Windows, Linux and FreeBSD VMs set up automatically with account, SSH keys and guest tools. | **15% OFF** with code **BLACKFRIDAY15** | 2026-12-01 |
 | 🛠️ | [Stratos](https://stratosapp.dev/buy/) | Native macOS local dev stack for PHP, Laravel and Node, without Docker. | **20% OFF** all plans with code **BFCM20**: Founder Lifetime $89 → $71.20, Pro Annual $39 → $31.20 | 2026-11-30 |
 | 🤖 | [Robomori](https://robomori.com/) | Run Android emulators and your own Android devices outside Android Studio, and switch language, location, dark mode and more in a click. Mac, Windows and Linux. One-time purchase. | **60% OFF** with code **BLACKFRIDAY2026** (Basic $29 → $11.60) | 2026-12-01 |
+| 🔍 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **30% OFF** the Pro licence with code **BLACKFRIDAY** (one-time $49 → $34.30) | 2026-12-06 |
 
 
 ### APIs, Tools & SaaS
