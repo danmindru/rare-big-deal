@@ -275,6 +275,8 @@ Free & open-source.
 | 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 | 🎯 | [ContextClip](https://noteifyapp.com/contextclip/) | Point at a control, press one shortcut, and paste the screenshot plus its accessibility structure into Claude Code, Cursor or Codex. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | ⌨️ | [AtAt](https://atatapp.com/black-friday) | @ for people. @@ for AI. Type @@ in any Mac text field to ask Claude Code, Codex, Ollama, your own API key or Siri AI with screen, clipboard and Finder context, plus an atat CLI for terminal agents. Apple silicon, macOS 15+, 14-day trial. | **47% OFF** Lifetime ($169 → $89, one-time purchase) and **$20 OFF** the first year of Yearly ($59 → $39, then $59/yr). Applied automatically at checkout, no code needed. Starts on 2026-11-24 | 2026-12-01 |
+| 🐚 | [ShellHistory](https://loshadki.app/shellhistory/) | Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command. | **60% OFF**: $5.59 instead of $13.99 on the Mac App Store (iPhone and iPad included), no code needed, or $5.60 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 🔍 | [RegExp](https://loshadki.app/regexp/) | Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go, on Mac, iPhone and iPad. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options. | **60% OFF** RegExp Pro: $1.19 instead of $2.99, an in-app purchase on the App Store, no code needed | 2026-12-01 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 ### Productivity
@@ -361,6 +363,9 @@ Free & open-source.
 | 🔑 | [License Store](https://www.apptorium.com/license-store/black-friday) | Mac app that keeps software license keys, receipts and download links in one searchable library. | **38% OFF** ($7.99 → $4.99) one-time purchase, no code needed | 2026-12-06 |
 | 📖 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | **50% OFF** lifetime ($49.99 → $24.99) in the App Store, applied automatically. Starts on 2026-11-25 | 2026-12-01 |
 | 💾 | [FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Back up your iPhone and iPad straight to an external drive on Mac, freeing up Mac storage and relying less on iCloud. | **50% OFF** one-time purchase ($5.99 → $2.99) with code **BLACK2026** | 2026-12-06 |
+| 🥷 | [RenameNinja](https://loshadki.app/renameninja/) | Rename hundreds of files on your Mac in one go, with fields from names and photo, video, audio and PDF metadata, your own JavaScript, and Undo. | **60% OFF**: $3.99 instead of $9.99 on the Mac App Store, no code needed, or $4.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 📥 | [SmartInbox](https://loshadki.app/smartinbox/) | Spam, phishing and cold sales out of your Inbox in Mail, decided by Apple Intelligence on your Mac or a model you choose. Requires macOS 26. | **60% OFF**: $1.99 instead of $4.99 on the Mac App Store, no code needed, or $2.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 🧾 | [CheckCraft](https://loshadki.app/checkcraft/) | Print checks from your Mac, iPhone or iPad: several at once, void and duplicate checks, a test page to line up your printer, and export to Quicken. | **60% OFF**: $1.99 instead of $4.99 on the App Store, one purchase for Mac, iPhone and iPad, no code needed | 2026-12-01 |
 
 
 ### Design Tools
@@ -421,6 +426,9 @@ Free & open-source.
 | ❄️ | [SnowWall](https://snowwall.app/black-friday/) | Weather effects for the Mac desktop: snow settles on windows, rain fogs the glass, frost grows from the edges. | **33% OFF** SnowWall Pro ($14.99 → $9.99) in the Mac App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🎵 | [MiniTune](https://minitune.app) | Menu bar music player for Mac: YouTube, Apple Music, Spotify, Subsonic and local files, with lyrics. One-time purchase. | **37% OFF** ($7.99 → $4.99) with code **MINITUNEBF26**, applied from the Buy button | 2026-11-30 |
 | 👋 | [SlapMac](https://slapmac.com/) | Slap your MacBook and it talks back: reactive sound packs, a motion-triggered anti-theft alarm and lid effects. | **30% OFF** ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers | 2026-12-01 |
+| 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**: $4.79 instead of $11.99 on the Mac App Store, no code needed, or $4.80 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
+| 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: $4.00 instead of $9.99 with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs | 2026-12-01 |
+| 👤 | [ProfileLauncher](https://loshadki.app/profilelauncher/) | Open Safari, Chrome, Edge, Brave and Firefox profiles from the menu bar, a keyboard shortcut or Spotlight. | **60% OFF**: $2.00 instead of $4.99 with code **BLACKFRIDAY26**, one-time purchase | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -793,6 +801,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🚀 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals, guided by skills. | **Up to 47% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 
 
 ### Nuxt
@@ -854,6 +863,8 @@ Free & open-source.
 | ⚽ | [SportyBlocks](https://sportyblocks.com) | 87 sports-themed Tailwind CSS components (scoreboards, standings, match schedules, player cards) in HTML and React, light and dark, with a Figma file. | Flat **40% OFF** ($49 to $29) with code **BLACKFRIDAY**. Starts on 2026-11-27 | 2026-11-30 |
 | 🎨 | [TailGrids](https://pimjo.com/black-friday-cyber-monday-deal) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% OFF** All Access plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 📄 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | PDF viewer component for React apps with search, highlights and programmatic control. Perpetual license. | **50% OFF** Developer ($89 → $44.50) and Organization ($239 → $119.50) licenses with code **BFCM2026** | 2026-12-01 |
+| 🧩 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | **Up to 60% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
+| ✨ | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | **Up to 40% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -868,8 +879,7 @@ Free & open-source.
 | 🧪 | [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | [**30% OFF one year ($69.90)**](https://labex.io/checkout?type=2&coupon=2026BF30) with code **2026BF30**; [**50% OFF two years ($99.90)**](https://labex.io/checkout?type=4&coupon=2026BF50) with code **2026BF50**. New and existing users. | 2026-12-07 |
 | 🛡️ | [Vantagepoint](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs and more. | **70% OFF** all hacking labs and certifications, applied automatically (labs $99 → $29.70, certifications $299 → $89.70) | 2026-12-15 |
 | 🛡️ | [Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | **67% OFF** Wireless Operator: $197 instead of $599, no code needed | 2026-12-01 |
-
-
+| 🛡️ | [Modern Security - AI Security Certification](https://www.modernsecurity.io/courses/ai-security-certification) | Hands-on AI security training with labs on agents, MCP security, RAG, prompt injection, red teaming, guardrails and AI supply chain security. | **20% OFF** with code **msec-bf20** (Nov 10 – Dec 10, 2026) | 2026-12-10 |
 
 ### Art Courses
 
