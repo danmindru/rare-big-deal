@@ -121,6 +121,7 @@ Free & open-source.
 | 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac virtualization platform: run macOS, Windows, Linux and FreeBSD VMs set up automatically with account, SSH keys and guest tools. | **15% OFF** with code **BLACKFRIDAY15** | 2026-12-01 |
 | 🛠️ | [Stratos](https://stratosapp.dev/buy/) | Native macOS local dev stack for PHP, Laravel and Node, without Docker. | **20% OFF** all plans with code **BFCM20**: Founder Lifetime $89 → $71.20, Pro Annual $39 → $31.20 | 2026-11-30 |
 | 🤖 | [Robomori](https://robomori.com/) | Run Android emulators and your own Android devices outside Android Studio, and switch language, location, dark mode and more in a click. Mac, Windows and Linux. One-time purchase. | **60% OFF** with code **BLACKFRIDAY2026** (Basic $29 → $11.60) | 2026-12-01 |
+| 🔍 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **30% OFF** the Pro licence with code **BLACKFRIDAY** (one-time $49 → $34.30) | 2026-12-06 |
 
 
 ### APIs, Tools & SaaS
@@ -382,6 +383,7 @@ Free & open-source.
 | 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable. Opens .procreate and .psd files. | **50% OFF** the one-time purchase ($12.99 → $6.49) on the App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🖌️ | [Dabbit](https://dabbit.app/) | Color-managed color picker for Mac: copy colors in any format, build palettes and send them to Figma. | **30% OFF** the one-time license with code **BLACKFRIDAY**, applied at checkout | 2026-12-01 |
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
+| ⓢ | [Sitely 8](https://sitely.app) | AI + visual website builder for Mac: build the website you want visually, or with AI over MCP. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
 
 
 ### Writing & Notes
@@ -431,6 +433,7 @@ Free & open-source.
 | 💻 | [LidAwake Pro](https://erstgebaut.de/lidawake/) | Close the lid, your Mac keeps working. Menu bar app with overheat, low-battery and charger-only safeguards; Pro adds Movie on a TV and waits for downloads and video exports to finish. Apple silicon, macOS 13 or later. One-time purchase. | **20% OFF** (€9.99 → €7.99, one-time purchase) with code **RAREBIG20** | 2026-12-03 |
 | ☕ | [DeskRest](https://deskrest.com/offers) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work. | **80% OFF** lifetime licenses with code **BLACKFRIDAY80** | 2026-12-10 |
 | 🌠 | [Wishbar](https://wishbar.app/black-friday) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an alert when NVIDIA nears the price you set, the pound to rupee rate or your train line's delays. A free ChatGPT account is enough. One-time purchase, macOS 13 or later. | **50% OFF** one-time licences: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34. No code needed. | 2026-12-07 |
+| ☀️ | [Big Weather](https://apps.apple.com/app/big-weather/id1531449281) | Weather in the Mac menu bar, with a few words about tomorrow and a weekly rundown written on-device by Apple Intelligence. | **33% OFF** Lifetime: ~~$29.99~~ **$19.99** one-time, no code needed. | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -535,6 +538,7 @@ Free & open-source.
 | 🌦️ | [Comic Weather](https://comicweather.app/black-friday) | iPhone weather app that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), no code needed. Starts on 2026-11-27 | 2026-11-30 |
 | 🎵 | [MusicPal](https://elevenapril.com/musicpal) | Offline MP3 and link-to-audio player for iPhone with background playback, themes and backup — no feed, no ads. | **30% OFF** Lifetime ($29.99 → $20.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 📱 | [ElevenApril (25 iPhone Apps)](https://elevenapril.com/black-friday) | 25 indie iPhone apps across focus, plants, pets, food, health and travel — all one-time lifetime unlock, no subscription. | **30%–40% OFF** Lifetime Premium across 25 apps with code **BLACKFRIDAY** | 2026-11-30 |
+| ⓢ | [Sitely 8](https://sitely.app) | Visual website builder for iPad: build the website you want, visually, on your iPad. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -651,6 +655,7 @@ Free & open-source.
 | 💼 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | White-label client portal and CRM for agencies and freelancers: orders, invoices, tickets and chat on your own domain. | **30% OFF every yearly renewal** with code **BF30** (Solo $96 → $67.20/yr) | 2026-12-01 |
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases, end-to-end encrypted file sharing and forms, with a CLI and browser extension. | **40% OFF** all paid plans for 12 months with code **BLKFRI40** | 2026-12-06 |
 | 🔗 | [LinkShip](https://linkship.net/pricing) | Turn files into shareable links you can update later, with view tracking, passwords and dynamic QR codes. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** | 2026-12-01 |
+| 📨 | [Leave Me Alone](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders you never asked to hear from, and bundle newsletters into a digest. Works with Gmail, Outlook, iCloud, Yahoo, Fastmail, and IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, and the same price when you renew. No code, the discount is applied on the pricing page. | 2026-12-08 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -738,6 +743,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📡 | [Radar Lab](https://partnershipintel.com/#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF Pro yearly**: ~~$299~~ **$99/year**, locked for as long as you stay. No code needed | 2026-11-30 |
 
 
 ### Other

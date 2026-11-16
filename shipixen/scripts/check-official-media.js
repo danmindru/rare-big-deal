@@ -2,6 +2,7 @@ const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 const { inspectMediaFile } = require('./lib/media-bytes');
+const { sanitizeName } = require('./sanitize-name');
 
 // Official English Saventify marketing image supplied by the owner.
 // 1672×941, not a crop and not an auto-fetched locale capture.
@@ -35,6 +36,20 @@ function publicImageUrl(overridePath) {
   return `/${overridePath.slice('public/'.length)}`;
 }
 
+function readmeProductSlugs(root) {
+  const file = path.join(root, 'README.md');
+  if (!fs.existsSync(file)) return new Set();
+  const slugs = new Set();
+  for (const line of fs.readFileSync(file, 'utf8').split('\n')) {
+    if (!line.startsWith('|')) continue;
+    const parts = line.split('|').map((part) => part.trim());
+    if (parts.length < 5 || !parts[2].startsWith('[')) continue;
+    const name = parts[2].match(/\[(.*?)\]/);
+    if (name) slugs.add(sanitizeName(name[1]));
+  }
+  return slugs;
+}
+
 function firstListedImage(mdx) {
   const start = mdx.indexOf('\nimages:');
   if (start === -1) return null;
@@ -59,6 +74,7 @@ async function checkConfiguredOverrides(root) {
     errors.push('product-overrides.js is missing or has no overrides');
     return errors;
   }
+  const listedSlugs = readmeProductSlugs(root);
   for (const [slug, entry] of Object.entries(overrides)) {
     const banner = configuredBanner(entry);
     if (!banner) continue;
@@ -80,6 +96,10 @@ async function checkConfiguredOverrides(root) {
     }
     const mdxFile = path.join(root, 'shipixen', 'data', 'products', `${slug}.mdx`);
     if (!fs.existsSync(mdxFile)) {
+      // Parse Submission writes the product page on main after the README row
+      // lands. asset-fetcher serves this override URL when it creates that page.
+      // A slug that is not in the README still has to have a page.
+      if (listedSlugs.has(slug)) continue;
       errors.push(`${slug}: product page is missing, so the override banner is not served`);
       continue;
     }

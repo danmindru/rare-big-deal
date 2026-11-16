@@ -415,5 +415,68 @@ module.exports = {
     'modern-security-ai-security-certification': {
       ogImage: 'public/static/images/overrides/modern-security-ai-security-certification/og-image.png',
     },
+    // elevenapril.com publishes the square app icon as og:image.
+    // The logo is the official 512px DuePal icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    duepal: {
+      logo: 'public/static/images/overrides/duepal/logo.png',
+      ogImage: 'public/static/images/overrides/duepal/og-image.png',
+    },
+    // The logo is the official 512px Focus Train icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    'focus-train': {
+      logo: 'public/static/images/overrides/focus-train/logo.png',
+      ogImage: 'public/static/images/overrides/focus-train/og-image.png',
+    },
+    // The logo is the official 512px Fern icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    fern: {
+      logo: 'public/static/images/overrides/fern/logo.png',
+      ogImage: 'public/static/images/overrides/fern/og-image.png',
+    },
+    // The logo is the official 512px YumPal icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    yumpal: {
+      logo: 'public/static/images/overrides/yumpal/logo.png',
+      ogImage: 'public/static/images/overrides/yumpal/og-image.png',
+    },
+    // The logo is the official 512px Succulent icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    succulent: {
+      logo: 'public/static/images/overrides/succulent/logo.png',
+      ogImage: 'public/static/images/overrides/succulent/og-image.png',
+    },
+    // The logo is the official 512px MusicPal icon. The banner is a reviewed 1200x630 screenshot of the product page.
+    musicpal: {
+      logo: 'public/static/images/overrides/musicpal/logo.png',
+      ogImage: 'public/static/images/overrides/musicpal/og-image.png',
+    },
+    // The sale page share image is not a banner of the 25 apps. The logo is the official 640px site mark.
+    // The banner is a reviewed 1200x630 screenshot of elevenapril.com/black-friday.
+    // The slug keeps the trailing hyphen from sanitizeName("ElevenApril (25 iPhone Apps)").
+    'elevenapril-25-iphone-apps-': {
+      logo: 'public/static/images/overrides/elevenapril-25-iphone-apps-/logo.png',
+      ogImage: 'public/static/images/overrides/elevenapril-25-iphone-apps-/og-image.png',
+    },
+    // urtti.com/weather publishes the square app icon as og:image. The logo is the 512px Mac App Store icon.
+    // The banner is a reviewed 1200x630 screenshot of the product page.
+    'big-weather': {
+      logo: 'public/static/images/overrides/big-weather/logo.png',
+      ogImage: 'public/static/images/overrides/big-weather/og-image.png',
+    },
+    // sitely.app's largest official icon is the 180px apple-touch icon.
+    // The banner is a reviewed 1200x630 screenshot of the product homepage.
+    'sitely-8': {
+      logo: 'public/static/images/overrides/sitely-8/logo.png',
+      ogImage: 'public/static/images/overrides/sitely-8/og-image.png',
+    },
+    // leavemealone.com's largest official icon is the 192px android-icon.
+    'leave-me-alone': {
+      logo: 'public/static/images/overrides/leave-me-alone/logo.png',
+    },
+    // actionclip.app publishes only an SVG app icon. This is that icon, rasterized at 512px.
+    actionclip: {
+      logo: 'public/static/images/overrides/actionclip/logo.png',
+    },
+    // The auto banner is the generic SwipeToLaunch directory card, not the kit.
+    // The banner is a reviewed screenshot of the kit hero on swipetolaunch.com/kit.
+    'launch-agent-kit': {
+      ogImage: 'public/static/images/overrides/launch-agent-kit/og-image.png',
+    },
   },
 };
