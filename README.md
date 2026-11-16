@@ -790,6 +790,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🚀 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals, guided by skills. | **Up to 47% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 
 
 ### Nuxt
@@ -851,6 +852,8 @@ Free & open-source.
 | ⚽ | [SportyBlocks](https://sportyblocks.com) | 87 sports-themed Tailwind CSS components (scoreboards, standings, match schedules, player cards) in HTML and React, light and dark, with a Figma file. | Flat **40% OFF** ($49 to $29) with code **BLACKFRIDAY**. Starts on 2026-11-27 | 2026-11-30 |
 | 🎨 | [TailGrids](https://pimjo.com/black-friday-cyber-monday-deal) | Discover 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. Build stunning interfaces faster with ready-to-use elements. | **30% OFF** All Access plans with code **BLFCM2026**. Early access already open; official sale 17 Nov–1 Dec 2026. | 2026-12-01 |
 | 📄 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | PDF viewer component for React apps with search, highlights and programmatic control. Perpetual license. | **50% OFF** Developer ($89 → $44.50) and Organization ($239 → $119.50) licenses with code **BFCM2026** | 2026-12-01 |
+| 🧩 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | **Up to 60% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
+| ✨ | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | **Up to 40% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
