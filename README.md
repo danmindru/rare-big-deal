@@ -609,6 +609,7 @@ Free & open-source.
 | 🎥 | [palmscreen](https://www.palmscreen.app/black-friday/) | Screenshots and screen recordings in one Mac app, with auto-zoom, annotations and clean backgrounds. One-time purchase. | **$19** instead of $29 with code **BLACKWEEK**. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [Magic Automa AI](https://www.magicautoma.com/) | Desktop automation for video editors: one-click macros for DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro and OBS. Windows and macOS. | **40% OFF** lifetime licences with code **BLACKFRIDAY2026** (Studio €49.99 → €29.99) | 2026-11-30 |
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
+| 🎬 | [AVE AI Video Editor](https://www.aivideoeditor.app/pro/) | Build video edits on your Mac with searchable footage, transcript editing, captions, and a built-in screen recorder. | **30% OFF** Pro Lifetime ($99 → $69.30 USD before tax), automatically applied; ends 17:00 UTC | 2026-12-24 |
 
 
 ### Marketing
