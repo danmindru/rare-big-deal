@@ -418,6 +418,7 @@ Free & open-source.
 | ❄️ | [SnowWall](https://snowwall.app/black-friday/) | Weather effects for the Mac desktop: snow settles on windows, rain fogs the glass, frost grows from the edges. | **33% OFF** SnowWall Pro ($14.99 → $9.99) in the Mac App Store, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🎵 | [MiniTune](https://minitune.app) | Menu bar music player for Mac: YouTube, Apple Music, Spotify, Subsonic and local files, with lyrics. One-time purchase. | **37% OFF** ($7.99 → $4.99) with code **MINITUNEBF26**, applied from the Buy button | 2026-11-30 |
 | 👋 | [SlapMac](https://slapmac.com/) | Slap your MacBook and it talks back: reactive sound packs, a motion-triggered anti-theft alarm and lid effects. | **30% OFF** ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers | 2026-12-01 |
+| 💻 | [LidAwake Pro](https://erstgebaut.de/lidawake/?utm_source=rarebigdeal) | Close the lid, your Mac keeps working. Menu bar app with overheat, low-battery and charger-only safeguards; Pro adds Movie on a TV and waits for downloads and video exports to finish. Apple silicon, macOS 13 or later. One-time purchase. | **20% OFF** (€9.99 → €7.99, one-time purchase) with code **RAREBIG20** | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
