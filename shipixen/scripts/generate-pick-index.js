@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+// Live packs only. Parked packs live in ../data/picks-disabled and are not read.
 const picksDir = path.join(__dirname, '../data/picks');
 const outputFilePath = path.join(__dirname, '../data/picks/index.js');
 

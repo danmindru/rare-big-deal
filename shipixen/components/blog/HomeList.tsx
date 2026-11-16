@@ -21,7 +21,6 @@ import developerTools from '@/data/picks/developer-tools';
 import aiApps from '@/data/picks/ai-apps';
 import macApps from '@/data/picks/mac-apps';
 import iosApps from '@/data/picks/ios-apps';
-import theJohnApps from '@/data/picks/the-john-apps';
 import boilerplates from '@/data/picks/boilerplates';
 import { Button } from '@/components/shared/ui/button';
 import { cn } from '@/lib/utils';
@@ -330,11 +329,6 @@ export function CategorySection({
           {slug(category) === slug('iOS Apps') &&
           !hideCarousels.includes('iOS Apps') ? (
             <Showcase bundle={iosApps} />
-          ) : null}
-
-          {slug(category) === slug('John Rush Extravaganza') &&
-          !hideCarousels.includes('John Rush Extravaganza') ? (
-            <Showcase bundle={theJohnApps} />
           ) : null}
         </>
       ) : showcase && showcase.apps.length > 0 ? (
