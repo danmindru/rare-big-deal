@@ -122,6 +122,7 @@ Free & open-source.
 | 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac virtualization platform: run macOS, Windows, Linux and FreeBSD VMs set up automatically with account, SSH keys and guest tools. | **15% OFF** with code **BLACKFRIDAY15** | 2026-12-01 |
 | 🛠️ | [Stratos](https://stratosapp.dev/buy/) | Native macOS local dev stack for PHP, Laravel and Node, without Docker. | **20% OFF** all plans with code **BFCM20**: Founder Lifetime $89 → $71.20, Pro Annual $39 → $31.20 | 2026-11-30 |
 | 🤖 | [Robomori](https://robomori.com/) | Run Android emulators and your own Android devices outside Android Studio, and switch language, location, dark mode and more in a click. Mac, Windows and Linux. One-time purchase. | **60% OFF** with code **BLACKFRIDAY2026** (Basic $29 → $11.60) | 2026-12-01 |
+| 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 
 ### APIs, Tools & SaaS
@@ -207,6 +208,7 @@ Free & open-source.
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
 | 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **31% OFF**, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. One-time purchase | 2026-12-02 |
 | 🦀 | [OneClickClaw](https://oneclickclaw.io/plans) | Managed OpenClaw or Hermes Agent server in the EU, set up for you. | **Up to 33% OFF** the first month on monthly plans, applied automatically (Starter €14.99 → €9.99) | 2026-12-01 |
+| 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 
 ### Productivity
@@ -273,6 +275,7 @@ Free & open-source.
 | 🗄️ | [TablePro](https://tablepro.app/black-friday) | Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | **40% OFF** Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40) with code **BLACKFRIDAY2026**. Starts on 2026-11-24 | 2026-12-01 |
 | 🎯 | [ContextClip](https://noteifyapp.com/contextclip/) | Point at a control, press one shortcut, and paste the screenshot plus its accessibility structure into Claude Code, Cursor or Codex. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: $9.99 → $6.99, one-time purchase | 2026-11-30 |
 | ⌨️ | [AtAt](https://atatapp.com/black-friday) | @ for people. @@ for AI. Type @@ in any Mac text field to ask Claude Code, Codex, Ollama, your own API key or Siri AI with screen, clipboard and Finder context, plus an atat CLI for terminal agents. Apple silicon, macOS 15+, 14-day trial. | **47% OFF** Lifetime ($169 → $89, one-time purchase) and **$20 OFF** the first year of Yearly ($59 → $39, then $59/yr). Applied automatically at checkout, no code needed. Starts on 2026-11-24 | 2026-12-01 |
+| 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 ### Productivity
 
