@@ -480,6 +480,8 @@ Free & open-source.
 | 🎯 | [Y-Pod](https://www.y-pod.app/) | Private life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | **50% OFF** Pro Lifetime ($99.99 → $49.99). Starts on 2026-11-23 | 2026-11-30 |
 | ⏰ | [BeginAnyway](https://apps.apple.com/us/app/beginanyway/id6811712330) | Morning alarm with one tiny task to start the day. | **37% OFF** Plus Lifetime ($39.99 → $24.99), no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🧾 | [Invoice Factory](https://apps.apple.com/us/app/id6744819252) | Invoice maker and bookkeeping app for freelancers and small businesses on iPhone. | **50% OFF** the first year of Premium annual ($179.99 → $89.99), no code needed | 2026-12-06 |
+| ⏰ | [DuePal](https://elevenapril.com/duepal) | Live countdowns to your next task on Lock Screen, widgets and Apple Watch, with alarms that ring even in Silent mode. | **30% OFF** Lifetime ($29.99 → $20.99) with code **BLACKFRIDAY** | 2026-11-30 |
+| 🚆 | [Focus Train](https://elevenapril.com/focustrain) | Pomodoro timer that turns focus sessions into a train ride across a real rail map with 20 soundscapes and iCloud sync. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 ### Photos & Videos
@@ -516,6 +518,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🎄 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for iPhone and iPad Home Screen and StandBy: snow globes, glowing pumpkins and festive scenes. | **33% OFF** the one-time Premium unlock (US$2.99 → US$1.99), no subscription, no code, automatic in-app discount. US pricing; local prices vary. Starts on 2026-11-27 | 2026-11-30 |
 | 📚 | [Book Reading Habit](https://apps.apple.com/app/id6742913266) | Reading tracker for iPhone, iPad and Mac: time sessions, keep a streak and save notes. | **55% OFF** Lifetime Pro ($44.99 → $19.99), no code needed | 2026-11-30 |
+| ☕ | [CoffeePal](https://elevenapril.com/coffeepal) | Visual coffee brew journal with AI sticker cutouts, calendar posters, color cards and iCloud sync. | **40% OFF** Lifetime ($14.99 → $8.99) with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 ### Other
@@ -526,6 +529,7 @@ Free & open-source.
 | ☁️ | [Koofr](https://koofr.eu/black-friday/) | Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, and external cloud integrations. Access via web, desktop, mobile, WebDAV, rclone, Linux. | **55% OFF** yearly plans from 250 GB to 5 TB (e.g. 1 TB €99 → €44.26/year, excl. VAT), gift cards included, with code **BF2026**. Starts on 2026-11-16 | 2026-11-30 |
 | 🧮 | [Par](https://par.sawirstudio.com/black-friday-2026/) | RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds and statistics. | **60% OFF** the one-time purchase ($4.99 → $1.99), no code needed. Starts on 2026-11-26 | 2026-11-30 |
 | 🌦️ | [Comic Weather](https://comicweather.app/black-friday) | iPhone weather app that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), no code needed. Starts on 2026-11-27 | 2026-11-30 |
+| 📱 | [ElevenApril (25 iPhone Apps)](https://elevenapril.com/black-friday) | 25 indie iPhone apps across focus, plants, pets, food, health and travel — all one-time lifetime unlock, no subscription. | **30%–40% OFF** Lifetime Premium across 25 apps with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
