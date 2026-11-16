@@ -365,6 +365,7 @@ Free & open-source.
 | 📥 | [SmartInbox](https://loshadki.app/smartinbox/) | Spam, phishing and cold sales out of your Inbox in Mail, decided by Apple Intelligence on your Mac or a model you choose. Requires macOS 26. | **60% OFF**: $1.99 instead of $4.99 on the Mac App Store, no code needed, or $2.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
 | 🧾 | [CheckCraft](https://loshadki.app/checkcraft/) | Print checks from your Mac, iPhone or iPad: several at once, void and duplicate checks, a test page to line up your printer, and export to Quicken. | **60% OFF**: $1.99 instead of $4.99 on the App Store, one purchase for Mac, iPhone and iPad, no code needed | 2026-12-01 |
 | 🪄 | [ActionClip](https://actionclip.app/black-friday-deal) | Floating text action menu for Mac. Describe a workflow and AI builds a reusable custom action without coding. Apple Silicon, macOS 15+. | **25% OFF** Individual lifetime ($12 → $9, 1 Mac); also $15 for up to 3 Macs or $29 for up to 10 Macs. Lifetime access and updates. Auto-applied, no code needed; ends 23:59 UTC | 2026-11-29 |
+| 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 
 
 ### Design Tools
@@ -587,6 +588,7 @@ Free & open-source.
 | 🎓 | [Colossyan](https://www.colossyan.com/pricing) | AI video and course creation for training teams: turn documents, slides and screen recordings into training videos and interactive courses with AI avatars, in 120+ languages. | **40% OFF** the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59/mo → $35.40/mo billed yearly, extra editors included. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
+| 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 
 
 ### Social
