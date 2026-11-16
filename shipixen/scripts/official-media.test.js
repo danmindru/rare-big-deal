@@ -82,6 +82,34 @@ describe('official media overrides', () => {
     assert.equal(tiny.some((error) => error.includes('below the usable banner size')), true);
   });
 
+  test('a banner override for a README product can land before its page is generated', async () => {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), 'rbd-official-pending-'));
+    const banner = 'public/static/images/overrides/gamma/og-image.png';
+    fs.mkdirSync(path.join(root, 'shipixen', path.dirname(banner)), { recursive: true });
+    fs.writeFileSync(path.join(root, 'shipixen', banner), await png(800, 420));
+    writeOverrides(
+      root,
+      `module.exports = { overrides: { gamma: { ogImage: '${banner}' } } };`,
+    );
+    const missing = await checkConfiguredOverrides(root);
+    assert.equal(missing.some((error) => error.includes('product page is missing')), true);
+
+    fs.writeFileSync(
+      path.join(root, 'README.md'),
+      [
+        '## Marketing',
+        '',
+        '### Other',
+        '',
+        '| | Name | Description | Deal | Expires on date |',
+        '| - | - | - | - | - |',
+        '| ✨ | [Gamma](https://gamma.example) | A paid product. | **50% OFF** | 2026-12-01 |',
+        '',
+      ].join('\n'),
+    );
+    assert.deepEqual(await checkConfiguredOverrides(root), []);
+  });
+
   test('the live site serves the official English Saventify banner from its override', async () => {
     const errors = await checkOfficialMedia(repoRoot);
     assert.deepEqual(errors, []);
