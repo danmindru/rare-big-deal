@@ -399,6 +399,7 @@ Free & open-source.
 | ⌨️ | [Typefu](https://indiegoodies.com/typefu) | Text expander for Mac: snippets, fill-in templates and AI actions on selected text. | **50% OFF** Typefu Pro with code **INDIEGOODIESBF26** ($7.99 → $3.99, one-time purchase). Starts on 2026-11-20 | 2026-11-30 |
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📝 | [Smolpad](https://smolpad.com/) | Markdown notes for Mac, iPhone, iPad and Apple Watch, stored as plain .md files in your own cloud storage. | **50% OFF** Pro Lifetime ($29.99 → $14.99) with App Store offer code **BLACKFRIDAY** | 2026-12-01 |
+| ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
 
 
 ### Menu Bar & More
