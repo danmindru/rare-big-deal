@@ -518,7 +518,9 @@ Free & open-source.
 | - | - | - | - | - |
 | 🎄 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for iPhone and iPad Home Screen and StandBy: snow globes, glowing pumpkins and festive scenes. | **33% OFF** the one-time Premium unlock (US$2.99 → US$1.99), no subscription, no code, automatic in-app discount. US pricing; local prices vary. Starts on 2026-11-27 | 2026-11-30 |
 | 📚 | [Book Reading Habit](https://apps.apple.com/app/id6742913266) | Reading tracker for iPhone, iPad and Mac: time sessions, keep a streak and save notes. | **55% OFF** Lifetime Pro ($44.99 → $19.99), no code needed | 2026-11-30 |
-| ☕ | [CoffeePal](https://elevenapril.com/coffeepal) | Visual coffee brew journal with AI sticker cutouts, calendar posters, color cards and iCloud sync. | **40% OFF** Lifetime ($14.99 → $8.99) with code **BLACKFRIDAY** | 2026-11-30 |
+| 🌿 | [Fern](https://elevenapril.com/staghornpal) | Growth journal for plant collectors with photo timelines, care logs and lineage trees for pups and divisions. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
+| 🍜 | [YumPal](https://elevenapril.com/yumpal) | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | **37% OFF** Lifetime ($29.99 → $18.99) with code **BLACKFRIDAY** | 2026-11-30 |
+| 🪴 | [Succulent](https://elevenapril.com/succulent) | Photo journal for succulent lovers with care reminders to compare weeks of growth side by side. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
 
 
 ### Other
@@ -529,6 +531,7 @@ Free & open-source.
 | ☁️ | [Koofr](https://koofr.eu/black-friday/) | Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, and external cloud integrations. Access via web, desktop, mobile, WebDAV, rclone, Linux. | **55% OFF** yearly plans from 250 GB to 5 TB (e.g. 1 TB €99 → €44.26/year, excl. VAT), gift cards included, with code **BF2026**. Starts on 2026-11-16 | 2026-11-30 |
 | 🧮 | [Par](https://par.sawirstudio.com/black-friday-2026/) | RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds and statistics. | **60% OFF** the one-time purchase ($4.99 → $1.99), no code needed. Starts on 2026-11-26 | 2026-11-30 |
 | 🌦️ | [Comic Weather](https://comicweather.app/black-friday) | iPhone weather app that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), no code needed. Starts on 2026-11-27 | 2026-11-30 |
+| 🎵 | [MusicPal](https://elevenapril.com/musicpal) | Offline MP3 and link-to-audio player for iPhone with background playback, themes and backup — no feed, no ads. | **30% OFF** Lifetime ($29.99 → $20.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 📱 | [ElevenApril (25 iPhone Apps)](https://elevenapril.com/black-friday) | 25 indie iPhone apps across focus, plants, pets, food, health and travel — all one-time lifetime unlock, no subscription. | **30%–40% OFF** Lifetime Premium across 25 apps with code **BLACKFRIDAY** | 2026-11-30 |
 
 
