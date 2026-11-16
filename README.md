@@ -630,6 +630,7 @@ Free & open-source.
 | 💼 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | White-label client portal and CRM for agencies and freelancers: orders, invoices, tickets and chat on your own domain. | **30% OFF every yearly renewal** with code **BF30** (Solo $96 → $67.20/yr) | 2026-12-01 |
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases, end-to-end encrypted file sharing and forms, with a CLI and browser extension. | **40% OFF** all paid plans for 12 months with code **BLKFRI40** | 2026-12-06 |
 | 🔗 | [LinkShip](https://linkship.net/pricing) | Turn files into shareable links you can update later, with view tracking, passwords and dynamic QR codes. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** | 2026-12-01 |
+| 📨 | [Leave Me Alone](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders you never asked to hear from, and bundle newsletters into a digest. Works with Gmail, Outlook, iCloud, Yahoo, Fastmail, and IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, and the same price when you renew. No code, the discount is applied on the pricing page. Starts on 2026-11-16 | 2026-12-08 |
 
 
 [⬆️ All categories](#table-of-contents)
