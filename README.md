@@ -737,6 +737,7 @@ Free & open-source.
 | 📝 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Publish automatically on your own domain, with no coding required. | **30% OFF** all paid plans, monthly or annual, with code **BLACKFRIDAY2026** | 2026-12-02 |
 | 🌐 | [own.page](https://own.page/pricing) | Personal website built from live widgets: sell products, take bookings, collect leads, on your own domain. | **40% OFF** the first year of Pro ($79.90 → $47.94/yr) and **30% OFF** Business, no code needed. Starts on 2026-11-23 | 2026-11-30 |
 | 🗂️ | [Directify](https://directify.app/founders) | No-code directory website builder with listings, categories, custom domain, SEO and an MCP server. | **56% OFF**: 2 years of Growth for $599 (instead of $1,368), no code needed, limited to 20 passes. Starts on 2026-11-24 | 2026-12-01 |
+| 🧩 | [EzyStudio](https://ezystudio.com) | AI website and app builder. Bring your own Claude, ChatGPT or Gemini plan: no credits and no AI markup. | **10% OFF** every payment, for good, on every regular plan (monthly, yearly or lifetime) with code **EARLYBF26**: Website ~~$5~~ $4.50/mo billed yearly, App ~~$24~~ $21.60/mo, Business ~~$39~~ $35.10/mo | 2026-11-22 |
 
 
 ### Ads & Paid listings
