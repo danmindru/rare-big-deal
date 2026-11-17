@@ -478,5 +478,31 @@ module.exports = {
     'launch-agent-kit': {
       ogImage: 'public/static/images/overrides/launch-agent-kit/og-image.png',
     },
+    // screenotter.com publishes no og:image and only a 32px favicon.
+    // The logo is the otter S mark from the left of the official wordmark, on white at 256px.
+    // The banner is a 1200x630 screenshot of the English homepage hero.
+    screenotter: {
+      logo: 'public/static/images/overrides/screenotter/logo.png',
+      ogImage: 'public/static/images/overrides/screenotter/og-image.png',
+    },
+    // gleam.io/black-friday is not published until 2026-11-20, so the generator cannot fetch it.
+    // The logo is the official 180px apple-touch icon.
+    // The banner is the official 1200x630 homepage og:image.
+    'gleam-io': {
+      logo: 'public/static/images/overrides/gleam-io/logo.png',
+      ogImage: 'public/static/images/overrides/gleam-io/og-image.png',
+    },
+    // ezystudio.com's only icon is an SVG. This is that mark, rasterized at 512px.
+    // The homepage og:image is left for the generator.
+    ezystudio: {
+      logo: 'public/static/images/overrides/ezystudio/logo.png',
+    },
+    // The App Store page publishes the square app icon as og:image.
+    // The logo is the official 180px apple-touch icon from mhmtoo.app.
+    // The banner is the official 1200x630 English homepage og:image.
+    mhm: {
+      logo: 'public/static/images/overrides/mhm/logo.png',
+      ogImage: 'public/static/images/overrides/mhm/og-image.png',
+    },
   },
 };

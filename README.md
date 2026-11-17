@@ -182,6 +182,7 @@ Free & open-source.
 | ⌨️ | [Tabhive](https://www.tabhive.app/) | Organize browser tabs and bookmarks and find saved links with AI search. | **40% OFF** all plans, including Lifetime ($69 → $42), with code **BF2026** | 2026-12-05 |
 | 🐜 | [AntShot](https://antshot.com/) | Full-page screenshots for Chrome and Edge, including scrolling tables and lists, saved as PNG, JPG or PDF on your device. | **35% OFF** Pro Lifetime ($39 → $25.35) with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🛡️ | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that blocks fake shops, phishing and scam pages. | **30% OFF** your first period with code **BLACKFRIDAY2026** (yearly $22.99 → $16.09) | 2026-12-05 |
+| 🙈 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | **41% OFF** Lifetime Pro: $29 instead of $49, one-time payment (no code needed) | 2026-11-30 |
 
 
 ### Productivity & AI
@@ -207,6 +208,7 @@ Free & open-source.
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
 | 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **31% OFF**, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. One-time purchase | 2026-12-02 |
 | 🦀 | [OneClickClaw](https://oneclickclaw.io/plans) | Managed OpenClaw or Hermes Agent server in the EU, set up for you. | **Up to 33% OFF** the first month on monthly plans, applied automatically (Starter €14.99 → €9.99) | 2026-12-01 |
+| 🧑‍💼 | [Talking Avatar](https://talking-avatar.dev/black-friday) | Photorealistic AI avatars that speak your voice agent's audio in real time, plus no-code AI voice agents with the avatar included. | **2x credits** with code **LAUNCH2X**: your next top-up is matched up to $100 (pay $100, get $200 of credits), once per account | 2026-12-04 |
 
 
 ### Productivity
@@ -366,6 +368,9 @@ Free & open-source.
 | 🧾 | [CheckCraft](https://loshadki.app/checkcraft/) | Print checks from your Mac, iPhone or iPad: several at once, void and duplicate checks, a test page to line up your printer, and export to Quicken. | **60% OFF**: $1.99 instead of $4.99 on the App Store, one purchase for Mac, iPhone and iPad, no code needed | 2026-12-01 |
 | 🪄 | [ActionClip](https://actionclip.app/black-friday-deal) | Floating text action menu for Mac. Describe a workflow and AI builds a reusable custom action without coding. Apple Silicon, macOS 15+. | **25% OFF** Individual lifetime ($12 → $9, 1 Mac); also $15 for up to 3 Macs or $29 for up to 10 Macs. Lifetime access and updates. Auto-applied, no code needed; ends 23:59 UTC | 2026-11-29 |
 | ✅ | [Pippin](https://usepippin.com/pricing/) | Mac to-do list that writes and keeps itself from the text on your screen, so you never type a task. Uses your own AI plan. macOS 15+, Apple silicon. | **51% OFF** Lifetime ($59 → $29), no code needed. One-time purchase | 2026-12-02 |
+| 🖊️ | [Scribbble](https://www.scribbble.app) | Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard. One-time purchase. | **35% OFF** with code **BFCMSCRIB** ($12 → $7.80, one-time purchase). Starts on 2026-11-20 | 2026-12-02 |
+| 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
+| ✅ | [ScreenSky](https://screensky.io/pricing/) | Native Mac task board, quick task entry, screen breaks, Smart Pause, and posture and blink reminders. | **50% OFF**: $19.99 → $9.99 for 1 Mac, one-time purchase with 1 year of updates; or Lifetime with lifetime updates: $200 → $99.99. No code needed. | 2026-12-02 |
 
 
 ### Design Tools
@@ -590,6 +595,7 @@ Free & open-source.
 | 🎓 | [Colossyan](https://www.colossyan.com/pricing) | AI video and course creation for training teams: turn documents, slides and screen recordings into training videos and interactive courses with AI avatars, in 120+ languages. | **40% OFF** the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59/mo → $35.40/mo billed yearly, extra editors included. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
+| 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 
 
 ### Social
@@ -643,6 +649,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎁 | [Gleam.io](https://gleam.io/black-friday) | Run giveaways, contests, rewards, email capture campaigns and UGC galleries to grow your audience and generate leads. | Up to 60% OFF: Buy any Competitions plan with yearly billing and get all four Gleam apps for the same price, for as long as your subscription remains active. No code needed. Starts on 2026-11-20 | 2026-12-02 |
 
 
 ### Other
@@ -740,6 +747,7 @@ Free & open-source.
 | 📝 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Publish automatically on your own domain, with no coding required. | **30% OFF** all paid plans, monthly or annual, with code **BLACKFRIDAY2026** | 2026-12-02 |
 | 🌐 | [own.page](https://own.page/pricing) | Personal website built from live widgets: sell products, take bookings, collect leads, on your own domain. | **40% OFF** the first year of Pro ($79.90 → $47.94/yr) and **30% OFF** Business, no code needed. Starts on 2026-11-23 | 2026-11-30 |
 | 🗂️ | [Directify](https://directify.app/founders) | No-code directory website builder with listings, categories, custom domain, SEO and an MCP server. | **56% OFF**: 2 years of Growth for $599 (instead of $1,368), no code needed, limited to 20 passes. Starts on 2026-11-24 | 2026-12-01 |
+| 🧩 | [EzyStudio](https://ezystudio.com) | AI website and app builder. Bring your own Claude, ChatGPT or Gemini plan: no credits and no AI markup. | **10% OFF** every payment, for good, on every regular plan (monthly, yearly or lifetime) with code **EARLYBF26**: Website ~~$5~~ $4.50/mo billed yearly, App ~~$24~~ $21.60/mo, Business ~~$39~~ $35.10/mo | 2026-11-22 |
 
 
 ### Ads & Paid listings
@@ -780,6 +788,7 @@ Free & open-source.
 | 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% OFF** the first year on annual plans, or **28% OFF** the first 3 months, auto-applied at checkout | 2026-11-30 |
 | 🏁 | [Keyword Race](https://keywordrace.com) | App Store keyword research for indie iOS developers: competing apps, your position and estimated demand, paid once. | **40% OFF** lifetime access ($59 → $35), no code needed | 2026-12-02 |
 | 🔎 | [Winch](https://getwinch.app/) | Native Mac app for App Store and Google Play optimization: keyword ranks in 175 countries, localized listings, store art and review themes. | **30% OFF** with code **BLACKFRIDAY2026** ($39 → $27.30), one-time license for 2 Macs | 2026-12-01 |
+| 🤖 | [Supacite](https://supacite.com) | Guaranteed more Google traffic in 90 days, or you don't pay full price. Our own app went from 1,300 to 25,400 visitors/month and 3.9x revenue in 4 months. Done-for-you, with dashboard and MCP. | **33% OFF** · Done-for-you ~~$299~~ $199 for 3 months + success fee only if we hit your target (first 20) · Do it yourself ~~$89~~ $59/month while subscribed · No code needed | 2026-12-07 |
 
 
 ### Analyze & Audit
@@ -795,6 +804,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔍 | [CopyJump](https://copyjump.com/pricing) | Research, plan and write content from real search data to get more customers from Google and AI search. | **First month $39** instead of $79 (1 site), applied automatically (code **BLACKFRIDAY26**), first-time orders | 2026-11-27 |
+| 🤖 | [Supacite](https://supacite.com) | Guaranteed more Google traffic in 90 days, or you don't pay full price. Our own app went from 1,300 to 25,400 visitors/month and 3.9x revenue in 4 months. Done-for-you, with dashboard and MCP. | **33% OFF** · Done-for-you ~~$299~~ $199 for 3 months + success fee only if we hit your target (first 20) · Do it yourself ~~$89~~ $59/month while subscribed · No code needed | 2026-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
