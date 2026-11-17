@@ -777,6 +777,7 @@ Free & open-source.
 | 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% OFF** the first year on annual plans, or **28% OFF** the first 3 months, auto-applied at checkout | 2026-11-30 |
 | 🏁 | [Keyword Race](https://keywordrace.com) | App Store keyword research for indie iOS developers: competing apps, your position and estimated demand, paid once. | **40% OFF** lifetime access ($59 → $35), no code needed | 2026-12-02 |
 | 🔎 | [Winch](https://getwinch.app/) | Native Mac app for App Store and Google Play optimization: keyword ranks in 175 countries, localized listings, store art and review themes. | **30% OFF** with code **BLACKFRIDAY2026** ($39 → $27.30), one-time license for 2 Macs | 2026-12-01 |
+| 🤖 | [Supacite](https://supacite.com?ref=rbd) | Guaranteed more Google traffic in 90 days, or you don't pay full price. Our own app went from 1,300 to 25,400 visitors/month and 3.9x revenue in 4 months. Done-for-you, with dashboard and MCP. | **33% OFF** · Done-for-you ~~$299~~ $199 for 3 months + success fee only if we hit your target (first 20) · Do it yourself ~~$89~~ $59/month while subscribed · No code needed | 2026-12-07 |
 
 
 ### Analyze & Audit
@@ -792,6 +793,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔍 | [CopyJump](https://copyjump.com/pricing) | Research, plan and write content from real search data to get more customers from Google and AI search. | **First month $39** instead of $79 (1 site), applied automatically (code **BLACKFRIDAY26**), first-time orders | 2026-11-27 |
+| 🤖 | [Supacite](https://supacite.com?ref=rbd) | Guaranteed more Google traffic in 90 days, or you don't pay full price. Our own app went from 1,300 to 25,400 visitors/month and 3.9x revenue in 4 months. Done-for-you, with dashboard and MCP. | **33% OFF** · Done-for-you ~~$299~~ $199 for 3 months + success fee only if we hit your target (first 20) · Do it yourself ~~$89~~ $59/month while subscribed · No code needed | 2026-12-07 |
 
 
 [⬆️ All categories](#table-of-contents)
