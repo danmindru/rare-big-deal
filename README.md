@@ -207,6 +207,7 @@ Free & open-source.
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
 | 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **31% OFF**, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. One-time purchase | 2026-12-02 |
 | 🦀 | [OneClickClaw](https://oneclickclaw.io/plans) | Managed OpenClaw or Hermes Agent server in the EU, set up for you. | **Up to 33% OFF** the first month on monthly plans, applied automatically (Starter €14.99 → €9.99) | 2026-12-01 |
+| 🧑‍💼 | [Talking Avatar](https://talking-avatar.dev/black-friday?utm_source=rarebigdeal&utm_medium=deal_listing&utm_campaign=bfcm2026) | Photorealistic AI avatars that speak your voice agent's audio in real time, plus no-code AI voice agents with the avatar included. | **2x credits** with code **LAUNCH2X**: your next top-up is matched up to $100 (pay $100, get $200 of credits), once per account | 2026-12-04 |
 
 
 ### Productivity
