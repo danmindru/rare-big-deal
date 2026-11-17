@@ -656,6 +656,7 @@ Free & open-source.
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases, end-to-end encrypted file sharing and forms, with a CLI and browser extension. | **40% OFF** all paid plans for 12 months with code **BLKFRI40** | 2026-12-06 |
 | 🔗 | [LinkShip](https://linkship.net/pricing) | Turn files into shareable links you can update later, with view tracking, passwords and dynamic QR codes. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** | 2026-12-01 |
 | 📨 | [Leave Me Alone](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders you never asked to hear from, and bundle newsletters into a digest. Works with Gmail, Outlook, iCloud, Yahoo, Fastmail, and IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, and the same price when you renew. No code, the discount is applied on the pricing page. | 2026-12-08 |
+| ✍️ | [Inkfree](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | eSignature for teams: signing order, reusable templates, bulk send, web forms and a sealed audit trail. ESIGN, UETA and eIDAS compliant. | **70% OFF** the first year on annual plans or **60% OFF** the first 3 months on monthly plans (Basic $15 → $6, Standard $35 → $14, Business $50 → $20 per seat). No code needed, applied automatically | 2026-12-14 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -703,6 +704,7 @@ Free & open-source.
 | ✅ | [MailValid](https://mailvalid.io/pricing) | Email verification API for real-time and bulk checks, with Zapier, n8n and an MCP server. | **50% OFF**: monthly plans for 3 months with code **BLACKFRIDAY50**, pay-as-you-go packs with code **BLACKFRIDAY50PAYG** | 2026-12-01 |
 | ✉️ | [Terlido](https://terlido.com/pricing) | Cold email and newsletters from your own mailbox, with warmup, campaigns and an AI agent. | **40% OFF for 12 months** with code **BF2026** (Email Pro $39 → $23.40/seat/mo) | 2026-12-01 |
 | 📬 | [TrulyInbox](https://www.trulyinbox.com/) | Email warmup and deliverability tool so cold emails land in the inbox. | **Up to 45% OFF** yearly plans with code **BFCM45**. Starts on 2026-11-16 | 2026-12-04 |
+| ✉️ | [Mailzzy](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | Email marketing for small businesses: templates and designer, AI-drafted campaigns, A/B testing, segments, automations and reports. Also works from Claude and ChatGPT. | **70% OFF** the first year on annual plans (Standard $97.20 → $32.40) or **60% OFF** the first 3 months on monthly plans ($9 → $3.60/mo). No code needed, applied automatically | 2026-12-14 |
 
 
 ### Content Creation
