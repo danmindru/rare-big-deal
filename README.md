@@ -163,6 +163,7 @@ Free & open-source.
 | 🐞 | [Runheed](https://runheed.com/black-friday) | Error tracking your coding agent can read: Node.js and Python errors go to Claude Code, Cursor or any MCP client to fix. | **40% OFF** the first year of any annual plan with code **RUNHEEDBF26** (Solo $290 → $174) | 2026-12-03 |
 | 🛡️ | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Security checks for live apps and source code, with evidence and fix guidance. | **60% OFF** the first month of Go ($29 → $11.60) or Pro ($49 → $19.60), applied automatically for first subscriptions | 2026-11-30 |
 | 🔔 | [RenewRoster](https://renewroster.com/pricing) | Domain and SSL renewal tracking for web agencies, with team alerts and white-label client reminders. | **50% OFF** annual plans, applied automatically (Starter $150 → $75/yr) | 2026-12-02 |
+| ✉️ | [Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=rarebigdeal) | Email hosting for your own domain. One plan covers unlimited mailboxes, aliases and domains, with webmail and calendar included. | **80% OFF**: $12 for the whole year (was $60), renews at $12. No code needed. New customers only, first 500 accounts | 2026-12-01 |
 
 
 ### Browser Extensions
