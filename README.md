@@ -736,7 +736,7 @@ Free & open-source.
 | 📊 | [Airbridge](https://www.airbridge.io/en) | Mobile measurement for app teams. See which ads bring paying users, not just installs | **50% OFF** Core Plan for your first 6 paid months: $20+/mo instead of $40+/mo, with code **BLACKFRIDAY26** | 2026-11-30 |
 | 📊 | [Vemetric](https://vemetric.com/) | Web and product analytics that follows users from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** | 2026-12-01 |
 | 📊 | [PageDuel](https://pageduel.com/pricing) | Web analytics, A/B testing and revenue attribution in one tool, with funnels and URL personalization. | **40% OFF for 12 months** with code **BF2026** (from $9 → $5.40/mo) | 2026-12-01 |
-
+| 📊 | [TelemetryDeck](https://telemetrydeck.com/?utm_source=rarebigdeal&utm_medium=deal-list&utm_campaign=black-week-2026) | Privacy-first app analytics for iOS, macOS, Android, Flutter, React Native and web apps, hosted in Europe. | **30% OFF** for 12 months with code **WEEK26**. Paid plans add unlimited apps, 24 months of data retention and realtime data. Starts on 2026-11-23 | 2026-12-01 |
 
 ### Website Builders
 
