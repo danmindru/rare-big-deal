@@ -12,7 +12,10 @@ module.exports = {
       logo: 'public/static/images/overrides/facescreen/logo.png',
       ogImage: 'public/static/images/overrides/facescreen/og-image.png',
     },
+    // pageai.pro's apple-touch icon is 180px. This is the official 512px icon
+    // from /static/favicons/android-chrome-512x512.png in the site manifest.
     'page-ai': {
+      logo: 'public/static/images/overrides/page-ai/logo.png',
       ogImage: 'public/static/images/overrides/page-ai/og-image.png',
     },
     pimosa: {
