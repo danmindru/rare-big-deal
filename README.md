@@ -587,6 +587,7 @@ Free & open-source.
 | 🎓 | [Colossyan](https://www.colossyan.com/pricing) | AI video and course creation for training teams: turn documents, slides and screen recordings into training videos and interactive courses with AI avatars, in 120+ languages. | **40% OFF** the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59/mo → $35.40/mo billed yearly, extra editors included. Starts on 2026-11-23 | 2026-11-30 |
 | 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
+| 🎬 | [Cuddler Studio](https://cuddler.ai/black-friday?utm_source=gh-rare-big-deal&utm_medium=listing&utm_campaign=bf2026_listings) | Seedance, Kling, Veo, Runway and more video, image and voice models in one creator tool. Rated 18+. | Black Friday first-month prices: Lite $4.95 (regular $9.90), Pro $19.95 (regular $39.90), Ultra $49.95 (regular $99.90), plus discounted credit packs. No code needed. New memberships only. | 2026-12-01 |
 
 
 ### Social
