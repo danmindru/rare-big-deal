@@ -947,6 +947,7 @@ Free & open-source.
 | 💪 | [RepCount](https://www.repcountapp.com/black-friday) | Gym workout tracker for iPhone and Android. Unlimited workouts, routines and custom exercises are free; Premium adds detailed progress charts, records for every rep range, exercise history mid-workout and CSV export. | **50% OFF** the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US. Applied in the app (banner, popup and Premium screen), no code needed. Local prices vary. Starts on 2026-11-22 | 2026-12-02 |
 | 🏋️ | [FitArchive](https://fitarchive.app/black-friday/) | Workout log and calorie counter for iPhone and web, with AI meal logging. | **50% OFF** Plus yearly for your first year ($19.99 → $9.99) with code **BLACKFRIDAY50** on iPhone | 2026-11-30 |
 | 💍 | [Vitra Health](https://vitrahealth.app/) | Desktop companion for the Oura Ring on Mac and Windows that reads your ring data locally. Requires an Oura Membership. | **20% OFF** both one-time licences, applied at checkout (Solo €19 → €15.20, Pro €29 → €23.20) | 2026-11-30 |
+| 🌿 | [The NerveWindow Library](https://nervewindow.com/library/) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner. | **80% OFF**: all 25 apps and card decks, $477 → $97 USD, one payment, lifetime access. No code needed. Ends December 1, 2026 or after the first 1,000 buyers. | 2026-12-01 |
 
 
 ### Web Apps
