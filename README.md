@@ -123,6 +123,7 @@ Free & open-source.
 | 🤖 | [Robomori](https://robomori.com/) | Run Android emulators and your own Android devices outside Android Studio, and switch language, location, dark mode and more in a click. Mac, Windows and Linux. One-time purchase. | **60% OFF** with code **BLACKFRIDAY2026** (Basic $29 → $11.60) | 2026-12-01 |
 | 🔍 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **30% OFF** the Pro licence with code **BLACKFRIDAY** (one-time $49 → $34.30) | 2026-12-06 |
 | 🗼 | [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows, with undo, drag and drop, and support for Stacked Branches. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed). Starts on 2026-11-23 | 2026-12-06 |
+| 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 
 ### APIs, Tools & SaaS
@@ -164,6 +165,8 @@ Free & open-source.
 | 🐞 | [Runheed](https://runheed.com/black-friday) | Error tracking your coding agent can read: Node.js and Python errors go to Claude Code, Cursor or any MCP client to fix. | **40% OFF** the first year of any annual plan with code **RUNHEEDBF26** (Solo $290 → $174) | 2026-12-03 |
 | 🛡️ | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Security checks for live apps and source code, with evidence and fix guidance. | **60% OFF** the first month of Go ($29 → $11.60) or Pro ($49 → $19.60), applied automatically for first subscriptions | 2026-11-30 |
 | 🔔 | [RenewRoster](https://renewroster.com/pricing) | Domain and SSL renewal tracking for web agencies, with team alerts and white-label client reminders. | **50% OFF** annual plans, applied automatically (Starter $150 → $75/yr) | 2026-12-02 |
+| ✉️ | [Faivelo](https://faivelo.com/black-friday) | Email hosting for your own domain. One plan covers unlimited mailboxes, aliases and domains, with webmail and calendar included. | **80% OFF**: $12 for the whole year (was $60), renews at $12. No code needed. New customers only, first 500 accounts | 2026-12-01 |
+| 🐱 | [KittyTrace](https://kittytrace.com/) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | **34% OFF**: one-time $29 → $19 with code **BF2026** | 2026-12-01 |
 
 
 ### Browser Extensions
@@ -210,6 +213,7 @@ Free & open-source.
 | 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **31% OFF**, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. One-time purchase | 2026-12-02 |
 | 🦀 | [OneClickClaw](https://oneclickclaw.io/plans) | Managed OpenClaw or Hermes Agent server in the EU, set up for you. | **Up to 33% OFF** the first month on monthly plans, applied automatically (Starter €14.99 → €9.99) | 2026-12-01 |
 | 🧑‍💼 | [Talking Avatar](https://talking-avatar.dev/black-friday) | Photorealistic AI avatars that speak your voice agent's audio in real time, plus no-code AI voice agents with the avatar included. | **2x credits** with code **LAUNCH2X**: your next top-up is matched up to $100 (pay $100, get $200 of credits), once per account | 2026-12-04 |
+| 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 
 ### Productivity
@@ -230,6 +234,8 @@ Free & open-source.
 | 📄 | [PDF Pals v2](https://pdfpals.com/buy) | Chat with your documents on Mac with local AI models: PDF, Word, Excel, PowerPoint, EPUB and Markdown. | **Lifetime** $249 → **$149**, no code needed. **20% OFF** Basic and Plus with code **BF20** | 2026-12-01 |
 | ✨ | [Radiantly](https://radiantly.space/pricing) | Radiantly helps experts turn their knowledge into branded AI agents with interactive experiences, personalized responses for each client, and connections to 1,600+ apps. | New users get **60% off** their first annual subscription payment with code **BF60**.<br>Pro: $91.20 for the first year (normally $228/year).<br>Max: $283.20 for the first year (normally $708/year).<br>BF60 does not apply to renewals. Valid Nov 15–Dec 15, 2026 UTC. | 2026-12-15 |
 | 🖋️ | [DuoTyping](https://duotyping.com/pricing) | Underlines grammar, spelling and tone mistakes as you type in any app, with no daily limit on checks. Suggests your next few words when you pause (Tab to accept). Rewrite, translate, look up words you read, hear your text aloud and ask AI about a selection. Mac, Windows, Chrome/Edge and web. | **50% OFF the first Pro payment** with code **BFCM2026**: monthly ~~$9.90~~ **$4.95** for the first month, or yearly ~~$89.90~~ **$44.95** for the first year (USD). Pro gives 300 rewrites, 1,000 translations and 200 asks a day and 5 GB for draft images. First Pro purchase only, 3-day money-back; renewals at the regular price. Ends 13 December 2026, UTC. | 2026-12-13 |
+| 🎙️ | [InterviewFlowAI](https://interviewflowai.com/black-friday) | AI interview software: screens candidates 24/7 with AI phone and video interviews, scores them against your criteria and hands you a ranked shortlist. | **40% OFF** the first year of yearly Growth (~~$3,600~~ **$2,160**) or Scale (~~$6,000~~ **$3,600**) with code **BFCM40** | 2026-12-04 |
+| 🎧 | [Podwise](https://podwise.ai/pricing) | AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export to Notion, Obsidian and Readwise. | **40% OFF** Standard and Pro, monthly or yearly, renewals stay 40% off: Standard ~~$70.80~~ **$42.48**/yr, Pro ~~$142.80~~ **$85.68**/yr, code **BF2026**. Also Black Friday pricing in the iOS app. | 2026-12-06 |
 
 
 
@@ -279,6 +285,7 @@ Free & open-source.
 | ⌨️ | [AtAt](https://atatapp.com/black-friday) | @ for people. @@ for AI. Type @@ in any Mac text field to ask Claude Code, Codex, Ollama, your own API key or Siri AI with screen, clipboard and Finder context, plus an atat CLI for terminal agents. Apple silicon, macOS 15+, 14-day trial. | **47% OFF** Lifetime ($169 → $89, one-time purchase) and **$20 OFF** the first year of Yearly ($59 → $39, then $59/yr). Applied automatically at checkout, no code needed. Starts on 2026-11-24 | 2026-12-01 |
 | 🐚 | [ShellHistory](https://loshadki.app/shellhistory/) | Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command. | **60% OFF**: $5.59 instead of $13.99 on the Mac App Store (iPhone and iPad included), no code needed, or $5.60 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
 | 🔍 | [RegExp](https://loshadki.app/regexp/) | Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go, on Mac, iPhone and iPad. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options. | **60% OFF** RegExp Pro: $1.19 instead of $2.99, an in-app purchase on the App Store, no code needed | 2026-12-01 |
+| 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 
 ### Productivity
 
@@ -372,6 +379,7 @@ Free & open-source.
 | 🖊️ | [Scribbble](https://www.scribbble.app) | Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard. One-time purchase. | **35% OFF** with code **BFCMSCRIB** ($12 → $7.80, one-time purchase). Starts on 2026-11-20 | 2026-12-02 |
 | 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 | ✅ | [ScreenSky](https://screensky.io/pricing/) | Native Mac task board, quick task entry, screen breaks, Smart Pause, and posture and blink reminders. | **50% OFF**: $19.99 → $9.99 for 1 Mac, one-time purchase with 1 year of updates; or Lifetime with lifetime updates: $200 → $99.99. No code needed. | 2026-12-02 |
+| ✉️ | [bytemail](https://bytemailapp.com/black-friday) | Fast, native email app for Mac: unified inbox, smart search, snooze, rules, an AI assistant and MCP support. | **30% OFF** the lifetime licence ($99 → $69), one payment for up to 5 devices, no code needed | 2026-12-07 |
 
 
 ### Design Tools
@@ -496,6 +504,7 @@ Free & open-source.
 | 🧾 | [Invoice Factory](https://apps.apple.com/us/app/id6744819252) | Invoice maker and bookkeeping app for freelancers and small businesses on iPhone. | **50% OFF** the first year of Premium annual ($179.99 → $89.99), no code needed | 2026-12-06 |
 | ⏰ | [DuePal](https://elevenapril.com/duepal) | Live countdowns to your next task on Lock Screen, widgets and Apple Watch, with alarms that ring even in Silent mode. | **30% OFF** Lifetime ($29.99 → $20.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 🚆 | [Focus Train](https://elevenapril.com/focustrain) | Pomodoro timer that turns focus sessions into a train ride across a real rail map with 20 soundscapes and iCloud sync. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
+| 📱 | [Dopy](https://apps.apple.com/us/app/dopy-dopamine-detox-app/id6756252987) | Pomodoro focus sessions, habit tracking and weekly reflection. | **60% OFF** first year of annual ($29.99 → $11.99) with code **BF2026DOPY** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/dopy)); renews $29.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 
 
 ### Photos & Videos
@@ -524,6 +533,9 @@ Free & open-source.
 | 💪 | [RepCount](https://www.repcountapp.com/black-friday) | Gym workout tracker for iPhone and Android. Unlimited workouts, routines and custom exercises are free; Premium adds detailed progress charts, records for every rep range, exercise history mid-workout and CSV export. | **50% OFF** the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US. Applied in the app (banner, popup and Premium screen), no code needed. Local prices vary. Starts on 2026-11-22 | 2026-12-02 |
 | 🌙 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that adapts to your menstrual cycle and hormone phases. | **40% OFF** Lifetime ($24.99 → $14.99). Starts on 2026-11-27 | 2026-12-01 |
 | 👟 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch. | **40% OFF** Lifetime ($39.99 → $23.99) with code **BFCM26**, Family Sharing ($79.99 → $47.99) with code **BFCM26FAMILY** | 2026-12-01 |
+| 📱 | [Hapday](https://apps.apple.com/us/app/hapday-ai-life-coach-cbt/id1498572982) | AI coaching, habit and mood tracking in one app. | **60% OFF** first year of annual ($39.99 → $16.00) with code **BF2026HAPDAY** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/hapday)); renews $39.99/year. Website checkout; customers without an active subscription; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
+| 📱 | [Sunrise](https://apps.apple.com/us/app/sunrise-adhd-planner-coach/id1542353302) | An ADHD-focused AI coach and habit tracker for building daily routines. | **60% OFF** first year of annual ($9.99 → $3.99) with code **BF2026SUNRISE** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/sunrise)); renews $9.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
+| 📱 | [Breakup AI](https://apps.apple.com/us/app/breakup-ai-no-contact-coach/id6749644067) | Chat and voice support for navigating a breakup and maintaining no contact. | **60% OFF** first year of annual ($39.99 → $15.99) with code **BF2026BREAKUP** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/breakup)); renews $39.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 
 
 ### Hobby & Lifestyle
@@ -536,6 +548,7 @@ Free & open-source.
 | 🍜 | [YumPal](https://elevenapril.com/yumpal) | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | **37% OFF** Lifetime ($29.99 → $18.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 🪴 | [Succulent](https://elevenapril.com/succulent) | Photo journal for succulent lovers with care reminders to compare weeks of growth side by side. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 🫣 | [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538) | iPhone app for two people who are close: each of you sets private emoji signals for the other, and only a match is ever shown. Your thought stays private until it becomes mutual. [Website](https://mhmtoo.app) | **50% OFF** mhm+ Lifetime ($49.99 → $24.99), applied automatically in the App Store, no code needed. Also **60% OFF** the first year of Yearly ($29.99 → $11.99) with code **BFCM26**, new subscribers, 7-day trial kept. US pricing; local prices vary. Starts on 2026-11-17 | 2026-12-02 |
+| 📱 | [Lift](https://apps.apple.com/us/app/lift-daily-prayer-bible-ai/id6772963796) | A Christian prayer companion for personal prayers, Scripture and daily reflection. | **60% OFF** first year of annual ($39.99 → $16.00) with code **BF2026LIFT** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/lift)); renews $39.99/year. Website checkout; customers without an active subscription; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 
 
 ### Other
@@ -668,6 +681,7 @@ Free & open-source.
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases, end-to-end encrypted file sharing and forms, with a CLI and browser extension. | **40% OFF** all paid plans for 12 months with code **BLKFRI40** | 2026-12-06 |
 | 🔗 | [LinkShip](https://linkship.net/pricing) | Turn files into shareable links you can update later, with view tracking, passwords and dynamic QR codes. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** | 2026-12-01 |
 | 📨 | [Leave Me Alone](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders you never asked to hear from, and bundle newsletters into a digest. Works with Gmail, Outlook, iCloud, Yahoo, Fastmail, and IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, and the same price when you renew. No code, the discount is applied on the pricing page. | 2026-12-08 |
+| ✍️ | [Inkfree](https://inkfree.app/signature-savings-sale/) | eSignature for teams: signing order, reusable templates, bulk send, web forms and a sealed audit trail. ESIGN, UETA and eIDAS compliant. | **70% OFF** the first year on annual plans or **60% OFF** the first 3 months on monthly plans (Basic $15 → $6, Standard $35 → $14, Business $50 → $20 per seat). No code needed, applied automatically | 2026-12-14 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -715,6 +729,7 @@ Free & open-source.
 | ✅ | [MailValid](https://mailvalid.io/pricing) | Email verification API for real-time and bulk checks, with Zapier, n8n and an MCP server. | **50% OFF**: monthly plans for 3 months with code **BLACKFRIDAY50**, pay-as-you-go packs with code **BLACKFRIDAY50PAYG** | 2026-12-01 |
 | ✉️ | [Terlido](https://terlido.com/pricing) | Cold email and newsletters from your own mailbox, with warmup, campaigns and an AI agent. | **40% OFF for 12 months** with code **BF2026** (Email Pro $39 → $23.40/seat/mo) | 2026-12-01 |
 | 📬 | [TrulyInbox](https://www.trulyinbox.com/) | Email warmup and deliverability tool so cold emails land in the inbox. | **Up to 45% OFF** yearly plans with code **BFCM45**. Starts on 2026-11-16 | 2026-12-04 |
+| ✉️ | [Mailzzy](https://mailzzy.com/emails-savings-sale/) | Email marketing for small businesses: templates and designer, AI-drafted campaigns, A/B testing, segments, automations and reports. Also works from Claude and ChatGPT. | **70% OFF** the first year on annual plans (Standard $97.20 → $32.40) or **60% OFF** the first 3 months on monthly plans ($9 → $3.60/mo). No code needed, applied automatically | 2026-12-14 |
 
 
 ### Content Creation
@@ -738,6 +753,8 @@ Free & open-source.
 | 📊 | [Airbridge](https://www.airbridge.io/en) | Mobile measurement for app teams. See which ads bring paying users, not just installs | **50% OFF** Core Plan for your first 6 paid months: $20+/mo instead of $40+/mo, with code **BLACKFRIDAY26** | 2026-11-30 |
 | 📊 | [Vemetric](https://vemetric.com/) | Web and product analytics that follows users from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** | 2026-12-01 |
 | 📊 | [PageDuel](https://pageduel.com/pricing) | Web analytics, A/B testing and revenue attribution in one tool, with funnels and URL personalization. | **40% OFF for 12 months** with code **BF2026** (from $9 → $5.40/mo) | 2026-12-01 |
+| 📊 | [Pirsch Analytics](https://pirsch.io/) | Privacy-friendly and GDPR-compliant web analytics. | **20% OFF for first payment** with code **BLACKFRIDAY26** | 2026-12-31 |
+| 📊 | [TelemetryDeck](https://telemetrydeck.com/) | Privacy-first app analytics for iOS, macOS, Android, Flutter, React Native and web apps, hosted in Europe. | **30% OFF** for 12 months with code **WEEK26**. Paid plans add unlimited apps, 24 months of data retention and realtime data. Starts on 2026-11-23 | 2026-12-01 |
 
 
 ### Website Builders

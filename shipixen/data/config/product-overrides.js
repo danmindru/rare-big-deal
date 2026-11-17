@@ -515,5 +515,43 @@ module.exports = {
       logo: 'public/static/images/overrides/screenshield/logo.png',
       ogImage: 'public/static/images/overrides/screenshield/og-image.png',
     },
+    // storagemenu.app only ships an SVG favicon. This is the official 512px Mac App Store icon.
+    // The site has a usable official og:image, left for the generator.
+    'storage-menu-bar': {
+      logo: 'public/static/images/overrides/storage-menu-bar/logo.png',
+    },
+    // mailzzy.com only has 48px raster icons. This is the official favicon.svg mark, rasterized at 512px.
+    // The published og:image is a wordmark on white. The banner is a 1200x630 screenshot of the English homepage hero.
+    mailzzy: {
+      logo: 'public/static/images/overrides/mailzzy/logo.png',
+      ogImage: 'public/static/images/overrides/mailzzy/og-image.png',
+    },
+    // App Store og images for these HAPDAY apps are the square icon on white.
+    // Logos are the official 512px App Store artwork. Banners are 1200x630 screenshots of the English US App Store listing.
+    dopy: {
+      logo: 'public/static/images/overrides/dopy/logo.png',
+      ogImage: 'public/static/images/overrides/dopy/og-image.png',
+    },
+    hapday: {
+      logo: 'public/static/images/overrides/hapday/logo.png',
+      ogImage: 'public/static/images/overrides/hapday/og-image.png',
+    },
+    sunrise: {
+      logo: 'public/static/images/overrides/sunrise/logo.png',
+      ogImage: 'public/static/images/overrides/sunrise/og-image.png',
+    },
+    'breakup-ai': {
+      logo: 'public/static/images/overrides/breakup-ai/logo.png',
+      ogImage: 'public/static/images/overrides/breakup-ai/og-image.png',
+    },
+    lift: {
+      logo: 'public/static/images/overrides/lift/logo.png',
+      ogImage: 'public/static/images/overrides/lift/og-image.png',
+    },
+    // Official 512px icon and official 1200x630 English marketing og:image from supayatta.com.
+    supayatta: {
+      logo: 'public/static/images/overrides/supayatta/logo.png',
+      ogImage: 'public/static/images/overrides/supayatta/og-image.png',
+    },
   },
 };
