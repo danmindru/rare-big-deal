@@ -515,5 +515,33 @@ module.exports = {
       logo: 'public/static/images/overrides/screenshield/logo.png',
       ogImage: 'public/static/images/overrides/screenshield/og-image.png',
     },
+    // mailzzy.com's favicon.png is 48px. The site publishes no apple-touch icon and no manifest.
+    // The logo is the icon on the left of the official wordmark SVG, rasterized at 512px.
+    // The published og:image is that wordmark on white. The banner is a 1200x630 screenshot of the English homepage hero.
+    mailzzy: {
+      logo: 'public/static/images/overrides/mailzzy/logo.png',
+      ogImage: 'public/static/images/overrides/mailzzy/og-image.png',
+    },
+    // The App Store share image is a 600x1299 screenshot. The offer page publishes no og:image.
+    // The banner is a 1200x630 screenshot of the English offer page.
+    dopy: {
+      ogImage: 'public/static/images/overrides/dopy/og-image.png',
+    },
+    // hapday.app's og:image is the 512px icon. The banner is a 1200x630 screenshot of the English offer page.
+    hapday: {
+      ogImage: 'public/static/images/overrides/hapday/og-image.png',
+    },
+    // habyy.app publishes no og:image. The banner is a 1200x630 screenshot of the English offer page.
+    sunrise: {
+      ogImage: 'public/static/images/overrides/sunrise/og-image.png',
+    },
+    // breakup.one's og:image is a 510px square. The banner is a 1200x630 screenshot of the English offer page.
+    'breakup-ai': {
+      ogImage: 'public/static/images/overrides/breakup-ai/og-image.png',
+    },
+    // The App Store share image is a tall screenshot. This is the official 1200x630 og:image from praylift.io.
+    lift: {
+      ogImage: 'public/static/images/overrides/lift/og-image.png',
+    },
   },
 };
