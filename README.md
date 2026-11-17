@@ -442,6 +442,7 @@ Free & open-source.
 | ☕ | [DeskRest](https://deskrest.com/offers) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work. | **80% OFF** lifetime licenses with code **BLACKFRIDAY80** | 2026-12-10 |
 | 🌠 | [Wishbar](https://wishbar.app/black-friday) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an alert when NVIDIA nears the price you set, the pound to rupee rate or your train line's delays. A free ChatGPT account is enough. One-time purchase, macOS 13 or later. | **50% OFF** one-time licences: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34. No code needed. | 2026-12-07 |
 | ☀️ | [Big Weather](https://apps.apple.com/app/big-weather/id1531449281) | Weather in the Mac menu bar, with a few words about tomorrow and a weekly rundown written on-device by Apple Intelligence. | **33% OFF** Lifetime: ~~$29.99~~ **$19.99** one-time, no code needed. | 2026-12-03 |
+| 💾 | [Storage Menu Bar](https://storagemenu.app/) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk. | **50% OFF**: ~~$1.99~~ **$0.99** on the Mac App Store, one-time purchase, no code needed. | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
