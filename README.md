@@ -167,6 +167,7 @@ Free & open-source.
 | 🔔 | [RenewRoster](https://renewroster.com/pricing) | Domain and SSL renewal tracking for web agencies, with team alerts and white-label client reminders. | **50% OFF** annual plans, applied automatically (Starter $150 → $75/yr) | 2026-12-02 |
 | ✉️ | [Faivelo](https://faivelo.com/black-friday) | Email hosting for your own domain. One plan covers unlimited mailboxes, aliases and domains, with webmail and calendar included. | **80% OFF**: $12 for the whole year (was $60), renews at $12. No code needed. New customers only, first 500 accounts | 2026-12-01 |
 | 🐱 | [KittyTrace](https://kittytrace.com/) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | **34% OFF**: one-time $29 → $19 with code **BF2026** | 2026-12-01 |
+| 💡 | [IvaBoard](https://ivaboard.com/lifetime/) | Feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain. | **30% OFF** lifetime plans with code **BF30**. Hosted Solo, one payment: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30. Ends 11:59 p.m. Pacific Time. | 2026-11-30 |
 
 
 ### Browser Extensions
