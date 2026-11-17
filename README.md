@@ -163,6 +163,7 @@ Free & open-source.
 | 🐞 | [Runheed](https://runheed.com/black-friday) | Error tracking your coding agent can read: Node.js and Python errors go to Claude Code, Cursor or any MCP client to fix. | **40% OFF** the first year of any annual plan with code **RUNHEEDBF26** (Solo $290 → $174) | 2026-12-03 |
 | 🛡️ | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Security checks for live apps and source code, with evidence and fix guidance. | **60% OFF** the first month of Go ($29 → $11.60) or Pro ($49 → $19.60), applied automatically for first subscriptions | 2026-11-30 |
 | 🔔 | [RenewRoster](https://renewroster.com/pricing) | Domain and SSL renewal tracking for web agencies, with team alerts and white-label client reminders. | **50% OFF** annual plans, applied automatically (Starter $150 → $75/yr) | 2026-12-02 |
+| 🐱 | [KittyTrace](https://kittytrace.com/?utm_source=rare-big-deal&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | **34% OFF**: one-time $29 → $19 with code **BF2026** | 2026-12-01 |
 
 
 ### Browser Extensions
