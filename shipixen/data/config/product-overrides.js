@@ -504,5 +504,13 @@ module.exports = {
       logo: 'public/static/images/overrides/mhm/logo.png',
       ogImage: 'public/static/images/overrides/mhm/og-image.png',
     },
+    // sky-blue1111.github.io/screenshield-site is a GitHub Pages project subpath.
+    // Favicon fallback requests the icon at the domain root and gets 404s.
+    // The logo is the official 180px icon.
+    // The banner is the official 1200x630 og image.
+    screenshield: {
+      logo: 'public/static/images/overrides/screenshield/logo.png',
+      ogImage: 'public/static/images/overrides/screenshield/og-image.png',
+    },
   },
 };
