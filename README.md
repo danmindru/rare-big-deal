@@ -365,6 +365,7 @@ Free & open-source.
 | 📥 | [SmartInbox](https://loshadki.app/smartinbox/) | Spam, phishing and cold sales out of your Inbox in Mail, decided by Apple Intelligence on your Mac or a model you choose. Requires macOS 26. | **60% OFF**: $1.99 instead of $4.99 on the Mac App Store, no code needed, or $2.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
 | 🧾 | [CheckCraft](https://loshadki.app/checkcraft/) | Print checks from your Mac, iPhone or iPad: several at once, void and duplicate checks, a test page to line up your printer, and export to Quicken. | **60% OFF**: $1.99 instead of $4.99 on the App Store, one purchase for Mac, iPhone and iPad, no code needed | 2026-12-01 |
 | 🪄 | [ActionClip](https://actionclip.app/black-friday-deal) | Floating text action menu for Mac. Describe a workflow and AI builds a reusable custom action without coding. Apple Silicon, macOS 15+. | **25% OFF** Individual lifetime ($12 → $9, 1 Mac); also $15 for up to 3 Macs or $29 for up to 10 Macs. Lifetime access and updates. Auto-applied, no code needed; ends 23:59 UTC | 2026-11-29 |
+| ✅ | [Pippin](https://usepippin.com/pricing/) | Mac to-do list that writes and keeps itself from the text on your screen, so you never type a task. Uses your own AI plan. macOS 15+, Apple silicon. | **51% OFF** Lifetime ($59 → $29), no code needed. One-time purchase | 2026-12-02 |
 
 
 ### Design Tools
