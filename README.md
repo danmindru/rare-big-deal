@@ -384,6 +384,7 @@ Free & open-source.
 | ✉️ | [bytemail](https://bytemailapp.com/black-friday) | Fast, native email app for Mac: unified inbox, smart search, snooze, rules, an AI assistant and MCP support. | **30% OFF** the lifetime licence ($99 → $69), one payment for up to 5 devices, no code needed | 2026-12-07 |
 | ⏰ | [DeskMinder](https://deskminder.appps.od.ua) | Create quick reminders and start tasks on your Mac desktop, with full-screen notifications. | Lifetime **$3.99** (was $6.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6740942938&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
 | 💬 | [Transcrybe - Live Translation](https://transcrybe.app/) | Live translated subtitles for audio from your microphone or any Mac app. | **50% OFF** the one-time lifetime purchase ($29.99 → $14.99 USD), automatically applied on both the Mac App Store and direct website; no code needed | 2026-12-02 |
+| 🔎 | [Findy](https://getfindy.xyz/) | Find files on your Mac from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac. | **50% OFF** one-time licenses with code **GITFRIDAY50**: 1 Mac $11 → $5.50, 2 Macs $19 → $9.50 (early-bird prices) | 2026-12-07 |
 
 
 ### Design Tools
