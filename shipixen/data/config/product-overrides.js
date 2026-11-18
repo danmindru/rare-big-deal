@@ -543,5 +543,27 @@ module.exports = {
     lift: {
       ogImage: 'public/static/images/overrides/lift/og-image.png',
     },
+    // transcrybe.app only publishes a 32px favicon. The logo is the official 512px Mac App Store icon. The banner is left for the generator.
+    'transcrybe-live-translation': {
+      logo: 'public/static/images/overrides/transcrybe-live-translation/logo.png',
+    },
+    // The logo is the official 512px App Store icon for Nihongo.
+    'nihongo-japanese-dictionary': {
+      logo: 'public/static/images/overrides/nihongo-japanese-dictionary/logo.png',
+    },
+    // The logo is the official 512px App Store icon for Nihongo Lessons.
+    'nihongo-lessons': {
+      logo: 'public/static/images/overrides/nihongo-lessons/logo.png',
+    },
+    // alttextlab.com/black-friday publishes no og:image. The banner is the official 1200x630 homepage share image, and the logo is the official 256px icon.
+    alttextlab: {
+      logo: 'public/static/images/overrides/alttextlab/logo.png',
+      ogImage: 'public/static/images/overrides/alttextlab/og-image.png',
+    },
+    // cyberwarfare.live publishes no og:image. The logo is the official 500px mark, and the banner is a 1200x630 screenshot of the English homepage.
+    'cyberwarfare-labs': {
+      logo: 'public/static/images/overrides/cyberwarfare-labs/logo.png',
+      ogImage: 'public/static/images/overrides/cyberwarfare-labs/og-image.png',
+    },
   },
 };
