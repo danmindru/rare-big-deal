@@ -923,6 +923,7 @@ Free & open-source.
 | 🛡️ | [Vantagepoint](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs and more. | **70% OFF** all hacking labs and certifications, applied automatically (labs $99 → $29.70, certifications $299 → $89.70) | 2026-12-15 |
 | 🛡️ | [Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | **67% OFF** Wireless Operator: $197 instead of $599, no code needed | 2026-12-01 |
 | 🛡️ | [Modern Security - AI Security Certification](https://www.modernsecurity.io/courses/ai-security-certification) | Hands-on AI security training with labs on agents, MCP security, RAG, prompt injection, red teaming, guardrails and AI supply chain security. | **20% OFF** with code **msec-bf20** (Nov 10 – Dec 10, 2026) | 2026-12-10 |
+| 🛡️ | **[CyberWarFare Labs](https://cyberwarfare.live/)**<br>Black Friday deals on cybersecurity certifications, hands-on courses, curated bundles, Infinity access and premium plans. [More details](https://github.com/RedTeamOperations/black-friday-cyber-sale-2025). | <b>Individual Courses Starting from $5; bundles from $29 (up to 90% off); Infinity from $5; All Access 44.47% off.</b> |
 
 ### Art Courses
 
