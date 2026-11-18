@@ -624,6 +624,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 💬 | [Textmock](https://textmock.com/pricing) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**: ~~$5~~ **$2.50**/month, new subscribers | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -639,6 +640,7 @@ Free & open-source.
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF** Lifetime ($29.99 → $19.99), applied automatically in the app. Starts on 2026-11-19 | 2026-12-02 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | ✍️ | [Orwellix](https://orwellix.com/lifetime-deal) | AI writing editor: an agent edits your whole document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in the same document. | **Lifetime plan**: one payment of $249 instead of $468/year for Premium, with more AI credits, grammar characters and plagiarism words than Premium every month (no code needed, only 300 deals) | 2026-12-31 |
+| 🧽 | [Sponge](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone. | **50% OFF** Sponge Plus for your first 12 months with code **SPONGEBF26**: ~~$5~~ **$2.50**/month on the web, new subscribers | 2026-12-02 |
 
 
 ### Team Project Management Software
