@@ -1041,6 +1041,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🗓️ | [Saventify](https://saventify.com) | Create elegant digital invitations, send them instantly, and manage RSVPs without stress. | **37% OFF** with code **BF26** | 2027-01-01 |
 | 🛒 | [Store Pickup Alert](https://storepickupalert.com/) | Phone alerts when a sold-out iPhone, console or GPU shows up for in-store pickup at Apple or Best Buy near you. | **20% OFF** your first month with code **BLACKFRIDAY20** | 2026-12-04 |
+| 🎥 | [Noviscan](https://secufor.net/black-week/) | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. | **30-day free trial** of Noviscan® Premium with code **BLACKFRIDAY26**, then €9.90 a month. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. Starts on 2026-11-23 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
