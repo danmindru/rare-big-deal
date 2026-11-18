@@ -3,7 +3,12 @@ const path = require('path');
 const { assessEligibility } = require('./lib/eligibility');
 const { machineRecord, upsertRecord } = require('./lib/evidence-record');
 const { inspectMediaFile } = require('./lib/media-bytes');
-const { compareCatalogs, forgivenEmptySectionRemoval, parseCatalog } = require('./lib/readme-catalog');
+const {
+  compareCatalogs,
+  forgivenEmptySectionRemoval,
+  forgivenSectionAddition,
+  parseCatalog,
+} = require('./lib/readme-catalog');
 const { sanitizeName } = require('./sanitize-name');
 
 const TREE_PATH = path.join(__dirname, '..', 'catalog', 'catalog-tree.json');
@@ -318,19 +323,25 @@ async function inspectIncludedProductMedia(row, mediaRoot) {
   return findings;
 }
 
-function withoutForgivenRemovals(findings, forgiveness) {
-  if (!forgiveness) return findings;
+function withoutForgivenStructuralChanges(findings, removal, addition) {
+  if (!removal && !addition) return findings;
   const removedTable = ': the deal table was removed.';
+  const notInTree = ': this table is not part of the catalog tree.';
   return findings.filter((finding) => {
     if (
+      (removal || addition) &&
       finding.code === 'tree' &&
       finding.message.startsWith('The category and subcategory tree has to stay as it is')
     ) {
       return false;
     }
-    if (finding.code === 'header' && finding.message.endsWith(removedTable)) {
+    if (removal && finding.code === 'header' && finding.message.endsWith(removedTable)) {
       const label = finding.message.slice(0, -removedTable.length);
-      if (forgiveness.labels.has(label)) return false;
+      if (removal.labels.has(label)) return false;
+    }
+    if (addition && finding.code === 'tree' && finding.message.endsWith(notInTree)) {
+      const label = finding.message.slice(0, -notInTree.length);
+      if (addition.labels.has(label)) return false;
     }
     return true;
   });
@@ -347,8 +358,9 @@ function checksFromFindings(findings) {
 async function validateSubmission(options) {
   const today = options.today || todayUtc();
   const compared = compareCatalogs(options.baseMarkdown, options.headMarkdown);
-  const forgiveness = forgivenEmptySectionRemoval(compared, options.baseTree, options.tree);
-  const findings = withoutForgivenRemovals(compared.findings, forgiveness);
+  const removal = forgivenEmptySectionRemoval(compared, options.baseTree, options.tree);
+  const addition = forgivenSectionAddition(compared, options.baseTree, options.tree);
+  const findings = withoutForgivenStructuralChanges(compared.findings, removal, addition);
   const failures = findings.map((finding) => ({
     code: finding.code,
     message: finding.message,

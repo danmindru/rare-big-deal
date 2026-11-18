@@ -424,10 +424,74 @@ function forgivenEmptySectionRemoval(compared, baseTree, headTree) {
   return { labels };
 }
 
+// Headings added in head, in head order, with no removals or reordering.
+// Duplicate names stay aligned by walking both lists together.
+function addedHeadingIndexes(baseHeadings, headHeadings) {
+  let baseIndex = 0;
+  const added = [];
+  for (let index = 0; index < headHeadings.length; index += 1) {
+    const baseHeading = baseHeadings[baseIndex];
+    if (
+      baseHeading &&
+      baseHeading.level === headHeadings[index].level &&
+      baseHeading.text === headHeadings[index].text
+    ) {
+      baseIndex += 1;
+    } else {
+      added.push(index);
+    }
+  }
+  if (baseIndex !== baseHeadings.length) return null;
+  return added;
+}
+
+/**
+ * A new category or section may join the catalog when the head catalog tree
+ * lists those same headings, the base tree still matches the base README, and
+ * every other heading stays in place. Returns the table labels to stop treating
+ * as an unknown section, or null when the diff is any other structural change.
+ */
+function forgivenSectionAddition(compared, baseTree, headTree) {
+  if (!baseTree || !headTree) return null;
+  const baseHeadings = compared.base.headings;
+  const headHeadings = compared.head.headings;
+  const added = addedHeadingIndexes(baseHeadings, headHeadings);
+  if (!added || added.length === 0) return null;
+  if (!sameHeadings(baseHeadings, baseTree.headings || [])) return null;
+  if (!sameHeadings(headHeadings, headTree.headings || [])) return null;
+
+  const addedSet = new Set(added);
+  const labels = new Set();
+  let category = null;
+  for (let index = 0; index < headHeadings.length; index += 1) {
+    const heading = headHeadings[index];
+    if (heading.level === 2) {
+      category = heading.text;
+      if (addedSet.has(index)) {
+        labels.add(heading.text);
+        labels.add(`${heading.text} / `);
+      }
+      continue;
+    }
+    if (heading.level !== 3 || !addedSet.has(index)) continue;
+    if (!category) return null;
+    labels.add(`${category} / ${heading.text}`);
+  }
+
+  const notInTree = ': this table is not part of the catalog tree.';
+  for (const finding of compared.findings) {
+    if (finding.code !== 'tree' || !finding.message.endsWith(notInTree)) continue;
+    const label = finding.message.slice(0, -notInTree.length);
+    if (!labels.has(label)) return null;
+  }
+  return { labels };
+}
+
 module.exports = {
   EXPECTED_HEADER,
   compareCatalogs,
   forgivenEmptySectionRemoval,
+  forgivenSectionAddition,
   normalizeUrl,
   parseCatalog,
   rowKey,

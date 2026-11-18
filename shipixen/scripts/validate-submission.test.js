@@ -754,6 +754,125 @@ describe('empty section removal', () => {
   });
 });
 
+describe('section addition', () => {
+  const UTILITIES = `
+
+### Utilities
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 📹 | [Video Wall Live](https://videowall.example/blackfriday) | Cameras on a TV. | **$4.99 → $1.99** per month | 2026-12-01 |
+`;
+
+  function withUtilities(markdown) {
+    return markdown.replace('### APIs, Tools & SaaS', `${UTILITIES}\n### APIs, Tools & SaaS`);
+  }
+
+  test('allows a new subcategory when the catalog tree adds it and still checks the new row', async () => {
+    const baseMarkdown = readFixture('base.md');
+    const headMarkdown = withUtilities(baseMarkdown);
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(headMarkdown),
+    });
+    assert.deepEqual(codes(result.failures), []);
+    const row = result.records.find((record) => record.binding.product === 'Video Wall Live');
+    assert.equal(row.binding.category, 'Developer Tools');
+    assert.equal(row.binding.subcategory, 'Utilities');
+    assert.equal(row.checks.discount.status, 'needs-human');
+    assert.equal(row.checks.expiry.status, 'pass');
+  });
+
+  test('allows a new category when the catalog tree adds it', async () => {
+    const baseMarkdown = readFixture('base.md');
+    const headMarkdown = `${baseMarkdown}
+
+## Shelf
+
+### Utilities
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 📹 | [Video Wall Live](https://videowall.example/blackfriday) | Cameras on a TV. | **$4.99 → $1.99** per month | 2026-12-01 |
+`;
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(headMarkdown),
+    });
+    assert.deepEqual(codes(result.failures), []);
+    const row = result.records.find((record) => record.binding.product === 'Video Wall Live');
+    assert.equal(row.binding.category, 'Shelf');
+    assert.equal(row.binding.subcategory, 'Utilities');
+  });
+
+  test('rejects a new subcategory unless the head catalog tree includes it', async () => {
+    const baseMarkdown = readFixture('base.md');
+    const headMarkdown = withUtilities(baseMarkdown);
+    const untracked = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+    });
+    assert.ok(codes(untracked.failures).includes('tree'));
+
+    const staleTree = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(baseMarkdown),
+    });
+    assert.ok(codes(staleTree.failures).includes('tree'));
+    assert.ok(
+      staleTree.failures.some((item) => item.message.includes('not part of the catalog tree')),
+    );
+  });
+
+  test('rejects a renamed heading even when both catalog trees match their READMEs', async () => {
+    const baseMarkdown = readFixture('base.md');
+    const headMarkdown = baseMarkdown.replace('### macOS Apps', '### Desktop Apps');
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown,
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(headMarkdown),
+    });
+    assert.ok(codes(result.failures).includes('tree'));
+  });
+
+  test('still rejects reordered rows when a new subcategory is approved', async () => {
+    const baseMarkdown = readFixture('base.md');
+    const swapped = baseMarkdown.replace(
+      `| 🛠 | [Alpha](https://alpha.example) | A paid tool for shipping. | **30% off** the Pro plan with code SAVE | 2026-12-01 |
+| 🛠 | [Beta](https://beta.example) | Another paid tool. | **$20 off** the annual plan | 2026-12-15 |`,
+      `| 🛠 | [Beta](https://beta.example) | Another paid tool. | **$20 off** the annual plan | 2026-12-15 |
+| 🛠 | [Alpha](https://alpha.example) | A paid tool for shipping. | **30% off** the Pro plan with code SAVE | 2026-12-01 |`,
+    );
+    const result = await validateSubmission({
+      baseMarkdown,
+      headMarkdown: withUtilities(swapped),
+      today: TODAY,
+      headSha: 'abc123',
+      baseTree: catalogTree(baseMarkdown),
+      tree: catalogTree(withUtilities(swapped)),
+    });
+    assert.ok(codes(result.failures).includes('reorder'));
+    assert.equal(codes(result.failures).includes('tree'), false);
+  });
+});
+
 describe('live catalog', () => {
   test('the empty live README matches the committed category tree', async () => {
     const readmePath = path.join(__dirname, '..', '..', 'README.md');
