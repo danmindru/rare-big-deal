@@ -126,6 +126,7 @@ Free & open-source.
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 | 📈 | [Toplify](https://toplify.app) | Track App Store chart positions in 175 countries, with ranking alerts and shareable milestone cards. For iOS and Mac. | Lifetime **$49.99** (was $89.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
 | 📧 | [MailScope](https://mailscope.app/blackfriday/) | Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users. | **$19 USD** one-time (regular $29, save $10). Code **bf2026** is prefilled on the checkout link. Nov 18–30, 2026 (US Pacific). | 2026-11-30 |
+| 🗄️ | [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux. Free for personal use. | **40% OFF** Pro yearly ($29 → $17.40), no code needed, applied at checkout. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -387,6 +388,9 @@ Free & open-source.
 | ⏰ | [DeskMinder](https://deskminder.appps.od.ua) | Create quick reminders and start tasks on your Mac desktop, with full-screen notifications. | Lifetime **$3.99** (was $6.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6740942938&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
 | 💬 | [Transcrybe - Live Translation](https://transcrybe.app/) | Live translated subtitles for audio from your microphone or any Mac app. | **50% OFF** the one-time lifetime purchase ($29.99 → $14.99 USD), automatically applied on both the Mac App Store and direct website; no code needed | 2026-12-02 |
 | 🎙️ | [VoiceInk](https://tryvoiceink.com/black-friday) | Open-source macOS dictation with on-device speech recognition and app-specific modes. | **40% OFF** Mac lifetime licenses with code **BFVI2640** (Solo: $25 → $15 USD before tax) | 2026-12-05 |
+| 🎤 | [Murmur](https://saymurmur.app/black-friday) | Dictation and meeting notes for Mac that run on your Mac. Hold right Command, talk, and clean text lands in any app; no bot joins your calls. | **37% OFF**: $12 instead of $19 (regular $29) with code **BF2026**, one-time purchase for up to 3 Macs. Starts on 2026-11-24 | 2026-12-01 |
+| 🎙️ | [Parlo](https://parlohub.com/black-friday) | Dictation in any app, meeting notes without a bot, and voice commands for Mac. Speech recognition runs on your Mac. | **26% OFF** Lifetime ($80 → $59) or **50% OFF** Monthly for the first 3 months ($8 → $4), no code needed. Starts on 2026-11-20. The lifetime plan retires after the sale. | 2026-12-01 |
+| 🔎 | [Findy](https://getfindy.xyz/) | Find files on your Mac from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac. | **50% OFF** one-time licenses with code **GITFRIDAY50**: 1 Mac $11 → $5.50, 2 Macs $19 → $9.50 (early-bird prices) | 2026-12-07 |
 
 
 ### Design Tools
@@ -422,6 +426,7 @@ Free & open-source.
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📝 | [Smolpad](https://smolpad.com/) | Markdown notes for Mac, iPhone, iPad and Apple Watch, stored as plain .md files in your own cloud storage. | **50% OFF** Pro Lifetime ($29.99 → $14.99) with App Store offer code **BLACKFRIDAY** | 2026-12-01 |
 | ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
+| 📝 | [Float](https://float.gilla.fun/) | Floating Markdown scratchpad for Mac on a global hotkey. Stays over full-screen apps and saves notes as plain .md files. | **40% OFF** Pro lifetime ($4.99 → $2.99, one-time) with code **BF26FLOAT**. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### Menu Bar & More

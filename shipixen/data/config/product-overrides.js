@@ -573,5 +573,14 @@ module.exports = {
     'video-wall-live': {
       logo: 'public/static/images/overrides/video-wall-live/logo.png',
     },
+    // datapeek.dev's favicon.ico is the default Next.js triangle, and og-image.png returns 404. The logo is the official 1024px app icon resized to 512px. The banner is a 1200x630 screenshot of the English homepage hero.
+    'data-peek': {
+      logo: 'public/static/images/overrides/data-peek/logo.png',
+      ogImage: 'public/static/images/overrides/data-peek/og-image.png',
+    },
+    // imagineyourbook.com only links a 48px favicon. This is the official 514px icon. The banner is left for the generator.
+    imagineyourbook: {
+      logo: 'public/static/images/overrides/imagineyourbook/logo.png',
+    },
   },
 };
