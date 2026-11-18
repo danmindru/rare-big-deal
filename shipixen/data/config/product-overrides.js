@@ -565,5 +565,13 @@ module.exports = {
       logo: 'public/static/images/overrides/cyberwarfare-labs/logo.png',
       ogImage: 'public/static/images/overrides/cyberwarfare-labs/og-image.png',
     },
+    // ivaboard.com/lifetime/ saved no banner. This is the official 1200x630 og:image: "Collect feedback. Decide what to build. Tell people you shipped it."
+    ivaboard: {
+      ogImage: 'public/static/images/overrides/ivaboard/og-image.png',
+    },
+    // www.videowalllive.com's fetched logo is 180px. This is the official 512px icon.
+    'video-wall-live': {
+      logo: 'public/static/images/overrides/video-wall-live/logo.png',
+    },
   },
 };
