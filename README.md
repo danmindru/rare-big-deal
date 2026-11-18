@@ -510,6 +510,9 @@ Free & open-source.
 | ⏰ | [DuePal](https://elevenapril.com/duepal) | Live countdowns to your next task on Lock Screen, widgets and Apple Watch, with alarms that ring even in Silent mode. | **30% OFF** Lifetime ($29.99 → $20.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 🚆 | [Focus Train](https://elevenapril.com/focustrain) | Pomodoro timer that turns focus sessions into a train ride across a real rail map with 20 soundscapes and iCloud sync. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 📱 | [Dopy](https://apps.apple.com/us/app/dopy-dopamine-detox-app/id6756252987) | Pomodoro focus sessions, habit tracking and weekly reflection. | **60% OFF** first year of annual ($29.99 → $11.99) with code **BF2026DOPY** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/dopy)); renews $29.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
+| 📦 | [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad. Track what you own by location, room and container, with photos, values and search across every field. | **50% OFF** lifetime PRO: $29.99, down from $59.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
+| 📱 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
+| 📱 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 
 
 ### Photos & Videos
