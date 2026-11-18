@@ -472,11 +472,6 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **50% OFF** yearly ($19.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
-
-### Home & Security
-
-| | Name | Description | Deal | Expires on date |
-| - | - | - | - | - |
 | 📹 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A Ring app that turns your Apple TV into a live wall of all your Ring cameras, always on. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups. No code needed (Nov 2 - Nov 30) | 2026-11-30 |
 
 
