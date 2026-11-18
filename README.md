@@ -124,8 +124,7 @@ Free & open-source.
 | 🔍 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **30% OFF** the Pro licence with code **BLACKFRIDAY** (one-time $49 → $34.30) | 2026-12-06 |
 | 🗼 | [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows, with undo, drag and drop, and support for Stacked Branches. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed). Starts on 2026-11-23 | 2026-12-06 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
-| 🤖 | [Relaybrook n8n Workflow Packs](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts | **10% OFF** all packs with code **CRYPTO10** | 2026-11-30 |
-
+| 🤖 | [Relaybrook n8n Workflow Packs](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts | **40% OFF** all packs with code **BLACKFRIDAY40** | 2026-12-01 |
 
 ### APIs, Tools & SaaS
 
