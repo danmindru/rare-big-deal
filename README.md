@@ -537,6 +537,7 @@ Free & open-source.
 | 📱 | [Sunrise](https://apps.apple.com/us/app/sunrise-adhd-planner-coach/id1542353302) | An ADHD-focused AI coach and habit tracker for building daily routines. | **60% OFF** first year of annual ($9.99 → $3.99) with code **BF2026SUNRISE** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/sunrise)); renews $9.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 | 📱 | [Breakup AI](https://apps.apple.com/us/app/breakup-ai-no-contact-coach/id6749644067) | Chat and voice support for navigating a breakup and maintaining no contact. | **60% OFF** first year of annual ($39.99 → $15.99) with code **BF2026BREAKUP** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/breakup)); renews $39.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 
+
 ### Hobby & Lifestyle
 
 | | Name | Description | Deal | Expires on date |
