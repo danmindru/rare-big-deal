@@ -419,6 +419,7 @@ Free & open-source.
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📝 | [Smolpad](https://smolpad.com/) | Markdown notes for Mac, iPhone, iPad and Apple Watch, stored as plain .md files in your own cloud storage. | **50% OFF** Pro Lifetime ($29.99 → $14.99) with App Store offer code **BLACKFRIDAY** | 2026-12-01 |
 | ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
+| 🧱 | [Craft](https://www.craft.do/pricing?ref=rarebigdeal) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 
 
 ### Menu Bar & More
@@ -491,6 +492,7 @@ Free & open-source.
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📕 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown entries, photos, places and moods, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99, no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 🧱 | [Craft](https://www.craft.do/pricing?ref=rarebigdeal) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 
 
 ### Productivity
