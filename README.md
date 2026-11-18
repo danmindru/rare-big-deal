@@ -380,6 +380,7 @@ Free & open-source.
 | 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 | ✅ | [ScreenSky](https://screensky.io/pricing/) | Native Mac task board, quick task entry, screen breaks, Smart Pause, and posture and blink reminders. | **50% OFF**: $19.99 → $9.99 for 1 Mac, one-time purchase with 1 year of updates; or Lifetime with lifetime updates: $200 → $99.99. No code needed. | 2026-12-02 |
 | ✉️ | [bytemail](https://bytemailapp.com/black-friday) | Fast, native email app for Mac: unified inbox, smart search, snooze, rules, an AI assistant and MCP support. | **30% OFF** the lifetime licence ($99 → $69), one payment for up to 5 devices, no code needed | 2026-12-07 |
+| 💬 | [Transcrybe - Live Translation](https://transcrybe.app/) | Live translated subtitles for audio from your microphone or any Mac app. | **50% OFF** the one-time lifetime purchase ($29.99 → $14.99 USD), automatically applied on both the Mac App Store and direct website; no code needed. Starts on 2026-11-16 | 2026-12-02 |
 
 
 ### Design Tools
@@ -562,6 +563,8 @@ Free & open-source.
 | 🎵 | [MusicPal](https://elevenapril.com/musicpal) | Offline MP3 and link-to-audio player for iPhone with background playback, themes and backup — no feed, no ads. | **30% OFF** Lifetime ($29.99 → $20.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 📱 | [ElevenApril (25 iPhone Apps)](https://elevenapril.com/black-friday) | 25 indie iPhone apps across focus, plants, pets, food, health and travel — all one-time lifetime unlock, no subscription. | **30%–40% OFF** Lifetime Premium across 25 apps with code **BLACKFRIDAY** | 2026-11-30 |
 | ⓢ | [Sitely 8](https://sitely.app) | Visual website builder for iPad: build the website you want, visually, on your iPad. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
+| 📖 | [Nihongo - Japanese Dictionary](https://nihongo-app.com/) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD), automatically applied in-app; no code needed. Starts on 2026-11-16 | 2026-12-02 |
+| 🎓 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards that build on what you already know. | **50% OFF** the all access pass (lifetime, $299.99 → $149.99 USD), automatically applied in-app; no code needed. Starts on 2026-11-16 | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
