@@ -125,6 +125,7 @@ Free & open-source.
 | 🗼 | [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows, with undo, drag and drop, and support for Stacked Branches. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed). Starts on 2026-11-23 | 2026-12-06 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 | 📈 | [Toplify](https://toplify.app) | Track App Store chart positions in 175 countries, with ranking alerts and shareable milestone cards. For iOS and Mac. | Lifetime **$49.99** (was $89.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
+| 🗄️ | [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux. Free for personal use. | **40% OFF** Pro yearly ($29 → $17.40), no code needed, applied at checkout. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -419,6 +420,7 @@ Free & open-source.
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📝 | [Smolpad](https://smolpad.com/) | Markdown notes for Mac, iPhone, iPad and Apple Watch, stored as plain .md files in your own cloud storage. | **50% OFF** Pro Lifetime ($29.99 → $14.99) with App Store offer code **BLACKFRIDAY** | 2026-12-01 |
 | ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
+| 📝 | [Float](https://float.gilla.fun/) | Floating Markdown scratchpad for Mac on a global hotkey. Stays over full-screen apps and saves notes as plain .md files. | **40% OFF** Pro lifetime ($4.99 → $2.99, one-time) with code **BF26FLOAT**. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### Menu Bar & More
