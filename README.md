@@ -124,6 +124,7 @@ Free & open-source.
 | 🔍 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **30% OFF** the Pro licence with code **BLACKFRIDAY** (one-time $49 → $34.30) | 2026-12-06 |
 | 🗼 | [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows, with undo, drag and drop, and support for Stacked Branches. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed). Starts on 2026-11-23 | 2026-12-06 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
+| 📈 | [Toplify](https://toplify.app) | Track App Store chart positions in 175 countries, with ranking alerts and shareable milestone cards. For iOS and Mac. | Lifetime **$49.99** (was $89.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -380,6 +381,7 @@ Free & open-source.
 | 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 | ✅ | [ScreenSky](https://screensky.io/pricing/) | Native Mac task board, quick task entry, screen breaks, Smart Pause, and posture and blink reminders. | **50% OFF**: $19.99 → $9.99 for 1 Mac, one-time purchase with 1 year of updates; or Lifetime with lifetime updates: $200 → $99.99. No code needed. | 2026-12-02 |
 | ✉️ | [bytemail](https://bytemailapp.com/black-friday) | Fast, native email app for Mac: unified inbox, smart search, snooze, rules, an AI assistant and MCP support. | **30% OFF** the lifetime licence ($99 → $69), one payment for up to 5 devices, no code needed | 2026-12-07 |
+| ⏰ | [DeskMinder](https://deskminder.appps.od.ua) | Create quick reminders and start tasks on your Mac desktop, with full-screen notifications. | Lifetime **$3.99** (was $6.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6740942938&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
 
 
 ### Design Tools
@@ -999,6 +1001,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 | 💰 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Automatic expense tracking on iPhone. | **40% OFF** the first year with code **BFCM26** (yearly $24.99 → $14.99) | 2026-12-01 |
+| 🗓️ | [SubsDay](https://subsday.appps.od.ua) | Subscription calendar and expense tracker for iOS and Mac, with reminders, statistics and iCloud sync. Formerly Subscription Day. | Lifetime Single **$11.99** (was $19.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026); Family **$15.99** (was $26.99) with [**BLKFR2026FAMILY**](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026FAMILY). Nov 15–Dec 1, 2026 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
