@@ -714,6 +714,7 @@ Free & open-source.
 | ✂️ | [SnapDub](https://snapdub.ai/) | Turn long videos into captioned vertical clips for TikTok, Reels and Shorts and post them to your accounts. | **20% OFF** your first month on any plan with code **BLACKFRIDAY20** | 2026-12-04 |
 | 📌 | [BlogToPin](https://blogtopin.com/black-friday) | AI Pinterest marketer that designs, writes and schedules pins for your blog or store. | **40% OFF** any annual plan with code **BF40** (Starter $299 → $179.40/yr) | 2026-12-01 |
 | 🏡 | [PropShift](https://propshift.com/black-friday) | Turns real estate listing links or photos into social videos with script, voiceover, captions and music, and posts them. | **Up to 41% OFF** the first year of annual plans (Starter $348 → $234, Growth $708 → $414); monthly 40% off the first 3 payments. Applied automatically | 2026-11-30 |
+| 📅 | [Atelier Social](https://ateliersocial.io/black-friday) | AI-first social media studio: write a post once and Atelier adapts it for each platform and routes it to every brand, client and location. Publishes to Instagram, Facebook, TikTok, LinkedIn, X, YouTube and Threads. | **83% OFF** the first year, from $158 (renews at $948/yr), no code needed | 2026-12-31 |
 
 
 ### Sales Tools
@@ -788,6 +789,9 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📰 | [Sponsonizer](https://sponsonizer.com/) | Sell newsletter sponsorships: sponsors pick a slot, submit their ad and pay with Stripe. | **50% OFF** the first year of Pro Yearly ($99 → $49.50) with code **BF2026** | 2026-11-30 |
+| 🧪 | [PageTest](https://pagetest.ai/black-friday) | AI-written headline, button and copy variations tested on your real visitors, with no code and no developer. Works on any website. | **83% OFF** the first year with code **BF2026**, applied for you: $599 first year (standard $3,588/yr), new customers only, first 100 customers. Starts on 2026-11-20 | 2026-12-01 |
+| 🎙️ | [Webinar Flow](https://webinarflow.studio/black-friday) | Automated webinars that run on a rolling schedule, answer questions as people watch, and alert your phone when a buyer needs you. | **83% OFF** the first year, no code needed: Growth $950 → $159, Scale $2,390 → $399. New customers only, first 100 buyers. Starts on 2026-11-20 | 2026-12-01 |
+| 🧰 | [SaaS Toolkit](https://saastoolkit.ai/black-friday) | AI chat, visitor identification, email follow-up and team alerts in one place, turning anonymous visitors into paying customers. | **83% OFF** the first year with code **BF2026**: Growth $348 → $59, Business $588 → $99. First 100 buyers, one per customer. Starts on 2026-11-20 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
