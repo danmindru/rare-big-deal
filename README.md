@@ -392,6 +392,7 @@ Free & open-source.
 | 🎤 | [Murmur](https://saymurmur.app/black-friday) | Dictation and meeting notes for Mac that run on your Mac. Hold right Command, talk, and clean text lands in any app; no bot joins your calls. | **37% OFF**: $12 instead of $19 (regular $29) with code **BF2026**, one-time purchase for up to 3 Macs. Starts on 2026-11-24 | 2026-12-01 |
 | 🎙️ | [Parlo](https://parlohub.com/black-friday) | Dictation in any app, meeting notes without a bot, and voice commands for Mac. Speech recognition runs on your Mac. | **26% OFF** Lifetime ($80 → $59) or **50% OFF** Monthly for the first 3 months ($8 → $4), no code needed. Starts on 2026-11-20. The lifetime plan retires after the sale. | 2026-12-01 |
 | 🔎 | [Findy](https://getfindy.xyz/) | Find files on your Mac from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac. | **50% OFF** one-time licenses with code **GITFRIDAY50**: 1 Mac $11 → $5.50, 2 Macs $19 → $9.50 (early-bird prices) | 2026-12-07 |
+| 🛞 | [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=rarebigdeal) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. | **30% OFF** with code **BLACKFRIDAY30**: $9 → $6.30, one-time purchase for up to 2 Macs. Starts on 2026-11-20 | 2026-12-01 |
 
 
 ### Design Tools
