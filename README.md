@@ -1073,6 +1073,7 @@ Free & open-source.
 | 💵 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 50% off SubManager+ ($4.99) and 45% off SubManager+ Family ($9.99) for lifetime. Starts on 2026-11-27 | 2026-11-30 |
 | 💰 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Automatic expense tracking on iPhone. | **40% OFF** the first year with code **BFCM26** (yearly $24.99 → $14.99) | 2026-12-01 |
 | 🗓️ | [SubsDay](https://subsday.appps.od.ua) | Subscription calendar and expense tracker for iOS and Mac, with reminders, statistics and iCloud sync. Formerly Subscription Day. | Lifetime Single **$11.99** (was $19.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026); Family **$15.99** (was $26.99) with [**BLKFR2026FAMILY**](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026FAMILY). Nov 15–Dec 1, 2026 | 2026-12-01 |
+| 💰 | [MoneyWiz](https://www.wiz.money/black-friday) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, reports, investments and optional bank sync. | **20% OFF** the first year of Standard ($29.99 → $23.99) and Premium ($59.99 → $47.99), and the first month of Premium monthly ($5.99 → $4.79), with code **BFCM26**. Website only, new purchases; no App Store discount; renews at regular price. US reference prices. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
