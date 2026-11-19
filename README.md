@@ -878,6 +878,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🔑 | [Rindstack](https://kendeepp.gumroad.com/l/pdaeoo) | Small, readable Next.js 15 starter for selling licensed software: Lemon Squeezy checkout, signature-verified webhooks, license keys with per-plan device limits, and English/Chinese/Japanese UI. | **30% OFF** with code **BF30** (Personal $99 → $69.30). Starts on 2026-11-24 | 2026-12-01 |
 | 🗂️ | [Dirstarter](https://dirstarter.com) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | **50% OFF** lifetime license: Basic $75 instead of $150, Pro $100 instead of $200, with code **BF2026** (applied automatically on the site) | 2026-12-01 |
+| 🪁 | [SoarStarter](https://soarstarter.com/?utm_source=rbd&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. Pay once, unlimited projects. | **20% OFF** the All-Access Bundle (all 8 kits): $249 → $199 with code **BF2026** (applied automatically at checkout) | 2026-12-01 |
 
 
 ### Astro
@@ -898,6 +899,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🪁 | [SoarStarter](https://soarstarter.com/?utm_source=rbd&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. Pay once, unlimited projects. | **20% OFF** the All-Access Bundle (all 8 kits): $249 → $199 with code **BF2026** (applied automatically at checkout) | 2026-12-01 |
 
 
 ### Flutter
@@ -910,12 +912,14 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🪁 | [SoarStarter](https://soarstarter.com/?utm_source=rbd&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. Pay once, unlimited projects. | **20% OFF** the All-Access Bundle (all 8 kits): $249 → $199 with code **BF2026** (applied automatically at checkout) | 2026-12-01 |
 
 
 ### Kotlin
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🪁 | [SoarStarter](https://soarstarter.com/?utm_source=rbd&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. Pay once, unlimited projects. | **20% OFF** the All-Access Bundle (all 8 kits): $249 → $199 with code **BF2026** (applied automatically at checkout) | 2026-12-01 |
 
 
 ### Laravel
