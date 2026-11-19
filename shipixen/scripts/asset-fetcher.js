@@ -5,9 +5,14 @@ const { sanitizeName } = require('./sanitize-name');
 const { outputDir } = require('./settings');
 const { fetchWebsiteData } = require('./website-scraper');
 const { acquireProductLogo, checkExistingLogo } = require('./favicon-extractor');
-const { downloadImage, downloadMultipleImages } = require('./image-downloader');
+const {
+  downloadImage,
+  downloadMultipleImages,
+  isOverridesImagePath,
+  saveRaster,
+} = require('./image-downloader');
 const { ensureUsableBanner } = require('./lib/banner-fallback');
-const { inspectMediaFile } = require('./lib/media-bytes');
+const { decodedSize, inspectMediaFile } = require('./lib/media-bytes');
 const { pinnedPublicFiles } = require('./check-archive-media');
 
 /**
@@ -50,23 +55,39 @@ function publicOverrideUrl(overridePath) {
 }
 
 /**
- * Archive pages pin some /static/images/product files. A new live logo or
- * banner for that product is written under static/images/overrides instead.
+ * Archive pages pin some /static/images/product files. Those bytes stay put.
+ * public/static/images/overrides is owner art and is never a write destination.
  */
 function writableImage(preferred, layout, pinned) {
   const resolved = path.resolve(preferred);
-  if (!layout || !pinned || !pinned.has(resolved)) {
-    return { file: resolved, pinned: false };
+  if (isOverridesImagePath(resolved)) {
+    return { file: resolved, pinned: false, protected: true };
   }
-  const productRoot = path.join(layout.publicRoot, 'static', 'images', 'product');
-  let rel = path.relative(productRoot, resolved);
-  if (rel.startsWith('..') || path.isAbsolute(rel)) rel = path.basename(resolved);
-  let diverted = path.resolve(layout.publicRoot, 'static', 'images', 'overrides', rel);
-  if (pinned.has(diverted)) {
-    const ext = path.extname(diverted);
-    diverted = path.resolve(path.dirname(diverted), `${path.basename(diverted, ext)}-live${ext}`);
+  if (layout && pinned && pinned.has(resolved)) {
+    return { file: resolved, pinned: true, protected: true };
   }
-  return { file: diverted, pinned: true };
+  return { file: resolved, pinned: false, protected: false };
+}
+
+async function hasDecodedPixels(filePath) {
+  if (!filePath || !fs.existsSync(filePath)) return false;
+  try {
+    const size = await decodedSize(fs.readFileSync(filePath));
+    return Boolean(size);
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * A pinned file, an overrides path, or an existing product image for a slug
+ * listed in product-overrides.js is not replaced.
+ */
+async function writeLocked(choice, slugLocked) {
+  if (!choice) return false;
+  if (choice.protected || isOverridesImagePath(choice.file)) return true;
+  if (slugLocked && (await hasDecodedPixels(choice.file))) return true;
+  return false;
 }
 
 /**
@@ -91,6 +112,7 @@ function applyOverrides(app, productName, appDir, publish, overrideMap) {
   const locate = (fileName) => {
     if (!publish) return path.join(appDir, fileName);
     const chosen = publish.place(fileName);
+    if (chosen.protected || isOverridesImagePath(chosen.file)) return null;
     fs.mkdirSync(path.dirname(chosen.file), { recursive: true });
     return chosen.file;
   };
@@ -99,21 +121,29 @@ function applyOverrides(app, productName, appDir, publish, overrideMap) {
     return `/static/images/product/${productName}/${fileName}`;
   };
   const copyOverride = (sourcePath, destPath) => {
+    if (!destPath || isOverridesImagePath(destPath)) {
+      console.error(`[Asset Fetcher] ❌ Refusing to write a protected image for ${productName}`);
+      return;
+    }
     if (path.resolve(sourcePath) === path.resolve(destPath)) return;
     fs.copyFileSync(sourcePath, destPath);
   };
 
   if (override.logo) {
-    try {
-      const logoPath = locate('logo.png');
-      const sourcePath = path.join(__dirname, '..', override.logo);
-      console.log(`[Asset Fetcher] 🖼️  Copying override logo from: ${override.logo}`);
-      copyOverride(sourcePath, logoPath);
-      app.logo = expose('logo.png', logoPath);
-      if (publish) publish.logoFile = logoPath;
-      console.log(`[Asset Fetcher] ✅ Override logo copied successfully: ${app.logo}`);
-    } catch (error) {
-      console.error(`[Asset Fetcher] ❌ Failed to copy override logo:`, error.message);
+    const sourcePath = path.join(__dirname, '..', override.logo);
+    const publicLogo = publicOverrideUrl(override.logo);
+    if (!publicLogo) {
+      console.error(
+        `[Asset Fetcher] ❌ Override logo must stay under public/static/images/overrides: ${override.logo}`,
+      );
+    } else if (!fs.existsSync(sourcePath)) {
+      console.error(
+        `[Asset Fetcher] ❌ Official override logo is missing for ${productName}: ${override.logo}`,
+      );
+    } else {
+      app.logo = publicLogo;
+      if (publish) publish.logoFile = sourcePath;
+      console.log(`[Asset Fetcher] ✅ Official override logo wins for ${productName}: ${app.logo}`);
     }
   }
 
@@ -153,6 +183,10 @@ function applyOverrides(app, productName, appDir, publish, overrideMap) {
           index === 0 ? 'og-image.png' : `og-image-${index + 1}.png`;
         const ogImagePath = locate(fileName);
         const sourcePath = path.join(__dirname, '..', imagePath);
+        if (!ogImagePath) {
+          console.error(`[Asset Fetcher]   ❌ Refusing to replace a protected image: ${fileName}`);
+          return;
+        }
         copyOverride(sourcePath, ogImagePath);
         app.images.push(expose(fileName, ogImagePath));
         console.log(`[Asset Fetcher]   ✅ Copied image ${index + 1}/${override.ogImages.length}: ${fileName}`);
@@ -166,8 +200,12 @@ function applyOverrides(app, productName, appDir, publish, overrideMap) {
       console.log(`[Asset Fetcher] 📸 Copying single override OG image...`);
       const ogImagePath = locate('og-image.png');
       const sourcePath = path.join(__dirname, '..', override.ogImage);
-      copyOverride(sourcePath, ogImagePath);
-      app.images = [expose('og-image.png', ogImagePath)];
+      if (!ogImagePath) {
+        console.error(`[Asset Fetcher] ❌ Refusing to replace a protected OG image for ${productName}`);
+      } else {
+        copyOverride(sourcePath, ogImagePath);
+        app.images = [expose('og-image.png', ogImagePath)];
+      }
       console.log(`[Asset Fetcher] ✅ Override OG image copied: ${app.images[0]}`);
     } catch (error) {
       console.error(`[Asset Fetcher] ❌ Failed to copy override OG image:`, error.message);
@@ -211,6 +249,7 @@ async function processProductImages(app, productName, appDir, imageUrls, publish
       ? {
           placeFile: (imageName) => {
             const chosen = publish.place(imageName);
+            if (chosen.protected || isOverridesImagePath(chosen.file)) return null;
             fs.mkdirSync(path.dirname(chosen.file), { recursive: true });
             return chosen.file;
           },
@@ -290,11 +329,17 @@ async function processProductLogo(app, productName, appDir, faviconUrl) {
   console.log(`[Asset Fetcher] 🖼️  Processing logo for ${productName} from: ${faviconUrl}`);
   const preferredLogo = path.join(appDir, 'logo.png');
   const logoLayout = publishingLayout(path.dirname(path.dirname(appDir)));
-  const logoPath = writableImage(
+  const logoChoice = writableImage(
     preferredLogo,
     logoLayout,
     logoLayout ? pinnedPublicFiles(logoLayout.repoRoot) : new Set(),
-  ).file;
+  );
+  if (logoChoice.protected || isOverridesImagePath(logoChoice.file)) {
+    console.log(`[Asset Fetcher] ⏭️  Leaving the protected logo untouched for ${productName}`);
+    await keepExisting();
+    return;
+  }
+  const logoPath = logoChoice.file;
   fs.mkdirSync(path.dirname(logoPath), { recursive: true });
   const partialPath = path.join(appDir, '.logo-download.png');
   try {
@@ -310,7 +355,11 @@ async function processProductLogo(app, productName, appDir, faviconUrl) {
       await keepExisting();
       return;
     }
-    await fs.promises.rename(partialPath, logoPath);
+    const committed = await saveRaster(logoPath, await fs.promises.readFile(partialPath));
+    if (!committed.written && committed.reason !== 'smaller') {
+      await keepExisting();
+      return;
+    }
     app.logo = logoLayout
       ? publicUrl(logoLayout.publicRoot, logoPath)
       : `/static/images/product/${productName}/logo.png`;
@@ -347,9 +396,7 @@ async function fetchAssets(app, deps = {}) {
     layout,
     logoFile: null,
     place(fileName) {
-      const preferred = path.join(appDir, fileName);
-      if (!layout) return { file: preferred, pinned: false };
-      return writableImage(preferred, layout, pinned);
+      return writableImage(path.join(appDir, fileName), layout, pinned);
     },
     urlFor(filePath, fileName) {
       if (!layout) return `/static/images/product/${productName}/${fileName}`;
@@ -357,8 +404,11 @@ async function fetchAssets(app, deps = {}) {
     },
   };
 
-  // Apply overrides first
-  const override = applyOverrides(app, productName, appDir, publish, deps.overrides);
+  // Apply overrides first. deps.overrides replaces the live map in tests;
+  // undefined keeps the configured owner art.
+  const overrideTable = deps.overrides || overrides;
+  const slugLocked = Boolean(overrideTable && overrideTable[productName]);
+  const override = applyOverrides(app, productName, appDir, publish, overrideTable);
 
   // If both logo and ogImage(s) are overridden, we're done
   if (override?.logo && (override?.ogImages || override?.ogImage)) {
@@ -397,44 +447,43 @@ async function fetchAssets(app, deps = {}) {
       console.log(`[Asset Fetcher] ✅ Stored JSON-LD structured data for ${productName}`);
     }
 
-    // Process images if not overridden. A configured official banner wins, so
-    // an auto-fetched og:image is never written over it. A pinned historical
-    // file is never the download or screenshot destination.
+    // A configured official banner wins, so an auto-fetched og:image is never
+    // written over it. A pinned file and an overrides path are never written.
+    // An existing product image for a slug in product-overrides.js stays too.
     if (!override?.ogImages && !override?.ogImage) {
-      const imageUrlsToDownload =
-        ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
-
-      await processProductImages(
-        app,
-        productName,
-        appDir,
-        imageUrlsToDownload,
-        publish,
-        deps.downloadMultipleImages,
-      );
-      const historicalBanner = path.join(appDir, 'og-image.png');
       const bannerChoice = publish.place('og-image.png');
-      const diverted = path.resolve(bannerChoice.file) !== path.resolve(historicalBanner);
-      if (diverted && !fs.existsSync(bannerChoice.file) && fs.existsSync(historicalBanner)) {
-        const inspection = await inspectMediaFile(historicalBanner, 'banner');
-        if (inspection.ok) {
-          rememberUsableBanner(
-            app,
-            productName,
-            { source: 'og-image', inspection },
-            publish.urlFor(historicalBanner, 'og-image.png'),
-          );
-        } else {
-          const banner = await ensureBanner({ imagePath: bannerChoice.file, website, botChallenge });
-          rememberUsableBanner(app, productName, banner, publish.urlFor(bannerChoice.file, 'og-image.png'));
-        }
+      if (await writeLocked(bannerChoice, slugLocked)) {
+        console.log(`[Asset Fetcher] ⏭️  Keeping the existing banner for ${productName}`);
+        const inspection = await inspectMediaFile(bannerChoice.file, 'banner');
+        rememberUsableBanner(
+          app,
+          productName,
+          { source: 'og-image', inspection },
+          publish.urlFor(bannerChoice.file, 'og-image.png'),
+        );
       } else {
+        const imageUrlsToDownload =
+          ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
+
+        await processProductImages(
+          app,
+          productName,
+          appDir,
+          imageUrlsToDownload,
+          publish,
+          deps.downloadMultipleImages,
+        );
         const banner = await ensureBanner({
           imagePath: bannerChoice.file,
           website,
           botChallenge,
         });
-        rememberUsableBanner(app, productName, banner, publish.urlFor(bannerChoice.file, 'og-image.png'));
+        rememberUsableBanner(
+          app,
+          productName,
+          banner,
+          publish.urlFor(bannerChoice.file, 'og-image.png'),
+        );
       }
     } else {
       console.log(`[Asset Fetcher] ⏭️  Skipping image download (overridden)`);
@@ -443,24 +492,33 @@ async function fetchAssets(app, deps = {}) {
     // A missing HTML parse still tries origin icons and the Google favicon service.
     if (!override?.logo) {
       const logoChoice = publish.place('logo.png');
-      fs.mkdirSync(path.dirname(logoChoice.file), { recursive: true });
-      const acquired = await acquireLogo({
-        $,
-        website,
-        appStoreImageUrl,
-        outputPath: logoChoice.file,
-      });
-      if (acquired) {
-        logoFile = logoChoice.file;
-        app.logo = publish.urlFor(logoChoice.file, 'logo.png');
-        console.log(
-          `[Asset Fetcher] ✅ Logo from ${acquired.url}${acquired.resized ? ' (scaled to a usable size)' : ''}`,
-        );
+      if (await writeLocked(logoChoice, slugLocked)) {
+        console.log(`[Asset Fetcher] ⏭️  Keeping the existing logo for ${productName}`);
+        const existingInspection = await inspectMediaFile(logoChoice.file, 'logo');
+        if (existingInspection.ok) {
+          logoFile = logoChoice.file;
+          app.logo = publish.urlFor(logoChoice.file, 'logo.png');
+        }
       } else {
-        const existingLogo = await checkExistingLogo(appDir, productName);
-        if (existingLogo) {
-          app.logo = existingLogo;
-          logoFile = path.join(appDir, 'logo.png');
+        fs.mkdirSync(path.dirname(logoChoice.file), { recursive: true });
+        const acquired = await acquireLogo({
+          $,
+          website,
+          appStoreImageUrl,
+          outputPath: logoChoice.file,
+        });
+        if (acquired) {
+          logoFile = logoChoice.file;
+          app.logo = publish.urlFor(logoChoice.file, 'logo.png');
+          console.log(
+            `[Asset Fetcher] ✅ Logo from ${acquired.url}${acquired.resized ? ' (scaled to a usable size)' : ''}`,
+          );
+        } else {
+          const existingLogo = await checkExistingLogo(appDir, productName);
+          if (existingLogo) {
+            app.logo = existingLogo;
+            logoFile = path.join(appDir, 'logo.png');
+          }
         }
       }
     } else {

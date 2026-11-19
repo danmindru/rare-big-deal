@@ -368,17 +368,14 @@ describe('asset generation', () => {
         ...emptySite(),
         ogImageUrl: 'https://pageai.pro/current-banner.png',
       }),
-      downloadMultipleImages: async (urls, appDir, productName, options) => {
-        const imagePath = options.placeFile('og-image.png');
-        fs.mkdirSync(path.dirname(imagePath), { recursive: true });
-        fs.writeFileSync(imagePath, live);
-        return [options.publicPath('og-image.png', imagePath)];
+      downloadMultipleImages: async () => {
+        throw new Error('a pinned banner must not be downloaded');
       },
-      ensureUsableBanner: async ({ imagePath }) => {
-        const inspection = await inspectMedia(fs.readFileSync(imagePath), 'banner');
-        return { source: 'og-image', inspection };
+      ensureUsableBanner: async () => {
+        throw new Error('a pinned banner must not be recaptured');
       },
       acquireProductLogo: async ({ outputPath }) => {
+        assert.equal(outputPath.split(path.sep).includes('overrides'), false);
         fs.mkdirSync(path.dirname(outputPath), { recursive: true });
         fs.writeFileSync(outputPath, await png(48, 48));
         return { url: 'https://pageai.pro/apple-touch-icon.png', resized: false };
@@ -386,7 +383,7 @@ describe('asset generation', () => {
     });
 
     assert.equal(fs.readFileSync(publicFile).equals(historical), true);
-    assert.equal(app.images[0], '/static/images/overrides/page-ai/og-image.png');
+    assert.equal(app.images[0], '/static/images/product/page-ai/og-image.png');
     const liveFile = path.join(
       repo,
       'shipixen',
@@ -397,7 +394,7 @@ describe('asset generation', () => {
       'page-ai',
       'og-image.png',
     );
-    assert.equal(fs.readFileSync(liveFile).equals(live), true);
+    assert.equal(fs.existsSync(liveFile), false);
     const kept = checkArchiveMedia(repo);
     assert.deepEqual(kept.errors, []);
 
