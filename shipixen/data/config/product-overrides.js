@@ -582,14 +582,43 @@ module.exports = {
     imagineyourbook: {
       logo: 'public/static/images/overrides/imagineyourbook/logo.png',
     },
-    // roadsaudio.com's larger icon links fail; only a 48px favicon decodes. The logo is the official 512px App Store icon. The banner is left for the generator.
+    // roadsaudio.com's larger icon links fail; only a 48px favicon decodes. The logo is the official 512px App Store icon. The banner is the official 1200x630 Black Friday share image: Lifetime, $49.99 once.
     'roads-audio': {
       logo: 'public/static/images/overrides/roads-audio/logo.png',
+      ogImage: 'public/static/images/overrides/roads-audio/og-image.png',
     },
     // litur.app only links a 48px favicon, and its og:image is a 2071x2071 square icon. The logo is the official 512px Mac App Store icon. The banner is a 1200x630 screenshot of the English homepage hero.
     litur: {
       logo: 'public/static/images/overrides/litur/logo.png',
       ogImage: 'public/static/images/overrides/litur/og-image.png',
+    },
+    // thinkdown.app published no saved banner. This is the official 1200x630 og:image: "Say it messy. Read it clean."
+    thinkdown: {
+      ogImage: 'public/static/images/overrides/thinkdown/og-image.png',
+    },
+    // liftonic.app published no saved banner. This is the official 1200x630 og:image: "Lift with a plan, every day."
+    liftonic: {
+      ogImage: 'public/static/images/overrides/liftonic/og-image.png',
+    },
+    // tryhelix.app published no saved banner. This is the official 1200x630 og:image: "A weapon wheel for your Mac."
+    helix: {
+      ogImage: 'public/static/images/overrides/helix/og-image.png',
+    },
+    // www.plomer.app's og:image is a 1200x801 photo. Center-cropped to 1200x630 so the phone stays in frame.
+    plomer: {
+      ogImage: 'public/static/images/overrides/plomer/og-image.png',
+    },
+    // www.craft.do published no saved banner. This is the official 1200x630 og:image, the CRAFT wordmark.
+    craft: {
+      ogImage: 'public/static/images/overrides/craft/og-image.png',
+    },
+    // www.blark.app's og:image is a 3000x2000 render of two phones. Scaled to fit inside 1200x630 and padded with black so both phones stay visible.
+    blark: {
+      ogImage: 'public/static/images/overrides/blark/og-image.png',
+    },
+    // usekuroko.com's generated logo is a 32px favicon. This is the official 512px Mac App Store icon.
+    kuroko: {
+      logo: 'public/static/images/overrides/kuroko/logo.png',
     },
   },
 };
