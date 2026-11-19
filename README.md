@@ -691,6 +691,7 @@ Free & open-source.
 | 🎬 | [Magic Automa AI](https://www.magicautoma.com/) | Desktop automation for video editors: one-click macros for DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro and OBS. Windows and macOS. | **40% OFF** lifetime licences with code **BLACKFRIDAY2026** (Studio €49.99 → €29.99) | 2026-11-30 |
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
 | 🎬 | [AVE AI Video Editor](https://www.aivideoeditor.app/pro/) | Build video edits on your Mac with searchable footage, transcript editing, captions, and a built-in screen recorder. | **30% OFF** Pro Lifetime ($99 → $69.30 USD before tax), automatically applied; ends 17:00 UTC | 2026-12-24 |
+| 🎞️ | [Yaptake](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac, and your first three exports are free. | **50% OFF** the first year with code **YAPTAKEBF26**: Monthly ~~$9.99~~ **$4.99**/month for 12 months, Yearly ~~$79~~ **$39.50** the first year, new subscribers | 2026-12-02 |
 
 
 ### Marketing
