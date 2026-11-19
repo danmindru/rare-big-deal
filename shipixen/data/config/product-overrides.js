@@ -624,5 +624,17 @@ module.exports = {
     kuroko: {
       logo: 'public/static/images/overrides/kuroko/logo.png',
     },
+    // appgridmac.com/pricing/ has no og:image (404). The banner is a 1200x630 screenshot of the English pricing hero: Black Friday, one purchase covers up to five Macs, 50% off $25 $12.50.
+    appgrid: {
+      ogImage: 'public/static/images/overrides/appgrid/og-image.png',
+    },
+    // launchosapp.com's generated logo is a 32px favicon. This is the official favicon.svg rasterized to a 512px PNG, transparent background kept.
+    launchos: {
+      logo: 'public/static/images/overrides/launchos/logo.png',
+    },
+    // photok.app's generated og:image is a 512x512 square icon. The banner is a 1200x630 screenshot of the English homepage hero.
+    'photok-secure-photo-vault': {
+      ogImage: 'public/static/images/overrides/photok-secure-photo-vault/og-image.png',
+    },
   },
 };
