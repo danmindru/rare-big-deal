@@ -392,6 +392,7 @@ Free & open-source.
 | 🎤 | [Murmur](https://saymurmur.app/black-friday) | Dictation and meeting notes for Mac that run on your Mac. Hold right Command, talk, and clean text lands in any app; no bot joins your calls. | **37% OFF**: $12 instead of $19 (regular $29) with code **BF2026**, one-time purchase for up to 3 Macs. Starts on 2026-11-24 | 2026-12-01 |
 | 🎙️ | [Parlo](https://parlohub.com/black-friday) | Dictation in any app, meeting notes without a bot, and voice commands for Mac. Speech recognition runs on your Mac. | **26% OFF** Lifetime ($80 → $59) or **50% OFF** Monthly for the first 3 months ($8 → $4), no code needed. Starts on 2026-11-20. The lifetime plan retires after the sale. | 2026-12-01 |
 | 🔎 | [Findy](https://getfindy.xyz/) | Find files on your Mac from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac. | **50% OFF** one-time licenses with code **GITFRIDAY50**: 1 Mac $11 → $5.50, 2 Macs $19 → $9.50 (early-bird prices) | 2026-12-07 |
+| 🖥️ | [Plomer](https://plomer.app) | Website uptime and domain monitoring from your Mac, iPhone, Apple Watch and iPad. Track and monitor your websites, web services and domains. Send <custom/> events from your apps, receive them in Plomer. | **33% OFF** yearly plan with code `BLACKFRIDAY2026`. ~~$59.99~~ **$41.99**,. Same plan works on Mac, iOS, IPadOS and WatchOS. Nov 19 - Dec 7, 2026 |
 
 
 ### Design Tools
@@ -411,6 +412,7 @@ Free & open-source.
 | 🖌️ | [Dabbit](https://dabbit.app/) | Color-managed color picker for Mac: copy colors in any format, build palettes and send them to Figma. | **30% OFF** the one-time license with code **BLACKFRIDAY**, applied at checkout | 2026-12-01 |
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
 | ⓢ | [Sitely 8](https://sitely.app) | AI + visual website builder for Mac: build the website you want visually, or with AI over MCP. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
+| 💰 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 20th - Dec 7th |
 
 
 ### Writing & Notes
@@ -509,6 +511,7 @@ Free & open-source.
 | 📕 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown entries, photos, places and moods, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 
 
+
 ### Productivity
 
 | | Name | Description | Deal | Expires on date |
@@ -544,6 +547,7 @@ Free & open-source.
 | ☁️ | [Darkroom](https://darkroom.co/black-friday) | Darkroom is the Apple Design Award winning premium photo editing and video processing app designed for creators who value workflow speed, simplicity, and power. With professional-grade tools like AI-backed Masks, RAW editing, curves, color grading, and batch processing. | **50% OFF** first year plans for $19.99 from $39.99, with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🐶 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | iPhone and Android app that turns photos of pets, friends and food into chat stickers. No ads, no subscription. | **43% OFF** the one-time Plus purchase ($6.99 → $3.99), no code needed | 2026-11-30 |
 | 📸 | [Culla](https://getculla.com/) | Photo culling app for Mac, iPhone and iPad that works on the memory card: keep, reject or tag each photo, with on-device AI for blurry shots and duplicates. | **40% OFF** the one-time purchase ($24.99 → $14.99) on the App Store, no code needed | 2026-11-30 |
+| 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Lifetime with <strong>BFCM2026LIFETIME</strong>, Nov 20th - Dec 7th |
 
 
 ### Health & Fitness
@@ -610,6 +614,7 @@ Free & open-source.
 | 🎨 | [Weather Icons](https://mgcweather.framer.website/) | 120 graceful weather icons | **30% OFF** ($25 → $17.50) with code **BF2026** | 2026-12-05 |
 | 🎨 | [AppScreenPro](https://appscreenpro.com/) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | Extra **30% OFF** Lifetime Pro with code **30BF2026** | 2026-12-01 |
 | 📸 | [Screenshot Studio](https://appstorescreenshotstudio.com/) | Mac and iPhone app for App Store screenshots: templates, localization into 50+ languages and upload to App Store Connect. | **Up to 50% OFF** the first period of subscriptions and **33% OFF** Lifetime ($89.99 → $59.99), no code needed | 2026-12-01 |
+| 💰 | [Litur(iOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 20th - Dec 7th |
 
 
 ### AI Design Tools
