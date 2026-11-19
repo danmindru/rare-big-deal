@@ -172,6 +172,10 @@ Free & open-source.
 | ✉️ | [Faivelo](https://faivelo.com/black-friday) | Email hosting for your own domain. One plan covers unlimited mailboxes, aliases and domains, with webmail and calendar included. | **80% OFF**: $12 for the whole year (was $60), renews at $12. No code needed. New customers only, first 500 accounts | 2026-12-01 |
 | 🐱 | [KittyTrace](https://kittytrace.com/) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | **34% OFF**: one-time $29 → $19 with code **BF2026** | 2026-12-01 |
 | 💡 | [IvaBoard](https://ivaboard.com/lifetime/) | Feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain. | **30% OFF** lifetime plans with code **BF30**. Hosted Solo, one payment: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30. Ends 11:59 p.m. Pacific Time. | 2026-11-30 |
+| 🛡️ | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
+| 🛡️ | [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
+| 🛡️ | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
+| 🛡️ | [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | **Black Friday bundle €4,000**, no coupon | 2026-11-30 |
 
 
 ### Browser Extensions
