@@ -8,6 +8,10 @@
 // English marketing art, stored under public/static/images/overrides/.
 module.exports = {
   overrides: {
+    heystream: {
+      logo: 'public/static/images/overrides/heystream/logo.png',
+      ogImage: 'public/static/images/overrides/heystream/og-image.png',
+    },
     facescreen: {
       logo: 'public/static/images/overrides/facescreen/logo.png',
       ogImage: 'public/static/images/overrides/facescreen/og-image.png',
