@@ -433,6 +433,7 @@ Free & open-source.
 | 📝 | [Float](https://float.gilla.fun/) | Floating Markdown scratchpad for Mac on a global hotkey. Stays over full-screen apps and saves notes as plain .md files. | **40% OFF** Pro lifetime ($4.99 → $2.99, one-time) with code **BF26FLOAT**. Starts on 2026-11-26 | 2026-12-01 |
 | 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 | 🧱 | [Craft](https://www.craft.do/pricing) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
 
 
 ### Menu Bar & More
@@ -515,6 +516,7 @@ Free & open-source.
 | 📕 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown entries, photos, places and moods, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 | 🧱 | [Craft](https://www.craft.do/pricing) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
 
 
 ### Productivity
