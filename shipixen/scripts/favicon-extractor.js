@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
 const { extractAppStoreIcon } = require('./appstore');
-const { downloadImage, writeFileAtomic } = require('./image-downloader');
+const { downloadImage, isOverridesImagePath, saveRaster } = require('./image-downloader');
 const { inspectMedia, inspectMediaFile } = require('./lib/media-bytes');
 
 const APPLE_ICON_PATHS = [
@@ -167,13 +167,22 @@ async function upscaleLogo(png, inspection) {
 /**
  * GET each candidate and keep the first image that decodes at logo size.
  * A smaller real icon is remembered and scaled only when nothing larger exists.
- * The previous logo.png is replaced only after a usable PNG is ready.
+ * An existing logo is replaced only when the new PNG decodes at least as large.
+ * A timeout or a failed candidate leaves that file untouched. Override paths
+ * are never written.
  */
 async function acquireProductLogo(options) {
+  if (isOverridesImagePath(options.outputPath)) {
+    console.error(
+      `[Favicon Extractor] ❌ Refusing to write an override logo: ${options.outputPath}`,
+    );
+    return null;
+  }
   const candidates = await logoCandidateUrls(options.$, options.website, options.appStoreImageUrl);
   console.log(`[Favicon Extractor] ${candidates.length} logo candidate(s) for ${options.website}`);
   const partialPath = `${options.outputPath}.partial`;
   let bestSmall = null;
+  let keptExisting = false;
 
   const loadCandidate = async (url) => {
     const saved = await downloadImage(url, partialPath, {
@@ -198,9 +207,19 @@ async function acquireProductLogo(options) {
       if (!png) continue;
       const inspection = await inspectMedia(png, 'logo');
       if (inspection.ok) {
-        await writeFileAtomic(options.outputPath, png);
-        console.log(`[Favicon Extractor] ✅ Logo ${inspection.width}x${inspection.height} from ${url}`);
-        return { url, inspection, resized: false };
+        const saved = await saveRaster(options.outputPath, png);
+        if (saved.written) {
+          console.log(`[Favicon Extractor] ✅ Logo ${inspection.width}x${inspection.height} from ${url}`);
+          return { url, inspection, resized: false };
+        }
+        if (saved.reason === 'smaller') {
+          keptExisting = true;
+          console.log(
+            `[Favicon Extractor] Keeping the existing logo; ${url} is ${inspection.width}x${inspection.height}`,
+          );
+          continue;
+        }
+        return null;
       }
       if (canUpscale(inspection)) {
         const area = inspection.width * inspection.height;
@@ -219,11 +238,23 @@ async function acquireProductLogo(options) {
       const resized = await upscaleLogo(bestSmall.png, bestSmall.inspection);
       const inspection = await inspectMedia(resized, 'logo');
       if (inspection.ok) {
-        await writeFileAtomic(options.outputPath, resized);
+        const saved = await saveRaster(options.outputPath, resized);
+        if (saved.written) {
+          console.log(
+            `[Favicon Extractor] ✅ Scaled ${bestSmall.inspection.width}x${bestSmall.inspection.height} logo from ${bestSmall.url} to ${inspection.width}x${inspection.height}`,
+          );
+          return { url: bestSmall.url, inspection, resized: true };
+        }
+        if (saved.reason === 'smaller') keptExisting = true;
+      }
+    }
+    if (keptExisting) {
+      const inspection = await inspectMediaFile(options.outputPath, 'logo');
+      if (inspection.ok) {
         console.log(
-          `[Favicon Extractor] ✅ Scaled ${bestSmall.inspection.width}x${bestSmall.inspection.height} logo from ${bestSmall.url} to ${inspection.width}x${inspection.height}`,
+          `[Favicon Extractor] ✅ Kept existing logo ${inspection.width}x${inspection.height}`,
         );
-        return { url: bestSmall.url, inspection, resized: true };
+        return { url: options.website, inspection, resized: false, keptExisting: true };
       }
     }
     return null;
