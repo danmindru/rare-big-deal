@@ -1065,6 +1065,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🗓️ | [Saventify](https://saventify.com) | Create elegant digital invitations, send them instantly, and manage RSVPs without stress. | **37% OFF** with code **BF26** | 2027-01-01 |
 | 🛒 | [Store Pickup Alert](https://storepickupalert.com/) | Phone alerts when a sold-out iPhone, console or GPU shows up for in-store pickup at Apple or Best Buy near you. | **20% OFF** your first month with code **BLACKFRIDAY20** | 2026-12-04 |
+| 🗺️ | [Treader](https://www.treader.ca/pricing?utm_source=rarebigdeal&utm_medium=deal-list&utm_campaign=bfcm2026) | Trip planner where friends vote on dates and plan together on one live map, with a built-in AI trip assistant. | **30% OFF** the first year of Pro annual: $34.99 CAD, then renews at $49.99 CAD a year, code **BFRIDAY30**. Starts on 2026-11-20 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
