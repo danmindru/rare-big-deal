@@ -537,6 +537,7 @@ Free & open-source.
 | 📦 | [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad. Track what you own by location, room and container, with photos, values and search across every field. | **50% OFF** lifetime PRO: $29.99, down from $59.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
+| 📱 | [Pocket AI](https://apps.apple.com/us/app/pocket-ai-no-internet/id6759989702?pt=128572449&ct=bf26-rarebigdeal&mt=8) | Offline AI chat for iPhone and iPad. Runs open models like Qwen, Llama and Gemma on your device, with no internet and no account. Chats stay on your phone. Free to download. | **30% OFF** Pro Lifetime ($9.99 → $6.99), one-time purchase, applied automatically in the App Store, no code needed. US pricing; local prices vary. Starts on 2026-11-27 | 2026-11-30 |
 
 
 ### Photos & Videos
