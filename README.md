@@ -394,6 +394,7 @@ Free & open-source.
 | 🔎 | [Findy](https://getfindy.xyz/) | Find files on your Mac from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac. | **50% OFF** one-time licenses with code **GITFRIDAY50**: 1 Mac $11 → $5.50, 2 Macs $19 → $9.50 (early-bird prices) | 2026-12-07 |
 | 🛞 | [Helix](https://tryhelix.app/) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. | **30% OFF** with code **BLACKFRIDAY30**: $9 → $6.30, one-time purchase for up to 2 Macs. Starts on 2026-11-20 | 2026-12-01 |
 | 🖥️ | [Plomer](https://plomer.app) | Website uptime and domain monitoring from your Mac, iPhone, Apple Watch and iPad. Track and monitor your websites, web services and domains. Send custom events from your apps and receive them in Plomer. | Yearly plan ~~$59.99~~ **$41.99** with code **BLACKFRIDAY2026**. Same plan works on Mac, iOS, iPadOS and watchOS. | 2026-12-07 |
+| 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Pro lets you move apps in batches, sort across pages, and save and restore layouts. | **50% OFF** lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout. November 20–30 worldwide. | 2026-11-30 |
 
 
 ### Design Tools
