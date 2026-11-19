@@ -1053,6 +1053,7 @@ Free & open-source.
 | 🗓️ | [SubsDay](https://subsday.appps.od.ua) | Subscription calendar and expense tracker for iOS and Mac, with reminders, statistics and iCloud sync. Formerly Subscription Day. | Lifetime Single **$11.99** (was $19.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026); Family **$15.99** (was $26.99) with [**BLKFR2026FAMILY**](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026FAMILY). Nov 15–Dec 1, 2026 | 2026-12-01 |
 
 
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -1065,6 +1066,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🗓️ | [Saventify](https://saventify.com) | Create elegant digital invitations, send them instantly, and manage RSVPs without stress. | **37% OFF** with code **BF26** | 2027-01-01 |
 | 🛒 | [Store Pickup Alert](https://storepickupalert.com/) | Phone alerts when a sold-out iPhone, console or GPU shows up for in-store pickup at Apple or Best Buy near you. | **20% OFF** your first month with code **BLACKFRIDAY20** | 2026-12-04 |
+| 🔒 | [Photok - Secure Photo Vault](https://photok.app/blog/black-friday-2026/?utm_source=rare-big-deal) | Photok is an open-source photo vault that keeps your photos and videos encrypted and stored locally on your device. | From Black Friday to Cyber Monday **(November 27 to 30, 2026)**, Photok Pro is **50% off** on Google Play. | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
