@@ -465,6 +465,7 @@ Free & open-source.
 | ☀️ | [Big Weather](https://apps.apple.com/app/big-weather/id1531449281) | Weather in the Mac menu bar, with a few words about tomorrow and a weekly rundown written on-device by Apple Intelligence. | **33% OFF** Lifetime: ~~$29.99~~ **$19.99** one-time, no code needed. | 2026-12-03 |
 | 💾 | [Storage Menu Bar](https://storagemenu.app/) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk. | **50% OFF**: ~~$1.99~~ **$0.99** on the Mac App Store, one-time purchase, no code needed. | 2026-11-30 |
 | 📹 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on your Mac, in a window, full screen or the menu bar. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups. No code needed (Nov 2 - Nov 30) | 2026-11-30 |
+| 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -747,6 +748,7 @@ Free & open-source.
 | 💸 | [Evendeals](https://evendeals.com/) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** | 2026-11-30 |
 | 🔎 | [LinkFinder AI](https://linkfinderai.com/lifetime-deal) | Find emails, phone numbers and LinkedIn data from a LinkedIn URL, a name or a company, one at a time or a whole CSV / Google Sheet, in the app, by API or from Claude and ChatGPT (MCP). | **Lifetime deal instead of a monthly plan**: $149 once for 2,500 credits every month (first 50 seats, then $179), or $299 once for 7,500 credits every month. No code needed | 2026-11-30 |
 | ✉️ | [Emelia](https://emelia.io/blackfriday) | B2B prospecting: cold email and LinkedIn campaigns, warmup, Sales Navigator scraping, email and phone finder. | **30% to 40% OFF** annual plans, no code needed (Start €370 → €259, Grow €970 → €630.50) |  |
+| 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
 
 ### Email Marketing
 
