@@ -582,5 +582,14 @@ module.exports = {
     imagineyourbook: {
       logo: 'public/static/images/overrides/imagineyourbook/logo.png',
     },
+    // roadsaudio.com's larger icon links fail; only a 48px favicon decodes. The logo is the official 512px App Store icon. The banner is left for the generator.
+    'roads-audio': {
+      logo: 'public/static/images/overrides/roads-audio/logo.png',
+    },
+    // litur.app only links a 48px favicon, and its og:image is a 2071x2071 square icon. The logo is the official 512px Mac App Store icon. The banner is a 1200x630 screenshot of the English homepage hero.
+    litur: {
+      logo: 'public/static/images/overrides/litur/logo.png',
+      ogImage: 'public/static/images/overrides/litur/og-image.png',
+    },
   },
 };

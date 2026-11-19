@@ -392,6 +392,8 @@ Free & open-source.
 | 🎤 | [Murmur](https://saymurmur.app/black-friday) | Dictation and meeting notes for Mac that run on your Mac. Hold right Command, talk, and clean text lands in any app; no bot joins your calls. | **37% OFF**: $12 instead of $19 (regular $29) with code **BF2026**, one-time purchase for up to 3 Macs. Starts on 2026-11-24 | 2026-12-01 |
 | 🎙️ | [Parlo](https://parlohub.com/black-friday) | Dictation in any app, meeting notes without a bot, and voice commands for Mac. Speech recognition runs on your Mac. | **26% OFF** Lifetime ($80 → $59) or **50% OFF** Monthly for the first 3 months ($8 → $4), no code needed. Starts on 2026-11-20. The lifetime plan retires after the sale. | 2026-12-01 |
 | 🔎 | [Findy](https://getfindy.xyz/) | Find files on your Mac from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac. | **50% OFF** one-time licenses with code **GITFRIDAY50**: 1 Mac $11 → $5.50, 2 Macs $19 → $9.50 (early-bird prices) | 2026-12-07 |
+| 🛞 | [Helix](https://tryhelix.app/) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. | **30% OFF** with code **BLACKFRIDAY30**: $9 → $6.30, one-time purchase for up to 2 Macs. Starts on 2026-11-20 | 2026-12-01 |
+| 🖥️ | [Plomer](https://plomer.app) | Website uptime and domain monitoring from your Mac, iPhone, Apple Watch and iPad. Track and monitor your websites, web services and domains. Send custom events from your apps and receive them in Plomer. | Yearly plan ~~$59.99~~ **$41.99** with code **BLACKFRIDAY2026**. Same plan works on Mac, iOS, iPadOS and watchOS. | 2026-12-07 |
 
 
 ### Design Tools
@@ -411,6 +413,7 @@ Free & open-source.
 | 🖌️ | [Dabbit](https://dabbit.app/) | Color-managed color picker for Mac: copy colors in any format, build palettes and send them to Figma. | **30% OFF** the one-time license with code **BLACKFRIDAY**, applied at checkout | 2026-12-01 |
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
 | ⓢ | [Sitely 8](https://sitely.app) | AI + visual website builder for Mac: build the website you want visually, or with AI over MCP. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
+| 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
 
 
 ### Writing & Notes
@@ -429,6 +432,7 @@ Free & open-source.
 | ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
 | 📝 | [Float](https://float.gilla.fun/) | Floating Markdown scratchpad for Mac on a global hotkey. Stays over full-screen apps and saves notes as plain .md files. | **40% OFF** Pro lifetime ($4.99 → $2.99, one-time) with code **BF26FLOAT**. Starts on 2026-11-26 | 2026-12-01 |
 | 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
+| 🧱 | [Craft](https://www.craft.do/pricing) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 
 
 ### Menu Bar & More
@@ -510,6 +514,7 @@ Free & open-source.
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📕 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown entries, photos, places and moods, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99, no code needed. Starts on 2026-11-27 | 2026-12-01 |
 | 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
+| 🧱 | [Craft](https://www.craft.do/pricing) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 
 
 ### Productivity
@@ -547,6 +552,7 @@ Free & open-source.
 | ☁️ | [Darkroom](https://darkroom.co/black-friday) | Darkroom is the Apple Design Award winning premium photo editing and video processing app designed for creators who value workflow speed, simplicity, and power. With professional-grade tools like AI-backed Masks, RAW editing, curves, color grading, and batch processing. | **50% OFF** first year plans for $19.99 from $39.99, with code **BLACKFRIDAY26** | 2026-12-03 |
 | 🐶 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | iPhone and Android app that turns photos of pets, friends and food into chat stickers. No ads, no subscription. | **43% OFF** the one-time Plus purchase ($6.99 → $3.99), no code needed | 2026-11-30 |
 | 📸 | [Culla](https://getculla.com/) | Photo culling app for Mac, iPhone and iPad that works on the memory card: keep, reject or tag each photo, with on-device AI for blurry shots and duplicates. | **40% OFF** the one-time purchase ($24.99 → $14.99) on the App Store, no code needed | 2026-11-30 |
+| 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | **30% OFF** Lifetime with code **BFCM2026LIFETIME**. Starts on 2026-11-20 | 2026-12-07 |
 
 
 ### Health & Fitness
@@ -577,6 +583,7 @@ Free & open-source.
 | 🪴 | [Succulent](https://elevenapril.com/succulent) | Photo journal for succulent lovers with care reminders to compare weeks of growth side by side. | **30% OFF** Lifetime ($49.99 → $34.99) with code **BLACKFRIDAY** | 2026-11-30 |
 | 🫣 | [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538) | iPhone app for two people who are close: each of you sets private emoji signals for the other, and only a match is ever shown. Your thought stays private until it becomes mutual. [Website](https://mhmtoo.app) | **50% OFF** mhm+ Lifetime ($49.99 → $24.99), applied automatically in the App Store, no code needed. Also **60% OFF** the first year of Yearly ($29.99 → $11.99) with code **BFCM26**, new subscribers, 7-day trial kept. US pricing; local prices vary. Starts on 2026-11-17 | 2026-12-02 |
 | 📱 | [Lift](https://apps.apple.com/us/app/lift-daily-prayer-bible-ai/id6772963796) | A Christian prayer companion for personal prayers, Scripture and daily reflection. | **60% OFF** first year of annual ($39.99 → $16.00) with code **BF2026LIFT** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/lift)); renews $39.99/year. Website checkout; customers without an active subscription; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
+| 🎙️ | [Roads Audio](https://roadsaudio.com/black-friday) | Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android. | **50% OFF** Lifetime ($99.99 → $49.99), one-time purchase, applied in the app, no code needed. US pricing; local prices vary. Starts on 2026-11-26 | 2026-12-01 |
 
 
 ### Other
@@ -614,6 +621,7 @@ Free & open-source.
 | 🎨 | [Weather Icons](https://mgcweather.framer.website/) | 120 graceful weather icons | **30% OFF** ($25 → $17.50) with code **BF2026** | 2026-12-05 |
 | 🎨 | [AppScreenPro](https://appscreenpro.com/) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | Extra **30% OFF** Lifetime Pro with code **30BF2026** | 2026-12-01 |
 | 📸 | [Screenshot Studio](https://appstorescreenshotstudio.com/) | Mac and iPhone app for App Store screenshots: templates, localization into 50+ languages and upload to App Store Connect. | **Up to 50% OFF** the first period of subscriptions and **33% OFF** Lifetime ($89.99 → $59.99), no code needed | 2026-12-01 |
+| 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
 
 
 ### AI Design Tools
@@ -964,6 +972,7 @@ Free & open-source.
 | 🛡️ | [Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | **67% OFF** Wireless Operator: $197 instead of $599, no code needed | 2026-12-01 |
 | 🛡️ | [Modern Security - AI Security Certification](https://www.modernsecurity.io/courses/ai-security-certification) | Hands-on AI security training with labs on agents, MCP security, RAG, prompt injection, red teaming, guardrails and AI supply chain security. | **20% OFF** with code **msec-bf20** (Nov 10 – Dec 10, 2026) | 2026-12-10 |
 | 🛡️ | [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity certifications and courses with cloud labs, across red team, blue team, cloud, web and AI security. | **Up to 90% OFF**: individual courses from $5 and bundles from $29, no code needed; Infinity yearly $99 → $49 with code **INFINITY49** or monthly $9 → $5 with **INFINITY5**; All Access Plan $1,799 → $999 ([Offer details](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)) | 2026-12-01 |
+| 🛡️ | [Practical Android App Security Testing](https://www.coldedgetrainings.com/practical-android-app-security-testing) | A self-paced written course for web pentesters on testing Android apps and their APIs, with hands-on labs using a non-rooted phone. | $999 USD launch and Black Friday price ($1,499 USD from Dec 5), no code needed. Ends at 11:59 PM PT. | 2026-12-04 |
 
 ### Art Courses
 
