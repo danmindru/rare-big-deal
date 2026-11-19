@@ -580,6 +580,7 @@ Free & open-source.
 | 📱 | [Sunrise](https://apps.apple.com/us/app/sunrise-adhd-planner-coach/id1542353302) | An ADHD-focused AI coach and habit tracker for building daily routines. | **60% OFF** first year of annual ($9.99 → $3.99) with code **BF2026SUNRISE** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/sunrise)); renews $9.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 | 📱 | [Breakup AI](https://apps.apple.com/us/app/breakup-ai-no-contact-coach/id6749644067) | Chat and voice support for navigating a breakup and maintaining no contact. | **60% OFF** first year of annual ($39.99 → $15.99) with code **BF2026BREAKUP** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/breakup)); renews $39.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 | 🏋️ | [Liftonic](https://liftonic.app) | AI lifting coach and workout tracker for iPhone and Apple Watch. | **33% OFF** first year of Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
+| 🏔️ | [Gymex](https://gymex.fitness/blackfriday) | Gym workout tracker for iPhone and Android with an AI coach that answers from your own workouts and PRs. Free to use; Core adds program analytics, mesocycles and auto-deloads, Premium adds the AI coach. | **Lifetime** for the first time, one payment instead of a subscription: Core **£30**, Premium **£60**. Or **50% OFF** any monthly plan for 6 months (Premium ~~£15~~ **£7.50**/month). Code **BLACKFRIDAY**, already applied on the page. GBP pricing. | 2026-11-30 |
 
 
 ### Hobby & Lifestyle
@@ -1038,6 +1039,7 @@ Free & open-source.
 | 💍 | [Vitra Health](https://vitrahealth.app/) | Desktop companion for the Oura Ring on Mac and Windows that reads your ring data locally. Requires an Oura Membership. | **20% OFF** both one-time licences, applied at checkout (Solo €19 → €15.20, Pro €29 → €23.20) | 2026-11-30 |
 | 🌿 | [The NerveWindow Library](https://nervewindow.com/library/) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner. | **80% OFF**: all 25 apps and card decks, $477 → $97 USD, one payment, lifetime access. No code needed. Ends December 1, 2026 or after the first 1,000 buyers. | 2026-12-01 |
 | 🏋️ | [Liftonic](https://liftonic.app) | AI lifting coach and workout tracker for iPhone and Apple Watch. | **33% OFF** first year of Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
+| 🏔️ | [Gymex](https://gymex.fitness/blackfriday) | Gym workout tracker for iPhone and Android with an AI coach that answers from your own workouts and PRs. Free to use; Core adds program analytics, mesocycles and auto-deloads, Premium adds the AI coach. | **Lifetime** for the first time, one payment instead of a subscription: Core **£30**, Premium **£60**. Or **50% OFF** any monthly plan for 6 months (Premium ~~£15~~ **£7.50**/month). Code **BLACKFRIDAY**, already applied on the page. GBP pricing. | 2026-11-30 |
 
 
 ### Web Apps
