@@ -428,6 +428,7 @@ Free & open-source.
 | 📝 | [Smolpad](https://smolpad.com/) | Markdown notes for Mac, iPhone, iPad and Apple Watch, stored as plain .md files in your own cloud storage. | **50% OFF** Pro Lifetime ($29.99 → $14.99) with App Store offer code **BLACKFRIDAY** | 2026-12-01 |
 | ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
 | 📝 | [Float](https://float.gilla.fun/) | Floating Markdown scratchpad for Mac on a global hotkey. Stays over full-screen apps and saves notes as plain .md files. | **40% OFF** Pro lifetime ($4.99 → $2.99, one-time) with code **BF26FLOAT**. Starts on 2026-11-26 | 2026-12-01 |
+| 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 
 
 ### Menu Bar & More
@@ -507,6 +508,7 @@ Free & open-source.
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📕 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown entries, photos, places and moods, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99, no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 
 
 ### Productivity
@@ -560,6 +562,7 @@ Free & open-source.
 | 📱 | [Hapday](https://apps.apple.com/us/app/hapday-ai-life-coach-cbt/id1498572982) | AI coaching, habit and mood tracking in one app. | **60% OFF** first year of annual ($39.99 → $16.00) with code **BF2026HAPDAY** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/hapday)); renews $39.99/year. Website checkout; customers without an active subscription; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 | 📱 | [Sunrise](https://apps.apple.com/us/app/sunrise-adhd-planner-coach/id1542353302) | An ADHD-focused AI coach and habit tracker for building daily routines. | **60% OFF** first year of annual ($9.99 → $3.99) with code **BF2026SUNRISE** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/sunrise)); renews $9.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
 | 📱 | [Breakup AI](https://apps.apple.com/us/app/breakup-ai-no-contact-coach/id6749644067) | Chat and voice support for navigating a breakup and maintaining no contact. | **60% OFF** first year of annual ($39.99 → $15.99) with code **BF2026BREAKUP** ([Offer details](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/breakup)); renews $39.99/year. US App Store; new/expired subscribers, first 1,000; no trial. Ends November 30 at 21:00 UTC. | 2026-11-30 |
+| 🏋️ | [Liftonic](https://liftonic.app) | AI lifting coach and workout tracker for iPhone and Apple Watch. | **33% OFF** first year of Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 
 
 ### Hobby & Lifestyle
@@ -1000,6 +1003,7 @@ Free & open-source.
 | 🏋️ | [FitArchive](https://fitarchive.app/black-friday/) | Workout log and calorie counter for iPhone and web, with AI meal logging. | **50% OFF** Plus yearly for your first year ($19.99 → $9.99) with code **BLACKFRIDAY50** on iPhone | 2026-11-30 |
 | 💍 | [Vitra Health](https://vitrahealth.app/) | Desktop companion for the Oura Ring on Mac and Windows that reads your ring data locally. Requires an Oura Membership. | **20% OFF** both one-time licences, applied at checkout (Solo €19 → €15.20, Pro €29 → €23.20) | 2026-11-30 |
 | 🌿 | [The NerveWindow Library](https://nervewindow.com/library/) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner. | **80% OFF**: all 25 apps and card decks, $477 → $97 USD, one payment, lifetime access. No code needed. Ends December 1, 2026 or after the first 1,000 buyers. | 2026-12-01 |
+| 🏋️ | [Liftonic](https://liftonic.app) | AI lifting coach and workout tracker for iPhone and Apple Watch. | **33% OFF** first year of Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 
 
 ### Web Apps
