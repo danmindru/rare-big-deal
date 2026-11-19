@@ -1,4 +1,4 @@
-# 💵 Rare Big App Deals ✨
+ # 💵 Rare Big App Deals ✨
 
 Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **tvOS Apps**, **SaaS**, **AI** and **Web Apps**. Discounts for Black Friday, Cyber Monday & more!
 
@@ -222,6 +222,9 @@ Free & open-source.
 | 🧑‍💼 | [Talking Avatar](https://talking-avatar.dev/black-friday) | Photorealistic AI avatars that speak your voice agent's audio in real time, plus no-code AI voice agents with the avatar included. | **2x credits** with code **LAUNCH2X**: your next top-up is matched up to $100 (pay $100, get $200 of credits), once per account | 2026-12-04 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 | ✨ | [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, images & launch videos from one prompt. | **50% OFF** Pro ($9.99 first month, was $19.90; or $79 first year, was $158) + Founding Lifetime **$169** one-time (was $249, save $80). Auto-applied at checkout (no code needed). Renewals at standard price. | 2026-11-30 |
+| 🛡️ | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
+| 🛡️ | [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
+| 🛡️ | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
 
 
 ### Productivity
