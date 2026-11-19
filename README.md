@@ -219,6 +219,7 @@ Free & open-source.
 | 🦀 | [OneClickClaw](https://oneclickclaw.io/plans) | Managed OpenClaw or Hermes Agent server in the EU, set up for you. | **Up to 33% OFF** the first month on monthly plans, applied automatically (Starter €14.99 → €9.99) | 2026-12-01 |
 | 🧑‍💼 | [Talking Avatar](https://talking-avatar.dev/black-friday) | Photorealistic AI avatars that speak your voice agent's audio in real time, plus no-code AI voice agents with the avatar included. | **2x credits** with code **LAUNCH2X**: your next top-up is matched up to $100 (pay $100, get $200 of credits), once per account | 2026-12-04 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
+| ✨ | [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, images & launch videos from one prompt. | **50% OFF** Pro ($9.99 first month, was $19.90; or $79 first year, was $158) + Founding Lifetime **$169** one-time (was $249, save $80). Auto-applied at checkout (no code needed). Renewals at standard price. | 2026-11-30 |
 
 
 ### Productivity
@@ -799,6 +800,7 @@ Free & open-source.
 | 📊 | [PageDuel](https://pageduel.com/pricing) | Web analytics, A/B testing and revenue attribution in one tool, with funnels and URL personalization. | **40% OFF for 12 months** with code **BF2026** (from $9 → $5.40/mo) | 2026-12-01 |
 | 📊 | [Pirsch Analytics](https://pirsch.io/) | Privacy-friendly and GDPR-compliant web analytics. | **20% OFF for first payment** with code **BLACKFRIDAY26** | 2026-12-31 |
 | 📊 | [TelemetryDeck](https://telemetrydeck.com/) | Privacy-first app analytics for iOS, macOS, Android, Flutter, React Native and web apps, hosted in Europe. | **30% OFF** for 12 months with code **WEEK26**. Paid plans add unlimited apps, 24 months of data retention and realtime data. Starts on 2026-11-23 | 2026-12-01 |
+| 📊 | [BizPeel](https://bizpeel.com/pricing) | Verified revenue, traffic sources, SEO & ad breakdowns for 700+ real startups — browsable on web and queryable in Claude Code & Cursor via MCP. | **50% OFF** first month across all plans (Starter $14.95, Pro $29.95, Business $49.95) + **20% OFF** first year stacked on 15% annual savings. Auto-applied at checkout (no code needed). Renewals at standard price. | 2026-11-30 |
 
 
 ### Website Builders
