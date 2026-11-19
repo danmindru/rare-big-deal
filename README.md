@@ -175,7 +175,6 @@ Free & open-source.
 | 🛡️ | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
 | 🛡️ | [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
 | 🛡️ | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** | 2026-11-30 |
-| 🛡️ | [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | **Black Friday bundle €4,000**, no coupon | 2026-11-30 |
 
 
 ### Browser Extensions
