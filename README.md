@@ -1064,7 +1064,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-
+| 📈 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF** Pro monthly: $23.40 USD/month for the next 3 paid months, then $39 USD/month. Auto-applied through the offer page; code **BLACKFRIDAY2026** if needed. One use per account. Ends November 30, 2026 at 11:59 p.m. CET. | 2026-11-30 |
 
 ### Expense tracking
 
