@@ -130,6 +130,7 @@ Free & open-source.
 | 🗄️ | [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux. Free for personal use. | **40% OFF** Pro yearly ($29 → $17.40), no code needed, applied at checkout. Starts on 2026-11-26 | 2026-12-01 |
 | 🗄️ | [Gadwal](https://gadwal.dev) | Native Mac database client: edit tables like a spreadsheet, and AI changes wait for your approval. Free tier and 14-day trial. | **$9.99** one-time Lifetime launch price on the Mac App Store, no code needed. The price goes to $29.99 after 2026-12-05 | 2026-12-05 |
 | 🧰 | [Devkito](https://devkito.com/pricing) | 122 developer tools in one offline desktop app for Mac, Windows and Linux: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more, behind one shortcut. | **50% OFF** every one-time licence with code **BF2026** (applied automatically from the pricing page): $10 → $5 for 1 computer, $15 → $7.50 for 2, $30 → $15 for 5. Until Dec 2, 2026, 11:59 pm PT. | 2026-12-02 |
+| 🍓 | [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad. | **About 20% OFF** Single Lifetime (US$5.99 → US$4.79; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
 
 
 ### APIs, Tools & SaaS
@@ -561,6 +562,7 @@ Free & open-source.
 | 📱 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [Pocket AI](https://apps.apple.com/us/app/pocket-ai-no-internet/id6759989702) | Offline AI chat for iPhone and iPad. Runs open models like Qwen, Llama and Gemma on your device, with no internet and no account. Chats stay on your phone. Free to download. | **30% OFF** Pro Lifetime ($9.99 → $6.99), one-time purchase, applied automatically in the App Store, no code needed. US pricing; local prices vary. Starts on 2026-11-27 | 2026-11-30 |
+| 🍵 | [TeaGo](https://teago.artsvit.com/) | Browse repositories, review pull requests, and track issues on self-hosted Gitea or Forgejo from iPhone and iPad. | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
 
 
 ### Photos & Videos
@@ -580,6 +582,7 @@ Free & open-source.
 | 📸 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | Snap quick photo reminders without cluttering your camera roll. CheckCam auto-deletes temporary shots unless you pin them. | Lifetime $7.49 USD (regular $14.99). Use code BFCM26. Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
 | 🔒 | [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | Keep private photos and videos in a PIN-protected vault that looks like a working calculator, currency converter, or puzzle. | Pro Lifetime $14.99 USD with code BFCM26 ($29.99 without code). Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
 | 🧹 | [Deletti](https://deletti.app/#black-friday) | A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them. | Single Lifetime $8.99 USD with code BFCM26 ($17.99 without code). Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
+| 🎬 | [Lumière - Media & Music Player](https://lumiere.artsvit.com/) | Play movies, shows, and music from your own media servers or NAS on Mac, iPhone, iPad and Apple TV. | **About 20% OFF** Lumière Plus Lifetime (US$59.99 → US$47.99; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6830332402&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
 
 
 ### Health & Fitness
@@ -654,6 +657,7 @@ Free & open-source.
 | 🎨 | [AppScreenPro](https://appscreenpro.com/) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | Extra **30% OFF** Lifetime Pro with code **30BF2026** | 2026-12-01 |
 | 📸 | [Screenshot Studio](https://appstorescreenshotstudio.com/) | Mac and iPhone app for App Store screenshots: templates, localization into 50+ languages and upload to App Store Connect. | **Up to 50% OFF** the first period of subscriptions and **33% OFF** Lifetime ($89.99 → $59.99), no code needed | 2026-12-01 |
 | 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
+| 🎨 | [Paletteo](https://paletteo.artsvit.com/) | Capture colors, build palettes and gradients, and export design tokens from iPhone or iPad. | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6762087665&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
 
 
 ### AI Design Tools
