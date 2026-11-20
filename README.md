@@ -739,6 +739,7 @@ Free & open-source.
 | 🎬 | [AVE AI Video Editor](https://www.aivideoeditor.app/pro/) | Build video edits on your Mac with searchable footage, transcript editing, captions, and a built-in screen recorder. | **30% OFF** Pro Lifetime ($99 → $69.30 USD before tax), automatically applied; ends 17:00 UTC | 2026-12-24 |
 | 🎞️ | [Yaptake](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac, and your first three exports are free. | **50% OFF** the first year with code **YAPTAKEBF26**: Monthly ~~$9.99~~ **$4.99**/month for 12 months, Yearly ~~$79~~ **$39.50** the first year, new subscribers | 2026-12-02 |
 | 🎧 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks. | 55% less per minute than the regular Large Pack: 1,000 minutes for $59.99 once, valid for two years. No code needed. | 2026-11-30 |
+| 🎥 | [XGetter](https://xgetter.com/?utm_source=danmindru#pricing) | Video and audio downloader for Windows, macOS and Linux. Save from 70+ platforms (YouTube, TikTok, Facebook, Instagram, X/Twitter, Bilibili and more) in up to 8K, with playlist, channel and batch downloads and no watermark. | **30% OFF** all plans with code **BF2026** (Pro $10 → $7, Extended $15 → $10.50) | 2026-12-02 |
 
 
 ### Marketing
