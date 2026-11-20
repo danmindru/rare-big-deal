@@ -8,6 +8,10 @@
 // English marketing art, stored under public/static/images/overrides/.
 module.exports = {
   overrides: {
+    heystream: {
+      logo: 'public/static/images/overrides/heystream/logo.png',
+      ogImage: 'public/static/images/overrides/heystream/og-image.png',
+    },
     facescreen: {
       logo: 'public/static/images/overrides/facescreen/logo.png',
       ogImage: 'public/static/images/overrides/facescreen/og-image.png',
@@ -542,6 +546,148 @@ module.exports = {
     // The App Store share image is a tall screenshot. This is the official 1200x630 og:image from praylift.io.
     lift: {
       ogImage: 'public/static/images/overrides/lift/og-image.png',
+    },
+    // transcrybe.app only publishes a 32px favicon. The logo is the official 512px Mac App Store icon. The banner is left for the generator.
+    'transcrybe-live-translation': {
+      logo: 'public/static/images/overrides/transcrybe-live-translation/logo.png',
+    },
+    // The logo is the official 512px App Store icon for Nihongo.
+    'nihongo-japanese-dictionary': {
+      logo: 'public/static/images/overrides/nihongo-japanese-dictionary/logo.png',
+    },
+    // The logo is the official 512px App Store icon for Nihongo Lessons.
+    'nihongo-lessons': {
+      logo: 'public/static/images/overrides/nihongo-lessons/logo.png',
+    },
+    // alttextlab.com/black-friday publishes no og:image. The banner is the official 1200x630 homepage share image, and the logo is the official 256px icon.
+    alttextlab: {
+      logo: 'public/static/images/overrides/alttextlab/logo.png',
+      ogImage: 'public/static/images/overrides/alttextlab/og-image.png',
+    },
+    // cyberwarfare.live publishes no og:image. The logo is the official 500px mark, and the banner is a 1200x630 screenshot of the English homepage.
+    'cyberwarfare-labs': {
+      logo: 'public/static/images/overrides/cyberwarfare-labs/logo.png',
+      ogImage: 'public/static/images/overrides/cyberwarfare-labs/og-image.png',
+    },
+    // ivaboard.com/lifetime/ saved no banner. This is the official 1200x630 og:image: "Collect feedback. Decide what to build. Tell people you shipped it."
+    ivaboard: {
+      ogImage: 'public/static/images/overrides/ivaboard/og-image.png',
+    },
+    // www.videowalllive.com's fetched logo is 180px. This is the official 512px icon.
+    'video-wall-live': {
+      logo: 'public/static/images/overrides/video-wall-live/logo.png',
+    },
+    // datapeek.dev's favicon.ico is the default Next.js triangle, and og-image.png returns 404. The logo is the official 1024px app icon resized to 512px. The banner is a 1200x630 screenshot of the English homepage hero.
+    'data-peek': {
+      logo: 'public/static/images/overrides/data-peek/logo.png',
+      ogImage: 'public/static/images/overrides/data-peek/og-image.png',
+    },
+    // imagineyourbook.com only links a 48px favicon. This is the official 514px icon. The banner is left for the generator.
+    imagineyourbook: {
+      logo: 'public/static/images/overrides/imagineyourbook/logo.png',
+    },
+    // roadsaudio.com's larger icon links fail; only a 48px favicon decodes. The logo is the official 512px App Store icon. The banner is the official 1200x630 Black Friday share image: Lifetime, $49.99 once.
+    'roads-audio': {
+      logo: 'public/static/images/overrides/roads-audio/logo.png',
+      ogImage: 'public/static/images/overrides/roads-audio/og-image.png',
+    },
+    // litur.app only links a 48px favicon, and its og:image is a 2071x2071 square icon. The logo is the official 512px Mac App Store icon. The banner is a 1200x630 screenshot of the English homepage hero.
+    litur: {
+      logo: 'public/static/images/overrides/litur/logo.png',
+      ogImage: 'public/static/images/overrides/litur/og-image.png',
+    },
+    // thinkdown.app published no saved banner. This is the official 1200x630 og:image: "Say it messy. Read it clean."
+    thinkdown: {
+      ogImage: 'public/static/images/overrides/thinkdown/og-image.png',
+    },
+    // liftonic.app published no saved banner. This is the official 1200x630 og:image: "Lift with a plan, every day."
+    liftonic: {
+      ogImage: 'public/static/images/overrides/liftonic/og-image.png',
+    },
+    // tryhelix.app published no saved banner. This is the official 1200x630 og:image: "A weapon wheel for your Mac."
+    helix: {
+      ogImage: 'public/static/images/overrides/helix/og-image.png',
+    },
+    // www.plomer.app's og:image is a 1200x801 photo. Center-cropped to 1200x630 so the phone stays in frame.
+    plomer: {
+      ogImage: 'public/static/images/overrides/plomer/og-image.png',
+    },
+    // www.craft.do published no saved banner. This is the official 1200x630 og:image, the CRAFT wordmark.
+    craft: {
+      ogImage: 'public/static/images/overrides/craft/og-image.png',
+    },
+    // www.blark.app's og:image is a 3000x2000 render of two phones. Scaled to fit inside 1200x630 and padded with black so both phones stay visible.
+    blark: {
+      ogImage: 'public/static/images/overrides/blark/og-image.png',
+    },
+    // usekuroko.com's generated logo is a 32px favicon. This is the official 512px Mac App Store icon.
+    kuroko: {
+      logo: 'public/static/images/overrides/kuroko/logo.png',
+    },
+    // appgridmac.com/pricing/ has no og:image (404). The banner is a 1200x630 screenshot of the English pricing hero: Black Friday, one purchase covers up to five Macs, 50% off $25 $12.50.
+    appgrid: {
+      ogImage: 'public/static/images/overrides/appgrid/og-image.png',
+    },
+    // launchosapp.com's generated logo is a 32px favicon. This is the official favicon.svg rasterized to a 512px PNG, transparent background kept.
+    launchos: {
+      logo: 'public/static/images/overrides/launchos/logo.png',
+    },
+    // photok.app's generated og:image is a 512x512 square icon. The banner is a 1200x630 screenshot of the English homepage hero.
+    'photok-secure-photo-vault': {
+      ogImage: 'public/static/images/overrides/photok-secure-photo-vault/og-image.png',
+    },
+    // www.exploitpack.com/products/exploit-pack publishes a 1254px square og:image and a 32px favicon. The banner is a 1200x630 screenshot of the English product hero. The logo is the official 512px Exploitpack.png.
+    'exploit-pack': {
+      logo: 'public/static/images/overrides/exploit-pack/logo.png',
+      ogImage: 'public/static/images/overrides/exploit-pack/og-image.png',
+    },
+    // www.exploitpack.com/products/control-pack publishes a 1254px square og:image. The banner is a 1200x630 screenshot of the English product hero. The logo is the same official 512px Exploit Pack icon.
+    'control-pack': {
+      logo: 'public/static/images/overrides/control-pack/logo.png',
+      ogImage: 'public/static/images/overrides/control-pack/og-image.png',
+    },
+    // www.exploitpack.com/products/kernel-pack publishes a 1254px square og:image. The banner is a 1200x630 screenshot of the English product hero. The logo is the same official 512px Exploit Pack icon.
+    'kernel-pack': {
+      logo: 'public/static/images/overrides/kernel-pack/logo.png',
+      ogImage: 'public/static/images/overrides/kernel-pack/og-image.png',
+    },
+    // translatemanga.net's generated og:image is a blank 1200x630. The banner is a 1200x630 screenshot of the English homepage hero. The logo is the official logo.svg rasterized at 512px.
+    translatemanga: {
+      logo: 'public/static/images/overrides/translatemanga/logo.png',
+      ogImage: 'public/static/images/overrides/translatemanga/og-image.png',
+    },
+    // checkcam.zorrinapps.com's og:image is the square app icon. The banner is a 1200x630 screenshot of the English homepage hero.
+    checkcam: {
+      ogImage: 'public/static/images/overrides/checkcam/og-image.png',
+    },
+    // The generated logo is the Tappect agency mark, and the og:image is a 1284x2778 portrait screenshot. The logo is the official 512px Nomu App Store icon. The banner is a 1200x630 screenshot of the English product hero.
+    nomu: {
+      logo: 'public/static/images/overrides/nomu/logo.png',
+      ogImage: 'public/static/images/overrides/nomu/og-image.png',
+    },
+    // The generated logo is the Tappect agency mark. This is the official 512px Meanwhile App Store icon. The 1200x630 og:image stays.
+    meanwhile: {
+      logo: 'public/static/images/overrides/meanwhile/logo.png',
+    },
+    // The saved og:image is a 598x1300 portrait. Scaled to fit inside 1200x630 and padded with its dominant green, the way blark is padded. The 400px logo stays.
+    nutrify: {
+      ogImage: 'public/static/images/overrides/nutrify/og-image.png',
+    },
+    // 3droomdesign.ai's generated logo is a 32px favicon. This is the official favicon.svg rasterized at 512px.
+    '3droomdesign-ai': {
+      logo: 'public/static/images/overrides/3droomdesign-ai/logo.png',
+    },
+    // bibigpt.co's generated logo is a 48px favicon. This is the official 512px manifest icon.
+    bibigpt: {
+      logo: 'public/static/images/overrides/bibigpt/logo.png',
+    },
+    // secretshot.zorrinapps.com's generated logo is a 48px favicon. This is the official 512px App Store icon.
+    secretshot: {
+      logo: 'public/static/images/overrides/secretshot/logo.png',
+    },
+    // vocalremover.one's generated logo is a 48px favicon. This is the official logo.svg rasterized at 512px.
+    'vocalremover-one': {
+      logo: 'public/static/images/overrides/vocalremover-one/logo.png',
     },
   },
 };

@@ -1,7 +1,7 @@
 # Validates README submissions with the scripts from the base branch.
 # Fork pull requests are data: their README and product images are read, never executed.
 # A same-repo catalog update is used only when the base validator does not yet
-# understand an empty-section removal.
+# understand an empty-section removal or a new section listed in the head tree.
 # This workflow is pull_request, not pull_request_target, and it has no secrets.
 # A pull request that edits this file does not receive credentials.
 # Browser capture stays out of fork CI. It runs in the trusted generator.
@@ -74,9 +74,16 @@ jobs:
           if [ -f shipixen/scripts/validate-submission.js ]; then
             echo "Using the validator from the base branch."
             # This pull request's catalog rules apply only until the base branch
-            # understands an empty-section removal. Fork code is not executed.
-            if [ "$HEAD_REPO" = "$BASE_REPO" ] && ! grep -q -- '--head-tree' shipixen/scripts/validate-submission.js; then
-              echo "Base validator cannot read a head catalog tree. Using this same-repo catalog update."
+            # understands them. Fork code is not executed.
+            needs_catalog_update=0
+            if ! grep -q -- '--head-tree' shipixen/scripts/validate-submission.js; then
+              needs_catalog_update=1
+            fi
+            if ! grep -q 'forgivenSectionAddition' shipixen/scripts/lib/readme-catalog.js; then
+              needs_catalog_update=1
+            fi
+            if [ "$HEAD_REPO" = "$BASE_REPO" ] && [ "$needs_catalog_update" -eq 1 ]; then
+              echo "Base validator cannot apply this same-repo catalog update. Using the pull request's catalog rules."
               git checkout pr-head -- \
                 shipixen/scripts/validate-submission.js \
                 shipixen/scripts/validate-submission.test.js \

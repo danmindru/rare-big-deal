@@ -7,5 +7,8 @@ module.exports = {
     'Swiper Studio',
     'AppTrack Ninja',
     'Layerwise',
+    'Proxyman',
+    'TablePlus',
+    'Perch',
   ],
 };

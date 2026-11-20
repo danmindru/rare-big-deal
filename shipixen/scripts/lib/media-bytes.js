@@ -100,9 +100,54 @@ async function inspectMediaFile(filePath, role) {
   return inspectMedia(fs.readFileSync(filePath), role);
 }
 
+/**
+ * Decoded pixel size, including images below the listing minimum.
+ * Role checks reject a 16px icon; the replacement guard still needs its size.
+ */
+async function decodedSize(buffer) {
+  if (!buffer || buffer.length === 0) return null;
+  try {
+    const meta = await sharp(buffer, { failOn: 'error', animated: false }).metadata();
+    if (!meta.width || !meta.height) return null;
+    return { width: meta.width, height: meta.height };
+  } catch {
+    return null;
+  }
+}
+
+function isSmallerSize(candidate, incumbent) {
+  const candidateArea = candidate.width * candidate.height;
+  const incumbentArea = incumbent.width * incumbent.height;
+  if (candidateArea !== incumbentArea) return candidateArea < incumbentArea;
+  return Math.min(candidate.width, candidate.height) < Math.min(incumbent.width, incumbent.height);
+}
+
+/**
+ * True when the file already on disk decodes larger than the incoming image.
+ * A missing or undecodable file is not larger. Undecodable incoming bytes are
+ * smaller than a real image, so the existing file stays.
+ */
+async function existingImageIsLarger(existingPath, incomingBuffer) {
+  if (!existingPath || !fs.existsSync(existingPath)) return false;
+  let existingBuffer;
+  try {
+    existingBuffer = await fs.promises.readFile(existingPath);
+  } catch {
+    return false;
+  }
+  const existing = await decodedSize(existingBuffer);
+  if (!existing) return false;
+  const incoming = await decodedSize(incomingBuffer);
+  if (!incoming) return true;
+  return isSmallerSize(incoming, existing);
+}
+
 module.exports = {
   LIMITS,
+  decodedSize,
+  existingImageIsLarger,
   inspectMedia,
   inspectMediaFile,
+  isSmallerSize,
   mediaKind,
 };

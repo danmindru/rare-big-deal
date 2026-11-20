@@ -164,7 +164,9 @@ export default makeSource({
       remarkExtractFrontmatter,
       remarkGfm,
       remarkCodeTitles,
-      remarkMath,
+      // Prices in deal text (`~~$5~~ $4.50`) are currency. Single-dollar math
+      // treats `$5~~ $` as TeX and leaves the tildes on the page.
+      [remarkMath, { singleDollarTextMath: false }],
       remarkImgToJsx,
     ],
     rehypePlugins: [
