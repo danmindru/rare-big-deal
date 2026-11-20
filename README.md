@@ -564,6 +564,8 @@ Free & open-source.
 | 📸 | [Culla](https://getculla.com/) | Photo culling app for Mac, iPhone and iPad that works on the memory card: keep, reject or tag each photo, with on-device AI for blurry shots and duplicates. | **40% OFF** the one-time purchase ($24.99 → $14.99) on the App Store, no code needed | 2026-11-30 |
 | 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | **30% OFF** Lifetime with code **BFCM2026LIFETIME**. Starts on 2026-11-20 | 2026-12-07 |
 | 📸 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | Snap quick photo reminders without cluttering your camera roll. CheckCam auto-deletes temporary shots unless you pin them. | Lifetime $7.49 USD (regular $14.99). Use code BFCM26. Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
+| 🔒 | [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | Keep private photos and videos in a PIN-protected vault that looks like a working calculator, currency converter, or puzzle. | Pro Lifetime $14.99 USD with code BFCM26 ($29.99 without code). Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
+| 🧹 | [Deletti](https://deletti.app/#black-friday) | A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them. | Single Lifetime $8.99 USD with code BFCM26 ($17.99 without code). Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
 
 
 ### Health & Fitness
