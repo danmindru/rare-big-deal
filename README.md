@@ -415,6 +415,7 @@ Free & open-source.
 | 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Pro lets you move apps in batches, sort across pages, and save and restore layouts. | **50% OFF** lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout. November 20–30 worldwide. | 2026-11-30 |
 | 🖥️ | [LaunchOS](https://launchosapp.com/) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Save **55%–62.5%**, plus an additional **8% off the discounted price** with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-12-02 |
 | 🐦 | [Roost](https://roostmail.app/) | Native Mac mail app for people with many inboxes: Gmail, Outlook, iCloud, Zoho, Yandex, Fastmail and any IMAP in one keyboard-first window. Your mail stays on your Mac; there is no Roost server. | **40% OFF** the lifetime licence ($49 → $29), one payment, every update, up to 3 Macs, no code needed. Launch price for the first 100 copies; free for 3 days first | 2026-12-01 |
+| 📸 | [Snapperon](https://checkout.snapperon.com/?discount=BLACKFRIDAY26) | Annotate screenshots, redact private details, and copy text from images on your Mac. | **50% off** Pro with code `BLACKFRIDAY26`. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD). | 2026-12-01 |
 
 
 ### Design Tools
