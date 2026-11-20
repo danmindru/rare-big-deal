@@ -459,6 +459,7 @@ Free & open-source.
 | 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
 | 🎞️ | [LottieGo](https://lottiego.com/black-friday) | Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF on your Mac. | **50% OFF** Pro Lifetime, one-time in-app purchase ($4.99 → $2.49), no code needed | 2026-12-06 |
 | 🎨 | [Desktop Composer](https://www.apptorium.com/desktop-composer) | Save and switch complete Mac appearance profiles for wallpaper, system settings, Dock, menu bar and supported app themes. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed | 2026-12-06 |
+| 🎨 | [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) | 2026-12-01 |
 
 
 ### Writing & Notes
