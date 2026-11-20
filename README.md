@@ -128,6 +128,7 @@ Free & open-source.
 | 📈 | [Toplify](https://toplify.app) | Track App Store chart positions in 175 countries, with ranking alerts and shareable milestone cards. For iOS and Mac. | Lifetime **$49.99** (was $89.99) with [**BLKFR2026**](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026). Nov 15–Dec 1, 2026 | 2026-12-01 |
 | 📧 | [MailScope](https://mailscope.app/blackfriday/) | Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users. | **$19 USD** one-time (regular $29, save $10). Code **bf2026** is prefilled on the checkout link. Nov 18–30, 2026 (US Pacific). | 2026-11-30 |
 | 🗄️ | [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux. Free for personal use. | **40% OFF** Pro yearly ($29 → $17.40), no code needed, applied at checkout. Starts on 2026-11-26 | 2026-12-01 |
+| 🧰 | [Devkito](https://devkito.com/pricing) | 122 developer tools in one offline desktop app for Mac, Windows and Linux: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more, behind one shortcut. | **50% OFF** every one-time licence with code **BF2026** (applied automatically from the pricing page): $10 → $5 for 1 computer, $15 → $7.50 for 2, $30 → $15 for 5. Until Dec 2, 2026, 11:59 pm PT. | 2026-12-02 |
 
 
 ### APIs, Tools & SaaS
