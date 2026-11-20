@@ -642,6 +642,7 @@ Free & open-source.
 | 🔤 | [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots and labels while keeping the original font and background intact. Web app, API and MCP server. | **30% OFF** non-expiring credit packs (6 edits $3 → $2.10, 40 edits $10 → $7) with code **BF2026** | 2026-12-01 |
 | 🥞 | [Unmerge](https://unmerge.app/pricing) | Separate flat images, illustrations and anime character art into movable transparent PSD and PNG layers with AI background inpainting. Web app, API and MCP server. | **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs: Starter $3.90 (45 → 60 credits), Basic $10 (130 → 175 credits), auto-applied, no code needed | 2026-12-01 |
 | 🔤 | [InPlaceText](https://inplacetext.com/) | Replace image text in a matching font style and background. | Up to +50% bonus credits on one-time credit packs — no subscription, valid through Dec 1, 2026 | 2026-12-01 |
+| 🏠 | [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI-powered home and interior design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **50% bonus credits** on non-expiring one-time packs (~33% lower cost per credit; $9.90: 50 → 75 credits), plus **up to 300 extra credits** in the first month for new or returning subscribers without an active plan. Same prices, auto-applied, one redemption per category per account; both can be combined. Ends Nov 27, 11:59 PM PT. | 2026-11-27 |
 
 
 ### Video Tools
