@@ -392,7 +392,7 @@ Free & open-source.
 | 📖 | [Dictionaries](https://dictionaries.io/buy) | Dictionaries for 80+ languages in Mac's Look Up, with pronunciation; also for Kindle. | **50% OFF** with code **BF26** (Standard $7.99 → $3.99, Lifetime $19.99 → $9.99) | 2026-12-03 |
 | 🔐 | [SimpleumSafe](https://simpleum.com/en/safe/buy/) | Encrypted file safe for Mac, iPhone and iPad for private photos, contracts and documents. | **30% OFF** one-time purchases and the first year of annual subscriptions (Mac $99.99 → $69.99), applied in the App Store. Starts on 2026-11-16 | 2026-12-06 |
 | 🏷️ | [Nomen](https://astrvm.app/apps/nomen/) | Batch rename photos and files on Mac by date taken, keeping RAW and sidecar files together, with preview and undo. | **28% OFF** Nomen Pro ($6.99 → $4.99), no code needed. Starts on 2026-11-26 | 2026-12-01 |
-| 🔑 | [License Store](https://www.apptorium.com/license-store/black-friday) | Mac app that keeps software license keys, receipts and download links in one searchable library. | **38% OFF** ($7.99 → $4.99) one-time purchase, no code needed | 2026-12-06 |
+| 🔑 | [License Store](https://www.apptorium.com/license-store) | A beautiful, native Mac library for software license keys, files, receipts, download links, notes and expiration dates. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 | 📖 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | **50% OFF** lifetime ($49.99 → $24.99) in the App Store, applied automatically. Starts on 2026-11-25 | 2026-12-01 |
 | 💾 | [FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Back up your iPhone and iPad straight to an external drive on Mac, freeing up Mac storage and relying less on iCloud. | **50% OFF** one-time purchase ($5.99 → $2.99) with code **BLACK2026** | 2026-12-06 |
 | 🥷 | [RenameNinja](https://loshadki.app/renameninja/) | Rename hundreds of files on your Mac in one go, with fields from names and photo, video, audio and PDF metadata, your own JavaScript, and Undo. | **60% OFF**: $3.99 instead of $9.99 on the Mac App Store, no code needed, or $4.00 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
@@ -415,7 +415,7 @@ Free & open-source.
 | 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Pro lets you move apps in batches, sort across pages, and save and restore layouts. | **50% OFF** lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout. November 20–30 worldwide. | 2026-11-30 |
 | 🖥️ | [LaunchOS](https://launchosapp.com/) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Save **55%–62.5%**, plus an additional **8% off the discounted price** with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-12-02 |
 | 🐦 | [Roost](https://roostmail.app/) | Native Mac mail app for people with many inboxes: Gmail, Outlook, iCloud, Zoho, Yandex, Fastmail and any IMAP in one keyboard-first window. Your mail stays on your Mac; there is no Roost server. | **40% OFF** the lifetime licence ($49 → $29), one payment, every update, up to 3 Macs, no code needed. Launch price for the first 100 copies; free for 3 days first | 2026-12-01 |
-
+| 🗂️ | [Workspaces](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 ### Design Tools
 
@@ -435,7 +435,7 @@ Free & open-source.
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
 | ⓢ | [Sitely 8](https://sitely.app) | AI + visual website builder for Mac: build the website you want visually, or with AI over MCP. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
 | 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
-
+| 🎨 | [Desktop Composer](https://www.apptorium.com/desktop-composer) | Save and switch complete Mac appearance profiles for wallpaper, system settings, Dock, menu bar and supported app themes. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 ### Writing & Notes
 
@@ -455,7 +455,8 @@ Free & open-source.
 | 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 | 🧱 | [Craft](https://www.craft.do/pricing) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
-
+| 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Quick-access Mac notes that slide in from the screen edge, with folders, Markdown, iCloud sync, Shortcuts and AppleScript. | **35% OFF** one-time purchase ($19.99 → $12.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
+| 🗒️ | [FiveNotes](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 ### Menu Bar & More
 
@@ -493,7 +494,7 @@ Free & open-source.
 | 💾 | [Storage Menu Bar](https://storagemenu.app/) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk. | **50% OFF**: ~~$1.99~~ **$0.99** on the Mac App Store, one-time purchase, no code needed. | 2026-11-30 |
 | 📹 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on your Mac, in a window, full screen or the menu bar. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups. No code needed (Nov 2 - Nov 30) | 2026-11-30 |
 | 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
-
+| 🖱️ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Move the pointer instantly between Mac displays or saved positions using a shortcut or programmable mouse button. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -538,6 +539,8 @@ Free & open-source.
 | 🎙️ | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web. | **33% OFF** first year of Pro Yearly ($59.99 → $39.99), no code needed. | 2026-12-31 |
 | 🧱 | [Craft](https://www.craft.do/pricing) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
+| 📝 | [SideNotes Mobile](https://www.apptorium.com/sidenotes-mobile) | Quick, organized notes for iPhone and iPad, with hidden Markdown, folders, pinning, folding and iCloud sync with Mac. | **40% OFF** one-time purchase ($9.99 → $5.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
+| 🗒️ | [FiveNotes Mobile](https://www.apptorium.com/fivenotes/mobile) | Five focused notes on iPhone, iPad and Apple Watch, with Markdown, themes, backups, Shortcuts and iCloud sync. | **25% OFF** one-time purchase ($3.99 → $2.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 
 ### Productivity
