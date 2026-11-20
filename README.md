@@ -642,6 +642,7 @@ Free & open-source.
 | 🔤 | [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots and labels while keeping the original font and background intact. Web app, API and MCP server. | **30% OFF** non-expiring credit packs (6 edits $3 → $2.10, 40 edits $10 → $7) with code **BF2026** | 2026-12-01 |
 | 🥞 | [Unmerge](https://unmerge.app/pricing) | Separate flat images, illustrations and anime character art into movable transparent PSD and PNG layers with AI background inpainting. Web app, API and MCP server. | **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs: Starter $3.90 (45 → 60 credits), Basic $10 (130 → 175 credits), auto-applied, no code needed | 2026-12-01 |
 | 🔤 | [InPlaceText](https://inplacetext.com/) | Replace image text in a matching font style and background. | Up to +50% bonus credits on one-time credit packs — no subscription, valid through Dec 1, 2026 | 2026-12-01 |
+| 🖼️ | [Bimg AI](https://bimg.ai/black-friday) | Browser-based AI studio for photo editing, image generation and short AI video: unblur and restore photos, remove backgrounds, and create images and clips with Nano Banana 2, Seedream, Kling and Veo. | **50% OFF** the first month of monthly plans, or the first year and every yearly renewal of annual plans. Discount shown at checkout, no code needed | 2026-12-03 |
 
 
 ### Video Tools
