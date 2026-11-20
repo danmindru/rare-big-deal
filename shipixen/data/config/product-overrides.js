@@ -689,5 +689,94 @@ module.exports = {
     'vocalremover-one': {
       logo: 'public/static/images/overrides/vocalremover-one/logo.png',
     },
+    // relaybrook.bytesell.app publishes no favicon. Its CDN logo and og:image
+    // answer with a Cloudflare challenge, and Google's favicon service returns 404.
+    // The logo is the owner's GitHub avatar. The banner is a 1200x630 screenshot of the English storefront.
+    'relaybrook-n8n-workflow-packs': {
+      logo: 'public/static/images/overrides/relaybrook-n8n-workflow-packs/logo.png',
+      ogImage: 'public/static/images/overrides/relaybrook-n8n-workflow-packs/og-image.png',
+    },
+    // codesnippets.pro answered with a Cloudflare "Just a moment..." page, which left a 32px favicon and no banner.
+    // The logo is the official 512px icon. The banner is the official English product hero.
+    'code-snippets-pro': {
+      logo: 'public/static/images/overrides/code-snippets-pro/logo.png',
+      ogImage: 'public/static/images/overrides/code-snippets-pro/og-image.png',
+    },
+    // clarpex.ai links a 48px favicon. This is the official favicon.svg rasterized at 512px.
+    'clarpex-ai': {
+      logo: 'public/static/images/overrides/clarpex-ai/logo.png',
+    },
+    // orchard.5km.tech's favicon is a 24px SVG. This is the official app icon.
+    orchard: {
+      logo: 'public/static/images/overrides/orchard/logo.png',
+    },
+    // The linked favicon is the 100px crop. This is the official 512px Logo-final-512.png.
+    'transync-ai': {
+      logo: 'public/static/images/overrides/transync-ai/logo.png',
+    },
+    // translatewp.ai's only icon is an SVG. This is that mark, rasterized at 512px.
+    translatewp: {
+      logo: 'public/static/images/overrides/translatewp/logo.png',
+    },
+    // The favicon is 64px. The logo is the official logo.svg rasterized at 512px.
+    // The banner is the official English og-image.jpg.
+    viralreel: {
+      logo: 'public/static/images/overrides/viralreel/logo.png',
+      ogImage: 'public/static/images/overrides/viralreel/og-image.png',
+    },
+    // The App Store og:image is the app icon on white, and the saved capture was a 600x1300 portrait.
+    // The banner is a 1200x630 screenshot of the English App Store page.
+    mypdf: {
+      ogImage: 'public/static/images/overrides/mypdf/og-image.png',
+    },
+    // The App Store og:image is the app icon on white, and the saved capture was a 598x1300 portrait.
+    // The banner is a 1200x630 screenshot of the English App Store page.
+    selfos: {
+      ogImage: 'public/static/images/overrides/selfos/og-image.png',
+    },
+    // The published cover is an 800x450 price-tag drawing. The banner is a 1200x630 screenshot of the English homepage.
+    'whisper-memos': {
+      ogImage: 'public/static/images/overrides/whisper-memos/og-image.png',
+    },
+    // snapperon.com's og:image is a 1200x1413 editor capture. The banner is a 1200x630 screenshot of the English homepage.
+    snapperon: {
+      ogImage: 'public/static/images/overrides/snapperon/og-image.png',
+    },
+    // cutfa.st's published hero is Chinese. The banner is a 1200x630 screenshot of the English pricing page.
+    cutfast: {
+      ogImage: 'public/static/images/overrides/cutfast/og-image.png',
+    },
+    // The App Store screenshot's menu bar is Chinese. The banner is a 1200x630 screenshot of the English App Store page.
+    'timego-clock': {
+      ogImage: 'public/static/images/overrides/timego-clock/og-image.png',
+    },
+    // openpi.uk's captured share image includes a cookie banner over the hero. The banner is a 1200x630 screenshot of the English homepage with that banner dismissed.
+    'open-pi-raspberry-pi-manager': {
+      ogImage: 'public/static/images/overrides/open-pi-raspberry-pi-manager/og-image.png',
+    },
+    // scribetoany.com/pricing's captured share image includes a cookie banner. The banner is a 1200x630 screenshot of the English pricing page with that banner dismissed.
+    scribetoany: {
+      ogImage: 'public/static/images/overrides/scribetoany/og-image.png',
+    },
+    // apptorium.com serves one shared favicon, so the saved logo is not this app's icon.
+    // This is the official SideNotes icon.
+    sidenotes: {
+      logo: 'public/static/images/overrides/sidenotes/logo.png',
+    },
+    // apptorium.com serves one shared favicon, so the saved logo is not this app's icon.
+    // This is the official FiveNotes icon.
+    fivenotes: {
+      logo: 'public/static/images/overrides/fivenotes/logo.png',
+    },
+    // apptorium.com serves one shared favicon, so the saved logo is not this app's icon.
+    // This is the official Workspaces icon.
+    workspaces: {
+      logo: 'public/static/images/overrides/workspaces/logo.png',
+    },
+    // apptorium.com serves one shared favicon, so the saved logo is not this app's icon.
+    // This is the official Cursor Teleporter icon.
+    'cursor-teleporter': {
+      logo: 'public/static/images/overrides/cursor-teleporter/logo.png',
+    },
   },
 };
