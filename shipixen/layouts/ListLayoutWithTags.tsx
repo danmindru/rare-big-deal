@@ -12,7 +12,7 @@ import { siteConfig } from '@/data/config/site.settings';
 import tagData from 'app/tag-data.json';
 import SectionContainer from '@/components/shared/SectionContainer';
 import Image from '@/components/shared/Image';
-import ReactMarkdown from 'react-markdown';
+import { DealMarkdown } from '@/components/shared/DealMarkdown';
 
 const BLOG_URL = siteConfig.blogPath ? `/${siteConfig.blogPath}` : '/';
 
@@ -148,7 +148,7 @@ export default function ListLayoutWithTags({
                             </dd>
                           </dl> */}
                         </div>
-                        <ReactMarkdown className="prose">{deal}</ReactMarkdown>
+                        <DealMarkdown className="prose">{deal}</DealMarkdown>
                         <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                           {summary}
                         </div>

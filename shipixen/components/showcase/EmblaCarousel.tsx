@@ -9,8 +9,8 @@ import { Button } from '@/components/shared/ui/button';
 import { ChevronLeftIcon, ChevronRightIcon } from 'lucide-react';
 import { useAutoplayProgress } from '@/components/showcase/EmblaCarouselAutoplayProgress';
 import clsx from 'clsx';
-import ReactMarkdown from 'react-markdown';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
+import { DealMarkdown } from '@/components/shared/DealMarkdown';
 import { dealCardText } from '@/lib/deal-card-text';
 import { cn } from '@/lib/utils';
 import {
@@ -185,12 +185,9 @@ const EmblaCarousel: React.FC<PropType> = ({
                         currentIndex === index ? 'opacity-100' : 'opacity-0',
                       )}
                     >
-                      <ReactMarkdown
-                        disallowedElements={['a']}
-                        components={dealMarkdownComponents}
-                      >
+                      <DealMarkdown components={dealMarkdownComponents}>
                         {dealText}
-                      </ReactMarkdown>
+                      </DealMarkdown>
                     </div>
                   </div>
                 </Link>

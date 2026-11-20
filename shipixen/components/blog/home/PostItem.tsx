@@ -5,9 +5,8 @@ import { Blog } from 'shipixen-contentlayer/generated';
 import Image from '@/components/shared/Image';
 import { InteractiveStatCard } from '@/components/shared/InteractiveStatCard';
 import { StatCardButtonHoverComponent } from '@/components/shared/StatCardButtonHoverComponent';
-import { dealCardText } from '@/lib/deal-card-text';
+import { DealMarkdown } from '@/components/shared/DealMarkdown';
 import { cn } from '@/lib/utils';
-import ReactMarkdown from 'react-markdown';
 import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 import {
@@ -99,7 +98,7 @@ export function PostItem({
 
   const dealText = useMemo(() => {
     if (!deal) return '';
-    return isExpired ? `(expired)` : dealCardText(deal);
+    return isExpired ? `(expired)` : deal;
   }, [deal, isExpired]);
 
   return (
@@ -222,15 +221,14 @@ export function PostItem({
 
           <div className="ml-auto w-full sm:w-auto flex-shrink flex gap-2 tabular-nums max-w-sm text-left sm:text-right pr-2">
             <span className="flex-col flex gap-1 items-center text-[0.7rem] sm:text-xs p-2 min-w-[40px]">
-              <ReactMarkdown
+              <DealMarkdown
                 className={cn(
                   'text-gray-900 dark:text-gray-100',
                   isExpired && 'text-red-600 dark:text-red-400',
                 )}
-                disallowedElements={['a']}
               >
                 {dealText}
-              </ReactMarkdown>
+              </DealMarkdown>
             </span>
           </div>
         </section>

@@ -5,7 +5,7 @@ const { BotChallengeError, detectBotChallenge } = require('./lib/bot-challenge')
 const { decodeIco } = require('./lib/ico');
 const { AddressRejected } = require('./lib/public-address');
 const { guardedFetch } = require('./lib/guarded-fetch');
-const { mediaKind } = require('./lib/media-bytes');
+const { existingImageIsLarger, mediaKind } = require('./lib/media-bytes');
 
 // Retry configuration
 const MAX_RETRIES = 2; // Number of retry attempts after initial failure
@@ -25,6 +25,34 @@ async function writeFileAtomic(filePath, buffer) {
   const tempPath = `${filePath}.${process.pid}.${Date.now()}.tmp`;
   await fs.promises.writeFile(tempPath, buffer);
   await fs.promises.rename(tempPath, filePath);
+}
+
+/**
+ * Owner art lives under public/static/images/overrides. A fetch must not
+ * create or replace those files, including a partial beside them.
+ */
+function isOverridesImagePath(filePath) {
+  if (!filePath) return false;
+  const normalized = path.resolve(String(filePath)).split(path.sep).join('/');
+  return normalized.includes('/public/static/images/overrides/');
+}
+
+/**
+ * Write a raster only when it does not shrink the file already on disk.
+ * The destination is replaced by rename, so a failed fetch never truncates it.
+ * Returns { written: false, reason: 'smaller' } when the existing image stays.
+ */
+async function saveRaster(outputPath, pngBuffer) {
+  if (isOverridesImagePath(outputPath)) {
+    console.error(`[Image Downloader] ❌ Refusing to write into overrides: ${outputPath}`);
+    return { written: false, reason: 'overrides' };
+  }
+  if (await existingImageIsLarger(outputPath, pngBuffer)) {
+    console.log(`[Image Downloader] Keeping the larger image already at ${outputPath}`);
+    return { written: false, reason: 'smaller' };
+  }
+  await writeFileAtomic(outputPath, pngBuffer);
+  return { written: true, reason: 'written' };
 }
 
 /**
@@ -100,7 +128,11 @@ async function downloadImageCore(url, outputPath, options = {}) {
   }
 
   const png = await rasterToPng(response.body);
-  await writeFileAtomic(outputPath, png);
+  const saved = await saveRaster(outputPath, png);
+  if (!saved.written) {
+    if (saved.reason === 'smaller') return true;
+    return false;
+  }
   console.log(`[Image Downloader] ✅ Saved PNG to: ${outputPath}`);
   return true;
 }
@@ -115,6 +147,10 @@ async function downloadImageCore(url, outputPath, options = {}) {
  * @returns {Promise<boolean>} - Returns true if successful, false otherwise
  */
 async function downloadImage(url, outputPath, options = {}) {
+  if (isOverridesImagePath(outputPath)) {
+    console.error(`[Image Downloader] ❌ Refusing to write into overrides: ${outputPath}`);
+    return false;
+  }
   console.log(`[Image Downloader] 📥 Starting download from: ${url}`);
   let lastError;
   const maxRetries = options.maxRetries ?? MAX_RETRIES;
@@ -173,6 +209,10 @@ async function downloadMultipleImages(imageUrls, appDir, productName, options = 
       typeof options.placeFile === 'function'
         ? options.placeFile(imageName)
         : path.join(appDir, imageName);
+    if (!imagePath || isOverridesImagePath(imagePath)) {
+      console.error(`[Image Downloader] ❌ Refusing to write into overrides: ${imagePath || imageName}`);
+      continue;
+    }
     fs.mkdirSync(path.dirname(imagePath), { recursive: true });
 
     console.log(`[Image Downloader] 📥 Image ${i + 1}/${imageUrls.length}: ${imageUrl}`);
@@ -217,6 +257,8 @@ module.exports = {
   convertIcoToPng,
   downloadImage,
   downloadMultipleImages,
+  isOverridesImagePath,
   rasterToPng,
+  saveRaster,
   writeFileAtomic,
 };

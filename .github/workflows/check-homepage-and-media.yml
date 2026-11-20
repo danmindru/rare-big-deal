@@ -28,7 +28,7 @@ jobs:
         working-directory: shipixen
         run: |
           node ./scripts/check-official-media.js
-          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js ./scripts/outbound-ref.test.js ./scripts/bot-challenge.test.js ./scripts/generate-mdx-content.test.js
+          node --test ./scripts/homepage-showcases.test.js ./scripts/official-media.test.js ./scripts/logo-pipeline.test.js ./scripts/logo-guard.test.js ./scripts/outbound-ref.test.js ./scripts/bot-challenge.test.js ./scripts/generate-mdx-content.test.js ./scripts/deal-markdown.test.js
 
       # Same @mdx-js/mdx parse Contentlayer runs during `next build`.
       # Catches README void tags such as `<br>` copied into product MDX.
