@@ -493,6 +493,7 @@ Free & open-source.
 | 💾 | [Storage Menu Bar](https://storagemenu.app/) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk. | **50% OFF**: ~~$1.99~~ **$0.99** on the Mac App Store, one-time purchase, no code needed. | 2026-11-30 |
 | 📹 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on your Mac, in a window, full screen or the menu bar. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups. No code needed (Nov 2 - Nov 30) | 2026-11-30 |
 | 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
+| 🔊 | [Tutti](https://tutti.barrybarrywu.com/#pricing) | Play audio on multiple outputs and control per-app volume and displays from the Mac menu bar. | **30.8% OFF** Tutti Pro, US$12.99 → US$8.99 one-time for one Mac. No code needed. Ends 23:59 PST. | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
