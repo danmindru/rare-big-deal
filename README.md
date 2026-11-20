@@ -561,6 +561,7 @@ Free & open-source.
 | 📱 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [Pocket AI](https://apps.apple.com/us/app/pocket-ai-no-internet/id6759989702) | Offline AI chat for iPhone and iPad. Runs open models like Qwen, Llama and Gemma on your device, with no internet and no account. Chats stay on your phone. Free to download. | **30% OFF** Pro Lifetime ($9.99 → $6.99), one-time purchase, applied automatically in the App Store, no code needed. US pricing; local prices vary. Starts on 2026-11-27 | 2026-11-30 |
+| 📄 | [myPDF](https://apps.apple.com/app/apple-store/id6751173174?pt=118757586&ct=fo-pdf-nov&mt=8) | PDF editor for iPhone, iPad and Mac: edit the text in a PDF, merge and compress files, convert to and from Word, redact, and sign or fill forms. | **50% OFF** Pro on iPhone, iPad and Mac, one-time purchase: $6.99 → $3.49 USD, prices vary by country. No code needed | 2026-11-29 |
 
 
 ### Photos & Videos
