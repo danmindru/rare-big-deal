@@ -763,6 +763,7 @@ Free & open-source.
 | 📌 | [BlogToPin](https://blogtopin.com/black-friday) | AI Pinterest marketer that designs, writes and schedules pins for your blog or store. | **40% OFF** any annual plan with code **BF40** (Starter $299 → $179.40/yr) | 2026-12-01 |
 | 🏡 | [PropShift](https://propshift.com/black-friday) | Turns real estate listing links or photos into social videos with script, voiceover, captions and music, and posts them. | **Up to 41% OFF** the first year of annual plans (Starter $348 → $234, Growth $708 → $414); monthly 40% off the first 3 payments. Applied automatically | 2026-11-30 |
 | 📅 | [Atelier Social](https://ateliersocial.io/black-friday) | AI-first social media studio: write a post once and Atelier adapts it for each platform and routes it to every brand, client and location. Publishes to Instagram, Facebook, TikTok, LinkedIn, X, YouTube and Threads. | **83% OFF** the first year, from $158 (renews at $948/yr), no code needed | 2026-12-31 |
+| 📮 | [post2all](https://www.post2all.com/pricing) | Manage your socials with AI agents: a social media scheduler for X, LinkedIn, Instagram, TikTok, YouTube and 10 more networks that ChatGPT, Claude or any agent can use through the app, API, CLI or MCP. | **25% OFF** the first year of any annual plan with code **BFCM25** (Creator $90 → $67.50, Business $190 → $142.50, Agency $390 → $292.50) | 2026-12-07 |
 
 
 ### Sales Tools
