@@ -563,6 +563,7 @@ Free & open-source.
 | 🐶 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | iPhone and Android app that turns photos of pets, friends and food into chat stickers. No ads, no subscription. | **43% OFF** the one-time Plus purchase ($6.99 → $3.99), no code needed | 2026-11-30 |
 | 📸 | [Culla](https://getculla.com/) | Photo culling app for Mac, iPhone and iPad that works on the memory card: keep, reject or tag each photo, with on-device AI for blurry shots and duplicates. | **40% OFF** the one-time purchase ($24.99 → $14.99) on the App Store, no code needed | 2026-11-30 |
 | 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | **30% OFF** Lifetime with code **BFCM2026LIFETIME**. Starts on 2026-11-20 | 2026-12-07 |
+| 📸 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | Snap quick photo reminders without cluttering your camera roll. CheckCam auto-deletes temporary shots unless you pin them. | Lifetime $7.49 USD (regular $14.99). Use code BFCM26. Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
 
 
 ### Health & Fitness
