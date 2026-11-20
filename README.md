@@ -265,6 +265,7 @@ Free & open-source.
 | 🛍️ | [Kindclerk](https://kindclerk.com/) | AI customer service and sales clerk for small shops on WhatsApp, Instagram and Messenger, connected to Shopify, WooCommerce and HubSpot. | **30% OFF** your first 3 months on any plan, applied at checkout | 2026-12-31 |
 | 🎙️ | [Leelo](https://leelo-ai.com/black-friday) | AI voice studio: text to speech with 1,100+ voices, dubbing, voice cloning, transcription and noise removal. | **Lifetime Pro $199 → $149**, plus 50% more credits on packs, no code needed. Starts on 2026-11-24 | 2026-12-01 |
 | 🤖 | [Robofy](https://www.robofy.ai/black-friday) | White-label AI agent platform for agencies to build and resell branded chat agents for support, lead generation and WhatsApp. | **$200 OFF** all annual plans, applied automatically, first 100 purchases | 2026-12-06 |
+| 🎬 | [Effect Video](https://effect.video/black-friday) | Turn photos into short cinematic AI video effects with 29+ ready-made templates (Hotel Lobby, Snow Globe, Santa Hug). Pick an effect, add one or two photos, and get a shareable MP4. Purchased credits never expire. | **+50% bonus credits** on every credit pack and annual plan at the same prices, applied automatically at purchase (no code needed). Annual plans get the bonus on every monthly credit grant in the first year. Bonus credits never expire. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Lifestyle
