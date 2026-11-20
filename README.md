@@ -688,6 +688,7 @@ Free & open-source.
 | 🎥 | [Shot Video](https://shot.video/black-friday) | Turns the laptop and phones you already own into a multi-camera studio. Phones join by QR code with no app to install, you press record once, and AI makes the first edit. | **80% OFF** the first year on annual billing, no code needed: Creator $190 → $39, Pro $390 → $79, Studio $790 → $159. New paying customers only, first 100 buyers. Starts on 2026-11-20 | 2026-12-01 |
 | 🎬 | [ClipTalk](https://www.cliptalk.pro) | AI videos for TikTok, Reels and Shorts from a prompt | **61% OFF** Pro: $39/mo instead of $99/mo, locked in for life (no code needed). Starts on 2026-11-24 | 2026-12-02 |
 | 🎬 | [Molens AI](https://molensai.com/black-friday) | Generate videos from prompts or photos and create images with the same credits. | 50% off the first year of any annual plan for accounts without an active subscription. Starter is $64.50 (regularly $129). No code needed. | 2026-11-30 |
+| ✂️ | [quso.ai](https://quso.ai/pricing?utm_source=rarebigdeal&utm_medium=referral&utm_campaign=bf26_deal_lists) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, YouTube Shorts, Instagram, LinkedIn and X. Also works inside ChatGPT and Claude. | **50% OFF** yearly plans, kept at every renewal while subscribed, no code needed (Lite ~~$348~~ **$174**/year, Essential ~~$468~~ **$234**/year, Growth ~~$588~~ **$294**/year). New yearly plans, Nov 20 - Dec 1, 2026. Free plan available | 2026-12-01 |
 
 
 ### Social
