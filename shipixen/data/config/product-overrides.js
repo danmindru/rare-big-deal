@@ -636,5 +636,58 @@ module.exports = {
     'photok-secure-photo-vault': {
       ogImage: 'public/static/images/overrides/photok-secure-photo-vault/og-image.png',
     },
+    // www.exploitpack.com/products/exploit-pack publishes a 1254px square og:image and a 32px favicon. The banner is a 1200x630 screenshot of the English product hero. The logo is the official 512px Exploitpack.png.
+    'exploit-pack': {
+      logo: 'public/static/images/overrides/exploit-pack/logo.png',
+      ogImage: 'public/static/images/overrides/exploit-pack/og-image.png',
+    },
+    // www.exploitpack.com/products/control-pack publishes a 1254px square og:image. The banner is a 1200x630 screenshot of the English product hero. The logo is the same official 512px Exploit Pack icon.
+    'control-pack': {
+      logo: 'public/static/images/overrides/control-pack/logo.png',
+      ogImage: 'public/static/images/overrides/control-pack/og-image.png',
+    },
+    // www.exploitpack.com/products/kernel-pack publishes a 1254px square og:image. The banner is a 1200x630 screenshot of the English product hero. The logo is the same official 512px Exploit Pack icon.
+    'kernel-pack': {
+      logo: 'public/static/images/overrides/kernel-pack/logo.png',
+      ogImage: 'public/static/images/overrides/kernel-pack/og-image.png',
+    },
+    // translatemanga.net's generated og:image is a blank 1200x630. The banner is a 1200x630 screenshot of the English homepage hero. The logo is the official logo.svg rasterized at 512px.
+    translatemanga: {
+      logo: 'public/static/images/overrides/translatemanga/logo.png',
+      ogImage: 'public/static/images/overrides/translatemanga/og-image.png',
+    },
+    // checkcam.zorrinapps.com's og:image is the square app icon. The banner is a 1200x630 screenshot of the English homepage hero.
+    checkcam: {
+      ogImage: 'public/static/images/overrides/checkcam/og-image.png',
+    },
+    // The generated logo is the Tappect agency mark, and the og:image is a 1284x2778 portrait screenshot. The logo is the official 512px Nomu App Store icon. The banner is a 1200x630 screenshot of the English product hero.
+    nomu: {
+      logo: 'public/static/images/overrides/nomu/logo.png',
+      ogImage: 'public/static/images/overrides/nomu/og-image.png',
+    },
+    // The generated logo is the Tappect agency mark. This is the official 512px Meanwhile App Store icon. The 1200x630 og:image stays.
+    meanwhile: {
+      logo: 'public/static/images/overrides/meanwhile/logo.png',
+    },
+    // The saved og:image is a 598x1300 portrait. Scaled to fit inside 1200x630 and padded with its dominant green, the way blark is padded. The 400px logo stays.
+    nutrify: {
+      ogImage: 'public/static/images/overrides/nutrify/og-image.png',
+    },
+    // 3droomdesign.ai's generated logo is a 32px favicon. This is the official favicon.svg rasterized at 512px.
+    '3droomdesign-ai': {
+      logo: 'public/static/images/overrides/3droomdesign-ai/logo.png',
+    },
+    // bibigpt.co's generated logo is a 48px favicon. This is the official 512px manifest icon.
+    bibigpt: {
+      logo: 'public/static/images/overrides/bibigpt/logo.png',
+    },
+    // secretshot.zorrinapps.com's generated logo is a 48px favicon. This is the official 512px App Store icon.
+    secretshot: {
+      logo: 'public/static/images/overrides/secretshot/logo.png',
+    },
+    // vocalremover.one's generated logo is a 48px favicon. This is the official logo.svg rasterized at 512px.
+    'vocalremover-one': {
+      logo: 'public/static/images/overrides/vocalremover-one/logo.png',
+    },
   },
 };
