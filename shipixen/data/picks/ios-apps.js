@@ -6,5 +6,7 @@ module.exports = {
     'Focus Train',
     'PAPLO',
     'Steps & Beasts',
+    'Craft',
+    'Nihongo - Japanese Dictionary',
   ],
 };
