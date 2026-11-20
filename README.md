@@ -1064,6 +1064,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual ($100 / $300 / $500 regular), first 3 months on monthly | 2026-11-30 |
 
 
 ### Expense tracking
