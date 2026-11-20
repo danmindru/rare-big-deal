@@ -130,6 +130,7 @@ Free & open-source.
 | 🗄️ | [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux. Free for personal use. | **40% OFF** Pro yearly ($29 → $17.40), no code needed, applied at checkout. Starts on 2026-11-26 | 2026-12-01 |
 | 🗄️ | [Gadwal](https://gadwal.dev) | Native Mac database client: edit tables like a spreadsheet, and AI changes wait for your approval. Free tier and 14-day trial. | **$9.99** one-time Lifetime launch price on the Mac App Store, no code needed. The price goes to $29.99 after 2026-12-05 | 2026-12-05 |
 | 🧰 | [Devkito](https://devkito.com/pricing) | 122 developer tools in one offline desktop app for Mac, Windows and Linux: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more, behind one shortcut. | **50% OFF** every one-time licence with code **BF2026** (applied automatically from the pricing page): $10 → $5 for 1 computer, $15 → $7.50 for 2, $30 → $15 for 5. Until Dec 2, 2026, 11:59 pm PT. | 2026-12-02 |
+| 🔑 | [KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-rare-big-deal&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh: manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts. | **50% OFF** on the Mac App Store: Annual first year ($19.99 → $9.99) with code **BF2026YEAR**, Lifetime ($39.99 → $19.99) no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 
 ### APIs, Tools & SaaS
@@ -256,6 +257,7 @@ Free & open-source.
 | 💬 | [Sabi](https://meetsabi.com/pages/blackfriday) | AI employee for small business owners that you text like a person. Sabi answers your email, runs your calendar, follows up with leads and posts to your social media, day and night. | **50% OFF** 6 months of Sabi Pro: ~~$995~~ **$495**, no code needed. New and existing members. Renews at $495 every 6 months. Ends Nov 30, midnight PT. | 2026-11-30 |
 | 🎧 | [BibiGPT](https://bibigpt.co/en/shop) | AI summaries, transcripts and Q&A for YouTube videos, podcasts and articles: paste a link, get a timestamped summary and mind map, then chat with the content. Web and browser extension. | **50% OFF** Plus and Pro, first payment, with code **BLACKFRIDAY** (applied at checkout): Plus yearly ~~$142.56~~ **$71.28** ($5.94/mo), Pro yearly ~~$250.56~~ **$125.28**. Ends Dec 1, 11:59 pm PT. | 2026-12-01 |
 | 🎙️ | [FastScribe](https://fastscribe.org/pricing) | Web audio/video and social-link transcription, subtitles and AI summaries | **$31 off** Pro first year: $89 (regular and renewal $120/year), plus 6,500 bonus credits valid 365 days. Accounts without active subscription only; automatically applied. Ends Nov 30 at 11:59 PM Pacific | 2026-11-30 |
+| 🍏 | [Orchard](https://orchard.5km.tech/black-friday?utm_source=gh-rare-big-deal&utm_medium=github&utm_campaign=bf2026) | Menu-bar Mac app that lets AI assistants read and control 11 Apple apps through Agent Skills, MCP or a CLI, all locally with no open ports. | **33% OFF** Pro Annual first year ($24.99 → $16.74) and Lifetime ($39.99 → $26.79) with code **BF2026**. Starts on 2026-11-20 | 2026-12-06 |
 
 
 
@@ -415,6 +417,7 @@ Free & open-source.
 | 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Pro lets you move apps in batches, sort across pages, and save and restore layouts. | **50% OFF** lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout. November 20–30 worldwide. | 2026-11-30 |
 | 🖥️ | [LaunchOS](https://launchosapp.com/) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Save **55%–62.5%**, plus an additional **8% off the discounted price** with code **BLACKFRIDAY2026**. Starts on 2026-11-23 | 2026-12-02 |
 | 🐦 | [Roost](https://roostmail.app/) | Native Mac mail app for people with many inboxes: Gmail, Outlook, iCloud, Zoho, Yandex, Fastmail and any IMAP in one keyboard-first window. Your mail stays on your Mac; there is no Roost server. | **40% OFF** the lifetime licence ($49 → $29), one payment, every update, up to 3 Macs, no code needed. Launch price for the first 100 copies; free for 3 days first | 2026-12-01 |
+| 🗜️ | [Zipic](https://zipic.app/black-friday?utm_source=gh-rare-big-deal&utm_medium=github&utm_campaign=bf2026) | Image compression for Mac and Windows: compress, convert and resize whole folders of images locally, including AVIF, WebP and JPEG XL. | **33% OFF** one-time licenses with code **BF2026**: Solo $19.99 → $13.39, Personal $29.99 → $20.09, Team $129.99 → $87.09. Starts on 2026-11-20 | 2026-12-06 |
 
 
 ### Design Tools
@@ -435,6 +438,7 @@ Free & open-source.
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | **50% OFF** one-time purchase ($9.99 → $4.99) with App Store offer code BLACKFRIDAY2026, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026). One purchase covers Mac, iPhone. | 2026-12-01 |
 | ⓢ | [Sitely 8](https://sitely.app) | AI + visual website builder for Mac: build the website you want visually, or with AI over MCP. | **50% OFF** the one-time purchase and **30% OFF** the first year of subscriptions, applied automatically | 2026-12-08 |
 | 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
+| 🎞️ | [LottieGo](https://lottiego.com/black-friday?utm_source=gh-rare-big-deal&utm_medium=github&utm_campaign=bf2026) | Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF on your Mac. | **50% OFF** Pro Lifetime, one-time in-app purchase ($4.99 → $2.49), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 
 ### Writing & Notes
@@ -493,6 +497,7 @@ Free & open-source.
 | 💾 | [Storage Menu Bar](https://storagemenu.app/) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk. | **50% OFF**: ~~$1.99~~ **$0.99** on the Mac App Store, one-time purchase, no code needed. | 2026-11-30 |
 | 📹 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on your Mac, in a window, full screen or the menu bar. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups. No code needed (Nov 2 - Nov 30) | 2026-11-30 |
 | 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
+| ⏲️ | [TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-rare-big-deal&mt=12) | Lightweight, minimalist timer and reminder app for Mac with a countdown HUD and combinable timer groups. | **50% OFF** on the Mac App Store ($3.99 → $1.99), no code needed. Starts on 2026-11-20 | 2026-12-06 |
 
 
 [⬆️ All categories](#table-of-contents)
