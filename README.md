@@ -561,6 +561,7 @@ Free & open-source.
 | 📱 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99, Nov 18 to Dec 4. No code needed | 2026-12-04 |
 | 📱 | [Pocket AI](https://apps.apple.com/us/app/pocket-ai-no-internet/id6759989702) | Offline AI chat for iPhone and iPad. Runs open models like Qwen, Llama and Gemma on your device, with no internet and no account. Chats stay on your phone. Free to download. | **30% OFF** Pro Lifetime ($9.99 → $6.99), one-time purchase, applied automatically in the App Store, no code needed. US pricing; local prices vary. Starts on 2026-11-27 | 2026-11-30 |
+| 🎙️ | [Whisper Memos](https://whispermemos.com/changelog/2026-11-black-friday) | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries. Works in 58 languages. | **30% OFF** yearly ($69.99 → $49.99/year), applied automatically in the app, no code needed. The price stays as long as you stay subscribed. 7-day free trial for new users. Nov 16 - Dec 6, 2026 | 2026-12-06 |
 
 
 ### Photos & Videos
