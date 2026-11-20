@@ -176,7 +176,7 @@ Free & open-source.
 | 💡 | [IvaBoard](https://ivaboard.com/lifetime/) | Feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain. | **30% OFF** lifetime plans with code **BF30**. Hosted Solo, one payment: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30. Ends 11:59 p.m. Pacific Time. | 2026-11-30 |
 | 📡 | [Social Fetch](https://socialfetch.dev/black-friday) | REST API and hosted MCP server for public social data as JSON: profiles, posts, comments, transcripts and search across TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. | **Double credits on every plan**, applied automatically, no code. Monthly: double credits in month one (Growth 100,000, still $79). Annual: double credits for the first 3 months. Growth pack ($59): 25,000 credits plus 25,000 free. New plans only, once per workspace. | 2026-12-01 |
 | ♿ | [Zylyn](https://zylyn.co/pricing) | Accessibility testing for websites: scans every page against WCAG 2.2 with clear fixes, checks PDFs, and lets agencies manage client sites and publish conformance reports (ACRs). | **90% OFF** the first year of Individual Lite and Pro plans, monthly or yearly, applied automatically (no code needed). Starts on 2026-11-20 | 2026-11-30 |
-
+| ✂️ | [Code Snippets Pro](https://codesnippets.pro/black-friday) | Customize WordPress with reusable PHP, JavaScript, CSS and HTML snippets. Add features and manage your code in one place. | **40% OFF** annual and lifetime plans with code **SNIPFRIDAY40**. Starts on 2026-11-23. | 2026-12-01 |
 
 ### Browser Extensions
 
