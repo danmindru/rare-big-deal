@@ -642,6 +642,7 @@ Free & open-source.
 | 🔤 | [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots and labels while keeping the original font and background intact. Web app, API and MCP server. | **30% OFF** non-expiring credit packs (6 edits $3 → $2.10, 40 edits $10 → $7) with code **BF2026** | 2026-12-01 |
 | 🥞 | [Unmerge](https://unmerge.app/pricing) | Separate flat images, illustrations and anime character art into movable transparent PSD and PNG layers with AI background inpainting. Web app, API and MCP server. | **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs: Starter $3.90 (45 → 60 credits), Basic $10 (130 → 175 credits), auto-applied, no code needed | 2026-12-01 |
 | 🔤 | [InPlaceText](https://inplacetext.com/) | Replace image text in a matching font style and background. | Up to +50% bonus credits on one-time credit packs — no subscription, valid through Dec 1, 2026 | 2026-12-01 |
+| 🎨 | [Krea3 AI](https://krea3.org/black-friday) | Turn prompts and photos into portraits, product shots and posters. | 40% off the first year of Starter, Creator and Pro Credits annual plans. Starter is $89.40 (regularly $149). Auto-applied on the deal page. | 2026-11-30 |
 
 
 ### Video Tools
@@ -663,6 +664,7 @@ Free & open-source.
 | 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
 | 🎥 | [Shot Video](https://shot.video/black-friday) | Turns the laptop and phones you already own into a multi-camera studio. Phones join by QR code with no app to install, you press record once, and AI makes the first edit. | **80% OFF** the first year on annual billing, no code needed: Creator $190 → $39, Pro $390 → $79, Studio $790 → $159. New paying customers only, first 100 buyers. Starts on 2026-11-20 | 2026-12-01 |
 | 🎬 | [ClipTalk](https://www.cliptalk.pro) | AI videos for TikTok, Reels and Shorts from a prompt | **61% OFF** Pro: $39/mo instead of $99/mo, locked in for life (no code needed). Starts on 2026-11-24 | 2026-12-02 |
+| 🎬 | [Molens AI](https://molensai.com/black-friday) | Generate videos from prompts or photos and create images with the same credits. | 50% off the first year of any annual plan for accounts without an active subscription. Starter is $64.50 (regularly $129). No code needed. | 2026-11-30 |
 
 
 ### Social
@@ -713,6 +715,7 @@ Free & open-source.
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
 | 🎬 | [AVE AI Video Editor](https://www.aivideoeditor.app/pro/) | Build video edits on your Mac with searchable footage, transcript editing, captions, and a built-in screen recorder. | **30% OFF** Pro Lifetime ($99 → $69.30 USD before tax), automatically applied; ends 17:00 UTC | 2026-12-24 |
 | 🎞️ | [Yaptake](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac, and your first three exports are free. | **50% OFF** the first year with code **YAPTAKEBF26**: Monthly ~~$9.99~~ **$4.99**/month for 12 months, Yearly ~~$79~~ **$39.50** the first year, new subscribers | 2026-12-02 |
+| 🎧 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks. | 55% less per minute than the regular Large Pack: 1,000 minutes for $59.99 once, valid for two years. No code needed. | 2026-11-30 |
 
 
 ### Marketing
