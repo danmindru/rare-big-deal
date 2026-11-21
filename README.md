@@ -183,6 +183,7 @@ Free & open-source.
 | 🤖 | [APIKO](https://apiko.app/) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits** on every paid top-up: pay $100, get $110 in API credits. Automatically applied, no code. Ends Nov 27 at 11:59 p.m. Pacific Time. | 2026-11-27 |
 | 🛡️ | [AppSecD](https://dedsecops.com/pricing) | All-in-one application security for dev teams: SAST (20+ languages), DAST, software composition analysis, secret scanning, and IaC/container/Kubernetes/API testing — findings deduplicated, AI-triaged and gated in the pull request. Free 14-day evaluation, no card. | **30% OFF** all plans, applied automatically at checkout (no code): Starter $20 → $14, Team $50 → $35, Premium $200 → $140, Scale $500 → $350 per month. | 2026-12-31 |
 | ✂️ | [Code Snippets Pro](https://codesnippets.pro/pricing/) | Customize WordPress with reusable PHP, JavaScript, CSS and HTML snippets. Add features and manage your code in one place. | **40% OFF** annual and lifetime plans with code **SNIPFRIDAY40**. Starts on 2026-11-23. | 2026-12-01 |
+| 🗄️ | [Layerbase](https://layerbase.com/pricing) | Serverless databases with flat monthly pricing: Postgres, MySQL, Redis, Valkey, ClickHouse, Qdrant, Meilisearch and more across 19 cloud engines, no egress or usage metering. | **50% OFF** your first month: **BFSOLO26** = Solo $2.50 first month (then $5/mo), **BFPRO26** = Pro $7.50 first month (then $15/mo). First 50 redemptions per code. | 2026-11-30 |
 
 
 ### Browser Extensions
