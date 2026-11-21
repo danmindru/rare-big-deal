@@ -296,6 +296,7 @@ Free & open-source.
 | 🌐 | [Transync AI](https://www.transyncai.com/black-friday/) | Real-time AI translation for meetings, with bilingual subtitles and translated speech in 60 languages, on Windows, Mac, iPhone, Android and Web. | **$20 OFF** Personal Premium annual: ~~$89.90~~ **$69.90**, auto-applied, no code. New annual or monthly-to-annual only; renewals excluded. Starts on 2026-11-24 | 2026-12-01 |
 | ✂️ | [CutFast](https://cutfa.st/#pricing) | AI video editor: highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Web app plus a native Mac and Windows app. | **30% OFF** Lifetime ~~$399~~ **$279.30** and the 60-minute pack ~~$30~~ **$21**, applied automatically, no code needed. Ends Dec 1, 11:59 pm PT. | 2026-12-01 |
 | 🖼️ | [ChatImg](https://chatimg.ai/en/pricing) | AI image generator and editor: upload a photo, type the change in plain words, and export, with the leading image models on one credit balance. | **50% OFF** the first payment of Plus and Pro (Pro yearly ~~$215.28~~ **$107.64**), plus **30% OFF** credit packs ($40 → $28), applied automatically, no code needed. Ends Dec 1, 11:59 pm PT. | 2026-12-01 |
+| ⚖️ | [Legalnaut](https://legalnaut.com/pricing) | AI case workspace for litigation teams: reads the whole case file, builds the chronology, flags contradictions and maps proof, with every fact linked to its source page. | **30% OFF** any plan for the first 12 months with code **BF2026**. 7-day free trial, no card. | 2026-11-30 |
 
 
 ### Lifestyle
