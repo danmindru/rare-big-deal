@@ -1183,6 +1183,7 @@ Free & open-source.
 | 🔒 | [Photok - Secure Photo Vault](https://photok.app/blog/black-friday-2026/) | Photok is an open-source photo vault that keeps your photos and videos encrypted and stored locally on your device. | **50% OFF** Photok Pro on Google Play, one-time purchase, no code needed. Starts on 2026-11-27 | 2026-11-30 |
 | 🗺️ | [Treader](https://www.treader.ca/pricing) | Trip planner where friends vote on dates and plan together on one live map, with a built-in AI trip assistant. | **30% OFF** the first year of Pro annual: $34.99 CAD, then renews at $49.99 CAD a year, code **BFRIDAY30**. Starts on 2026-11-20 | 2026-12-01 |
 | 🗽 | [PermWatch](https://permwatch.com/alerts/) | Green card tracker: PERM decision estimates from public DOL data, live PERM status from FLAG, and email or Telegram alerts when the Visa Bulletin reaches your priority date. | **10% OFF** the first year of Pro yearly ($49 → $44.10, then $49 a year) and **$71.10** instead of $79 for Until green card, no code needed | 2026-12-01 |
+| 🛡️ | [EasyGuard VPN](https://easyguard.app/#deal) | VPN apps for computer, phone and TV, with 10 simultaneous devices, unlimited bandwidth and all server locations. | **70% OFF** 12 months: US$14.99 (normally US$49.99), one payment, no auto-renewal. Automatic discount, no coupon needed. Available worldwide. Starts on 2026-11-20 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
