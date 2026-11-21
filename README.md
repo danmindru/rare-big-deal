@@ -706,6 +706,7 @@ Free & open-source.
 | 🎨 | [Krea3 AI](https://krea3.org/black-friday) | Turn prompts and photos into portraits, product shots and posters. | 40% off the first year of Starter, Creator and Pro Credits annual plans. Starter is $89.40 (regularly $149). Auto-applied on the deal page. | 2026-11-30 |
 | 🔬 | [SciFig](https://scifig.ai/black-friday) | Web app for creating editable scientific figures and diagrams for papers and presentations. | **Extra 20% off** the first billing period of new subscriptions, eligible upgrades and credit packs. Auto-applied. Starter annual: $100 → $80 the first year, then $100/year. Ends at 23:59 PT. | 2026-12-01 |
 | 🖼️ | [Clarpex AI](https://clarpex.ai/pricing) | Web app that fixes the photo you already have: unblur and sharpen, upscale to 4K or 8K, restore and colorize old photos, remove watermarks, text or people, and change or whiten the background. 10 free credits a day. | **50% OFF** the first month of monthly plans (Starter ~~$9.90~~ **$4.95**), **30% OFF** the first year of yearly plans. Auto-applied at checkout, no code needed; renews at the regular price | 2026-12-01 |
+| 🔬 | [ConceptViz](https://conceptviz.app/pricing) | Web app that turns text or papers into editable, publication-ready scientific figures, diagrams and concept maps. | **$299 lifetime deal**, one-time payment with no monthly fee. Includes 1,500 non-expiring credits (about $499 at credit-pack pricing), Ultra features for life and 50% off Studio credit packs. No code needed | 2026-12-01 |
 
 
 ### Video Tools
