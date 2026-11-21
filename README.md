@@ -691,6 +691,7 @@ Free & open-source.
 | 📸 | [Screenshot Studio](https://appstorescreenshotstudio.com/) | Mac and iPhone app for App Store screenshots: templates, localization into 50+ languages and upload to App Store Connect. | **Up to 50% OFF** the first period of subscriptions and **33% OFF** Lifetime ($89.99 → $59.99), no code needed | 2026-12-01 |
 | 💰 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | **30% OFF** Lifetime, no code needed. Starts on 2026-11-20 | 2026-12-07 |
 | 🎨 | [Paletteo](https://paletteo.artsvit.com/) | Capture colors, build palettes and gradients, and export design tokens from iPhone or iPad. | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6762087665&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
+| 🖼️ | [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint (real text boxes and shapes) or SVG, in your browser. | **45% OFF** the 150-credit pack ($79.90 → $43.95) with code **BLACKFRIDAY45** | 2026-12-01 |
 
 
 ### AI Design Tools
