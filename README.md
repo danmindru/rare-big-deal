@@ -1183,7 +1183,8 @@ Free & open-source.
 | 🔒 | [Photok - Secure Photo Vault](https://photok.app/blog/black-friday-2026/) | Photok is an open-source photo vault that keeps your photos and videos encrypted and stored locally on your device. | **50% OFF** Photok Pro on Google Play, one-time purchase, no code needed. Starts on 2026-11-27 | 2026-11-30 |
 | 🗺️ | [Treader](https://www.treader.ca/pricing) | Trip planner where friends vote on dates and plan together on one live map, with a built-in AI trip assistant. | **30% OFF** the first year of Pro annual: $34.99 CAD, then renews at $49.99 CAD a year, code **BFRIDAY30**. Starts on 2026-11-20 | 2026-12-01 |
 | 🗽 | [PermWatch](https://permwatch.com/alerts/) | Green card tracker: PERM decision estimates from public DOL data, live PERM status from FLAG, and email or Telegram alerts when the Visa Bulletin reaches your priority date. | **10% OFF** the first year of Pro yearly ($49 → $44.10, then $49 a year) and **$71.10** instead of $79 for Until green card, no code needed | 2026-12-01 |
-
+| 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 250k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 30% OFF lifetime membership with code **BF2026** | 2026-12-05 |
+| 💰 | [Side Projects Making $$$](https://niftydigits.gumroad.com/l/side-projects/BF2026) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2026 | 30% OFF lifetime access with code **BF2026** | 2026-12-05 |
 
 [⬆️ All categories](#table-of-contents)
 
