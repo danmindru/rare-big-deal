@@ -522,6 +522,7 @@ Free & open-source.
 | ⏲️ | [TimeGo Clock](https://apps.apple.com/app/id6448658165) | Lightweight, minimalist timer and reminder app for Mac with a countdown HUD and combinable timer groups. | **50% OFF** on the Mac App Store ($3.99 → $1.99), no code needed | 2026-12-06 |
 | 🔊 | [Tutti](https://tutti.barrybarrywu.com/#pricing) | Play audio on multiple outputs and control per-app volume and displays from the Mac menu bar. | **30.8% OFF** Tutti Pro, US$12.99 → US$8.99 one-time for one Mac. No code needed. Ends 23:59 PST. | 2026-11-30 |
 | 🖱️ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Move the pointer instantly between Mac displays or saved positions using a shortcut or programmable mouse button. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed | 2026-12-06 |
+| 🪑 | [Poxture App](https://poxture.com/) | A posture app for your Mac's menu bar: it checks how you sit through the camera and shows the fix. No account, no subscription, works without internet. Apple Silicon, macOS 15 or later. | **34% OFF** with code **BLACKFRIDAY** ($29 → $19, one-time, one Mac). Starts on 2026-11-27, ends 23:59 IST | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
