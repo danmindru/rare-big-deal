@@ -671,6 +671,7 @@ Free & open-source.
 | 📖 | [Nihongo - Japanese Dictionary](https://nihongo-app.com/) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD), automatically applied in-app; no code needed | 2026-12-02 |
 | 🎓 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards that build on what you already know. | **50% OFF** the all access pass (lifetime, $299.99 → $149.99 USD), automatically applied in-app; no code needed | 2026-12-02 |
 | 🛡️ | [Kipzy](https://kipzy.app/) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker, private tabs and offline video saving. | **50% OFF** Pro Lifetime ($49.99 → $24.99 USD), one-time purchase, applied automatically in the App Store, no code needed. Local prices vary. | 2026-11-30 |
+| 🎧 | [Erla](https://erla.app/black-friday) | Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | **70% OFF** the first year of Erla PRO ($59.99 → $18 USD) after a 7-day free trial, with code **BLACKFRIDAY**. New subscribers; redeem via erla.app/black-friday. Local prices vary. | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
