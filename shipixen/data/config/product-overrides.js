@@ -778,5 +778,9 @@ module.exports = {
     'cursor-teleporter': {
       logo: 'public/static/images/overrides/cursor-teleporter/logo.png',
     },
+    // Official wordmark cropped from the site header; serpwrap.com has no favicon.
+    serpwrap: {
+      logo: 'public/static/images/overrides/serpwrap/logo.png',
+    },
   },
 };
