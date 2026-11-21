@@ -736,6 +736,7 @@ Free & open-source.
 | 🎬 | [Molens AI](https://molensai.com/black-friday) | Generate videos from prompts or photos and create images with the same credits. | 50% off the first year of any annual plan for accounts without an active subscription. Starter is $64.50 (regularly $129). No code needed. | 2026-11-30 |
 | 📺 | [LiveReacting](https://www.livereacting.com/pricing) | Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | **50% OFF** your first year of annual plans (Small, Medium, Large, 24/7 Streaming) with code **BF2026**. New customers only | 2026-12-04 |
 | ✂️ | [quso.ai](https://quso.ai/pricing) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, YouTube Shorts, Instagram, LinkedIn and X. Also works inside ChatGPT and Claude. | **50% OFF** yearly plans, kept at every renewal while subscribed, no code needed (Lite ~~$348~~ **$174**/year, Essential ~~$468~~ **$234**/year, Growth ~~$588~~ **$294**/year). New yearly plans, Nov 20 - Dec 1, 2026. Free plan available | 2026-12-01 |
+| 🎬 | [Motionflare](https://motionflare.ai/pricing) | Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. | **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code needed. Starts on 2026-11-21 | 2026-12-01 |
 
 
 ### Social
