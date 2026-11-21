@@ -439,6 +439,7 @@ Free & open-source.
 | 📸 | [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex. | **23% OFF** lifetime ($29.99 → $22.99) with App Store offer code **SIGHTLINELIFEDISCOUNT26** ([redeem link](https://apps.apple.com/redeem/?code=SIGHTLINELIFEDISCOUNT26&id=6812521593)), until 2026-12-31. Or **first 3 months free** on the yearly plan, then $24.99/year, with code **SIGHTLINEEARLY** ([redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=6812521593&code=SIGHTLINEEARLY)). Monthly not included. | 2027-01-07 |
 | 🗂️ | [Workspaces](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed | 2026-12-06 |
 | 📸 | [Snapperon](https://snapperon.com) | Annotate screenshots, redact private details, and copy text from images on your Mac. | **50% off** Pro with code `BLACKFRIDAY26`. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD). | 2026-12-01 |
+| 🪟 | [Findow](https://findowmac.com/) | Scrolling window manager for Mac, with tiling, a window switcher and saved workspaces. One-time purchase with a free trial. | **75% OFF** one-time purchase ($19.99 → $5), applied automatically at checkout, no code needed | 2026-12-01 |
 
 
 ### Design Tools
@@ -526,6 +527,8 @@ Free & open-source.
 | 🔊 | [Tutti](https://tutti.barrybarrywu.com/#pricing) | Play audio on multiple outputs and control per-app volume and displays from the Mac menu bar. | **30.8% OFF** Tutti Pro, US$12.99 → US$8.99 one-time for one Mac. No code needed. Ends 23:59 PST. | 2026-11-30 |
 | 🖱️ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Move the pointer instantly between Mac displays or saved positions using a shortcut or programmable mouse button. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed | 2026-12-06 |
 | 🪑 | [Poxture App](https://poxture.com/) | A posture app for your Mac's menu bar: it checks how you sit through the camera and shows the fix. No account, no subscription, works without internet. Apple Silicon, macOS 15 or later. | **34% OFF** with code **BLACKFRIDAY** ($29 → $19, one-time, one Mac). Ends 23:59 IST | 2026-11-30 |
+| 🧹 | [ByteSweep](https://bytesweep.app/) | Disk cleaner for Mac, Windows and Linux. Shows what fills your disk, removes only what you pick, and every clean can be undone for 7 days. One-time purchase with a free trial. | **50% OFF** one-time purchase ($29.99 → $15), applied automatically at checkout, no code needed | 2026-12-31 |
+| 🎚️ | [Earmix](https://earmix.app/) | Volume mixer for the Mac menu bar. Set the volume for each app and each browser tab, send each app to its own output, and add EQ. One-time purchase with a free trial. | **50% OFF** one-time purchase ($12.99 → $6.50) with code **BLACKFRIDAY50** | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
