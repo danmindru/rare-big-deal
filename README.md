@@ -132,6 +132,7 @@ Free & open-source.
 | 🧰 | [Devkito](https://devkito.com/pricing) | 122 developer tools in one offline desktop app for Mac, Windows and Linux: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more, behind one shortcut. | **50% OFF** every one-time licence with code **BF2026** (applied automatically from the pricing page): $10 → $5 for 1 computer, $15 → $7.50 for 2, $30 → $15 for 5. Until Dec 2, 2026, 11:59 pm PT. | 2026-12-02 |
 | 🔑 | [KeygenGo](https://keygengo.5km.tech/black-friday) | Native Mac client for Keygen.sh: manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts. | **50% OFF** on the Mac App Store: Annual first year ($19.99 → $9.99) with code **BF2026YEAR**, Lifetime ($39.99 → $19.99) no code needed | 2026-12-06 |
 | 🍓 | [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad. | **About 20% OFF** Single Lifetime (US$5.99 → US$4.79; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
+| 👥 | [Doubles](https://doubles.dev/pricing) | Remote pair programming app for Mac: share your screen sharp enough to read code, let your pair drive when you allow it, and talk and draw together. Guests join from a browser. | **50% OFF** ($169 → $84.50, one-time purchase) with code **DOUBLES50**. Starts on 2026-11-20 | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
