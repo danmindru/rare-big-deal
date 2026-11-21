@@ -437,6 +437,7 @@ Free & open-source.
 | 📸 | [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex. | **23% OFF** lifetime ($29.99 → $22.99) with App Store offer code **SIGHTLINELIFEDISCOUNT26** ([redeem link](https://apps.apple.com/redeem/?code=SIGHTLINELIFEDISCOUNT26&id=6812521593)), until 2026-12-31. Or **first 3 months free** on the yearly plan, then $24.99/year, with code **SIGHTLINEEARLY** ([redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=6812521593&code=SIGHTLINEEARLY)). Monthly not included. | 2027-01-07 |
 | 🗂️ | [Workspaces](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed | 2026-12-06 |
 | 📸 | [Snapperon](https://snapperon.com) | Annotate screenshots, redact private details, and copy text from images on your Mac. | **50% off** Pro with code `BLACKFRIDAY26`. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD). | 2026-12-01 |
+| 🎙️ | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script locally on Mac and flags possible misreads, omissions, and extra words. | **US$19 one-time launch offer (standard US$29)** with code **LAUNCH** at checkout, for up to two Macs. | 2026-12-04 |
 
 
 ### Design Tools
