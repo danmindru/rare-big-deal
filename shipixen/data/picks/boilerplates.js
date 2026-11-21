@@ -1,5 +1,12 @@
 module.exports = {
   name: 'The best Boilerplates',
   description: "So good you'll ship that thing today.",
-  apps: [],
+  apps: [
+    'Dirstarter',
+    'SoarStarter',
+    'TanStarter',
+    'MkSaaS',
+    'ShipAhead',
+    'SaaSykit',
+  ],
 };
