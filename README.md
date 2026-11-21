@@ -986,6 +986,8 @@ Free & open-source.
 | 🪁 | [SoarStarter](https://soarstarter.com/#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. Pay once, unlimited projects. | **20% OFF** the All-Access Bundle (all 8 kits): $249 → $199 with code **BF2026** (applied automatically at checkout) | 2026-12-01 |
 | 🧱 | [TanStarter](https://tanstarter.dev/#pricing) | React SaaS starter for TanStack Start on Cloudflare Workers with authentication, billing and D1 storage. | **Save US$100** on Lifetime (US$199 → US$99); `2026-BLACKFRIDAY` applied automatically. | 2026-11-30 |
 | 🧱 | [MkSaaS](https://mksaas.com/#pricing) | Full-stack Next.js starter with working auth, billing, AI chat and image generation. | Lifetime $99 instead of $199; save $100 automatically. | 2026-11-30 |
+| 🌐 | [ShadcnSpace](https://shadcnspace.com) | Ready-to-use 1400+ shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | Use Code **BFCM** – 40% OFF | Ends Dec 3 |
+
 
 
 ### Astro
