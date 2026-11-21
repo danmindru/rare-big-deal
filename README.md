@@ -544,7 +544,7 @@ Free & open-source.
 | 🖱️ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Move the pointer instantly between Mac displays or saved positions using a shortcut or programmable mouse button. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed | 2026-12-06 |
 | 🪑 | [Poxture App](https://poxture.com/) | A posture app for your Mac's menu bar: it checks how you sit through the camera and shows the fix. No account, no subscription, works without internet. Apple Silicon, macOS 15 or later. | **34% OFF** with code **BLACKFRIDAY** ($29 → $19, one-time, one Mac). Ends 23:59 IST | 2026-11-30 |
 | 🎚️ | [Earmix](https://earmix.app/) | Volume mixer for the Mac menu bar. Set the volume for each app and each browser tab, send each app to its own output, and add EQ. One-time purchase with a free trial. | **50% OFF** one-time purchase ($12.99 → $6.50) with code **BLACKFRIDAY50** | 2026-12-01 |
-| 🌡️ | [ThermPort](https://thermport.com) | Menu bar system monitor for Apple Silicon Macs: CPU and GPU temperature, fan speed, memory, power and network, with history charts, alerts and PDF reports. One-time purchase. | **50% OFF** ($9.99 → $4.99) with code **BF2026**, applied automatically from thermport.com. Starts on 2026-11-21 | 2026-12-01 |
+| 🌡️ | [ThermPort](https://thermport.com) | Menu bar system monitor for Apple Silicon Macs: CPU and GPU temperature, fan speed, memory, power and network, with history charts, alerts and PDF reports. One-time purchase. | **29% OFF** ($6.99 → $4.99, one-time) with code **BF2026**, applied automatically from thermport.com. Starts on 2026-11-21 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
