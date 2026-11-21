@@ -328,6 +328,7 @@ Free & open-source.
 | 🐚 | [ShellHistory](https://loshadki.app/shellhistory/) | Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command. | **60% OFF**: $5.59 instead of $13.99 on the Mac App Store (iPhone and iPad included), no code needed, or $5.60 on loshadki.app with code **BLACKFRIDAY26**. One-time purchase | 2026-12-01 |
 | 🔍 | [RegExp](https://loshadki.app/regexp/) | Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go, on Mac, iPhone and iPad. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options. | **60% OFF** RegExp Pro: $1.19 instead of $2.99, an in-app purchase on the App Store, no code needed | 2026-12-01 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
+| 🪣 | [Blob0](https://blob0.com/) | macOS desktop client for browsing, transferring, previewing and sharing files in Cloudflare R2, Amazon S3 and other S3-compatible storage. | **20% OFF** one-time Personal ($16.90 → $13.52 USD) and Team licenses with code **BLACKFRIDAY20**. Ends Nov 30 at 15:59 UTC. | 2026-11-30 |
 
 ### Productivity
 
