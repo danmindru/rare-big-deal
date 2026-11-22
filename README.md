@@ -480,6 +480,8 @@ Free & open-source.
 | 🎨 | [Desktop Composer](https://www.apptorium.com/desktop-composer) | Save and switch complete Mac appearance profiles for wallpaper, system settings, Dock, menu bar and supported app themes. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed | 2026-12-06 |
 | 🎨 | [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) | 2026-12-01 |
 | 🎬 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license (~~$49~~ **$39**, auto-applied on site, no code needed) | 2026-12-01 |
+| ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
+
 
 
 ### Writing & Notes
@@ -761,6 +763,8 @@ Free & open-source.
 | ✂️ | [quso.ai](https://quso.ai/pricing) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, YouTube Shorts, Instagram, LinkedIn and X. Also works inside ChatGPT and Claude. | **50% OFF** yearly plans, kept at every renewal while subscribed, no code needed (Lite ~~$348~~ **$174**/year, Essential ~~$468~~ **$234**/year, Growth ~~$588~~ **$294**/year). New yearly plans, Nov 20 - Dec 1, 2026. Free plan available | 2026-12-01 |
 | 🎬 | [Motionflare](https://motionflare.ai/pricing) | Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. | **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code needed | 2026-12-01 |
 | 🎬 | [CursorClip](https://cursorclip.com/pricing/) | Native Mac screen recorder for tutorials, courses and product demos. It adds smooth zooms where you click while you record. New in 2.3: 86 backgrounds, a mic and camera check before you start, and captions made on your Mac. | **30% OFF** Lifetime ($70 → **$49**), one-time payment, no subscription. Code **BLACKFRIDAY** is applied automatically at checkout. Recording and editing are free; export needs a licence | 2026-11-30 |
+| ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
+
 
 
 ### Social
@@ -814,6 +818,8 @@ Free & open-source.
 | 🎞️ | [Yaptake](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac, and your first three exports are free. | **50% OFF** the first year with code **YAPTAKEBF26**: Monthly ~~$9.99~~ **$4.99**/month for 12 months, Yearly ~~$79~~ **$39.50** the first year, new subscribers | 2026-12-02 |
 | 🎧 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks. | 55% less per minute than the regular Large Pack: 1,000 minutes for $59.99 once, valid for two years. No code needed. | 2026-11-30 |
 | 🎥 | [XGetter](https://xgetter.com/#pricing) | Video and audio downloader for Windows, macOS and Linux. Save from 70+ platforms (YouTube, TikTok, Facebook, Instagram, X/Twitter, Bilibili and more) in up to 8K, with playlist, channel and batch downloads and no watermark. | **30% OFF** all plans with code **BF2026** (Pro $10 → $7, Extended $15 → $10.50) | 2026-12-02 |
+| ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
+
 
 
 ### Marketing
