@@ -456,6 +456,7 @@ Free & open-source.
 | 🧹 | [ByteSweep](https://bytesweep.app/) | Disk cleaner for Mac, Windows and Linux. Shows what fills your disk, removes only what you pick, and every clean can be undone for 7 days. One-time purchase with a free trial. | **50% OFF** one-time purchase ($29.99 → $15), applied automatically at checkout, no code needed | 2026-12-31 |
 | ⏱️ | [Timemator](https://timemator.com) | Automatic time tracking for Mac. Records working time by tracking your project files, apps and websites, and creates timesheets. | **50% OFF** the lifetime license ($39 → $19.50), one-time purchase from the website, with code **TM-BLACKFRIDAY26** | 2026-12-05 |
 | 🎙️ | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script locally on Mac and flags possible misreads, omissions, and extra words. | **US$19 one-time launch offer (standard US$29)** with code **LAUNCH** at checkout, for up to two Macs. | 2026-12-04 |
+| 📸 | [ScreenPost](https://screenpost.app/buy?promo=LAUNCH19&ref=rare-big-deal) | A native Mac app that takes a screenshot, recording or GIF from capture to a posted X post: capture, annotate, redact secrets, post. | **$19 instead of $29** (USD, one-time) with code **LAUNCH19**, pre-applied at checkout. Every feature, 1 year of updates, up to 3 Macs. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Design Tools
