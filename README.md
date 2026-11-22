@@ -208,6 +208,7 @@ Free & open-source.
 | 🐜 | [AntShot](https://antshot.com/) | Full-page screenshots for Chrome and Edge, including scrolling tables and lists, saved as PNG, JPG or PDF on your device. | **35% OFF** Pro Lifetime ($39 → $25.35) with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🛡️ | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that blocks fake shops, phishing and scam pages. | **30% OFF** your first period with code **BLACKFRIDAY2026** (yearly $22.99 → $16.09) | 2026-12-05 |
 | 🙈 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | **41% OFF** Lifetime Pro: $29 instead of $49, one-time payment (no code needed) | 2026-11-30 |
+| 📄 | [Stashkin](https://stashkin.com/pricing?utm_source=rare-big-deal&utm_medium=github&utm_campaign=bf2026) | Chrome extension that exports ChatGPT conversations to editable Word (.docx), PDF, Markdown, PNG and JSON with tables, LaTeX equations and images intact. | **50% OFF** first year of Pro Annual ($46.56 → $23.28, $1.94/mo) with code **BF2026**. Annual plan only. | 2026-12-01 |
 
 
 ### Productivity & AI
