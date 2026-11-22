@@ -1013,6 +1013,7 @@ Free & open-source.
 | 🧱 | [TanStarter](https://tanstarter.dev/#pricing) | React SaaS starter for TanStack Start on Cloudflare Workers with authentication, billing and D1 storage. | **Save US$100** on Lifetime (US$199 → US$99); `2026-BLACKFRIDAY` applied automatically. | 2026-11-30 |
 | 🧱 | [MkSaaS](https://mksaas.com/#pricing) | Full-stack Next.js starter with working auth, billing, AI chat and image generation. | Lifetime $99 instead of $199; save $100 automatically. | 2026-11-30 |
 | 🌐 | [ShadcnSpace](https://shadcnspace.com) | Ready-to-use 1400+ shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. Free and Pro. | **40% OFF** Pro with code **BFCM** | 2026-12-01 |
+| 🧱 | [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers (TanStack Start + D1/PostgreSQL) with 40 coding-agent runbooks, 4 payment providers, 4 AI providers, a credit ledger and an admin center. | **50% OFF** Early Access one-time license ($99 → $49 USD), no code needed (auto-applied). No renewal fees. | 2026-12-06 |
 
 
 ### Astro
