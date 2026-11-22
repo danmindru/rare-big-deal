@@ -1087,6 +1087,7 @@ Free & open-source.
 | 📄 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | PDF viewer component for React apps with search, highlights and programmatic control. Perpetual license. | **50% OFF** Developer ($89 → $44.50) and Organization ($239 → $119.50) licenses with code **BFCM2026** | 2026-12-01 |
 | 🧩 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | **Up to 60% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 | ✨ | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | **Up to 40% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
+| 🚀 | [ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/) | 5 single-file HTML/Tailwind SaaS landing page templates + 25-pt CRO Playbook. | **61% OFF** ($19 instead of $49), no code needed. Starts on 2026-11-22 | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -1132,6 +1133,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/#pricing) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | **50% OFF** with code **BLACK**: Just The Guide $19.50 (usually $39), The Guide + Tools + Templates $24.50 (usually $49) | |
+| 🚀 | [Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/) | Notion-importable launch workspace + 50-community directory + 2x PNG Graphics Studio. | **64% OFF** ($14 instead of $39), no code needed. Starts on 2026-11-22 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
