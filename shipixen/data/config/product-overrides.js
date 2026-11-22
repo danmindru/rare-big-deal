@@ -782,5 +782,20 @@ module.exports = {
     serpwrap: {
       logo: 'public/static/images/overrides/serpwrap/logo.png',
     },
+    // ay-grants / ay-tenders: the sites only publish an inline SVG favicon. The logo is that SVG, rasterized.
+    'ay-grants': {
+      logo: 'public/static/images/overrides/ay-grants/logo.png',
+    },
+    'ay-tenders': {
+      logo: 'public/static/images/overrides/ay-tenders/logo.png',
+    },
+    // narrationbox.com/pricing gave no usable banner. This is the official og:image.
+    'narration-box': {
+      ogImage: 'public/static/images/overrides/narration-box/og-image.png',
+    },
+    // babapic.cc's og:image headline is Chinese. The banner is a reviewed screenshot of the English homepage.
+    babapic: {
+      ogImage: 'public/static/images/overrides/babapic/og-image.png',
+    },
   },
 };
