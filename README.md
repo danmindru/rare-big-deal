@@ -208,6 +208,7 @@ Free & open-source.
 | 🐜 | [AntShot](https://antshot.com/) | Full-page screenshots for Chrome and Edge, including scrolling tables and lists, saved as PNG, JPG or PDF on your device. | **35% OFF** Pro Lifetime ($39 → $25.35) with code **BLACKFRIDAY26** | 2026-12-02 |
 | 🛡️ | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that blocks fake shops, phishing and scam pages. | **30% OFF** your first period with code **BLACKFRIDAY2026** (yearly $22.99 → $16.09) | 2026-12-05 |
 | 🙈 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | **41% OFF** Lifetime Pro: $29 instead of $49, one-time payment (no code needed) | 2026-11-30 |
+| 📄 | [Stashkin](https://stashkin.com/pricing) | Chrome extension that exports ChatGPT conversations to editable Word (.docx), PDF, Markdown, PNG and JSON with tables, LaTeX equations and images intact. | **50% OFF** first year of Pro Annual ($46.56 → $23.28, $1.94/mo) with code **BF2026**. Annual plan only. | 2026-12-01 |
 
 
 ### Productivity & AI
@@ -305,6 +306,7 @@ Free & open-source.
 | 🎨 | [Comik AI](https://comik.ai/pricing) | Story-driven AI anime studio: create anime images and comics with reusable characters, turn generated or uploaded comics into motion comics, or build AI Short Dramas shot by shot. | **45% OFF** yearly plans (Pro ~~$29~~ **$15.95**/mo billed yearly), or **35% OFF** the first month of Pro and Max monthly, applied automatically at checkout, no code needed | 2026-11-30 |
 | ⚖️ | [Legalnaut](https://legalnaut.com/pricing) | AI case workspace for litigation teams: reads the whole case file, builds the chronology, flags contradictions and maps proof, with every fact linked to its source page. | **30% OFF** any plan for the first 12 months with code **BF2026**. 7-day free trial, no card. | 2026-11-30 |
 | 🎨 | [MakeMidas](https://makemidas.com/pricing) | Web app for AI images, videos, music and voiceovers with GPT Image, Nano Banana, Veo, Kling, Seedance and Suno, on one credit balance. | **Up to 25% more credits** on every one-time credit pack, no code needed: 125 credits per $1, e.g. $10 for **1,250** credits instead of 1,000, $50 for **6,250** instead of 5,250. Pack credits are valid 12 months. | 2026-12-01 |
+| 🎙️ | [Narration Box](https://narrationbox.com/pricing) | AI voice generator for audiobooks and voiceovers: turn a PDF, EPUB, DOCX or URL into natural narration in 80+ languages, cast different voices per character, and clone your own voice. Free plan, no card. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) | 2026-12-02 |
 
 
 ### Lifestyle
@@ -456,6 +458,8 @@ Free & open-source.
 | 🧹 | [ByteSweep](https://bytesweep.app/) | Disk cleaner for Mac, Windows and Linux. Shows what fills your disk, removes only what you pick, and every clean can be undone for 7 days. One-time purchase with a free trial. | **50% OFF** one-time purchase ($29.99 → $15), applied automatically at checkout, no code needed | 2026-12-31 |
 | ⏱️ | [Timemator](https://timemator.com) | Automatic time tracking for Mac. Records working time by tracking your project files, apps and websites, and creates timesheets. | **50% OFF** the lifetime license ($39 → $19.50), one-time purchase from the website, with code **TM-BLACKFRIDAY26** | 2026-12-05 |
 | 🎙️ | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script locally on Mac and flags possible misreads, omissions, and extra words. | **US$19 one-time launch offer (standard US$29)** with code **LAUNCH** at checkout, for up to two Macs. | 2026-12-04 |
+| 🖼️ | [BabaPic](https://www.babapic.cc/) | Native macOS app for batch image compression and format conversion: compress, convert, resize and rename in one pass, fully local, no uploads. | **50% OFF** BabaPic Pro one-time ($19 → $9.50) with code **BABAPIC2026**. Nov 22 - Dec 31, 2026 | 2026-12-31 |
+| 📸 | [ScreenPost](https://screenpost.app/) | A native Mac app that takes a screenshot, recording or GIF from capture to a posted X post: capture, annotate, redact secrets, post. | **$19 instead of $29** (USD, one-time) with code **LAUNCH19**, pre-applied at checkout. Every feature, 1 year of updates. Starts on 2026-11-24 | 2026-12-01 |
 
 
 ### Design Tools
@@ -480,6 +484,7 @@ Free & open-source.
 | 🎨 | [Desktop Composer](https://www.apptorium.com/desktop-composer) | Save and switch complete Mac appearance profiles for wallpaper, system settings, Dock, menu bar and supported app themes. | **50% OFF** one-time purchase ($19.99 → $9.99), no code needed | 2026-12-06 |
 | 🎨 | [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) | 2026-12-01 |
 | 🎬 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license (~~$49~~ **$39**, auto-applied on site, no code needed) | 2026-12-01 |
+| ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 
 
 ### Writing & Notes
@@ -546,6 +551,7 @@ Free & open-source.
 | 🪑 | [Poxture App](https://poxture.com/) | A posture app for your Mac's menu bar: it checks how you sit through the camera and shows the fix. No account, no subscription, works without internet. Apple Silicon, macOS 15 or later. | **34% OFF** with code **BLACKFRIDAY** ($29 → $19, one-time, one Mac). Ends 23:59 IST | 2026-11-30 |
 | 🎚️ | [Earmix](https://earmix.app/) | Volume mixer for the Mac menu bar. Set the volume for each app and each browser tab, send each app to its own output, and add EQ. One-time purchase with a free trial. | **50% OFF** one-time purchase ($12.99 → $6.50) with code **BLACKFRIDAY50** | 2026-12-01 |
 | 🌡️ | [ThermPort](https://thermport.com) | Menu bar system monitor for Apple Silicon Macs: CPU and GPU temperature, fan speed, memory, power and network, with history charts, alerts and PDF reports. One-time purchase. | **29% OFF** ($6.99 → $4.99, one-time) with code **BF2026**, applied automatically from thermport.com. | 2026-12-01 |
+| 📖 | [Zhenzhu](https://zhenzhu.app/#pricing) | Native macOS menu-bar Chinese pop-up dictionary and sentence mining app: select, hover, or snip (on-device OCR) Chinese in any app, PDF, or paused video, with local FSRS flashcards and 1-click Anki export. Signed & notarized, macOS 15+. | **69% OFF** Pro lifetime license ($29 → $9, one-time, 3 Macs, all future updates) with code **BF2026**, applied automatically via zhenzhu.app/buy. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -761,6 +767,7 @@ Free & open-source.
 | ✂️ | [quso.ai](https://quso.ai/pricing) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, YouTube Shorts, Instagram, LinkedIn and X. Also works inside ChatGPT and Claude. | **50% OFF** yearly plans, kept at every renewal while subscribed, no code needed (Lite ~~$348~~ **$174**/year, Essential ~~$468~~ **$234**/year, Growth ~~$588~~ **$294**/year). New yearly plans, Nov 20 - Dec 1, 2026. Free plan available | 2026-12-01 |
 | 🎬 | [Motionflare](https://motionflare.ai/pricing) | Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. | **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code needed | 2026-12-01 |
 | 🎬 | [CursorClip](https://cursorclip.com/pricing/) | Native Mac screen recorder for tutorials, courses and product demos. It adds smooth zooms where you click while you record. New in 2.3: 86 backgrounds, a mic and camera check before you start, and captions made on your Mac. | **30% OFF** Lifetime ($70 → **$49**), one-time payment, no subscription. Code **BLACKFRIDAY** is applied automatically at checkout. Recording and editing are free; export needs a licence | 2026-11-30 |
+| ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 
 
 ### Social
@@ -814,6 +821,7 @@ Free & open-source.
 | 🎞️ | [Yaptake](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac, and your first three exports are free. | **50% OFF** the first year with code **YAPTAKEBF26**: Monthly ~~$9.99~~ **$4.99**/month for 12 months, Yearly ~~$79~~ **$39.50** the first year, new subscribers | 2026-12-02 |
 | 🎧 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks. | 55% less per minute than the regular Large Pack: 1,000 minutes for $59.99 once, valid for two years. No code needed. | 2026-11-30 |
 | 🎥 | [XGetter](https://xgetter.com/#pricing) | Video and audio downloader for Windows, macOS and Linux. Save from 70+ platforms (YouTube, TikTok, Facebook, Instagram, X/Twitter, Bilibili and more) in up to 8K, with playlist, channel and batch downloads and no watermark. | **30% OFF** all plans with code **BF2026** (Pro $10 → $7, Extended $15 → $10.50) | 2026-12-02 |
+| ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 
 
 ### Marketing
@@ -877,6 +885,7 @@ Free & open-source.
 | 🔎 | [LinkFinder AI](https://linkfinderai.com/lifetime-deal) | Find emails, phone numbers and LinkedIn data from a LinkedIn URL, a name or a company, one at a time or a whole CSV / Google Sheet, in the app, by API or from Claude and ChatGPT (MCP). | **Lifetime deal instead of a monthly plan**: $149 once for 2,500 credits every month (first 50 seats, then $179), or $299 once for 7,500 credits every month. No code needed | 2026-11-30 |
 | ✉️ | [Emelia](https://emelia.io/blackfriday) | B2B prospecting: cold email and LinkedIn campaigns, warmup, Sales Navigator scraping, email and phone finder. | **30% to 40% OFF** annual plans, no code needed (Start €370 → €259, Grow €970 → €630.50) |  |
 | 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
+| 📑 | [AY Tenders](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with nightly email alerts. Each notice links to the official source. | **50% OFF** the first month on monthly plans, no code needed (applied automatically at checkout): Tenders $19 → $9.50, Tenders + Grants $24 → $12. Then renews at the normal price. | 2026-11-30 |
 
 ### Email Marketing
 
@@ -949,6 +958,7 @@ Free & open-source.
 | 🧰 | [SaaS Toolkit](https://saastoolkit.ai/black-friday) | AI chat, visitor identification, email follow-up and team alerts in one place, turning anonymous visitors into paying customers. | **83% OFF** the first year with code **BF2026**: Growth $348 → $59, Business $588 → $99. First 100 buyers, one per customer. Starts on 2026-11-20 | 2026-12-01 |
 | 📹 | [HeyStream](https://heystream.com/pricing?coupon=BF2026) | HeyStream helps marketing teams run branded live webinars and broadcasts, capture audience signals, and trigger smarter follow-up. | **40% off** the first year on an annual Launch, Growth or Scale plan for new customers who start a seven-day trial through the offer link by 30 November 2026 inclusive (GMT). Code **BF2026**. Plans renew at the regular annual price. Starts on 2026-11-19 | 2026-11-30 |
 | 🎤 | [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | Turn what you know into a workshop or online summit that introduces new people to your work. With HeySummit, you can open registration in minutes and start selling tickets. | **40% off** the first year of annual Starter, Growth or Success with code **V3UlY3Iz**. New customers only. Annual Starter is US$234 for the first year, usually US$390. Extra attendee capacity and renewals are at the standard rate. | 2026-11-30 |
+| 📋 | [Waitlyze](https://waitlyze.com/pricing) | Branded waitlist pages for founders and creators, with referrals, launch emails and signup analytics. | **40% OFF** Pro Annual for year one ($119 → $71.40) with code **BFCM2026**; renews at $119/year | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1221,6 +1231,7 @@ Free & open-source.
 | 🛡️ | [EasyGuard VPN](https://easyguard.app/#deal) | VPN apps for computer, phone and TV, with 10 simultaneous devices, unlimited bandwidth and all server locations. | **70% OFF** 12 months: US$14.99 (normally US$49.99), one payment, no auto-renewal. Automatic discount, no coupon needed. Available worldwide | 2026-11-30 |
 | 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 250k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 30% OFF lifetime membership with code **BF2026** | 2026-12-05 |
 | 💰 | [Side Projects Making MRR](https://niftydigits.gumroad.com/l/side-projects/BF2026) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2026 | 30% OFF lifetime access with code **BF2026** | 2026-12-05 |
+| 🏛️ | [AY Grants](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. Every row links to the official notice. | **50% OFF** the first month on the monthly plan, no code needed (applied automatically at checkout): $9 → $4.50, then renews at $9/mo. | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
