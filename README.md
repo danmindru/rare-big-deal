@@ -996,6 +996,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 🔧 | [Check Engine SEO](https://checkengineseo.com/pricing/) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. Free version available. | No code needed. Black Friday sale: $19.99 once through December 2. Then $39. One-time purchase | 2026-12-02 |
 | 🚀 | [Citation Rocket](https://www.citationrocket.com/pricing) | AI-search readiness audit: checks if AI assistants name your brand and gives a ranked fix list. Pay once, uses your own OpenRouter key. | **40% OFF** lifetime licence, no code needed: Lifetime $99 → $59, Agency $149 → $89 | 2026-12-02 |
+| 🐶 | [SEODog](https://seodog.app) | Native Mac SEO suite you pay for once: site audit ranked by the Search Console clicks at stake, Search Console history kept past 16 months, rank tracking, AI crawler access and local SEO. Your data stays on your Mac. | **$50 OFF** Lifetime ($249 → $199) and **$30 OFF** Standard ($129 → $99), no code needed. One-time purchase | 2026-11-30 |
 
 
 ### Content Creation
