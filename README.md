@@ -460,6 +460,7 @@ Free & open-source.
 | 🎙️ | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script locally on Mac and flags possible misreads, omissions, and extra words. | **US$19 one-time launch offer (standard US$29)** with code **LAUNCH** at checkout, for up to two Macs. | 2026-12-04 |
 | 🖼️ | [BabaPic](https://www.babapic.cc/) | Native macOS app for batch image compression and format conversion: compress, convert, resize and rename in one pass, fully local, no uploads. | **50% OFF** BabaPic Pro one-time ($19 → $9.50) with code **BABAPIC2026**. Nov 22 - Dec 31, 2026 | 2026-12-31 |
 | 📸 | [ScreenPost](https://screenpost.app/) | A native Mac app that takes a screenshot, recording or GIF from capture to a posted X post: capture, annotate, redact secrets, post. | **$19 instead of $29** (USD, one-time) with code **LAUNCH19**, pre-applied at checkout. Every feature, 1 year of updates. Starts on 2026-11-24 | 2026-12-01 |
+| 📋 | [Clipboard AI](https://clipboardai.app/black-friday) | Remember everything you copy on your iPhone and Mac, forever: search your clipboard history and paste it anywhere with ⌘⇧V, synced with iPhone and iPad. | **30% OFF** Lifetime Pro, pay once: $34.99 → $24.99 with code **BLACKFRIDAY**, applied automatically from the link. One purchase covers Mac, iPhone and iPad. | 2026-12-01 |
 
 
 ### Design Tools
@@ -625,6 +626,7 @@ Free & open-source.
 | 🎙️ | [Whisper Memos](https://whispermemos.com/changelog/2026-11-black-friday) | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries. Works in 58 languages. | **30% OFF** yearly ($69.99 → $49.99/year), applied automatically in the app, no code needed. The price stays as long as you stay subscribed. 7-day free trial for new users. Nov 16 - Dec 6, 2026 | 2026-12-06 |
 | 🍵 | [TeaGo](https://teago.artsvit.com/) | Browse repositories, review pull requests, and track issues on self-hosted Gitea or Forgejo from iPhone and iPad. | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
 | 📄 | [myPDF](https://apps.apple.com/app/id6751173174) | PDF editor for iPhone, iPad and Mac: edit the text in a PDF, merge and compress files, convert to and from Word, redact, and sign or fill forms. | **50% OFF** Pro on iPhone, iPad and Mac, one-time purchase: $6.99 → $3.49 USD, prices vary by country. No code needed | 2026-11-29 |
+| 📋 | [Clipboard AI](https://clipboardai.app/black-friday) | Remember everything you copy on your iPhone and Mac, forever: clipboard history with a keyboard that pastes it in any app. | **30% OFF** Lifetime Pro, pay once: $34.99 → $24.99 with code **BLACKFRIDAY**, applied automatically from the link. One purchase covers iPhone, iPad and Mac. | 2026-12-01 |
 
 
 ### Photos & Videos
