@@ -877,6 +877,7 @@ Free & open-source.
 | 🔎 | [LinkFinder AI](https://linkfinderai.com/lifetime-deal) | Find emails, phone numbers and LinkedIn data from a LinkedIn URL, a name or a company, one at a time or a whole CSV / Google Sheet, in the app, by API or from Claude and ChatGPT (MCP). | **Lifetime deal instead of a monthly plan**: $149 once for 2,500 credits every month (first 50 seats, then $179), or $299 once for 7,500 credits every month. No code needed | 2026-11-30 |
 | ✉️ | [Emelia](https://emelia.io/blackfriday) | B2B prospecting: cold email and LinkedIn campaigns, warmup, Sales Navigator scraping, email and phone finder. | **30% to 40% OFF** annual plans, no code needed (Start €370 → €259, Grow €970 → €630.50) |  |
 | 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
+| 📑 | [AY Tenders](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with nightly email alerts. Each notice links to the official source. | **50% OFF** the first month on monthly plans, no code needed (applied automatically at checkout): Tenders $19 → $9.50, Tenders + Grants $24 → $12. Then renews at the normal price. Starts on 2026-11-22 | 2026-11-30 |
 
 ### Email Marketing
 
@@ -1221,6 +1222,7 @@ Free & open-source.
 | 🛡️ | [EasyGuard VPN](https://easyguard.app/#deal) | VPN apps for computer, phone and TV, with 10 simultaneous devices, unlimited bandwidth and all server locations. | **70% OFF** 12 months: US$14.99 (normally US$49.99), one payment, no auto-renewal. Automatic discount, no coupon needed. Available worldwide | 2026-11-30 |
 | 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 250k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 30% OFF lifetime membership with code **BF2026** | 2026-12-05 |
 | 💰 | [Side Projects Making MRR](https://niftydigits.gumroad.com/l/side-projects/BF2026) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2026 | 30% OFF lifetime access with code **BF2026** | 2026-12-05 |
+| 🏛️ | [AY Grants](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. Every row links to the official notice. | **50% OFF** the first month on the monthly plan, no code needed (applied automatically at checkout): $9 → $4.50, then renews at $9/mo. Starts on 2026-11-22 | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
