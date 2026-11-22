@@ -783,19 +783,46 @@ module.exports = {
       logo: 'public/static/images/overrides/serpwrap/logo.png',
     },
     // ay-grants / ay-tenders: the sites only publish an inline SVG favicon. The logo is that SVG, rasterized.
+    // Pinned official og:image; a CI fetch hit DNS timeouts.
     'ay-grants': {
       logo: 'public/static/images/overrides/ay-grants/logo.png',
+      ogImage: 'public/static/images/overrides/ay-grants/og-image.png',
     },
     'ay-tenders': {
       logo: 'public/static/images/overrides/ay-tenders/logo.png',
+      ogImage: 'public/static/images/overrides/ay-tenders/og-image.png',
     },
     // narrationbox.com/pricing gave no usable banner. This is the official og:image.
+    // The logo is the official 180px apple-touch-icon.
     'narration-box': {
+      logo: 'public/static/images/overrides/narration-box/logo.png',
       ogImage: 'public/static/images/overrides/narration-box/og-image.png',
     },
     // babapic.cc's og:image headline is Chinese. The banner is a reviewed screenshot of the English homepage.
     babapic: {
       ogImage: 'public/static/images/overrides/babapic/og-image.png',
+    },
+    // The saved logo was a 32px favicon. This is the official 180px apple-touch-icon.
+    // Pinned official og:image; a CI fetch hit DNS timeouts.
+    stashkin: {
+      logo: 'public/static/images/overrides/stashkin/logo.png',
+      ogImage: 'public/static/images/overrides/stashkin/og-image.png',
+    },
+    // Pinned official og:image; a CI fetch hit DNS timeouts.
+    screenpost: {
+      ogImage: 'public/static/images/overrides/screenpost/og-image.png',
+    },
+    // Pinned official og:image; a CI fetch hit DNS timeouts.
+    waitlyze: {
+      ogImage: 'public/static/images/overrides/waitlyze/og-image.png',
+    },
+    // Pinned official og:image; a CI fetch hit DNS timeouts.
+    zhenzhu: {
+      ogImage: 'public/static/images/overrides/zhenzhu/og-image.png',
+    },
+    // keystro.app's og:image is 256x192. The banner is a reviewed 1200x630 homepage screenshot.
+    keystro: {
+      ogImage: 'public/static/images/overrides/keystro/og-image.png',
     },
   },
 };
