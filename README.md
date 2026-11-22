@@ -307,6 +307,7 @@ Free & open-source.
 | ⚖️ | [Legalnaut](https://legalnaut.com/pricing) | AI case workspace for litigation teams: reads the whole case file, builds the chronology, flags contradictions and maps proof, with every fact linked to its source page. | **30% OFF** any plan for the first 12 months with code **BF2026**. 7-day free trial, no card. | 2026-11-30 |
 | 🎨 | [MakeMidas](https://makemidas.com/pricing) | Web app for AI images, videos, music and voiceovers with GPT Image, Nano Banana, Veo, Kling, Seedance and Suno, on one credit balance. | **Up to 25% more credits** on every one-time credit pack, no code needed: 125 credits per $1, e.g. $10 for **1,250** credits instead of 1,000, $50 for **6,250** instead of 5,250. Pack credits are valid 12 months. | 2026-12-01 |
 
+| 🎯 | [Right Suite](https://rightsuite.co/?ref=rarebigdeal) | Test your price, landing page, cold email or ad on 100+ AI-simulated buyers modelled on your audience before you spend. See whether they'd pay and what to change, in about 20 minutes. | **First month of Starter free** with code **BLACKFRIDAY** (then $4.99/mo, cancel any time). First 100 founders | 2026-12-31 |
 
 ### Lifestyle
 
