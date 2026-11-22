@@ -187,6 +187,7 @@ Free & open-source.
 | 🗄️ | [Layerbase](https://layerbase.com/pricing) | Serverless databases with flat monthly pricing: Postgres, MySQL, Redis, Valkey, ClickHouse, Qdrant, Meilisearch and more across 19 cloud engines, no egress or usage metering. | **50% OFF** your first month: **BFSOLO26** = Solo $2.50 first month (then $5/mo), **BFPRO26** = Pro $7.50 first month (then $15/mo). First 50 redemptions per code. | 2026-11-30 |
 | 🔎 | [SerpWrap](https://serpwrap.com) | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months. | **40% OFF** every credit pack with code **BLACKF40**. | 2026-11-30 |
 | 🔐 | [Termalin](https://termal.in/pricing/) | SSH, SFTP and RDP client for Windows, macOS, Linux and iOS with end-to-end encrypted sync. Also lets ChatGPT, Claude and coding agents run commands on your servers without SSH keys, with a command allowlist and an audit log. The desktop app is free. | **16 months for the price of 12** on yearly Pro ($96, $8 → $6/mo) plus 100 GB of cloud storage. Applied automatically, no code. Starts on 2026-11-23 | 2026-12-01 |
+| 🤖 | [WPOS](https://wpos.ai/black-friday/) | AI agent for WordPress: works inside wp-admin on the sites you already run, on any host, builds pages natively in Gutenberg, Elementor or Divi and checks its own work. Claude Code, Cursor or Codex can drive it over MCP. | **50% OFF** site licences for the first 2 months with code **FRIDAY50** ($25 → $12.50 per site/month), plus **15,000 free credits** for new accounts (usually 5,000, no card). Ends 11:59 p.m. Pacific Time. | 2026-11-30 |
 
 
 ### Browser Extensions
@@ -230,7 +231,7 @@ Free & open-source.
 | 🤖 | [Aymo AI](https://aymo.ai) | All-in-one multi-AI chat platform designed for developers and teams to collaborate, create, and connect faster. | **30% OFF** paid plans, recurring (kept on every renewal), with code **BLFCM2026**. Sale runs 16 Nov–1 Dec 2026. | 2026-12-01 |
 | 🚀 | [Meku](https://meku.dev) | Meku.dev helps developers build AI-powered websites and tools faster, designed for modern, scalable UI generation. | **30% OFF** all paid plans, recurring (kept on every renewal), with code **BLFCM2026**. Sale runs 16 Nov–1 Dec 2026. | 2026-12-01 |
 | 🤖 | [Wovo](https://wovo.one/#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly plans, applied automatically at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | 2026-12-15 |
-| 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | No code needed. Black Friday sale: $16.99 once through December 2. Then $39. One-time purchase | 2026-12-02 |
+| 🛰️ | [Outlier](https://outlier.host/pricing/) | Runs open AI models on your own Mac, even offline; chats stay on your Mac unless you use web search or Research. Chat plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | No code needed. Black Friday sale: $16.99 once through December 2. Then $39. One-time purchase | 2026-12-02 |
 | 🦀 | [OneClickClaw](https://oneclickclaw.io/plans) | Managed OpenClaw or Hermes Agent server in the EU, set up for you. | **Up to 33% OFF** the first month on monthly plans, applied automatically (Starter €14.99 → €9.99) | 2026-12-01 |
 | 🧑‍💼 | [Talking Avatar](https://talking-avatar.dev/black-friday) | Photorealistic AI avatars that speak your voice agent's audio in real time, plus no-code AI voice agents with the avatar included. | **2x credits** with code **LAUNCH2X**: your next top-up is matched up to $100 (pay $100, get $200 of credits), once per account | 2026-12-04 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
@@ -304,6 +305,7 @@ Free & open-source.
 | 🖼️ | [ChatImg](https://chatimg.ai/en/pricing) | AI image generator and editor: upload a photo, type the change in plain words, and export, with the leading image models on one credit balance. | **50% OFF** the first payment of Plus and Pro (Pro yearly ~~$215.28~~ **$107.64**), plus **30% OFF** credit packs ($40 → $28), applied automatically, no code needed. Ends Dec 1, 11:59 pm PT. | 2026-12-01 |
 | 🎨 | [Comik AI](https://comik.ai/pricing) | Story-driven AI anime studio: create anime images and comics with reusable characters, turn generated or uploaded comics into motion comics, or build AI Short Dramas shot by shot. | **45% OFF** yearly plans (Pro ~~$29~~ **$15.95**/mo billed yearly), or **35% OFF** the first month of Pro and Max monthly, applied automatically at checkout, no code needed | 2026-11-30 |
 | ⚖️ | [Legalnaut](https://legalnaut.com/pricing) | AI case workspace for litigation teams: reads the whole case file, builds the chronology, flags contradictions and maps proof, with every fact linked to its source page. | **30% OFF** any plan for the first 12 months with code **BF2026**. 7-day free trial, no card. | 2026-11-30 |
+| 🎨 | [MakeMidas](https://makemidas.com/pricing) | Web app for AI images, videos, music and voiceovers with GPT Image, Nano Banana, Veo, Kling, Seedance and Suno, on one credit balance. | **Up to 25% more credits** on every one-time credit pack, no code needed: 125 credits per $1, e.g. $10 for **1,250** credits instead of 1,000, $50 for **6,250** instead of 5,250. Pack credits are valid 12 months. | 2026-12-01 |
 
 
 ### Lifestyle
@@ -544,6 +546,7 @@ Free & open-source.
 | 🖱️ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Move the pointer instantly between Mac displays or saved positions using a shortcut or programmable mouse button. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed | 2026-12-06 |
 | 🪑 | [Poxture App](https://poxture.com/) | A posture app for your Mac's menu bar: it checks how you sit through the camera and shows the fix. No account, no subscription, works without internet. Apple Silicon, macOS 15 or later. | **34% OFF** with code **BLACKFRIDAY** ($29 → $19, one-time, one Mac). Ends 23:59 IST | 2026-11-30 |
 | 🎚️ | [Earmix](https://earmix.app/) | Volume mixer for the Mac menu bar. Set the volume for each app and each browser tab, send each app to its own output, and add EQ. One-time purchase with a free trial. | **50% OFF** one-time purchase ($12.99 → $6.50) with code **BLACKFRIDAY50** | 2026-12-01 |
+| 🌡️ | [ThermPort](https://thermport.com) | Menu bar system monitor for Apple Silicon Macs: CPU and GPU temperature, fan speed, memory, power and network, with history charts, alerts and PDF reports. One-time purchase. | **29% OFF** ($6.99 → $4.99, one-time) with code **BF2026**, applied automatically from thermport.com. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1013,6 +1016,7 @@ Free & open-source.
 | 🧱 | [TanStarter](https://tanstarter.dev/#pricing) | React SaaS starter for TanStack Start on Cloudflare Workers with authentication, billing and D1 storage. | **Save US$100** on Lifetime (US$199 → US$99); `2026-BLACKFRIDAY` applied automatically. | 2026-11-30 |
 | 🧱 | [MkSaaS](https://mksaas.com/#pricing) | Full-stack Next.js starter with working auth, billing, AI chat and image generation. | Lifetime $99 instead of $199; save $100 automatically. | 2026-11-30 |
 | 🌐 | [ShadcnSpace](https://shadcnspace.com) | Ready-to-use 1400+ shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. Free and Pro. | **40% OFF** Pro with code **BFCM** | 2026-12-01 |
+| 🧱 | [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers (TanStack Start + D1/PostgreSQL) with 40 coding-agent runbooks, 4 payment providers, 4 AI providers, a credit ledger and an admin center. | **50% OFF** Early Access one-time license ($99 → $49 USD), no code needed (auto-applied). No renewal fees. | 2026-12-06 |
 
 
 ### Astro
@@ -1087,6 +1091,7 @@ Free & open-source.
 | 📄 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | PDF viewer component for React apps with search, highlights and programmatic control. Perpetual license. | **50% OFF** Developer ($89 → $44.50) and Organization ($239 → $119.50) licenses with code **BFCM2026** | 2026-12-01 |
 | 🧩 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | **Up to 60% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 | ✨ | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | **Up to 40% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
+| 🚀 | [ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/) | 5 single-file HTML/Tailwind SaaS landing page templates + 25-pt CRO Playbook. | **61% OFF** ($19 instead of $49), no code needed. | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -1132,6 +1137,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/#pricing) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | **50% OFF** with code **BLACK**: Just The Guide $19.50 (usually $39), The Guide + Tools + Templates $24.50 (usually $49) | |
+| 🚀 | [Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/) | Notion-importable launch workspace + 50-community directory + 2x PNG Graphics Studio. | **64% OFF** ($14 instead of $39), no code needed. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1196,6 +1202,7 @@ Free & open-source.
 | 💰 | [MoneyWiz](https://www.wiz.money/black-friday) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, reports, investments and optional bank sync. | **20% OFF** the first year of Standard ($29.99 → $23.99) and Premium ($59.99 → $47.99), and the first month of Premium monthly ($5.99 → $4.79), with code **BFCM26**. Website only, new purchases; no App Store discount; renews at regular price. US reference prices. | 2026-12-01 |
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements (digital or scanned) to clean CSV for Excel, QuickBooks or Xero. Free preview before you pay; files deleted within 24 hours. | **10% OFF** your first 10 file conversions with code **BLACKFRIDAY26** at sign-up (from $1 per conversion) | 2026-12-01 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Turn PDF credit card statements from any issuer into clean CSV for expense tracking, bookkeeping or budgeting apps. Free preview; no sign-up to start. | **10% OFF** your first 10 file conversions with code **BLACKFRIDAY26** at sign-up (from $1 per conversion) | 2026-12-01 |
+| 📊 | [TotalFigures](https://totalfigures.app/) | Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app. | **88% OFF** Premium, applied automatically on the App Store, no code needed: Lifetime ~~$79.99~~ **$9.59**, or the first year of Yearly ~~$29.99~~ **$3.59** (new subscribers, then $29.99/year; Yearly offer until 2026-12-02). US prices; local prices vary. | 2026-12-03 |
 
 
 [⬆️ All categories](#table-of-contents)
