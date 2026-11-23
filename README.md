@@ -1135,6 +1135,7 @@ Free & open-source.
 | 🧠 | [Unlearn](https://unlearn.dev/pricing) | Courses, workflows and agent skills that teach developers to spec, build, review and ship with AI agents. | **56% OFF** Unlearn Plus Lifetime, **$399** once (regular $899). Black Friday special: one pass opens everything for **$999** (total value ~~$2,895~~) with lifetime access to Unlearn.dev, mid-level and senior certifications in a framework of your choice, the AI-Native Developer Certification and a 3-week live AI Bootcamp. Until Dec 2, 2026 | 2026-12-02 |
 | 🧑‍💻 | [pwn.guide](https://pwn.guide/pricing) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | **20% OFF** every plan, forever (renewals and lifetime plans included) with code **BLKFRI20**, card checkout | 2026-12-05 |
 | 🛡️ | [SecurityPaths Academy](https://academy.securitypaths.com/courses) | Hands-on security courses with labs, exam and certification: Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP). Formerly WiFiChallenge Academy. | **25% OFF** CWP and CRP with code **BLACKFRIDAY26**, applied automatically (Nov 21 – Nov 30, 2026) | 2026-11-30 |
+| 🛡️ | [Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking) | Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs and lifetime access. | **40% OFF** ($149 → $89.40) with code **BYTENOV40** (Nov 23 – Nov 30, 2026) | 2026-11-30 |
 
 ### Art Courses
 
