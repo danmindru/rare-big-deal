@@ -461,6 +461,7 @@ Free & open-source.
 | 🖼️ | [BabaPic](https://www.babapic.cc/) | Native macOS app for batch image compression and format conversion: compress, convert, resize and rename in one pass, fully local, no uploads. | **50% OFF** BabaPic Pro one-time ($19 → $9.50) with code **BABAPIC2026**. Nov 22 - Dec 31, 2026 | 2026-12-31 |
 | 📸 | [ScreenPost](https://screenpost.app/) | A native Mac app that takes a screenshot, recording or GIF from capture to a posted X post: capture, annotate, redact secrets, post. | **$19 instead of $29** (USD, one-time) with code **LAUNCH19**, pre-applied at checkout. Every feature, 1 year of updates. Starts on 2026-11-24 | 2026-12-01 |
 
+| 📺 | [Reelloft](https://reelloft.com) | Local video library and TV caster for macOS and Windows: point at a folder, watch on your phone browser via QR code, or cast to DLNA, Chromecast and AirPlay TVs on your Wi-Fi. No account; every cast plays 5 minutes free. | **40% OFF** Lifetime license (~~$15~~ **$9**, one-time purchase) with code **REELLOFTBF** (Nov 24 - Dec 2, 2026). | 2026-12-02 |
 
 ### Design Tools
 
@@ -553,6 +554,7 @@ Free & open-source.
 | 🌡️ | [ThermPort](https://thermport.com) | Menu bar system monitor for Apple Silicon Macs: CPU and GPU temperature, fan speed, memory, power and network, with history charts, alerts and PDF reports. One-time purchase. | **29% OFF** ($6.99 → $4.99, one-time) with code **BF2026**, applied automatically from thermport.com. | 2026-12-01 |
 | 📖 | [Zhenzhu](https://zhenzhu.app/#pricing) | Native macOS menu-bar Chinese pop-up dictionary and sentence mining app: select, hover, or snip (on-device OCR) Chinese in any app, PDF, or paused video, with local FSRS flashcards and 1-click Anki export. Signed & notarized, macOS 15+. | **69% OFF** Pro lifetime license ($29 → $9, one-time, 3 Macs, all future updates) with code **BF2026**, applied automatically via zhenzhu.app/buy. | 2026-12-01 |
 
+| ⌨️ | [KeyEcho](https://keyecho.app) | Mechanical keyboard sound app for macOS (also Windows and Linux) with press-and-release keystroke audio, 18 free sound packs and 70+ switch profiles. Local-only, no account needed. | **40% OFF** All Sounds Forever (~~$9.99~~ **$5.99**, one-time purchase) with code **BF2026** (Nov 24 - Dec 2, 2026). | 2026-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
