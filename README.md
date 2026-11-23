@@ -1211,7 +1211,7 @@ Free & open-source.
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements (digital or scanned) to clean CSV for Excel, QuickBooks or Xero. Free preview before you pay; files deleted within 24 hours. | **10% OFF** your first 10 file conversions with code **BLACKFRIDAY26** at sign-up (from $1 per conversion) | 2026-12-01 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Turn PDF credit card statements from any issuer into clean CSV for expense tracking, bookkeeping or budgeting apps. Free preview; no sign-up to start. | **10% OFF** your first 10 file conversions with code **BLACKFRIDAY26** at sign-up (from $1 per conversion) | 2026-12-01 |
 | 📊 | [TotalFigures](https://totalfigures.app/) | Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app. | **88% OFF** Premium, applied automatically on the App Store, no code needed: Lifetime ~~$79.99~~ **$9.59**, or the first year of Yearly ~~$29.99~~ **$3.59** (new subscribers, then $29.99/year; Yearly offer until 2026-12-02). US prices; local prices vary. | 2026-12-03 |
-
+| 📑 | [TabLinker](https://apps.apple.com/us/app/tablinker-tabs-manager/id6758283574?platform=mac) | Mac-first browser session manager for Mac, iPhone and iPad. Back up, save and restore tabs and windows across Safari, Chrome, Firefox, Arc, Brave, Edge, Dia and more. Organize links and sync via iCloud. | **45% OFF** Lifetime Pro (one-time purchase): ~~$17.99~~ **$9.99**, automatically applied in-app, no code needed. Nov 23 - Dec 1, 2026. | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
