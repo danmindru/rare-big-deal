@@ -612,6 +612,7 @@ Free & open-source.
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
 | 📝 | [SideNotes Mobile](https://www.apptorium.com/sidenotes-mobile) | Quick, organized notes for iPhone and iPad, with hidden Markdown, folders, pinning, folding and iCloud sync with Mac. | **40% OFF** one-time purchase ($9.99 → $5.99), no code needed | 2026-12-06 |
 | 🗒️ | [FiveNotes Mobile](https://www.apptorium.com/fivenotes/mobile) | Five focused notes on iPhone, iPad and Apple Watch, with Markdown, themes, backups, Shortcuts and iCloud sync. | **25% OFF** one-time purchase ($3.99 → $2.99), no code needed | 2026-12-06 |
+| 🗒️ | [Note](https://apps.apple.com/app/note/id1602765272) | For iPhone & iPad. Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app. | **40% OFF** One-time purchase. | 2026-12-01 |
 
 
 ### Productivity
@@ -661,6 +662,7 @@ Free & open-source.
 | 🔒 | [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | Keep private photos and videos in a PIN-protected vault that looks like a working calculator, currency converter, or puzzle. | Pro Lifetime $14.99 USD with code BFCM26 ($29.99 without code). Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
 | 🧹 | [Deletti](https://deletti.app/#black-friday) | A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them. | Single Lifetime $8.99 USD with code BFCM26 ($17.99 without code). Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. | 2026-12-01 |
 | 🎬 | [Lumière - Media & Music Player](https://lumiere.artsvit.com/) | Play movies, shows, and music from your own media servers or NAS on Mac, iPhone, iPad and Apple TV. | **About 20% OFF** Lumière Plus Lifetime (US$59.99 → US$47.99; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6830332402&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
+| ❤️ | [<3: locket & couple widget](https://apps.apple.com/app/heart-locket-couple-widget/id6452191888) | Create a shortcut widget for that one special person. Show their photo or icon in a widget on your Home or Lock Screen and, with one tap, open your conversation in the messaging app you use together. | **Free** | 2026-12-31 |
 
 
 ### Health & Fitness
