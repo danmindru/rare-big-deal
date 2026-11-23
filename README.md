@@ -959,6 +959,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📡 | [Radar Lab](https://partnershipintel.com/#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF Pro yearly**: ~~$299~~ **$99/year**, locked for as long as you stay. No code needed | 2026-11-30 |
+| 📣 | [Micro SaaS Examples](https://www.microsaasexamples.com/featured) | Curated directory of 500+ micro SaaS products across 39 categories. Helps founders discover startup ideas and promote their products through featured listings. | **30% OFF** featured listings ($147 → $99), no code required. Starts on 2026-11-23. | 2026-12-30 |
 
 
 ### Other
