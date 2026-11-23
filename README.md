@@ -899,7 +899,6 @@ Free & open-source.
 | 🥷 | [Kuroko](https://usekuroko.com) | Menu bar app for live product demos: draw and spotlight on screen, mirror your iPhone in a clean device frame, and keep a timer and teleprompter only you can see, even while screen sharing. Apple silicon, macOS 26 or later. One-time purchase. | **50% OFF** opening price on the Mac App Store ($19.99 → $9.99). No code needed. | 2026-12-01 |
 | 📑 | [AY Tenders](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with nightly email alerts. Each notice links to the official source. | **50% OFF** the first month on monthly plans, no code needed (applied automatically at checkout): Tenders $19 → $9.50, Tenders + Grants $24 → $12. Then renews at the normal price. | 2026-11-30 |
 
-
 ### Email Marketing
 
 | | Name | Description | Deal | Expires on date |
