@@ -856,6 +856,55 @@ module.exports = {
     'vector-ink': {
       ogImage: 'public/static/images/overrides/vector-ink/og-image.png',
     },
+    // Official og:image and official icon.
+    imagetopes: {
+      logo: 'public/static/images/overrides/imagetopes/logo.png',
+      ogImage: 'public/static/images/overrides/imagetopes/og-image.png',
+    },
+    // Official og:image and official icon.
+    'poop-tracker-log-ease': {
+      logo: 'public/static/images/overrides/poop-tracker-log-ease/logo.png',
+      ogImage: 'public/static/images/overrides/poop-tracker-log-ease/og-image.png',
+    },
+    // Official og:image and official icon.
+    'relationship-tracker-duo': {
+      logo: 'public/static/images/overrides/relationship-tracker-duo/logo.png',
+      ogImage: 'public/static/images/overrides/relationship-tracker-duo/og-image.png',
+    },
+    // Official og:image and official icon.
+    'visual-timer-for-kids-tim': {
+      logo: 'public/static/images/overrides/visual-timer-for-kids-tim/logo.png',
+      ogImage: 'public/static/images/overrides/visual-timer-for-kids-tim/og-image.png',
+    },
+    // Official og:image and official icon.
+    'omni-brain': {
+      logo: 'public/static/images/overrides/omni-brain/logo.png',
+      ogImage: 'public/static/images/overrides/omni-brain/og-image.png',
+    },
+    // Official og:image and official icon.
+    glowlink: {
+      logo: 'public/static/images/overrides/glowlink/logo.png',
+      ogImage: 'public/static/images/overrides/glowlink/og-image.png',
+    },
+    // Official icon. The og image is the maker's English version of its official German Black Week banner.
+    bookable: {
+      logo: 'public/static/images/overrides/bookable/logo.png',
+      ogImage: 'public/static/images/overrides/bookable/og-image.png',
+    },
+    // Official og:image.
+    wallper: {
+      ogImage: 'public/static/images/overrides/wallper/og-image.png',
+    },
+    // Official og:image. The logo is its official SVG icon, rasterized.
+    snapapp: {
+      logo: 'public/static/images/overrides/snapapp/logo.png',
+      ogImage: 'public/static/images/overrides/snapapp/og-image.png',
+    },
+    // Official og:image and official icon.
+    fadeclock: {
+      logo: 'public/static/images/overrides/fadeclock/logo.png',
+      ogImage: 'public/static/images/overrides/fadeclock/og-image.png',
+    },
     // usetantra.com links a 64px icon. This is the official 180px apple-touch icon.
     // The banner is the official 1200x630 opengraph image.
     tantra: {
@@ -864,11 +913,47 @@ module.exports = {
     },
     // Official 1200x630 share image published at getvoibe.com/images/og-share.png.
     voibe: {
+      logo: 'public/static/images/overrides/voibe/logo.png',
       ogImage: 'public/static/images/overrides/voibe/og-image.png',
+    },
+    // Official og:image and official icon.
+    'android-app-hacking-mastery': {
+      logo: 'public/static/images/overrides/android-app-hacking-mastery/logo.png',
+      ogImage: 'public/static/images/overrides/android-app-hacking-mastery/og-image.png',
+    },
+    // Official og:image and official icon.
+    mockvid: {
+      logo: 'public/static/images/overrides/mockvid/logo.png',
+      ogImage: 'public/static/images/overrides/mockvid/og-image.png',
+    },
+    // Official og:image and official icon.
+    hooktide: {
+      logo: 'public/static/images/overrides/hooktide/logo.png',
+      ogImage: 'public/static/images/overrides/hooktide/og-image.png',
+    },
+    // Official og:image.
+    mixpost: {
+      ogImage: 'public/static/images/overrides/mixpost/og-image.png',
     },
     // Official 1200x630 homepage share image. The pricing page publishes its own card.
     cryptokeyhole: {
+      logo: 'public/static/images/overrides/cryptokeyhole/logo.png',
       ogImage: 'public/static/images/overrides/cryptokeyhole/og-image.png',
+    },
+    // Official og:image and official icon.
+    'aso-atlas': {
+      logo: 'public/static/images/overrides/aso-atlas/logo.png',
+      ogImage: 'public/static/images/overrides/aso-atlas/og-image.png',
+    },
+    // Official og:image and official icon.
+    'latw-ai-translation-plugins': {
+      logo: 'public/static/images/overrides/latw-ai-translation-plugins/logo.png',
+      ogImage: 'public/static/images/overrides/latw-ai-translation-plugins/og-image.png',
+    },
+    // Official og:image and official icon.
+    morse: {
+      logo: 'public/static/images/overrides/morse/logo.png',
+      ogImage: 'public/static/images/overrides/morse/og-image.png',
     },
   },
 };
