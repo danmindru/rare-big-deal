@@ -824,5 +824,37 @@ module.exports = {
     keystro: {
       ogImage: 'public/static/images/overrides/keystro/og-image.png',
     },
+    // Parse Submission kept the generic site banner. This is the reviewed official banner.
+    'clipboard-ai': {
+      ogImage: 'public/static/images/overrides/clipboard-ai/og-image.png',
+    },
+    // Parse Submission kept the generic site banner. This is the reviewed official banner.
+    reelloft: {
+      ogImage: 'public/static/images/overrides/reelloft/og-image.png',
+    },
+    // The App Store page has no usable og:image. The banner is a reviewed screenshot of that page.
+    tablinker: {
+      ogImage: 'public/static/images/overrides/tablinker/og-image.png',
+    },
+    // Parse Submission kept the generic site banner. This is the reviewed official banner.
+    meetmic: {
+      ogImage: 'public/static/images/overrides/meetmic/og-image.png',
+    },
+    // Parse Submission kept the generic site banner. This is the reviewed official banner.
+    docrenewal: {
+      ogImage: 'public/static/images/overrides/docrenewal/og-image.png',
+    },
+    // Parse Submission kept the generic site banner. This is the reviewed official banner.
+    highseat: {
+      ogImage: 'public/static/images/overrides/highseat/og-image.png',
+    },
+    // Parse Submission kept the generic site banner. This is the reviewed official banner.
+    yovid: {
+      ogImage: 'public/static/images/overrides/yovid/og-image.png',
+    },
+    // No usable official og:image. The banner is a reviewed screenshot of the Black Friday page.
+    'vector-ink': {
+      ogImage: 'public/static/images/overrides/vector-ink/og-image.png',
+    },
   },
 };
