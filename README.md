@@ -988,6 +988,7 @@ Free & open-source.
 | 🔗 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | **36% OFF** the monthly Pro plan ($149 → $95/month), auto-applied, no code needed. Starts on 2026-11-15 | 2026-11-30 |
 | 🐰 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Your coding agent (Claude Code, Codex) exchanges contextual nofollow backlinks with other reviewed sites, via a Skill, MCP or API. You approve every link. | **30% OFF** the first annual payment with code **BLACKFRIDAY2026**: $210 → $147, then $210/year. First-time paying customers, annual plan only | 2026-11-30 |
 | 🚀 | [Launch Agent Kit](https://swipetolaunch.com/kit) | A kit your AI agent (Claude Code, Codex, Cursor or any other agent) uses to submit your product to the 300+ launch directories that fit your niche, then report every listing. | **$29 one-time** Black Friday price, no code needed. The price goes to $99 on 2026-12-02 | 2026-12-01 |
+| 🔎 | [AITroveX](https://aitrovex.com/pricing?utm_source=rarebigdeal) | Hand-checked AI tools directory with verified key facts, Schema.org JSON-LD, and llms.txt. Priority listings require no backlink, get reviewed within 2 business days, and include a dofollow link. | **71% OFF** Bulk credit pack (~~$100~~ **$29** for 20 Priority submissions, $1.45/tool), one-time purchase, credits never expire, no code needed | 2026-12-01 |
 
 
 ### Tools
