@@ -905,12 +905,13 @@ module.exports = {
       logo: 'public/static/images/overrides/fadeclock/logo.png',
       ogImage: 'public/static/images/overrides/fadeclock/og-image.png',
     },
-    // Official og:image and official icon. deals.usetantra.com publishes no usable logo.
+    // usetantra.com links a 64px icon. This is the official 180px apple-touch icon.
+    // The banner is the official 1200x630 opengraph image.
     tantra: {
       logo: 'public/static/images/overrides/tantra/logo.png',
       ogImage: 'public/static/images/overrides/tantra/og-image.png',
     },
-    // Official og:image and official icon.
+    // Official 1200x630 share image published at getvoibe.com/images/og-share.png.
     voibe: {
       logo: 'public/static/images/overrides/voibe/logo.png',
       ogImage: 'public/static/images/overrides/voibe/og-image.png',
@@ -934,7 +935,7 @@ module.exports = {
     mixpost: {
       ogImage: 'public/static/images/overrides/mixpost/og-image.png',
     },
-    // Official og:image and official icon.
+    // Official 1200x630 homepage share image. The pricing page publishes its own card.
     cryptokeyhole: {
       logo: 'public/static/images/overrides/cryptokeyhole/logo.png',
       ogImage: 'public/static/images/overrides/cryptokeyhole/og-image.png',
