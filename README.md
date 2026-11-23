@@ -791,6 +791,7 @@ Free & open-source.
 | 🎬 | [CursorClip](https://cursorclip.com/pricing/) | Native Mac screen recorder for tutorials, courses and product demos. It adds smooth zooms where you click while you record. New in 2.3: 86 backgrounds, a mic and camera check before you start, and captions made on your Mac. | **30% OFF** Lifetime ($70 → **$49**), one-time payment, no subscription. Code **BLACKFRIDAY** is applied automatically at checkout. Recording and editing are free; export needs a licence | 2026-11-30 |
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 | 🎬 | [Mockvid](https://mockvid.com/) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** the first year of Studio ($49 → $39.20/yr), no code needed (applied automatically) | 2026-12-01 |
+| 🎬 | [Narva](https://narva.app/#pricing) | Turn a topic, script or voiceover into a finished faceless YouTube video with narration, captions and music | **30% OFF** the first month of any plan with code NARVA30 ($29 → $20.30, $79 → $55.30, $199 → $139.30) | 2026-11-30 |
 
 
 ### Social
