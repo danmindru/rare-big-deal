@@ -460,7 +460,7 @@ Free & open-source.
 | 🎙️ | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script locally on Mac and flags possible misreads, omissions, and extra words. | **US$19 one-time launch offer (standard US$29)** with code **LAUNCH** at checkout, for up to two Macs. | 2026-12-04 |
 | 🖼️ | [BabaPic](https://www.babapic.cc/) | Native macOS app for batch image compression and format conversion: compress, convert, resize and rename in one pass, fully local, no uploads. | **50% OFF** BabaPic Pro one-time ($19 → $9.50) with code **BABAPIC2026**. Nov 22 - Dec 31, 2026 | 2026-12-31 |
 | 📸 | [ScreenPost](https://screenpost.app/) | A native Mac app that takes a screenshot, recording or GIF from capture to a posted X post: capture, annotate, redact secrets, post. | **$19 instead of $29** (USD, one-time) with code **LAUNCH19**, pre-applied at checkout. Every feature, 1 year of updates. Starts on 2026-11-24 | 2026-12-01 |
-
+| 🎙️ | [MeetMic](https://meetmic.app/buy) | Record and transcribe meetings, files and online videos on your Mac, dictate into any app, and create AI summaries. On-device by default, with no meeting bots. | **55% OFF** MeetMic Pro lifetime licences, one-time purchase, with code **BF26**. Nov 23 - Dec 10, 2026. | 2026-12-10 |
 
 ### Design Tools
 
