@@ -633,6 +633,7 @@ Free & open-source.
 | 📄 | [myPDF](https://apps.apple.com/app/id6751173174) | PDF editor for iPhone, iPad and Mac: edit the text in a PDF, merge and compress files, convert to and from Word, redact, and sign or fill forms. | **50% OFF** Pro on iPhone, iPad and Mac, one-time purchase: $6.99 → $3.49 USD, prices vary by country. No code needed | 2026-11-29 |
 | 📋 | [Clipboard AI](https://clipboardai.app/black-friday) | Remember everything you copy on your iPhone and Mac, forever: clipboard history with a keyboard that pastes it in any app. | **30% OFF** Lifetime Pro, pay once: $34.99 → $24.99 with code **BLACKFRIDAY**, applied automatically from the link. One purchase covers iPhone, iPad and Mac. | 2026-12-01 |
 | 📑 | [TabLinker](https://apps.apple.com/us/app/tablinker-tabs-manager/id6758283574) | Mac-first browser session manager for Mac, iPhone and iPad. Back up, save and restore tabs and windows across Safari, Chrome, Firefox, Arc, Brave, Edge, Dia and more. Organize links and sync via iCloud. | **45% OFF** Lifetime Pro (one-time purchase): ~~$17.99~~ **$9.99**, automatically applied in-app, no code needed. Nov 23 - Dec 1, 2026. | 2026-12-01 |
+| ⏱️ | [Visual Timer for Kids: Tim](https://apps.apple.com/us/app/visual-timer-for-kids-tim/id6771034858) | Visual timers and first-then routines for children on iPhone and iPad. | Black Friday lifetime **US$2.49** (US), normally from US$4.99; one-time in-app purchase, no code. Local prices vary. November 23, 00:00 UTC–December 1, 00:00 UTC, 2026 (end exclusive). | 2026-11-30 |
 
 
 ### Photos & Videos
