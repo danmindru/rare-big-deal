@@ -134,6 +134,7 @@ Free & open-source.
 | 🍓 | [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad. | **About 20% OFF** Single Lifetime (US$5.99 → US$4.79; local prices vary). Redeem [ARTSVITBF20](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) on Apple, through Nov 30 Pacific; first 500. | 2026-11-30 |
 | 👥 | [Doubles](https://doubles.dev/pricing) | Remote pair programming app for Mac: share your screen sharp enough to read code, let your pair drive when you allow it, and talk and draw together. Guests join from a browser. | **50% OFF** ($169 → $84.50, one-time purchase) with code **DOUBLES50**. Nov 20 - Dec 1, 2026 | 2026-12-01 |
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! with code **BLACKFRIDAY2026** Nov 20 - Dec 1, 2026 | 2026-12-01 |
+| 🔎 | [ASO Atlas](https://asoatlas.com/) | App Store keyword research and rank tracking for iOS, Mac and Google Play apps. Web app, native Mac app and MCP for AI agents. | **30% OFF** the first year of the Yearly plan (~~$100~~ **$70**), applied automatically at checkout or with code **BLACKWEEK30**. Until Nov 30, 2026 |
 
 
 ### APIs, Tools & SaaS
