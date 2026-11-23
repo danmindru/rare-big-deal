@@ -1212,6 +1212,7 @@ Free & open-source.
 | - | - | - | - | - |
 | 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual ($100 / $300 / $500 regular), first 3 months on monthly. Starts on 2026-11-23 | 2026-11-30 |
 | 📈 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF** Pro monthly: $23.40 USD/month for the next 3 paid months, then $39 USD/month. Auto-applied through the offer page; code **BLACKFRIDAY2026** if needed. One use per account. Ends November 30, 2026 at 11:59 p.m. CET. | 2026-11-30 |
+| 📈 | [CryptoKeyhole](https://cryptokeyhole.com/pricing/?utm_source=rarebigdeal&utm_medium=listing&utm_campaign=blackfriday-2026) | On-chain, derivatives and ETF analytics for Bitcoin, Ethereum and a growing list of coins, calculated on our own nodes: liquidation maps, cycle indicators, exchange flows, ETF flows and treasury companies. | **50% OFF** the first 3 months of Plus or Pro on monthly billing (Plus $18 → $9 a month), or **30% OFF** the first year on yearly billing (Plus $180 → $126). New subscribers, no code needed: the price is taken off at checkout | 2026-12-01 |
 
 
 ### Expense tracking
