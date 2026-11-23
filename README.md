@@ -209,7 +209,8 @@ Free & open-source.
 | 🛡️ | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that blocks fake shops, phishing and scam pages. | **30% OFF** your first period with code **BLACKFRIDAY2026** (yearly $22.99 → $16.09) | 2026-12-05 |
 | 🙈 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | **41% OFF** Lifetime Pro: $29 instead of $49, one-time payment (no code needed) | 2026-11-30 |
 | 📄 | [Stashkin](https://stashkin.com/pricing) | Chrome extension that exports ChatGPT conversations to editable Word (.docx), PDF, Markdown, PNG and JSON with tables, LaTeX equations and images intact. | **50% OFF** first year of Pro Annual ($46.56 → $23.28, $1.94/mo) with code **BF2026**. Annual plan only. | 2026-12-01 |
-
+| 📅 | [Appointment Book](https://rvstudioex.oraflow.one/appointment-book/) | Chrome and Edge extension for offline appointment scheduling and client calendars. No account needed — all data stays locally on your device. | **50% OFF** all plans with code **APPOINT50** (100 redemptions) | 2027-01-05 |
+| 🦷 | [Dental Appointment Book](https://rvstudioex.oraflow.one/dental-book/) | Chrome and Edge extension for dental clinics to manage patient appointments, doctor schedules, and tooth numbers locally offline. | **50% OFF** all plans with code **DENTAL50** (100 redemptions) | 2027-01-05 |
 
 ### Productivity & AI
 
