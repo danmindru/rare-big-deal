@@ -856,5 +856,19 @@ module.exports = {
     'vector-ink': {
       ogImage: 'public/static/images/overrides/vector-ink/og-image.png',
     },
+    // usetantra.com links a 64px icon. This is the official 180px apple-touch icon.
+    // The banner is the official 1200x630 opengraph image.
+    tantra: {
+      logo: 'public/static/images/overrides/tantra/logo.png',
+      ogImage: 'public/static/images/overrides/tantra/og-image.png',
+    },
+    // Official 1200x630 share image published at getvoibe.com/images/og-share.png.
+    voibe: {
+      ogImage: 'public/static/images/overrides/voibe/og-image.png',
+    },
+    // Official 1200x630 homepage share image. The pricing page publishes its own card.
+    cryptokeyhole: {
+      ogImage: 'public/static/images/overrides/cryptokeyhole/og-image.png',
+    },
   },
 };
