@@ -709,6 +709,7 @@ Free & open-source.
 | 🎤 | [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | **40% OFF** Lifetime ($49.99 → $29.99), one-time purchase, applied automatically in the app, no code needed. Nov 21 - Nov 30, 2026 | 2026-11-30 |
 | 🎧 | [CocoReader](https://www.cocoreader.cc/black-friday) | Reads the EPUB books you already own aloud on iPhone, with a Mac version. | **33% OFF** the first year of annual Pro (US$29.99 → US$19.99). No code needed; redeem in the App Store. Free to download. Renews at US$29.99/year. Starts on 2026-11-23 | 2026-12-01 |
 | 💞 | [Relationship tracker: Duo](https://apps.apple.com/us/app/relationship-tracker-duo/id6759326768) | A private space for couples to save memories and milestones, track time together, and use widgets on iPhone. | Black Friday lifetime **US$7.49** (US), normally from US$14.99; one-time in-app purchase, no code. Local prices vary. November 23, 00:00 UTC–December 1, 00:00 UTC, 2026 (end exclusive). | 2026-11-30 |
+| 🦁 | [DayDare](https://daydare.app/) | Social confidence practice for shy people: one small real-life mission a day, with the words ready before you go. iPhone, iPad and Apple Watch. | **57% OFF** $6.99 → $2.99 one-time purchase, no code needed | 2026-12-01 |
 
 
 ### Other
