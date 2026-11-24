@@ -618,7 +618,7 @@ Free & open-source.
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
 | 📝 | [SideNotes Mobile](https://www.apptorium.com/sidenotes-mobile) | Quick, organized notes for iPhone and iPad, with hidden Markdown, folders, pinning, folding and iCloud sync with Mac. | **40% OFF** one-time purchase ($9.99 → $5.99), no code needed | 2026-12-06 |
 | 🗒️ | [FiveNotes Mobile](https://www.apptorium.com/fivenotes/mobile) | Five focused notes on iPhone, iPad and Apple Watch, with Markdown, themes, backups, Shortcuts and iCloud sync. | **25% OFF** one-time purchase ($3.99 → $2.99), no code needed | 2026-12-06 |
-| 🗒️ | [Note](https://apps.apple.com/app/note/id1602765272) | For iPhone & iPad. Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app. | **40% OFF** One-time purchase: $4.99 → 2.99 | 2026-12-01 |
+| 🗒️ | [Note](https://apps.apple.com/app/note/id1602765272) | For iPhone & iPad. Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app. | **40% OFF** One-time purchase: $4.99 → $2.99 | 2026-12-01 |
 
 
 ### Productivity
