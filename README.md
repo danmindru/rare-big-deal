@@ -747,6 +747,8 @@ Free & open-source.
 | 🖼️ | [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint (real text boxes and shapes) or SVG, in your browser. | **45% OFF** the 150-credit pack ($79.90 → $43.95) with code **BLACKFRIDAY45** | 2026-12-01 |
 | 🎨 | [Vector Ink](https://vectorink.io/black-friday) | Online vector editor for logos, icons and SVG art, with AI tools and browser, Mac and mobile access. | **Save $30** on Lifetime ($79.99 → $49.99), one-time purchase, no code needed. Nov 23–Dec 1, 2026 (Central Time). | 2026-12-01 |
 | 🧵 | [ImageToPES](https://imagetopes.com/#pricing) | Instant browser PNG, JPG, and SVG to Brother .PES, Tajima .DST, .JEF, .EXP, and .VP3 embroidery digitizer with free 3D stitch preview and .PES/.DST viewer. | **30% OFF** all one-time non-expiring credit packs (Trial $2.90 → $2.03, Starter $9.90 → $6.93, Pro $19.90 → $13.93, Studio $29.90 → $20.93), auto-applied, no code needed (first 100 spots/day EST) | 2026-11-30 |
+| 🧶 | [Knitting Chart](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59), applied at checkout. | 2026-11-30 |
+| 🪡 | [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $40.12 once (was $59), applied at checkout. | 2026-11-30 |
 
 
 ### AI Design Tools
