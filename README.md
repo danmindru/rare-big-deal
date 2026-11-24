@@ -1280,6 +1280,7 @@ Free & open-source.
 | 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 250k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 30% OFF lifetime membership with code **BF2026** | 2026-12-05 |
 | 💰 | [Side Projects Making MRR](https://niftydigits.gumroad.com/l/side-projects/BF2026) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2026 | 30% OFF lifetime access with code **BF2026** | 2026-12-05 |
 | 🏛️ | [AY Grants](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. Every row links to the official notice. | **50% OFF** the first month on the monthly plan, no code needed (applied automatically at checkout): $9 → $4.50, then renews at $9/mo. | 2026-11-30 |
+| 🧹 | [Clino](https://clino.ch/en) | Employ your cleaner, nanny or carer legally in Switzerland: employment contract, monthly payslips and the social-insurance (AHV/AVS) paperwork, prepared for every canton. | **20% OFF** the annual plan: ~~CHF 238.80~~ CHF 191 (instead of 12 × CHF 19.90), no code needed | 2026-11-29 |
 
 
 [⬆️ All categories](#table-of-contents)
