@@ -1019,6 +1019,7 @@ Free & open-source.
 | 🤖 | [Supacite](https://supacite.com) | Guaranteed more Google traffic in 90 days, or you don't pay full price. Our own app went from 1,300 to 25,400 visitors/month and 3.9x revenue in 4 months. Done-for-you, with dashboard and MCP. | **33% OFF** · Done-for-you ~~$299~~ $199 for 3 months + success fee only if we hit your target (first 20) · Do it yourself ~~$89~~ $59/month while subscribed · No code needed | 2026-12-07 |
 | 🖼️ | [AltTextLab](https://www.alttextlab.com/black-friday) | AI alt text generator for website images. Writes SEO-optimized alt text in bulk or automatically on upload, in 130+ languages. Works with WordPress, Webflow, Craft CMS and more. | **40% OFF** one-time credit packs (from $6 → $3.60) and the first year of Pro annual (from $48 → $28.80) with code **BF2026** | 2026-12-01 |
 | 🗂️ | [Directory Ideas](https://directoryideas.ai/) | Finds directory website ideas people actually search for, with real US Google search numbers and a score, then your first listings, outreach emails and a 7-day launch plan. Works inside Claude and ChatGPT. | **33% OFF** lifetime access ($89 → $59), one payment, no code needed | 2026-11-30 |
+| 📍 | [SupaSEO](https://supaseo.dev) | Bring-your-own-key local SEO and AI search tracker: 15×15 Google Maps grids, six-engine AI citation tracking, white-label reports and an MCP server. | **$10 OFF** the $99 Founding Lifetime Deal (**$89** one-time) with code **BF10**. Starts on 2026-11-23 | 2026-12-01 |
 
 
 ### Analyze & Audit
