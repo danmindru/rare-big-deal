@@ -249,6 +249,7 @@ Free & open-source.
 | 🎨 | [Oil UI Pro](https://ui.oiloil.org/en/pro/) | Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents (3-direction HTML comparison, DESIGN.md governance, real-browser screenshot review). One-time purchase with lifetime updates + 100 bonus image credits. | **20% OFF** one-time purchase (~~$14.99~~ **$11.99**) with code **BFCM2026** | 2026-12-02 |
 | 🌐 | [TranslateWP](https://translatewp.ai/black-friday/) | AI translation for WordPress. Unlimited websites and languages, with no word-count billing. | **50% OFF** Founders deal. Subscription renewals stay at the discounted rate while the subscription remains active. | 2026-12-07 |
 | 🎨 | [VibeFather](https://vibefather.ai/pricing) | Original website templates for vibe coding: every template has a live demo, the exact prompt and a DESIGN.md, so your AI coding agent can build the same site. | **35% OFF** Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed. Starts on 2026-11-25 | 2026-11-30 |
+| 🤖 | [Rakazo](https://rakazo.com/black-friday/) | Open source Grok Bot alternative for persistent AI teammates that do real work. Your keys, your model, your machine. | **30% OFF** the first year of yearly plans with code **BLACKFRIDAY30** (new customers). Sale runs 24–30 Nov 2026. | 2026-11-30 |
 
 
 ### Productivity
