@@ -571,6 +571,7 @@ Free & open-source.
 | 🖼️ | [Wallper](https://www.wallper.app/pricing) | Moving 4K wallpapers for your Mac desktop and Lock Screen. Pick from more than 3,200 scenes or use a video of your own. Play a song and the desktop plays along, with the cover, its colors or the lyrics line by line. One-time purchase, 7-day free trial. | **50% OFF** the one-time license: Pro (3 Macs) ~~$14.99~~ $7.49, Pro+ (5 Macs) ~~$24.99~~ $12.49. No code needed, applied at checkout. | 2026-11-30 |
 | 🧹 | [Headroom for Mac](https://headroomapp.shop) | Shows what fills your disk, what slows your Mac and what starts without asking, and fixes only what you tick: cleaner, byte-exact duplicate finder, disk space map, speed and battery history, security check, startup items and app permissions. Free download and scan. Apple Silicon, macOS 14 or later. | **30% OFF** one-time purchase ($19 → $13.30), no code needed, up to 3 Macs, 30-day refund. | 2026-12-01 |
 | 🗓️ | [PeekTheDay](https://peektheday.com) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. One-time purchase for up to 5 Macs. | **67% OFF** ($15 → $5), no code needed | 2026-11-30 |
+| 🖥️ | [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | **33% OFF** Pro with code **BFCM2026**. One-time purchase with at least 2 years of free updates. Starts on 2026-11-26. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
