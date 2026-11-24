@@ -1146,6 +1146,7 @@ Free & open-source.
 | 🧩 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | **Up to 60% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 | ✨ | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | **Up to 40% OFF**, code auto-applied on the site. Starts on 2026-11-23 | 2026-12-01 |
 | 🚀 | [ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/) | 5 single-file HTML/Tailwind SaaS landing page templates + 25-pt CRO Playbook. | **61% OFF** ($19 instead of $49), no code needed. | 2026-12-01 |
+| 🛍️ | [ShadcnStore](https://shadcnstore.com/pricing?utm_source=rare-big-deal&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit. One-time payment, lifetime updates. | **40% OFF** every plan and template, no code needed: Starter ~~$99~~ $59, Pro ~~$149~~ $89, Team ~~$349~~ $209 | 2026-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
