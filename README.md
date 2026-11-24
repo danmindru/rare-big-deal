@@ -530,6 +530,7 @@ Free & open-source.
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF** Lifetime ($19.99 → $9.99 USD), no code needed. Starts on 2026-11-23 | 2026-11-30 |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Quick-access Mac notes that slide in from the screen edge, with folders, Markdown, iCloud sync, Shortcuts and AppleScript. | **35% OFF** one-time purchase ($19.99 → $12.99), no code needed | 2026-12-06 |
 | 🗒️ | [FiveNotes](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | **50% OFF** one-time purchase ($7.99 → $3.99), no code needed | 2026-12-06 |
+| ✍️ | [Meboki](https://meboki.com/#pricing) | Offline grammar checker for Mac. Checks English as you type in any app with an open-weight model running on your Mac, so your text never leaves it. Underlines mistakes and fixes them in place. Open source (GPL-3.0), no account, no subscription. | **26% OFF** one-time licence ($39 → $29, 1 Mac, all future updates included), no code needed, applied at checkout | 2026-12-01 |
 
 
 ### Menu Bar & More
