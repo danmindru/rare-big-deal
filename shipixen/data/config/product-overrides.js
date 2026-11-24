@@ -1024,5 +1024,120 @@ module.exports = {
       logo: 'public/static/images/overrides/peektheday/logo.png',
       ogImage: 'public/static/images/overrides/peektheday/og-image.png',
     },
+    // Official App Store icon and App Store share image.
+    note: {
+      logo: 'public/static/images/overrides/note/logo.png',
+      ogImage: 'public/static/images/overrides/note/og-image.png',
+    },
+    // Official og:image and official icon.
+    'code-maestro': {
+      logo: 'public/static/images/overrides/code-maestro/logo.png',
+      ogImage: 'public/static/images/overrides/code-maestro/og-image.png',
+    },
+    // Official og:image and official icon.
+    earlylore: {
+      logo: 'public/static/images/overrides/earlylore/logo.png',
+      ogImage: 'public/static/images/overrides/earlylore/og-image.png',
+    },
+    // Official og:image and official icon.
+    backdrop: {
+      logo: 'public/static/images/overrides/backdrop/logo.png',
+      ogImage: 'public/static/images/overrides/backdrop/og-image.png',
+    },
+    // Official og:image and official icon.
+    sensei: {
+      logo: 'public/static/images/overrides/sensei/logo.png',
+      ogImage: 'public/static/images/overrides/sensei/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    daydare: {
+      logo: 'public/static/images/overrides/daydare/logo.png',
+      ogImage: 'public/static/images/overrides/daydare/og-image.png',
+    },
+    // Official og:image and official icon.
+    clino: {
+      logo: 'public/static/images/overrides/clino/logo.png',
+      ogImage: 'public/static/images/overrides/clino/og-image.png',
+    },
+    // Official icon and official product image.
+    papermac: {
+      logo: 'public/static/images/overrides/papermac/logo.png',
+      ogImage: 'public/static/images/overrides/papermac/og-image.png',
+    },
+    // Official og:image and official icon.
+    udemie: {
+      logo: 'public/static/images/overrides/udemie/logo.png',
+      ogImage: 'public/static/images/overrides/udemie/og-image.png',
+    },
+    // Official og:image and official icon.
+    kollab: {
+      logo: 'public/static/images/overrides/kollab/logo.png',
+      ogImage: 'public/static/images/overrides/kollab/og-image.png',
+    },
+    // Official og:image and official icon.
+    moordeck: {
+      logo: 'public/static/images/overrides/moordeck/logo.png',
+      ogImage: 'public/static/images/overrides/moordeck/og-image.png',
+    },
+    // Official og:image and official icon.
+    vaneform: {
+      logo: 'public/static/images/overrides/vaneform/logo.png',
+      ogImage: 'public/static/images/overrides/vaneform/og-image.png',
+    },
+    // Official og:image and official icon.
+    'indie-kit': {
+      logo: 'public/static/images/overrides/indie-kit/logo.png',
+      ogImage: 'public/static/images/overrides/indie-kit/og-image.png',
+    },
+    // Official og:image and official icon.
+    gitcms: {
+      logo: 'public/static/images/overrides/gitcms/logo.png',
+      ogImage: 'public/static/images/overrides/gitcms/og-image.png',
+    },
+    // Official og:image and official icon.
+    beamly: {
+      logo: 'public/static/images/overrides/beamly/logo.png',
+      ogImage: 'public/static/images/overrides/beamly/og-image.png',
+    },
+    // Official og:image and official icon.
+    expandi: {
+      logo: 'public/static/images/overrides/expandi/logo.png',
+      ogImage: 'public/static/images/overrides/expandi/og-image.png',
+    },
+    // Official og:image and official icon.
+    grai: {
+      logo: 'public/static/images/overrides/grai/logo.png',
+      ogImage: 'public/static/images/overrides/grai/og-image.png',
+    },
+    // Official og:image and official icon.
+    betterdisplay: {
+      logo: 'public/static/images/overrides/betterdisplay/logo.png',
+      ogImage: 'public/static/images/overrides/betterdisplay/og-image.png',
+    },
+    // Official og:image and official icon.
+    shadcnstore: {
+      logo: 'public/static/images/overrides/shadcnstore/logo.png',
+      ogImage: 'public/static/images/overrides/shadcnstore/og-image.png',
+    },
+    // Official og:image and official icon.
+    backlinkgenie: {
+      logo: 'public/static/images/overrides/backlinkgenie/logo.png',
+      ogImage: 'public/static/images/overrides/backlinkgenie/og-image.png',
+    },
+    // Official og:image and official icon.
+    shiftapp: {
+      logo: 'public/static/images/overrides/shiftapp/logo.png',
+      ogImage: 'public/static/images/overrides/shiftapp/og-image.png',
+    },
+    // Official og:image and official icon.
+    dockspace: {
+      logo: 'public/static/images/overrides/dockspace/logo.png',
+      ogImage: 'public/static/images/overrides/dockspace/og-image.png',
+    },
+    // Official og:image and official icon.
+    a1: {
+      logo: 'public/static/images/overrides/a1/logo.png',
+      ogImage: 'public/static/images/overrides/a1/og-image.png',
+    },
   },
 };
