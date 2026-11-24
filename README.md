@@ -565,6 +565,7 @@ Free & open-source.
 | 📖 | [Zhenzhu](https://zhenzhu.app/#pricing) | Native macOS menu-bar Chinese pop-up dictionary and sentence mining app: select, hover, or snip (on-device OCR) Chinese in any app, PDF, or paused video, with local FSRS flashcards and 1-click Anki export. Signed & notarized, macOS 15+. | **69% OFF** Pro lifetime license ($29 → $9, one-time, 3 Macs, all future updates) with code **BF2026**, applied automatically via zhenzhu.app/buy. | 2026-12-01 |
 | ⌨️ | [KeyEcho](https://keyecho.app) | Mechanical keyboard sound app for macOS (also Windows and Linux) with press-and-release keystroke audio, 18 free sound packs and 70+ switch profiles. Local-only, no account needed. | **40% OFF** All Sounds Forever (~~$9.99~~ **$5.99**, one-time purchase) with code **BF2026**, through Dec 2, 2026. | 2026-12-02 |
 | 🖼️ | [Wallper](https://www.wallper.app/pricing) | Moving 4K wallpapers for your Mac desktop and Lock Screen. Pick from more than 3,200 scenes or use a video of your own. Play a song and the desktop plays along, with the cover, its colors or the lyrics line by line. One-time purchase, 7-day free trial. | **50% OFF** the one-time license: Pro (3 Macs) ~~$14.99~~ $7.49, Pro+ (5 Macs) ~~$24.99~~ $12.49. No code needed, applied at checkout. | 2026-11-30 |
+| 🗓️ | [PeekTheDay](https://peektheday.com) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. One-time purchase for up to 5 Macs. | **67% OFF** ($15 → $5), no code needed | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
