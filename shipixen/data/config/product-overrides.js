@@ -955,5 +955,74 @@ module.exports = {
       logo: 'public/static/images/overrides/morse/logo.png',
       ogImage: 'public/static/images/overrides/morse/og-image.png',
     },
+    // Official og:image and official icon.
+    'checkout-page': {
+      logo: 'public/static/images/overrides/checkout-page/logo.png',
+      ogImage: 'public/static/images/overrides/checkout-page/og-image.png',
+    },
+    // Official WordPress.org plugin icon.
+    reviso: {
+      logo: 'public/static/images/overrides/reviso/logo.png',
+    },
+    // Official og:image and official icon.
+    narva: {
+      logo: 'public/static/images/overrides/narva/logo.png',
+      ogImage: 'public/static/images/overrides/narva/og-image.png',
+    },
+    // Official og:image and official icon.
+    'band-je': {
+      logo: 'public/static/images/overrides/band-je/logo.png',
+      ogImage: 'public/static/images/overrides/band-je/og-image.png',
+    },
+    // Official og:image and official icon.
+    heynews: {
+      logo: 'public/static/images/overrides/heynews/logo.png',
+      ogImage: 'public/static/images/overrides/heynews/og-image.png',
+    },
+    // Official og:image and official icon.
+    'knitting-chart': {
+      logo: 'public/static/images/overrides/knitting-chart/logo.png',
+      ogImage: 'public/static/images/overrides/knitting-chart/og-image.png',
+    },
+    // Official og:image and official icon.
+    'the-cross-stitch-pattern-maker': {
+      logo: 'public/static/images/overrides/the-cross-stitch-pattern-maker/logo.png',
+      ogImage: 'public/static/images/overrides/the-cross-stitch-pattern-maker/og-image.png',
+    },
+    // Official og:image and official icon.
+    'post-saver': {
+      logo: 'public/static/images/overrides/post-saver/logo.png',
+      ogImage: 'public/static/images/overrides/post-saver/og-image.png',
+    },
+    // Official og:image and official icon.
+    postsyncer: {
+      logo: 'public/static/images/overrides/postsyncer/logo.png',
+      ogImage: 'public/static/images/overrides/postsyncer/og-image.png',
+    },
+    // Official og:image and official icon.
+    supaseo: {
+      logo: 'public/static/images/overrides/supaseo/logo.png',
+      ogImage: 'public/static/images/overrides/supaseo/og-image.png',
+    },
+    // Official og:image and official icon.
+    vibefather: {
+      logo: 'public/static/images/overrides/vibefather/logo.png',
+      ogImage: 'public/static/images/overrides/vibefather/og-image.png',
+    },
+    // Official og:image and official icon.
+    socialapis: {
+      logo: 'public/static/images/overrides/socialapis/logo.png',
+      ogImage: 'public/static/images/overrides/socialapis/og-image.png',
+    },
+    // Official og:image and official icon.
+    'headroom-for-mac': {
+      logo: 'public/static/images/overrides/headroom-for-mac/logo.png',
+      ogImage: 'public/static/images/overrides/headroom-for-mac/og-image.png',
+    },
+    // Official og:image and official icon.
+    peektheday: {
+      logo: 'public/static/images/overrides/peektheday/logo.png',
+      ogImage: 'public/static/images/overrides/peektheday/og-image.png',
+    },
   },
 };
