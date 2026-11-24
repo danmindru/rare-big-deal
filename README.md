@@ -928,7 +928,7 @@ Free & open-source.
 | ✍️ | [HookTide](https://hooktide.io/pricing) | AI that learns your LinkedIn writing voice and drafts posts, comments and DMs that sound like you. | **50% OFF** the first year of the Pipeline yearly plan ($588 → $294, about $24.50/mo, then renews at $588) with code **BLACKFRIDAY50**, applied automatically at yearly checkout. | 2026-12-01 |
 | 🗓️ | [Mixpost](https://mixpost.app/pricing) | Social media scheduler for better reach with less effort. Creators save hours on scheduling, teams keep every channel in one calendar, and automation fans let Claude or any MCP-ready agent draft and post for them. Built-in analytics show you what works, so you understand your social media presence. Cloud or self-hosted. | **25% OFF** all Cloud plans for 12 months, and **25% OFF** the self-hosted license. Automatically applied, Nov 23 - Dec 1, 2026 | 2026-12-01 |
 | 📅 | [PostSyncer](https://postsyncer.com/pricing) | Social media scheduler for 12 networks. Plan posts on a calendar, or tell ChatGPT, Claude or Cursor what to post and when. | **40% OFF** the first year of any yearly plan, no code needed: Starter $288 → $172.80, Pro $468 → $280.80, Agency $948 → $568.80 | 2026-12-01 |
-
+| 🎬 | [Hermoso](https://hermoso.ai/black-friday/) | AI marketing team: launches your website on your own domain, makes finished image and video ads with your real product, posts to every social channel and runs your ad campaigns on Meta, Google, TikTok and LinkedIn, in the app or inside ChatGPT and Claude. | **Starter free for your first month** with code **BLACKFRIDAY**: 300 credits in the trial month, then $29/mo for 1,000 credits a month, cancel anytime | 2026-12-01 |
 
 ### Sales Tools
 
