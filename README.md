@@ -930,6 +930,7 @@ Free & open-source.
 | 📅 | [PostSyncer](https://postsyncer.com/pricing) | Social media scheduler for 12 networks. Plan posts on a calendar, or tell ChatGPT, Claude or Cursor what to post and when. | **40% OFF** the first year of any yearly plan, no code needed: Starter $288 → $172.80, Pro $468 → $280.80, Agency $948 → $568.80 | 2026-12-01 |
 | 🎬 | [Hermoso](https://hermoso.ai/black-friday/) | AI marketing team: launches your website on your own domain, makes finished image and video ads with your real product, posts to every social channel and runs your ad campaigns on Meta, Google, TikTok and LinkedIn, in the app or inside ChatGPT and Claude. | **Starter free for your first month** with code **BLACKFRIDAY**: 300 credits in the trial month, then $29/mo for 1,000 credits a month, cancel anytime | 2026-12-01 |
 
+
 ### Sales Tools
 
 | | Name | Description | Deal | Expires on date |
