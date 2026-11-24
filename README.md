@@ -990,7 +990,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📡 | [Radar Lab](https://partnershipintel.com/#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF Pro yearly**: ~~$299~~ **$99/year**, locked for as long as you stay. No code needed | 2026-11-30 |
-
+| 🎮 | [Code Maestro](https://www.code-maestro.com/pricing?utm_source=rarebigdeal&utm_campaign=bf2026) | Playable and interactive ads creator: build playable ads with AI in one chat from a prompt, store link or gameplay video, make variations and export separate builds for AppLovin, Meta, Unity Ads, Google Ads, Moloco and Mintegral. Desktop app for macOS and Windows. | **2x credits** in the first month on any paid plan, no code needed: Creator +16,000, Studio +50,000, Enterprise +100,000 credits. Plans from $39/mo billed yearly, 30-day free trial with no card | 2026-11-30 |
 
 ### Other
 
