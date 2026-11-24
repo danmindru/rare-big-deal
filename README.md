@@ -282,6 +282,7 @@ Free & open-source.
 | 💼 | [CVder](https://cvder.app/pricing) | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score, writes the cover letter and recruiter email, and tracks every application. | **50% OFF** your first payment on any Pro plan with code **BF2026**: monthly ~~€14~~ **€7**, annual ~~€84~~ **€42**, 6 months ~~€45~~ **€22.50**, weekly ~~€9~~ **€4.50**. Starts on 2026-11-27 | 2026-12-01 |
 | 🧹 | [Data Standardize](https://datastandardize.com/pricing) | AI that cleans messy CSV files: maps columns to your template and fixes dates, names, phone numbers and currencies so the data comes out consistent. | **1 month FREE** with code **BlackFriday26** at sign-up (Basic normally $5/month) | 2026-12-01 |
 | 🎙️ | [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows. Open-source models, on-device or zero-retention cloud, never used to train AI. | **25% OFF** every plan (Dictation and Work, monthly, annual and lifetime) with code **BFCM26**. Monthly keeps 25% off every month. Dictation lifetime $199 → $149.25, Work lifetime $399 → $299.25. | 2026-11-30 |
+| 💙 | [Beamly](https://beamly.com/) | Beamly is the platform for your podcast - and everything around it. From hosting and analytics, to podcast websites, private podcasts and memberships. | **30% OFF** on new annual plans | 2026-12-01 |
 
 
 
