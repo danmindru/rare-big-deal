@@ -243,6 +243,7 @@ Free & open-source.
 | 🛡️ | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME** (personal licences) | 2026-11-30 |
 | 🎨 | [Oil UI Pro](https://ui.oiloil.org/en/pro/) | Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents (3-direction HTML comparison, DESIGN.md governance, real-browser screenshot review). One-time purchase with lifetime updates + 100 bonus image credits. | **20% OFF** one-time purchase (~~$14.99~~ **$11.99**) with code **BFCM2026** | 2026-12-02 |
 | 🌐 | [TranslateWP](https://translatewp.ai/black-friday/) | AI translation for WordPress. Unlimited websites and languages, with no word-count billing. | **50% OFF** Founders deal. Subscription renewals stay at the discounted rate while the subscription remains active. | 2026-12-07 |
+| 🎨 | [VibeFather](https://vibefather.ai/pricing) | Original website templates for vibe coding: every template has a live demo, the exact prompt and a DESIGN.md, so your AI coding agent can build the same site. | **35% OFF** Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed. Starts on 2026-11-25 | 2026-11-30 |
 
 
 ### Productivity
