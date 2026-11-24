@@ -969,6 +969,7 @@ Free & open-source.
 | 📊 | [BizPeel](https://bizpeel.com/pricing) | Verified revenue, traffic sources, SEO & ad breakdowns for 700+ real startups — browsable on web and queryable in Claude Code & Cursor via MCP. | **50% OFF** first month across all plans (Starter $14.95, Pro $29.95, Business $49.95) + **20% OFF** first year stacked on 15% annual savings. Auto-applied at checkout (no code needed). Renewals at standard price. | 2026-11-30 |
 | 📊 | [Appfigures](https://appfigures.com/platform/pricing) | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | **50% OFF** monthly or annual plans for 12 months with code **BF2650** (up to $200/mo off, upgrade required). Starts on 2026-11-23 | 2026-11-30 |
 | 📊 | [Highseat](https://highseat.com/pricing?billing=yearly) | Cookieless web analytics with revenue on every breakdown, net of refunds, so you see which traffic makes money. | **40% OFF** the first year of any yearly plan, no code needed (applied at checkout): 10k events $90 → $54/yr, 100k events $290 → $174/yr. New customers only. | 2026-12-01 |
+| 🔎 | [EarlyLore](https://earlylore.com/pricing) | AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools. | **Up to 53% OFF** Annual (extra 25% off Pro ~~$144~~ **$108/yr** [$9/mo], Max ~~$384~~ **$288/yr** [$24/mo]; first year, renews at $144/$384). Auto-applied or code **BF2026**. Starts on 2026-11-24 | 2026-11-30 |
 
 
 ### Website Builders
