@@ -282,6 +282,7 @@ Free & open-source.
 | 💼 | [CVder](https://cvder.app/pricing) | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score, writes the cover letter and recruiter email, and tracks every application. | **50% OFF** your first payment on any Pro plan with code **BF2026**: monthly ~~€14~~ **€7**, annual ~~€84~~ **€42**, 6 months ~~€45~~ **€22.50**, weekly ~~€9~~ **€4.50**. Starts on 2026-11-27 | 2026-12-01 |
 | 🧹 | [Data Standardize](https://datastandardize.com/pricing) | AI that cleans messy CSV files: maps columns to your template and fixes dates, names, phone numbers and currencies so the data comes out consistent. | **1 month FREE** with code **BlackFriday26** at sign-up (Basic normally $5/month) | 2026-12-01 |
 | 🎙️ | [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows. Open-source models, on-device or zero-retention cloud, never used to train AI. | **25% OFF** every plan (Dictation and Work, monthly, annual and lifetime) with code **BFCM26**. Monthly keeps 25% off every month. Dictation lifetime $199 → $149.25, Work lifetime $399 → $299.25. | 2026-11-30 |
+| ✍️ | [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells before clients do. Runs 8 deterministic rules on drafts offline, scores cadence, and issues a live cryptographic verification link for client work. | **30% OFF your first billing cycle** on Solo Offline ($79/yr) & Agency Protocol ($99/mo, $790/yr) with code **BF2026**. Nov 24 - Nov 30, 2026 | 2026-11-30 |
 
 
 
