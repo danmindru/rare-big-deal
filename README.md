@@ -913,6 +913,7 @@ Free & open-source.
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Employee scheduling and shift management for teams on web, iOS and Android. | **88% OFF** the first 8 months on new Essential monthly orders. E10 is US$2.88/month for 8 months, then US$24/month, before tax. Code **BLACKFRIDAY2026** applies automatically. | 2026-12-12 |
 | 📠 | [Faxio](https://faxio.app/pricing) | Send a fax from your browser or Android phone, pay per fax with no subscription. | **10% OFF** every web purchase, no code needed: $2.69 per fax (was $2.99), $8.99 for 5 faxes (was $9.99). Web only, not Android in-app. | 2026-12-01 |
 | 🎧 | [LiveAgent](https://www.liveagent.com/pricing/) | Help desk software with live chat and AI agents. Email, chat, phone and social media in one inbox. | **40% OFF** the first year of annual plans with code **BLACKFRIDAY40Y**, or **33% OFF** monthly plans with **BLACKFRIDAY33M** | 2026-12-15 |
+| ✍️ | [Autentique](https://www.autentique.com.br/en) | E-signature platform: send contracts and other documents for signature, with email, SMS, WhatsApp or facial biometric verification. Unlimited documents, users and signers, plus an API. | **30% OFF** the annual Professional plan ($179 → $119/year), no code needed. Extra **20% OFF** with code **BFF61H8**, which stacks with the annual discount. | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
