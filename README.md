@@ -522,6 +522,7 @@ Free & open-source.
 | 🧹 | [TwinSweep](https://tidyware.app/twinsweep/) | Find duplicate files and photos on your Mac and undo the last clean-up in one click. Free scan. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$19~~ **$13.30** | 2026-12-01 |
 | 🎧 | [LocalVoice](https://tidyware.app/localvoice/) | Transcribe audio and video to TXT, SRT, VTT or Markdown, and read text or PDFs aloud to M4A. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$19~~ **$13.30** | 2026-12-01 |
 | 🖼️ | [BatchShift](https://tidyware.app/batchshift/) | Batch-convert HEIC and WebP folders to JPG or PNG: resize, compress and remove GPS data. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$9~~ **$6.30** | 2026-12-01 |
+| 🌗 | [HazeOver](https://hazeover.com) | Dims background windows to highlight the active one, so you always know where you’re typing. Native Mac app. One-time purchase. | **60% OFF** ($4.99 → $1.99) on the Mac App Store and hazeover.com, no code needed. | 2026-12-01 |
 
 
 ### Design Tools
