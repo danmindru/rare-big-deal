@@ -249,6 +249,7 @@ Free & open-source.
 | 🎨 | [Oil UI Pro](https://ui.oiloil.org/en/pro/) | Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents (3-direction HTML comparison, DESIGN.md governance, real-browser screenshot review). One-time purchase with lifetime updates + 100 bonus image credits. | **20% OFF** one-time purchase (~~$14.99~~ **$11.99**) with code **BFCM2026** | 2026-12-02 |
 | 🌐 | [TranslateWP](https://translatewp.ai/black-friday/) | AI translation for WordPress. Unlimited websites and languages, with no word-count billing. | **50% OFF** Founders deal. Subscription renewals stay at the discounted rate while the subscription remains active. | 2026-12-07 |
 | 🎨 | [VibeFather](https://vibefather.ai/pricing) | Original website templates for vibe coding: every template has a live demo, the exact prompt and a DESIGN.md, so your AI coding agent can build the same site. | **35% OFF** Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed. Starts on 2026-11-25 | 2026-11-30 |
+| 📱 | [Zeptap](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | 2026-12-01 |
 
 
 ### Productivity
@@ -353,6 +354,7 @@ Free & open-source.
 | 🔍 | [RegExp](https://loshadki.app/regexp/) | Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go, on Mac, iPhone and iPad. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options. | **60% OFF** RegExp Pro: $1.19 instead of $2.99, an in-app purchase on the App Store, no code needed | 2026-12-01 |
 | 🛎️ | [SupaYatta](https://supayatta.com) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) with code **YATTADEAL** | 2026-12-07 |
 | 🪣 | [Blob0](https://blob0.com/) | macOS desktop client for browsing, transferring, previewing and sharing files in Cloudflare R2, Amazon S3 and other S3-compatible storage. | **20% OFF** one-time Personal ($16.90 → $13.52 USD) and Team licenses with code **BLACKFRIDAY20**. Ends Nov 30 at 15:59 UTC. | 2026-11-30 |
+| 📱 | [Zeptap](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | 2026-12-01 |
 
 ### Productivity
 
