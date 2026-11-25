@@ -490,6 +490,7 @@ Free & open-source.
 | 📊 | [Sensei](https://cindori.com/sensei) | System performance monitoring for the Mac | **50% OFF** ($59 → $29.50), no code needed | 2026-12-01 |
 | 🪟 | [PaperMac](https://getpaper.sh/mac/) | Scrolling window manager for macOS 27: windows sit side by side on a Strip you scroll through, so opening one never shrinks the rest. | **50% OFF** with code **BF2026**: Pro ~~$39~~ **$19.50**, Lifetime ~~$99~~ **$49.50**. One-time purchase, 1 person on up to 5 Macs. Until Dec 1, 2026, 11:59 PM PT. | 2026-12-01 |
 | 🎧 | [FluidCast: Podcast Player](https://fluidcastapp.com/event) | Cross-platform podcast player with cloud sync, AI content detection, audio controls and more. iPhone, iPad, Mac, Android, Windows and Linux. | **50% OFF** the first year of Annual (automatic on iOS/Android, code **BLACKFRIDAY2026** on Windows/Linux) and **50% OFF** Lifetime (code **BLACKFRIDAY2026LT** on iOS, automatic on Android, code **BLACKFRIDAY2026** on Windows/Linux). Ends 2026-11-30, 23:59 UK. | 2026-11-30 |
+| 🪜 | [Stepfinch](https://stepfinch.app/?utm_source=rarebigdeal-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, and private info blurred. Exports PDF, Word, PowerPoint, video and more. Everything stays on your Mac. Apple silicon, macOS 14+. | **26% OFF** the lifetime licence ($39 → $29), one payment, every update, up to 3 Macs, no code needed. 3 guides free to try first | 2026-12-01 |
 
 
 ### Design Tools
