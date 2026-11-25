@@ -290,6 +290,7 @@ Free & open-source.
 | 🎙️ | [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows. Open-source models, on-device or zero-retention cloud, never used to train AI. | **25% OFF** every plan (Dictation and Work, monthly, annual and lifetime) with code **BFCM26**. Monthly keeps 25% off every month. Dictation lifetime $199 → $149.25, Work lifetime $399 → $299.25. | 2026-11-30 |
 | ✍️ | [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells before clients do. Runs 8 deterministic rules on drafts offline, scores cadence, and issues a live cryptographic verification link for client work. | **30% OFF your first billing cycle** on Solo Offline ($79/yr) & Agency Protocol ($99/mo, $790/yr) with code **BF2026**. Nov 24 - Nov 30, 2026 | 2026-11-30 |
 | 🧠 | [Whizi](https://whizi.io/pricing/) | One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | **30% OFF** the first year of any yearly plan, applied automatically at checkout (Pro $239.99 → $167.99) | 2026-12-24 |
+| 🧠 | [Screenpipe](https://screenpipe.com/black-friday) | Search your screen and audio history and give compatible AI tools context from your work. Recordings stay on your device by default. | **20% OFF** the first year of eligible annual plans: Basic ~~$250~~ **$200** and Business ~~$500~~ **$400** per seat (USD). No code needed. Renews at list price. Ends at 11:59 p.m. PT. | 2026-11-30 |
 
 
 
