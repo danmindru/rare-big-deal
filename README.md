@@ -1062,6 +1062,7 @@ Free & open-source.
 | 🚀 | [Citation Rocket](https://www.citationrocket.com/pricing) | AI-search readiness audit: checks if AI assistants name your brand and gives a ranked fix list. Pay once, uses your own OpenRouter key. | **40% OFF** lifetime licence, no code needed: Lifetime $99 → $59, Agency $149 → $89 | 2026-12-02 |
 | 🐶 | [SEODog](https://seodog.app) | Native Mac SEO suite you pay for once: site audit ranked by the Search Console clicks at stake, Search Console history kept past 16 months, rank tracking, AI crawler access and local SEO. Your data stays on your Mac. | **$50 OFF** Lifetime ($249 → $199) and **$30 OFF** Standard ($129 → $99), no code needed. One-time purchase | 2026-11-30 |
 | 📊 | [Vaneform](https://vaneform.com/pricing) | Website traffic checker for any domain: monthly visits, traffic sources, countries, ranking keywords, backlinks and Core Web Vitals, plus 105-country rankings, a REST API and an MCP server. | **20% OFF** Pro Annual Year 1 (~~$99~~ **$79/yr**, $6.58/mo; renews at $99/yr; Monthly $12/mo unchanged). Code **VFBF2026**, auto-applied for new Pro Annual buyers. | 2026-11-30 |
+| 🐦‍⬛ | [CrawlRaven](https://crawlraven.com/pricing) | Joins Search Console, GA4 and your Ahrefs or Semrush lists to a crawl of your site: what to write, what to update, what to fix first. | **50% OFF** every lifetime plan with code CRBFCM50: 1 site $95 (was $190), up to 20 sites $995 (was $1,990) | 2026-11-30 |
 
 
 ### Content Creation
