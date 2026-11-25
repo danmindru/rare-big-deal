@@ -580,6 +580,7 @@ Free & open-source.
 | 🧹 | [Headroom for Mac](https://headroomapp.shop) | Shows what fills your disk, what slows your Mac and what starts without asking, and fixes only what you tick: cleaner, byte-exact duplicate finder, disk space map, speed and battery history, security check, startup items and app permissions. Free download and scan. Apple Silicon, macOS 14 or later. | **30% OFF** one-time purchase ($19 → $13.30), no code needed, up to 3 Macs, 30-day refund. | 2026-12-01 |
 | 🗓️ | [PeekTheDay](https://peektheday.com) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. One-time purchase for up to 5 Macs. | **67% OFF** ($15 → $5), no code needed | 2026-11-30 |
 | 🖥️ | [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | **33% OFF** Pro with code **BFCM2026**. One-time purchase with at least 2 years of free updates. Starts on 2026-11-26 | 2026-12-01 |
+| 🎧 | [BlendCue](https://blendcue.com/?ref=bf-rbd) | Companion app for Serato DJ Pro on Mac (and Windows): follows the track on each deck and shortlists what mixes next from your own library by key, BPM, energy and genre, with headphone preview and one-click load. | **40% OFF** one-time licence: Solo $49 → $29 with code **FOUNDINGSOLO**, Pro (2 computers) $79 → $49 with code **FOUNDINGPRO**. First 25 buyers. 7-day free trial, no card. | 2026-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
