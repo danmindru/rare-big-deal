@@ -972,6 +972,7 @@ Free & open-source.
 | ✉️ | [Mailzzy](https://mailzzy.com/emails-savings-sale/) | Email marketing for small businesses: templates and designer, AI-drafted campaigns, A/B testing, segments, automations and reports. Also works from Claude and ChatGPT. | **70% OFF** the first year on annual plans (Standard $97.20 → $32.40) or **60% OFF** the first 3 months on monthly plans ($9 → $3.60/mo). No code needed, applied automatically | 2026-12-14 |
 | 🚀 | [Tantra](https://deals.usetantra.com/) | Tantra is an AI-first GTM outreach tool that sends hyper-personalized outreach across email, LinkedIn, WhatsApp and Google Calendar. Every reply lands in one unified inbox. Priced per company, with no per-seat fees. | **50% OFF for life** on Pro and Scale with code **TANTRA50** | 2026-12-01 |
 | 🗞️ | [HeyNews](https://heynews.co/pricing) | AI that drafts your newsletter from the blogs, RSS feeds and news sites you follow, in your voice, ready to edit and send. 14-day free trial. | **50% OFF** any plan for 12 months with code **BLACKFRIDAY50**, monthly plans and add-ons included (Hobbyist $39 → $19.50/mo, Starter $99 → $49.50/mo, Pro $299 → $149.50/mo). New subscriptions. | 2026-11-30 |
+| ✉️ | [utobo Email](https://utobo.com/email/pricing) | Email marketing with AI-assisted writing, transactional API/SMTP email, and cold outreach for developers and small teams. | **50% OFF** the first year of any annual plan with code **BFF50**. Starts on 2026-11-21; renewals at standard rate. | 2026-11-30 |
 
 
 ### Content Creation
