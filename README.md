@@ -826,6 +826,7 @@ Free & open-source.
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 | 🎬 | [Mockvid](https://mockvid.com/) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** the first year of Studio ($49 → $39.20/yr), no code needed (applied automatically) | 2026-12-01 |
 | 🎬 | [Narva](https://narva.app/#pricing) | Turn a topic, script or voiceover into a finished faceless YouTube video with narration, captions and music | **30% OFF** the first month of any plan with code NARVA30 ($29 → $20.30, $79 → $55.30, $199 → $139.30) | 2026-11-30 |
+| 🎬 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed | 2026-11-30 |
 
 
 ### Social
@@ -880,6 +881,7 @@ Free & open-source.
 | 🎧 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks. | 55% less per minute than the regular Large Pack: 1,000 minutes for $59.99 once, valid for two years. No code needed. | 2026-11-30 |
 | 🎥 | [XGetter](https://xgetter.com/#pricing) | Video and audio downloader for Windows, macOS and Linux. Save from 70+ platforms (YouTube, TikTok, Facebook, Instagram, X/Twitter, Bilibili and more) in up to 8K, with playlist, channel and batch downloads and no watermark. | **30% OFF** all plans with code **BF2026** (Pro $10 → $7, Extended $15 → $10.50) | 2026-12-02 |
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
+| 🎬 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed | 2026-11-30 |
 
 
 ### Marketing
