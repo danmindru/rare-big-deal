@@ -589,6 +589,7 @@ Free & open-source.
 | 🗓️ | [PeekTheDay](https://peektheday.com) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. One-time purchase for up to 5 Macs. | **67% OFF** ($15 → $5), no code needed | 2026-11-30 |
 | 🖥️ | [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | **33% OFF** Pro with code **BFCM2026**. One-time purchase with at least 2 years of free updates. Starts on 2026-11-26 | 2026-12-01 |
 | 🎧 | [BlendCue](https://blendcue.com/) | Companion app for Serato DJ Pro on Mac (and Windows): follows the track on each deck and shortlists what mixes next from your own library by key, BPM, energy and genre, with headphone preview and one-click load. | **40% OFF** one-time licence: Solo $49 → $29 with code **FOUNDINGSOLO**, Pro (2 computers) $79 → $49 with code **FOUNDINGPRO**. First 25 buyers. 7-day free trial, no card. | 2026-12-31 |
+| 🖼️ | [Hardcopy](https://gethardcopy.app) | Mac app that backs up your iCloud Photos library to your own drive as plain files and checks every file with SHA-256, then optionally frees up iCloud after re-checking. macOS 15 or later, Apple silicon and Intel. One-time purchase. | **60% OFF** for Black Friday: ~~$14.99~~ **$5.99**, one-time purchase, with code **BF2026** (applied automatically from the Buy button on gethardcopy.app). One licence covers 3 Macs, 30-day refund. Starts on 2026-11-25 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
