@@ -971,6 +971,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🤝 | [Post Affiliate Pro](https://www.postaffiliatepro.com/black-friday/) | Affiliate software for running your own affiliate program: tracks clicks, sales and commissions and pays your affiliates. | **75% OFF** the first 6 months of yearly plans with code **BFPAP-75Y**, or **50% OFF** monthly plans with **BFPAP-50M** | 2026-12-15 |
 
 
 ### Analytics
