@@ -1139,5 +1139,110 @@ module.exports = {
       logo: 'public/static/images/overrides/a1/logo.png',
       ogImage: 'public/static/images/overrides/a1/og-image.png',
     },
+    // Official og:image and official icon.
+    'fluidcast-podcast-player': {
+      logo: 'public/static/images/overrides/fluidcast-podcast-player/logo.png',
+      ogImage: 'public/static/images/overrides/fluidcast-podcast-player/og-image.png',
+    },
+    // Official og:image and official icon.
+    rakazo: {
+      logo: 'public/static/images/overrides/rakazo/logo.png',
+      ogImage: 'public/static/images/overrides/rakazo/og-image.png',
+    },
+    // Official og:image and official icon.
+    meboki: {
+      logo: 'public/static/images/overrides/meboki/logo.png',
+      ogImage: 'public/static/images/overrides/meboki/og-image.png',
+    },
+    // Official og:image and official icon.
+    hermoso: {
+      logo: 'public/static/images/overrides/hermoso/logo.png',
+      ogImage: 'public/static/images/overrides/hermoso/og-image.png',
+    },
+    // Official og:image and official icon.
+    'ninja-compress': {
+      logo: 'public/static/images/overrides/ninja-compress/logo.png',
+      ogImage: 'public/static/images/overrides/ninja-compress/og-image.png',
+    },
+    // Official og:image and official icon.
+    apprankhero: {
+      logo: 'public/static/images/overrides/apprankhero/logo.png',
+      ogImage: 'public/static/images/overrides/apprankhero/og-image.png',
+    },
+    // Official og:image and official icon.
+    ontrk: {
+      logo: 'public/static/images/overrides/ontrk/logo.png',
+      ogImage: 'public/static/images/overrides/ontrk/og-image.png',
+    },
+    // Official og:image and official icon.
+    dropcue: {
+      logo: 'public/static/images/overrides/dropcue/logo.png',
+      ogImage: 'public/static/images/overrides/dropcue/og-image.png',
+    },
+    // Official og:image and official icon.
+    blendcue: {
+      logo: 'public/static/images/overrides/blendcue/logo.png',
+      ogImage: 'public/static/images/overrides/blendcue/og-image.png',
+    },
+    // Official og:image and official icon.
+    whizi: {
+      logo: 'public/static/images/overrides/whizi/logo.png',
+      ogImage: 'public/static/images/overrides/whizi/og-image.png',
+    },
+    // Official og:image and official icon.
+    wassenger: {
+      logo: 'public/static/images/overrides/wassenger/logo.png',
+      ogImage: 'public/static/images/overrides/wassenger/og-image.png',
+    },
+    // Official og:image and official icon.
+    'clothsy-ai': {
+      logo: 'public/static/images/overrides/clothsy-ai/logo.png',
+      ogImage: 'public/static/images/overrides/clothsy-ai/og-image.png',
+    },
+    // Official og:image and official icon.
+    outlierkit: {
+      logo: 'public/static/images/overrides/outlierkit/logo.png',
+      ogImage: 'public/static/images/overrides/outlierkit/og-image.png',
+    },
+    // Official og:image and official icon.
+    crawlraven: {
+      logo: 'public/static/images/overrides/crawlraven/logo.png',
+      ogImage: 'public/static/images/overrides/crawlraven/og-image.png',
+    },
+    // Official og:image and official icon.
+    faxio: {
+      logo: 'public/static/images/overrides/faxio/logo.png',
+      ogImage: 'public/static/images/overrides/faxio/og-image.png',
+    },
+    // Official og:image and official icon.
+    sitedata: {
+      logo: 'public/static/images/overrides/sitedata/logo.png',
+      ogImage: 'public/static/images/overrides/sitedata/og-image.png',
+    },
+    // Official og:image and official icon.
+    zeptap: {
+      logo: 'public/static/images/overrides/zeptap/logo.png',
+      ogImage: 'public/static/images/overrides/zeptap/og-image.png',
+    },
+    // Official og:image and official icon.
+    'post-affiliate-pro': {
+      logo: 'public/static/images/overrides/post-affiliate-pro/logo.png',
+      ogImage: 'public/static/images/overrides/post-affiliate-pro/og-image.png',
+    },
+    // Official og:image and official icon.
+    liveagent: {
+      logo: 'public/static/images/overrides/liveagent/logo.png',
+      ogImage: 'public/static/images/overrides/liveagent/og-image.png',
+    },
+    // Official og:image and official icon.
+    'baby-monitor-private-cam': {
+      logo: 'public/static/images/overrides/baby-monitor-private-cam/logo.png',
+      ogImage: 'public/static/images/overrides/baby-monitor-private-cam/og-image.png',
+    },
+    // Official og:image and official icon.
+    'home-pet-monitor': {
+      logo: 'public/static/images/overrides/home-pet-monitor/logo.png',
+      ogImage: 'public/static/images/overrides/home-pet-monitor/og-image.png',
+    },
   },
 };
