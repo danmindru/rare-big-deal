@@ -965,6 +965,7 @@ Free & open-source.
 | 🧩 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress website builder from the team behind Astra. Describe your business and get a complete WordPress site with hosting, domain and email included. | **Up to 47% OFF** all plans, from $79 (auto-applied) | 2026-12-07 |
 | 🔎 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS: see and improve how ChatGPT, Perplexity and Claude cite your brand. | **20% OFF** with code **BF2026** | 2026-12-15 |
 | 💙 | [Beamly](https://beamly.com/) | Beamly is the platform for your podcast - and everything around it. From hosting and analytics, to podcast websites, private podcasts and memberships. | **30% OFF** new annual plans (Starter $18, Creator $30, Business $64 per month billed annually before the discount), via the Black Friday offer on beamly.com | 2026-12-01 |
+| ▶️ | [OutlierKit](https://outlierkit.com/resources/black-friday/) | YouTube research for experts, coaches and agencies: find the breakout videos in your niche, the keywords behind them and the competitor channels to watch, with API and MCP on every plan. | **40% OFF** any plan, including lifetime, with code **BFCM40** (Hobby $49 → $29.40/mo, lifetime from $899 → $539.40) | 2026-12-05 |
 
 
 ### Affiliate Marketing
