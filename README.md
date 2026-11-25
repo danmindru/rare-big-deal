@@ -826,6 +826,7 @@ Free & open-source.
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 | 🎬 | [Mockvid](https://mockvid.com/) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** the first year of Studio ($49 → $39.20/yr), no code needed (applied automatically) | 2026-12-01 |
 | 🎬 | [Narva](https://narva.app/#pricing) | Turn a topic, script or voiceover into a finished faceless YouTube video with narration, captions and music | **30% OFF** the first month of any plan with code NARVA30 ($29 → $20.30, $79 → $55.30, $199 → $139.30) | 2026-11-30 |
+| 🪄 | [GenMagic](https://genmagic.co/black-friday) | Pay-as-you-go AI studio and API for video, images, music and voice: Veo 3.1, Seedance, Wan, Runway, GPT Image, Nano Banana, FLUX and more on one prepaid balance, no subscription and no provider keys. Every model shows its price before you generate. | **Up to 20% extra credit** on top-ups, no code needed: $25 → **$27.50**, $50 → **$57.50**, $100 → **$120** of credit (top-up credit never expires). A new plan's first month adds 10%: Pro $18/mo gives **$22** of credit (usually $20). Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Social
