@@ -252,6 +252,7 @@ Free & open-source.
 | 🎨 | [VibeFather](https://vibefather.ai/pricing) | Original website templates for vibe coding: every template has a live demo, the exact prompt and a DESIGN.md, so your AI coding agent can build the same site. | **35% OFF** Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed. Starts on 2026-11-25 | 2026-11-30 |
 | 🤖 | [Rakazo](https://rakazo.com/black-friday/) | Open source Grok Bot alternative for persistent AI teammates that do real work. Your keys, your model, your machine. | **30% OFF** the first year of yearly plans with code **BLACKFRIDAY30** (new customers). Sale runs 24–30 Nov 2026. | 2026-11-30 |
 | 📱 | [Zeptap](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | 2026-12-01 |
+| 🪄 | [Apper - AI App & Website Builder](https://apper.io/black-friday) | Build, manage and publish production-ready apps and websites directly from ChatGPT or Claude, with enterprise-level security, database, authentication, permissions, hosting and payments built in. | **50% OFF** all paid plans for one year, no code needed. | 2026-12-31 |
 
 
 ### Productivity
