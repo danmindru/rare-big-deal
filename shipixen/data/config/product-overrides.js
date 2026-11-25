@@ -1244,5 +1244,140 @@ module.exports = {
       logo: 'public/static/images/overrides/home-pet-monitor/logo.png',
       ogImage: 'public/static/images/overrides/home-pet-monitor/og-image.png',
     },
+    // Official og:image and official icon.
+    gridpin: {
+      logo: 'public/static/images/overrides/gridpin/logo.png',
+      ogImage: 'public/static/images/overrides/gridpin/og-image.png',
+    },
+    // Official og:image and official icon.
+    voxscribe: {
+      logo: 'public/static/images/overrides/voxscribe/logo.png',
+      ogImage: 'public/static/images/overrides/voxscribe/og-image.png',
+    },
+    // Official og:image and official icon.
+    reui: {
+      logo: 'public/static/images/overrides/reui/logo.png',
+      ogImage: 'public/static/images/overrides/reui/og-image.png',
+    },
+    // Official og:image and official icon.
+    whatsteam: {
+      logo: 'public/static/images/overrides/whatsteam/logo.png',
+      ogImage: 'public/static/images/overrides/whatsteam/og-image.png',
+    },
+    // Official og:image and official icon.
+    'spring-prompt': {
+      logo: 'public/static/images/overrides/spring-prompt/logo.png',
+      ogImage: 'public/static/images/overrides/spring-prompt/og-image.png',
+    },
+    // Official og:image and official icon.
+    'backpack-for-laravel': {
+      logo: 'public/static/images/overrides/backpack-for-laravel/logo.png',
+      ogImage: 'public/static/images/overrides/backpack-for-laravel/og-image.png',
+    },
+    // The banner is a screenshot of the official pricing page because the official og:image 404s.
+    recurrr: {
+      logo: 'public/static/images/overrides/recurrr/logo.png',
+      ogImage: 'public/static/images/overrides/recurrr/og-image.png',
+    },
+    // Official og:image and official icon.
+    'quiet-winners': {
+      logo: 'public/static/images/overrides/quiet-winners/logo.png',
+      ogImage: 'public/static/images/overrides/quiet-winners/og-image.png',
+    },
+    // Official og:image and official icon.
+    lurkapi: {
+      logo: 'public/static/images/overrides/lurkapi/logo.png',
+      ogImage: 'public/static/images/overrides/lurkapi/og-image.png',
+    },
+    // Official og:image and official icon.
+    filebo: {
+      logo: 'public/static/images/overrides/filebo/logo.png',
+      ogImage: 'public/static/images/overrides/filebo/og-image.png',
+    },
+    // Official og:image and official icon.
+    focusito: {
+      logo: 'public/static/images/overrides/focusito/logo.png',
+      ogImage: 'public/static/images/overrides/focusito/og-image.png',
+    },
+    // Official og:image and official icon.
+    'mochi-type': {
+      logo: 'public/static/images/overrides/mochi-type/logo.png',
+      ogImage: 'public/static/images/overrides/mochi-type/og-image.png',
+    },
+    // Official og:image and official icon.
+    audiobo: {
+      logo: 'public/static/images/overrides/audiobo/logo.png',
+      ogImage: 'public/static/images/overrides/audiobo/og-image.png',
+    },
+    // Official og:image and official icon.
+    autentique: {
+      logo: 'public/static/images/overrides/autentique/logo.png',
+      ogImage: 'public/static/images/overrides/autentique/og-image.png',
+    },
+    // Official og:image and official icon.
+    miget: {
+      logo: 'public/static/images/overrides/miget/logo.png',
+      ogImage: 'public/static/images/overrides/miget/og-image.png',
+    },
+    // Official og:image and official icon.
+    stepfinch: {
+      logo: 'public/static/images/overrides/stepfinch/logo.png',
+      ogImage: 'public/static/images/overrides/stepfinch/og-image.png',
+    },
+    // Official og:image and official icon.
+    shiprust: {
+      logo: 'public/static/images/overrides/shiprust/logo.png',
+      ogImage: 'public/static/images/overrides/shiprust/og-image.png',
+    },
+    // Official og:image and official icon.
+    uptimecheck: {
+      logo: 'public/static/images/overrides/uptimecheck/logo.png',
+      ogImage: 'public/static/images/overrides/uptimecheck/og-image.png',
+    },
+    // Official og:image and official icon.
+    vimninja: {
+      logo: 'public/static/images/overrides/vimninja/logo.png',
+      ogImage: 'public/static/images/overrides/vimninja/og-image.png',
+    },
+    // Official og:image and official icon.
+    screenpipe: {
+      logo: 'public/static/images/overrides/screenpipe/logo.png',
+      ogImage: 'public/static/images/overrides/screenpipe/og-image.png',
+    },
+    // Official og:image and official icon.
+    'utobo-email': {
+      logo: 'public/static/images/overrides/utobo-email/logo.png',
+      ogImage: 'public/static/images/overrides/utobo-email/og-image.png',
+    },
+    // Official og:image and official icon.
+    shorvo: {
+      logo: 'public/static/images/overrides/shorvo/logo.png',
+      ogImage: 'public/static/images/overrides/shorvo/og-image.png',
+    },
+    // Official og:image and official icon.
+    'vibe-island': {
+      logo: 'public/static/images/overrides/vibe-island/logo.png',
+      ogImage: 'public/static/images/overrides/vibe-island/og-image.png',
+    },
+    // Official og:image and official icon.
+    easyswitch: {
+      logo: 'public/static/images/overrides/easyswitch/logo.png',
+      ogImage: 'public/static/images/overrides/easyswitch/og-image.png',
+    },
+    // Official og:image and official icon.
+    chatseo: {
+      logo: 'public/static/images/overrides/chatseo/logo.png',
+      ogImage: 'public/static/images/overrides/chatseo/og-image.png',
+    },
+    // Official og:image and official icon.
+    firecut: {
+      logo: 'public/static/images/overrides/firecut/logo.png',
+      ogImage: 'public/static/images/overrides/firecut/og-image.png',
+    },
+    // Official og:image and official icon.
+    hardcopy: {
+      logo: 'public/static/images/overrides/hardcopy/logo.png',
+      ogImage: 'public/static/images/overrides/hardcopy/og-image.png',
+    },
   },
 };
