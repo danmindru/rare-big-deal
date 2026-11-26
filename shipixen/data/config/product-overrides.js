@@ -1379,5 +1379,70 @@ module.exports = {
       logo: 'public/static/images/overrides/hardcopy/logo.png',
       ogImage: 'public/static/images/overrides/hardcopy/og-image.png',
     },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    genmagic: {
+      logo: 'public/static/images/overrides/genmagic/logo.png',
+      ogImage: 'public/static/images/overrides/genmagic/og-image.png',
+    },
+    // Official og:image and official icon.
+    astrolinks: {
+      logo: 'public/static/images/overrides/astrolinks/logo.png',
+      ogImage: 'public/static/images/overrides/astrolinks/og-image.png',
+    },
+    // Official og:image and official icon.
+    'horcrux-email-backup': {
+      logo: 'public/static/images/overrides/horcrux-email-backup/logo.png',
+      ogImage: 'public/static/images/overrides/horcrux-email-backup/og-image.png',
+    },
+    // Official og:image and official icon.
+    quicksnip: {
+      logo: 'public/static/images/overrides/quicksnip/logo.png',
+      ogImage: 'public/static/images/overrides/quicksnip/og-image.png',
+    },
+    // Official og:image and official icon.
+    intropi: {
+      logo: 'public/static/images/overrides/intropi/logo.png',
+      ogImage: 'public/static/images/overrides/intropi/og-image.png',
+    },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    thastock: {
+      logo: 'public/static/images/overrides/thastock/logo.png',
+      ogImage: 'public/static/images/overrides/thastock/og-image.png',
+    },
+    // Official og:image and official icon.
+    lunille: {
+      logo: 'public/static/images/overrides/lunille/logo.png',
+      ogImage: 'public/static/images/overrides/lunille/og-image.png',
+    },
+    // Official og:image and official icon.
+    shepetal: {
+      logo: 'public/static/images/overrides/shepetal/logo.png',
+      ogImage: 'public/static/images/overrides/shepetal/og-image.png',
+    },
+    // Official og:image and official icon.
+    seenin: {
+      logo: 'public/static/images/overrides/seenin/logo.png',
+      ogImage: 'public/static/images/overrides/seenin/og-image.png',
+    },
+    // Official og:image and official icon.
+    'rebit-pro': {
+      logo: 'public/static/images/overrides/rebit-pro/logo.png',
+      ogImage: 'public/static/images/overrides/rebit-pro/og-image.png',
+    },
+    // Official og:image and official icon.
+    secdim: {
+      logo: 'public/static/images/overrides/secdim/logo.png',
+      ogImage: 'public/static/images/overrides/secdim/og-image.png',
+    },
+    // Official og:image and official icon.
+    fundalyze: {
+      logo: 'public/static/images/overrides/fundalyze/logo.png',
+      ogImage: 'public/static/images/overrides/fundalyze/og-image.png',
+    },
+    // Official og:image and official icon.
+    recapone: {
+      logo: 'public/static/images/overrides/recapone/logo.png',
+      ogImage: 'public/static/images/overrides/recapone/og-image.png',
+    },
   },
 };
