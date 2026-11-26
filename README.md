@@ -1342,6 +1342,7 @@ Free & open-source.
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements (digital or scanned) to clean CSV for Excel, QuickBooks or Xero. Free preview before you pay; files deleted within 24 hours. | **10% OFF** your first 10 file conversions with code **BLACKFRIDAY26** at sign-up (from $1 per conversion) | 2026-12-01 |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Turn PDF credit card statements from any issuer into clean CSV for expense tracking, bookkeeping or budgeting apps. Free preview; no sign-up to start. | **10% OFF** your first 10 file conversions with code **BLACKFRIDAY26** at sign-up (from $1 per conversion) | 2026-12-01 |
 | 📊 | [TotalFigures](https://totalfigures.app/) | Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app. | **88% OFF** Premium, applied automatically on the App Store, no code needed: Lifetime ~~$79.99~~ **$9.59**, or the first year of Yearly ~~$29.99~~ **$3.59** (new subscribers, then $29.99/year; Yearly offer until 2026-12-02). US prices; local prices vary. | 2026-12-03 |
+| 🧾 | [BrassWell](https://brasswell.app/black-friday) | Bookkeeping for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage, invoices and a running tax set-aside. | **25% OFF** the first year of Pro yearly with code **BLACKFRIDAY25** ($299 → $224.25). New subscribers | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
