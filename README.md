@@ -977,6 +977,7 @@ Free & open-source.
 | 📅 | [PostSyncer](https://postsyncer.com/pricing) | Social media scheduler for 12 networks. Plan posts on a calendar, or tell ChatGPT, Claude or Cursor what to post and when. | **40% OFF** the first year of any yearly plan, no code needed: Starter $288 → $172.80, Pro $468 → $280.80, Agency $948 → $568.80 | 2026-12-01 |
 | 🎬 | [Hermoso](https://hermoso.ai/black-friday/) | AI marketing team: launches your website on your own domain, makes finished image and video ads with your real product, posts to every social channel and runs your ad campaigns on Meta, Google, TikTok and LinkedIn, in the app or inside ChatGPT and Claude. | **Starter free for your first month** with code **BLACKFRIDAY**: 300 credits in the trial month, then $29/mo for 1,000 credits a month, cancel anytime | 2026-12-01 |
 | 🖼️ | [SeenIn](https://seenin.isherry.tech) | One page for the products, tools and codes you recommend. A link-in-bio gallery of designed posters that runs on your own PHP host, with affiliate links left untouched. | **25% OFF** every plan with code **BF2026**, one-time payment (from ~~$39~~ $29.25). Starts on 2026-11-27 | 2026-12-01 |
+| 📝 | [innernote](https://www.innernote.space) | Grow your LinkedIn personal brand on autopilot. | **40% off** the annual plan 👀 with code **BLACKFRIDAY40** | 2026-12-04 |
 
 
 ### Sales Tools
