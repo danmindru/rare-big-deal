@@ -300,6 +300,7 @@ Free & open-source.
 | ✍️ | [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells before clients do. Runs 8 deterministic rules on drafts offline, scores cadence, and issues a live cryptographic verification link for client work. | **30% OFF your first billing cycle** on Solo Offline ($79/yr) & Agency Protocol ($99/mo, $790/yr) with code **BF2026**. Nov 24 - Nov 30, 2026 | 2026-11-30 |
 | 🧠 | [Whizi](https://whizi.io/pricing/) | One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | **30% OFF** the first year of any yearly plan, applied automatically at checkout (Pro $239.99 → $167.99) | 2026-12-24 |
 | 🎙️ | [VoxScribe](https://voxscribe-ai-voice-dictation.vercel.app/) | Dictation for Windows and Android that runs on your own device: hold a key or tap a floating button, talk, and the text is typed into any app. Works offline, no account, open source. | **38% OFF** VoxScribe Pro, one-time purchase for 2 PCs and 2 phones: ~~$39~~ **$24** with code **BF2026**, applied automatically from the site | 2026-11-30 |
+| 📑 | [fynk](https://fynk.com/en/black-week/) | Contract management with AI: draft contracts from templates, review them with AI, collect e-signatures (SES, AES, QES) and track every deadline and renewal. MCP server for Claude and ChatGPT. | **50% OFF** any plan for the first 12 months with code **BL4CKWEEK**: Essential €19 → €9.50, Business €39 → €19.50 per user/month (billed yearly). Up to 5 users, new customers. | 2026-12-04 |
 
 
 
