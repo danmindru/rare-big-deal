@@ -1444,5 +1444,185 @@ module.exports = {
       logo: 'public/static/images/overrides/recapone/logo.png',
       ogImage: 'public/static/images/overrides/recapone/og-image.png',
     },
+    // Official og:image and official icon.
+    'brasswell': {
+      logo: 'public/static/images/overrides/brasswell/logo.png',
+      ogImage: 'public/static/images/overrides/brasswell/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'caddy-docs': {
+      logo: 'public/static/images/overrides/caddy-docs/logo.png',
+      ogImage: 'public/static/images/overrides/caddy-docs/og-image.png',
+    },
+    // The site publishes no og:image. The og-image is a screenshot of the official site. The logo is the official SVG icon rasterized to PNG.
+    'cacheflo': {
+      logo: 'public/static/images/overrides/cacheflo/logo.png',
+      ogImage: 'public/static/images/overrides/cacheflo/og-image.png',
+    },
+    // Official og:image and official icon.
+    'adstudio': {
+      logo: 'public/static/images/overrides/adstudio/logo.png',
+      ogImage: 'public/static/images/overrides/adstudio/og-image.png',
+    },
+    // Official og:image and official icon.
+    'timeactor': {
+      logo: 'public/static/images/overrides/timeactor/logo.png',
+      ogImage: 'public/static/images/overrides/timeactor/og-image.png',
+    },
+    // Official og:image and official icon.
+    'bettermerge': {
+      logo: 'public/static/images/overrides/bettermerge/logo.png',
+      ogImage: 'public/static/images/overrides/bettermerge/og-image.png',
+    },
+    // Official og:image and official icon.
+    '1devtool': {
+      logo: 'public/static/images/overrides/1devtool/logo.png',
+      ogImage: 'public/static/images/overrides/1devtool/og-image.png',
+    },
+    // Official og:image and official icon.
+    '1designtool': {
+      logo: 'public/static/images/overrides/1designtool/logo.png',
+      ogImage: 'public/static/images/overrides/1designtool/og-image.png',
+    },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    'stoicsoft': {
+      logo: 'public/static/images/overrides/stoicsoft/logo.png',
+      ogImage: 'public/static/images/overrides/stoicsoft/og-image.png',
+    },
+    // Official og:image and official icon.
+    'outflo-ai': {
+      logo: 'public/static/images/overrides/outflo-ai/logo.png',
+      ogImage: 'public/static/images/overrides/outflo-ai/og-image.png',
+    },
+    // Official og:image and official icon.
+    'bugsmash': {
+      logo: 'public/static/images/overrides/bugsmash/logo.png',
+      ogImage: 'public/static/images/overrides/bugsmash/og-image.png',
+    },
+    // Official og:image and official icon.
+    'cloudways': {
+      logo: 'public/static/images/overrides/cloudways/logo.png',
+      ogImage: 'public/static/images/overrides/cloudways/og-image.png',
+    },
+    // Official og:image and official icon.
+    'clearpane': {
+      logo: 'public/static/images/overrides/clearpane/logo.png',
+      ogImage: 'public/static/images/overrides/clearpane/og-image.png',
+    },
+    // Official og:image and official icon.
+    'mole': {
+      logo: 'public/static/images/overrides/mole/logo.png',
+      ogImage: 'public/static/images/overrides/mole/og-image.png',
+    },
+    // Official og:image and official icon.
+    'fynk': {
+      logo: 'public/static/images/overrides/fynk/logo.png',
+      ogImage: 'public/static/images/overrides/fynk/og-image.png',
+    },
+    // Official og:image and official icon.
+    'innernote': {
+      logo: 'public/static/images/overrides/innernote/logo.png',
+      ogImage: 'public/static/images/overrides/innernote/og-image.png',
+    },
+    // Official og:image and official icon.
+    'falconry-drive': {
+      logo: 'public/static/images/overrides/falconry-drive/logo.png',
+      ogImage: 'public/static/images/overrides/falconry-drive/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'stitchpdf': {
+      logo: 'public/static/images/overrides/stitchpdf/logo.png',
+      ogImage: 'public/static/images/overrides/stitchpdf/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'mirroring-for-chromecast-castx': {
+      logo: 'public/static/images/overrides/mirroring-for-chromecast-castx/logo.png',
+      ogImage: 'public/static/images/overrides/mirroring-for-chromecast-castx/og-image.png',
+    },
+    // Official og:image and official icon.
+    'vernalo-plant-anywhere': {
+      logo: 'public/static/images/overrides/vernalo-plant-anywhere/logo.png',
+      ogImage: 'public/static/images/overrides/vernalo-plant-anywhere/og-image.png',
+    },
+    // The site publishes no og:image. The og-image is a screenshot of the official site. The logo is the official SVG icon rasterized to PNG.
+    'onehostbox': {
+      logo: 'public/static/images/overrides/onehostbox/logo.png',
+      ogImage: 'public/static/images/overrides/onehostbox/og-image.png',
+    },
+    // Official og:image and official icon.
+    'switchy': {
+      logo: 'public/static/images/overrides/switchy/logo.png',
+      ogImage: 'public/static/images/overrides/switchy/og-image.png',
+    },
+    // Official og:image and official icon.
+    'pastenotch': {
+      logo: 'public/static/images/overrides/pastenotch/logo.png',
+      ogImage: 'public/static/images/overrides/pastenotch/og-image.png',
+    },
+    // Official og:image and official icon.
+    'exit-loop': {
+      logo: 'public/static/images/overrides/exit-loop/logo.png',
+      ogImage: 'public/static/images/overrides/exit-loop/og-image.png',
+    },
+    // Official og:image and official icon.
+    'mailsketch': {
+      logo: 'public/static/images/overrides/mailsketch/logo.png',
+      ogImage: 'public/static/images/overrides/mailsketch/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'xeos-external-display-desktop': {
+      logo: 'public/static/images/overrides/xeos-external-display-desktop/logo.png',
+      ogImage: 'public/static/images/overrides/xeos-external-display-desktop/og-image.png',
+    },
+    // Official og:image and official icon.
+    'abctab': {
+      logo: 'public/static/images/overrides/abctab/logo.png',
+      ogImage: 'public/static/images/overrides/abctab/og-image.png',
+    },
+    // Official og:image and official icon.
+    'tweetsmash': {
+      logo: 'public/static/images/overrides/tweetsmash/logo.png',
+      ogImage: 'public/static/images/overrides/tweetsmash/og-image.png',
+    },
+    // Official og:image and official icon.
+    'linkedmash': {
+      logo: 'public/static/images/overrides/linkedmash/logo.png',
+      ogImage: 'public/static/images/overrides/linkedmash/og-image.png',
+    },
+    // Official og:image and official icon.
+    'mash-fleet': {
+      logo: 'public/static/images/overrides/mash-fleet/logo.png',
+      ogImage: 'public/static/images/overrides/mash-fleet/og-image.png',
+    },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    'headsup': {
+      logo: 'public/static/images/overrides/headsup/logo.png',
+      ogImage: 'public/static/images/overrides/headsup/og-image.png',
+    },
+    // Official og:image and official icon.
+    'twinsweep': {
+      logo: 'public/static/images/overrides/twinsweep/logo.png',
+      ogImage: 'public/static/images/overrides/twinsweep/og-image.png',
+    },
+    // Official og:image and official icon.
+    'localvoice': {
+      logo: 'public/static/images/overrides/localvoice/logo.png',
+      ogImage: 'public/static/images/overrides/localvoice/og-image.png',
+    },
+    // Official og:image and official icon.
+    'batchshift': {
+      logo: 'public/static/images/overrides/batchshift/logo.png',
+      ogImage: 'public/static/images/overrides/batchshift/og-image.png',
+    },
+    // Official og:image and official icon.
+    'noteporter': {
+      logo: 'public/static/images/overrides/noteporter/logo.png',
+      ogImage: 'public/static/images/overrides/noteporter/og-image.png',
+    },
+    // Official og:image and official icon.
+    'awakelet': {
+      logo: 'public/static/images/overrides/awakelet/logo.png',
+      ogImage: 'public/static/images/overrides/awakelet/og-image.png',
+    },
   },
 };
