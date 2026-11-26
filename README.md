@@ -828,6 +828,7 @@ Free & open-source.
 | 🧶 | [Knitting Chart](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59), applied at checkout. | 2026-11-30 |
 | 🪡 | [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $40.12 once (was $59), applied at checkout. | 2026-11-30 |
 | 🖼️ | [A1](https://www.a1.gallery/pricing) | Hand-picked gallery of real, live websites for design inspiration. Browse sites, sections and full pages with their fonts and colours, or use it in your AI tools via MCP. | **33% OFF** Pro yearly: $48 a year instead of $72, kept for as long as you stay subscribed. No code needed | 2026-11-30 |
+| 🎨 | [LogoGoGo](https://logogogo.app/?utm_source=rarebigdeal&utm_medium=referral) | Turn 1 master SVG logo into every color version, vector/PNG/favicon export, and a permanent branded client delivery portal for logo designers. | **50% OFF** Annual Pro ($190 → $95/yr) & Studio ($490 → $245/yr) with code **BF50**. Starts on 2026-11-26 | 2026-11-30 |
 
 
 ### AI Design Tools
