@@ -510,6 +510,7 @@ Free & open-source.
 | 🕰️ | [Astrolinks](https://astrolinks.org/black-friday/) | Automatic time tracking by client for Mac and Windows: writes your end-of-day client reports and invoices, no screenshots. | **60% OFF** the first year of Pro Yearly with code **BF60YEAR** (applied automatically at checkout): ~~$90~~ **$36** for the first year | 2026-12-01 |
 | ✉️ | [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) | Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. | **30% OFF** the Horcrux 5 one-time purchase (US $49.99 → $34.99) with code `BLACKFRIDAY2026`, direct or on the Mac App Store. | 2026-12-01 |
 | 🎙️ | [shepetal](https://shepetal.app/pricing) | Dictation and meeting notes for the Mac. Press one key, speak, and your words appear in any app. Speech recognition runs on your Mac and works offline. Apple silicon, macOS 14.4 or later. | **80% OFF** the lifetime license: €24 → €4.80 once with code **BLACKFRIDAY**. 30-day free trial. Until Nov 30, 2026 | 2026-11-30 |
+| ⌨️ | [AbcTab](https://solocraft.app/abctab) | Native macOS ⌘-Tab switcher with instant English & Pinyin first-letter jump, multi-window & terminal tab lists, and Ping-Pong pairing. Zero Screen Recording permission, zero telemetry, 14-day free trial. macOS 14+. | **50% OFF** the lifetime license ($9.99 → $4.99), one-time purchase with code **BF50**. Starts on 2026-11-27 | 2026-12-02 |
 
 
 ### Design Tools
