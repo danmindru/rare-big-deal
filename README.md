@@ -1238,6 +1238,7 @@ Free & open-source.
 | 🛡️ | [SecurityPaths Academy](https://academy.securitypaths.com/courses) | Hands-on security courses with labs, exam and certification: Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP). Formerly WiFiChallenge Academy. | **25% OFF** CWP and CRP with code **BLACKFRIDAY26**, applied automatically (Nov 21 – Nov 30, 2026) | 2026-11-30 |
 | 🛡️ | [Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking) | Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs and lifetime access. | **40% OFF** ($149 → $89.40) with code **BYTENOV40** (Nov 23 – Nov 30, 2026) | 2026-11-30 |
 | ⌨️ | [VimNinja](https://www.vimninja.com/upgrade) | Interactive Vim course where every lesson runs in a real Vim editor in your browser, from the first motions to text objects, macros and your own Neovim config. First 13 chapters free. | **34% OFF** Lifetime Pro: ~~$29~~ **$19**, one payment, applied automatically (no code). Ends Nov 30, 11:59 p.m. Pacific. | 2026-11-30 |
+| 🛡️ | [SecDim](https://secdim.com/pricing) | Secure coding wargames: find, exploit and fix real-world vulnerabilities in hands-on labs, and learn to verify AI-generated code. | **35% OFF** Professional ($239.88 → $155.92/yr) with code **APPSECONABUDGET2026**; **25% OFF** Team ($348 → $261 per user/yr) with code **APPSECTEAM2026** | 2026-12-05 |
 
 ### Art Courses
 
