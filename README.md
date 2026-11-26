@@ -510,6 +510,7 @@ Free & open-source.
 | 🕰️ | [Astrolinks](https://astrolinks.org/black-friday/) | Automatic time tracking by client for Mac and Windows: writes your end-of-day client reports and invoices, no screenshots. | **60% OFF** the first year of Pro Yearly with code **BF60YEAR** (applied automatically at checkout): ~~$90~~ **$36** for the first year | 2026-12-01 |
 | ✉️ | [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) | Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. | **30% OFF** the Horcrux 5 one-time purchase (US $49.99 → $34.99) with code `BLACKFRIDAY2026`, direct or on the Mac App Store. | 2026-12-01 |
 | 🎙️ | [shepetal](https://shepetal.app/pricing) | Dictation and meeting notes for the Mac. Press one key, speak, and your words appear in any app. Speech recognition runs on your Mac and works offline. Apple silicon, macOS 14.4 or later. | **80% OFF** the lifetime license: €24 → €4.80 once with code **BLACKFRIDAY**. 30-day free trial. Until Nov 30, 2026 | 2026-11-30 |
+| 🗂️ | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, then tuck away when you're done. Animated desktop pets live on the tabs. | **Black Friday price $12.99**, one-time purchase on the Mac App Store, no code needed. | 2026-12-01 |
 
 
 ### Design Tools
