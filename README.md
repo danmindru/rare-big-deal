@@ -203,6 +203,7 @@ Free & open-source.
 | ☁️ | [Miget](https://miget.com/plans) | Deploy apps, databases and workers from Git, Docker or your coding agent into one compute plan, with no per-app fees. EU and US regions. | **33% OFF for 12 months** on a new workspace with code **BLACKFRIDAY26**: Hobby 2 vCPU / 2 GiB ~~$19~~ **$12.73**/mo, Pro 2 vCPU / 4 GiB ~~$49~~ **$32.83**/mo. Starts on 2026-11-27 | 2026-11-30 |
 | 🦀 | [ShipRust](https://shiprust.com/#pricing) | Generate a Rust SaaS codebase built on Axum and SQLx. | **70% off** lifetime access: $299 once, regularly $999. | 2026-12-05 |
 | 📡 | [Uptimecheck](https://uptimecheck.com/pricing/) | Uptime monitoring for websites, APIs, cron jobs and servers from 6 locations, with status pages and alerts by email, Slack, Teams, SMS and push. Free plan available. | **70% OFF** the first year on yearly plans, applied at checkout with no code: Start ~~€108~~ **€29**, Professional ~~€348~~ **€99**, Business ~~€828~~ **€239** (excl. VAT) | 2026-12-04 |
+| 🧰 | [FreeAppsHub](https://free-apps-hub.pages.dev/) | Free tools, apps and guides — 21 in-browser tools, GTA 6 and Free Fire guides, planner and printables | **50% OFF** all paid guides and packs with code **BLACKFRIDAY50** | 2026-11-30 |
 
 
 ### Browser Extensions
