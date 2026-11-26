@@ -346,6 +346,7 @@ Free & open-source.
 | 🎤 | [RapStar Studio](https://rapstarstudio.com/pricing) | Custom AI rap songs from names and facts: two song versions plus two 720p lyric videos with your photo. No account needed. | **30% OFF** one-time custom rap song ($9.90 → $6.93) with code **BF2026** | 2026-12-01 |
 | 📓 | [Dayora](https://www.dayora.ai/black-friday) | AI journal that reflects on every entry, with mood tracking and voice journaling. | **40% OFF** Plus yearly for your first year ($72 → $43.20), no code needed | 2026-12-01 |
 | 🌙 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI readings that connect each new dream to the ones before it, plus a deep reading and a painting of each dream. | **10% OFF** your first year or first month of Plus ($39.99 → $35.99 a year, $6.99 → $6.29 a month), no code needed | 2026-12-01 |
+| 🔮 | [TIMEACTOR](https://checkout.time.actor/pricing?lang=en) | All-in-one AI metaphysics toolkit covering AI Bazi, Feng Shui, I Ching, Fortune Stick, Tarot, and daily fortune calendar in 9 languages. | 50% OFF all membership plans (Monthly $6.99 → $3.50, Yearly $59.99 → $30.00) and credit packs with code `BLACKFRIDAY26` | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
