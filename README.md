@@ -1139,6 +1139,7 @@ Free & open-source.
 | 🌐 | [ShadcnSpace](https://shadcnspace.com) | Ready-to-use 1400+ shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. Free and Pro. | **40% OFF** Pro with code **BFCM** | 2026-12-01 |
 | 🧱 | [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers (TanStack Start + D1/PostgreSQL) with 40 coding-agent runbooks, 4 payment providers, 4 AI providers, a credit ledger and an admin center. | **50% OFF** Early Access one-time license ($99 → $49 USD), no code needed (auto-applied). No renewal fees. | 2026-12-06 |
 | 🚀 | [Indie Kit](https://indiekit.pro/#pricing) | Next.js SaaS boilerplate: auth, payments, credits, emails, admin, blog and SEO, plus Claude Code and Cursor skills so your AI agent builds the rest the right way. The B2B kit adds organizations, roles and team invites. | **30% OFF** everything, no code needed: Pro $79 → $55.30, Full kit $169 → $118.30, Launch Stack (kit + SmoothCut + Auto Social Media Kit) $129 → $90.30. One-time payment. | 2026-11-30 |
+| 🏔️ | [Highground Kit](https://colton312.itch.io/highground-kit) | React + FastAPI starter for shipping a paid web app with Claude Code: login, Stripe credit checkout, deploy configs, a CLAUDE.md and skills, and 9 passing tests. | **40% OFF** ($49 → $29.40), no code needed | 2026-12-02 |
 
 
 ### Astro
