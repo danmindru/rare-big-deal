@@ -1434,5 +1434,15 @@ module.exports = {
       logo: 'public/static/images/overrides/secdim/logo.png',
       ogImage: 'public/static/images/overrides/secdim/og-image.png',
     },
+    // Official og:image and official icon.
+    fundalyze: {
+      logo: 'public/static/images/overrides/fundalyze/logo.png',
+      ogImage: 'public/static/images/overrides/fundalyze/og-image.png',
+    },
+    // Official og:image and official icon.
+    recapone: {
+      logo: 'public/static/images/overrides/recapone/logo.png',
+      ogImage: 'public/static/images/overrides/recapone/og-image.png',
+    },
   },
 };
