@@ -308,6 +308,7 @@ Free & open-source.
 | 🎙️ | [VoxScribe](https://voxscribe-ai-voice-dictation.vercel.app/) | Dictation for Windows and Android that runs on your own device: hold a key or tap a floating button, talk, and the text is typed into any app. Works offline, no account, open source. | **38% OFF** VoxScribe Pro, one-time purchase for 2 PCs and 2 phones: ~~$39~~ **$24** with code **BF2026**, applied automatically from the site | 2026-11-30 |
 | 📑 | [fynk](https://fynk.com/en/black-week/) | Contract management with AI: draft contracts from templates, review them with AI, collect e-signatures (SES, AES, QES) and track every deadline and renewal. MCP server for Claude and ChatGPT. | **50% OFF** any plan for the first 12 months with code **BL4CKWEEK**: Essential €19 → €9.50, Business €39 → €19.50 per user/month (billed yearly). Up to 5 users, new customers. | 2026-12-04 |
 | 🖥️ | [Sky OS AI](https://skyrunapp.com/pricing) | AI that does the work on your own Mac: ask from your phone or the web, and it uses your apps, files and browser and shows every step. | **30% OFF** the first month of any monthly plan, applied automatically at checkout (no code needed): Pro $14 for the first month, then $20/month (USD before tax; €15.75, then €22.50 including VAT). Renewals at the regular price. Ends Nov 30, 11:59 pm ET. | 2026-11-30 |
+| 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2026** | 2026-12-02 |
 
 
 
@@ -907,6 +908,7 @@ Free & open-source.
 | 🪄 | [GenMagic](https://genmagic.co/black-friday) | Pay-as-you-go AI studio and API for video, images, music and voice: Veo 3.1, Seedance, Wan, Runway, GPT Image, Nano Banana, FLUX and more on one prepaid balance, no subscription and no provider keys. Every model shows its price before you generate. | **Up to 20% extra credit** on top-ups, no code needed: $25 → **$27.50**, $50 → **$57.50**, $100 → **$120** of credit (top-up credit never expires). A new plan's first month adds 10%: Pro $18/mo gives **$22** of credit (usually $20). Starts on 2026-11-27 | 2026-12-01 |
 | 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
 | 📺 | [Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | **50% off Supporter Monthly** with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month). For accounts without an active paid subscription. | 2026-11-30 |
+| 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2026** | 2026-12-02 |
 
 
 ### Social
@@ -1085,6 +1087,7 @@ Free & open-source.
 | 🔎 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS: see and improve how ChatGPT, Perplexity and Claude cite your brand. | **20% OFF** with code **BF2026** | 2026-12-15 |
 | 💙 | [Beamly](https://beamly.com/) | Beamly is the platform for your podcast - and everything around it. From hosting and analytics, to podcast websites, private podcasts and memberships. | **30% OFF** new annual plans (Starter $18, Creator $30, Business $64 per month billed annually before the discount), via the Black Friday offer on beamly.com | 2026-12-01 |
 | ▶️ | [OutlierKit](https://outlierkit.com/resources/black-friday/) | YouTube research for experts, coaches and agencies: find the breakout videos in your niche, the keywords behind them and the competitor channels to watch, with API and MCP on every plan. | **40% OFF** any plan, including lifetime, with code **BFCM40** (Hobby $49 → $29.40/mo, lifetime from $899 → $539.40) | 2026-12-05 |
+| 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2026** | 2026-12-02 |
 
 
 ### Affiliate Marketing
