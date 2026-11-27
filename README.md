@@ -884,6 +884,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💬 | [Textmock](https://textmock.com/pricing) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**: ~~$5~~ **$2.50**/month, new subscribers | 2026-12-02 |
+| 🎨 | [Krevaya](https://krevaya.com/black-friday/) | Social media studio and scheduler: design images, carousels and videos in a layered editor, then review and schedule them to 34 channels from one calendar. | **Lifetime deal** for the first 100 buyers, one payment: Essentials **$199** (regular $19/month), Plus with Krevaya AI **$499** (regular $29/month), until 2026-11-30. Or **30% OFF** the first year of any monthly or annual plan, no code needed. | 2026-12-04 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -1007,6 +1008,7 @@ Free & open-source.
 | 🔖 | [Tweetsmash](https://www.tweetsmash.com/pricing?code=BF2026) | An X content platform. The Chrome extension imports your bookmarks automatically on install, then you can search them, turn them into newsletters and digests, and export to Notion or Google Sheets. | **30% OFF** the first year with code **BF2026**, new subscribers only: Yearly $99 → $69.30, Reader $84 → $58.80. Renews at the normal price. | 2026-12-01 |
 | ✍️ | [LinkedMash](https://www.linkedmash.com/pricing) | A LinkedIn platform tool: searchable saved posts, Composer and Scheduler, Notion or Google Sheets sync, and MCP for Claude, ChatGPT or Cursor. | **30% OFF** the first year of Premium yearly with code **BF2026**, new subscribers only: $99 → $69.30. Enter the code at checkout. | 2026-12-01 |
 | 🧺 | [Mash Fleet](https://mashfleet.com) | Lifetime access to 5 tools for X, LinkedIn, bookmarks, scheduling and analytics: Tweetsmash, LinkedMash, Agentmash, Schedulemash and Mashpulse. One payment, no renewals. | **Lifetime bundle $299** one-time instead of $645/year for the five plans. First 5 buyers pay $299, then +$50 every 5 buyers up to $449. No code needed. | 2026-12-01 |
+| 🎨 | [Krevaya](https://krevaya.com/black-friday/) | Social media studio and scheduler: design images, carousels and videos in a layered editor, then review and schedule them to 34 channels from one calendar. | **Lifetime deal** for the first 100 buyers, one payment: Essentials **$199** (regular $19/month), Plus with Krevaya AI **$499** (regular $29/month), until 2026-11-30. Or **30% OFF** the first year of any monthly or annual plan, no code needed. | 2026-12-04 |
 
 
 ### Sales Tools
