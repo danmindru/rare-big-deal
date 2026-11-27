@@ -943,6 +943,7 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🎁 | [Gleam.io](https://gleam.io/black-friday) | Run giveaways, contests, rewards, email capture campaigns and UGC galleries to grow your audience and generate leads. | Up to 60% OFF: Buy any Competitions plan with yearly billing and get all four Gleam apps for the same price, for as long as your subscription remains active. No code needed. Starts on 2026-11-20 | 2026-12-02 |
+| 📣 | [WoopSocial](https://woopsocial.com/black-friday) | Social media API and official MCP plugin that lets Claude, ChatGPT, Cursor or any AI agent post to Facebook, Instagram, X, LinkedIn, Pinterest, YouTube, TikTok, Threads and Bluesky. Free plan: 2 accounts, no card. | **30% OFF** all paid plans (Pro $19, Business $49, Max $799 per month) with code **WSBF26** | 2026-12-01 |
 
 
 ### Other
