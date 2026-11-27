@@ -215,6 +215,7 @@ Free & open-source.
 | 💼 | [Bordfeed](https://bordfeed.com/black-friday) | Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly, via REST API, webhooks, email digests or MCP for ChatGPT and Claude. | **50% OFF** your first 3 months on any plan with code **BFCM50**: Pro $79 → $39.50/mo, Max $299 → $149.50/mo (new subscriptions only) | 2026-12-04 |
 | 🔎 | [OSINTverse](https://osintverse.com/pricing) | OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources, with cases, a team graph, an API and an MCP server. Pay per lookup. | **10% OFF** any credit top-up with code **BLACKFRIDAY10**, wallet credited the full amount. | 2026-11-30 |
 | 🛡️ | [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | Offline WBS quote risk estimator, 8 SOW guardrails, A4 print PDFs and 5-sheet Excel margin workbook for freelance devs. | **60% OFF** first 10 buyers (~~$4~~ **$1.60**) with code **FIRST10**, or **40% OFF** (~~$4~~ **$2.40**) with **SCOPE40**. One-time download. | 2026-12-01 |
+| ☁️ | [Beam](https://www.beam.cloud/pricing) | Serverless GPUs, sandboxes and VMs for AI apps and agents, billed by usage: GPU inference endpoints, code sandboxes for agents, task queues and VMs, deployed from Python or any container. | **2x credits**: every credit purchase is matched 1:1, up to $100 in free credits (buy $20, get $20 free). Auto-applied, no code needed, new and existing accounts | Nov 30, 2026 |
 
 
 ### Browser Extensions
