@@ -530,6 +530,7 @@ Free & open-source.
 | 🎁 | [Once Upon Your Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026) | A collection of 12 indie Mac apps at a fairy-tale price. | **75% OFF** the full bundle ($239 → $59.99), or 50% OFF individual apps. | 2026-12-10 |
 | 🧩 | [Pake](https://pake.run/) | Desktop app for Mac, Windows and Linux that turns any website into a lightweight app with its own icon and window, no Node.js or Rust to install. From the maker of the open-source Pake CLI (64K GitHub stars). | **20% OFF** one-time license, ~~$19~~ $15.20, applied automatically at checkout, no code. Make 2 apps free first; one license covers up to 3 computers. Nov 25 - Dec 15, 2026 | 2026-12-15 |
 | 🌗 | [HazeOver](https://hazeover.com) | Dims background windows to highlight the active one, so you always know where you’re typing. Native Mac app. One-time purchase. | **60% OFF** ($4.99 → $1.99) on the Mac App Store and hazeover.com, no code needed. | 2026-12-01 |
+| 🪟 | [SMBAct](https://smblob.com/products/smbact/?promo=BF2026&utm_source=rare-big-deal) | Window manager and app switcher for Windows, macOS and Linux: keyboard layouts, drag-to-edge snapping and moving windows between monitors. One license covers all three. One-time purchase. | **30% OFF** every license with code **BF2026**, applied automatically through the link (1 PC €14.99 → €10.49, 3 PCs €29.99 → €20.99, excl. VAT). Starts on 2026-11-27 | 2026-12-31 |
 
 
 ### Design Tools
