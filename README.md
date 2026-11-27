@@ -530,6 +530,7 @@ Free & open-source.
 | 🎁 | [Once Upon Your Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026) | A collection of 12 indie Mac apps at a fairy-tale price. | **75% OFF** the full bundle ($239 → $59.99), or 50% OFF individual apps. | 2026-12-10 |
 | 🧩 | [Pake](https://pake.run/) | Desktop app for Mac, Windows and Linux that turns any website into a lightweight app with its own icon and window, no Node.js or Rust to install. From the maker of the open-source Pake CLI (64K GitHub stars). | **20% OFF** one-time license, ~~$19~~ $15.20, applied automatically at checkout, no code. Make 2 apps free first; one license covers up to 3 computers. Nov 25 - Dec 15, 2026 | 2026-12-15 |
 | 🌗 | [HazeOver](https://hazeover.com) | Dims background windows to highlight the active one, so you always know where you’re typing. Native Mac app. One-time purchase. | **60% OFF** ($4.99 → $1.99) on the Mac App Store and hazeover.com, no code needed. | 2026-12-01 |
+| 🍅 | [Foca for Mac](https://foca.work/) | A calm Pomodoro timer for Mac and iPhone, with ambient sounds for focus and guided stretch breaks. Foca for Mac and Foca for iPhone are separate Lifetime purchases. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Design Tools
@@ -725,6 +726,7 @@ Free & open-source.
 | 📄 | [ProScan PDF](https://apps.apple.com/us/app/id6752308731) | Private document scanner and PDF toolkit for iPhone and iPad: scan documents, receipts and notes, then organize, edit, sign and share PDFs. | **50% OFF** Pro: 12 months, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99, no code needed. | 2026-11-30 |
 | 🏠 | [Oriel: Habit Tracker](https://zhorzhua.studio/blackfriday/) | Visual iPhone habit tracker with no streak guilt: each kept habit lights a window in a little house, stacking into a tower in the clouds. Missed days stay dark, nothing resets. | **50% OFF**: Plus Forever (lifetime) $34.99 → $17.49 or first year Annual $14.99 → $7.49 (one-tap App Store redeem links on deal page). | 2026-12-01 |
 | ✅ | [Progressio](https://progressiostudio.com/progressio) | Habit tracker for iPhone, iPad and Apple Watch that fills in habits from Apple Health, sums up your year, and lets you ask about your habits in plain words. Also on Android. | **50% OFF** Pro Lifetime (one-time purchase) on the App Store: ~~$19.99~~ **$9.99** US, local prices vary. Applied automatically, no code needed. | 2026-11-30 |
+| 🍅 | [Foca](https://foca.work/) | A calm Pomodoro timer for iPhone and Mac, with ambient sounds for focus and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -775,6 +777,7 @@ Free & open-source.
 | 💉 | [DosePlan: GLP-1 Peptide Tracker](https://apps.apple.com/us/app/id6782329639) | A simple, private tracker for your GLP-1 or peptide routine on iPhone and iPad: log every shot, see when the next one is due and track side effects. | **50% OFF** Pro: Yearly, first year $29.99 → $14.99 · Monthly, first 3 months $5.99 → $2.99, yearly: code `BLACKWEEK`; monthly: no code. | 2026-11-30 |
 | 💧 | [Water Fasting: Beyond](https://apps.apple.com/us/app/id6786837206) | A fasting tracker, water reminder and weight tracker for iPhone and iPad, built to help you prepare for, track and reflect on every fast. | **50% OFF** Plus: Yearly, first year $39.99 → $19.99 · Monthly, first 3 months $7.99 → $3.99, yearly: code `BLACKWEEK`; monthly: no code. | 2026-11-30 |
 | 🏋️ | [Tempo](https://apps.apple.com/us/app/tempo-workout-tracker-log/id6757211772) | Workout log and gym tracker for iPhone with muscle recovery estimates and a daily readiness score. Also on [Android](https://play.google.com/store/apps/details?id=com.progressiostudio.workoutlog). | **Up to 50% OFF** Pro Lifetime (one-time purchase): App Store ~~$12.99~~ **$6.99**, Google Play ~~$29.99~~ **$14.99** US, local prices vary. Applied automatically, no code needed. | 2026-11-30 |
+| ⏱️ | [Core: Interval & HIIT Timer](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Hobby & Lifestyle
@@ -801,6 +804,7 @@ Free & open-source.
 | 🌱 | [You Become: Daily Motivation](https://apps.apple.com/us/app/id6798391117) | Daily thoughts for who you want to become: choose where you want to grow and get one short, thoughtful idea each day, on iPhone and iPad. | **50% OFF** Premium: Yearly, first year $19.99 → $9.99, code `BLACKWEEK`. | 2026-11-30 |
 | ⚽ | [MatchFlare: Live Football](https://apps.apple.com/us/app/id6775471221) | A fast, clean football app for iPhone and iPad: live scores, goal alerts, line-ups, tables and news from 60+ leagues and cups. No ads, no account. | **50% OFF** Premium Lifetime: Lifetime $29.99 → $14.99 · Yearly, first year $7.99 → $3.99, lifetime: no code; yearly: code `BLACKWEEK`. | 2026-11-30 |
 | 🕰️ | [Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747) | Clock widgets for iPhone and iPad home and lock screens: 40+ faces from retro to minimalist, a face editor, world time and full-screen desk clocks. Also on [Android](https://play.google.com/store/apps/details?id=com.progressiostudio.clockwidgetplus). | **50% OFF** Lifetime (one-time purchase) on the App Store and Google Play: ~~$19.99~~ **$9.99** US, local prices vary. Applied automatically, no code needed. | 2026-11-30 |
+| 📅 | [Dayfold](https://foca.work/dayfold.html) | Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Other
