@@ -808,6 +808,8 @@ Free & open-source.
 | ⏱️ | [Core: Interval & HIIT Timer](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. | 2026-12-01 |
 | 🍱 | [Sekki: Photo Food Diary](https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924) | Photo food diary: take one photo before you eat and the meal is logged. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
 | 🌙 | [Dalbit: Sleep Sounds & Noise](https://apps.apple.com/us/app/dalbit-sleep-sounds-noise/id1626715109) | Sleep sounds you can layer, like rain under piano, so you stop searching for something to fall asleep to. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
+| 🫀 | [Body Vitals](https://www.escapethematrix.app/products/body-vitals/) | Widget-first health & HRV readiness dashboard for iPhone and Apple Watch. All scores computed on-device from Apple Health; no account required. | **60% OFF** Lifetime ($99.99 → $39.99 USD) with code **OFF60** ([Redeem on App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6760609127&code=OFF60)). | 2027-04-29 |
+| 🏋️ | [RepSquad](https://www.escapethematrix.app/products/ai-rep-counter/) | AI rep counter & fitness battles using your iPhone camera. Counts reps, checks form, and works 100% on-device. | **20% OFF** Lifetime ($49.99 → $39.99 USD) with code **REP60** ([Redeem on App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6756504196&code=REP60)). | 2027-04-29 |
 
 
 ### Hobby & Lifestyle
