@@ -1798,5 +1798,250 @@ module.exports = {
     'clipwing': {
       ogImage: 'public/static/images/overrides/clipwing/og-image.png',
     },
+    // Official og:image and official icon.
+    'ricly': {
+      logo: 'public/static/images/overrides/ricly/logo.png',
+      ogImage: 'public/static/images/overrides/ricly/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'nearleaf': {
+      logo: 'public/static/images/overrides/nearleaf/logo.png',
+      ogImage: 'public/static/images/overrides/nearleaf/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'cleanstorage-swipe-clean': {
+      logo: 'public/static/images/overrides/cleanstorage-swipe-clean/logo.png',
+      ogImage: 'public/static/images/overrides/cleanstorage-swipe-clean/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'babyanalytic-baby-tracker': {
+      logo: 'public/static/images/overrides/babyanalytic-baby-tracker/logo.png',
+      ogImage: 'public/static/images/overrides/babyanalytic-baby-tracker/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'math-daily-mental-math-games': {
+      logo: 'public/static/images/overrides/math-daily-mental-math-games/logo.png',
+      ogImage: 'public/static/images/overrides/math-daily-mental-math-games/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'squishu-squishy-dumpling-game': {
+      logo: 'public/static/images/overrides/squishu-squishy-dumpling-game/logo.png',
+      ogImage: 'public/static/images/overrides/squishu-squishy-dumpling-game/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'pawlitics-election-simulator': {
+      logo: 'public/static/images/overrides/pawlitics-election-simulator/logo.png',
+      ogImage: 'public/static/images/overrides/pawlitics-election-simulator/og-image.png',
+    },
+    // Official og:image and official icon.
+    'loudwell': {
+      logo: 'public/static/images/overrides/loudwell/logo.png',
+      ogImage: 'public/static/images/overrides/loudwell/og-image.png',
+    },
+    // Official icon. The og-image is a screenshot of the official site (its og:image is only the square app icon).
+    'foca-for-mac': {
+      logo: 'public/static/images/overrides/foca-for-mac/logo.png',
+      ogImage: 'public/static/images/overrides/foca-for-mac/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'foca': {
+      logo: 'public/static/images/overrides/foca/logo.png',
+      ogImage: 'public/static/images/overrides/foca/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'core-interval-hiit-timer': {
+      logo: 'public/static/images/overrides/core-interval-hiit-timer/logo.png',
+      ogImage: 'public/static/images/overrides/core-interval-hiit-timer/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'dayfold': {
+      logo: 'public/static/images/overrides/dayfold/logo.png',
+      ogImage: 'public/static/images/overrides/dayfold/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'screencommand': {
+      logo: 'public/static/images/overrides/screencommand/logo.png',
+      ogImage: 'public/static/images/overrides/screencommand/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'spaceclear': {
+      logo: 'public/static/images/overrides/spaceclear/logo.png',
+      ogImage: 'public/static/images/overrides/spaceclear/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'skywall': {
+      logo: 'public/static/images/overrides/skywall/logo.png',
+      ogImage: 'public/static/images/overrides/skywall/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'goaley-savings-goal-tracker': {
+      logo: 'public/static/images/overrides/goaley-savings-goal-tracker/logo.png',
+      ogImage: 'public/static/images/overrides/goaley-savings-goal-tracker/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'windfall-expense-tracker': {
+      logo: 'public/static/images/overrides/windfall-expense-tracker/logo.png',
+      ogImage: 'public/static/images/overrides/windfall-expense-tracker/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'pass-maker-wallet-pass': {
+      logo: 'public/static/images/overrides/pass-maker-wallet-pass/logo.png',
+      ogImage: 'public/static/images/overrides/pass-maker-wallet-pass/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'domenu': {
+      logo: 'public/static/images/overrides/domenu/logo.png',
+      ogImage: 'public/static/images/overrides/domenu/og-image.png',
+    },
+    // Official og:image and official icon.
+    'kopialens': {
+      logo: 'public/static/images/overrides/kopialens/logo.png',
+      ogImage: 'public/static/images/overrides/kopialens/og-image.png',
+    },
+    // Official og:image and official icon.
+    'wireway': {
+      logo: 'public/static/images/overrides/wireway/logo.png',
+      ogImage: 'public/static/images/overrides/wireway/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'clip-keyboard-paste-snippets': {
+      logo: 'public/static/images/overrides/clip-keyboard-paste-snippets/logo.png',
+      ogImage: 'public/static/images/overrides/clip-keyboard-paste-snippets/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'rereminder-presentation-timer': {
+      logo: 'public/static/images/overrides/rereminder-presentation-timer/logo.png',
+      ogImage: 'public/static/images/overrides/rereminder-presentation-timer/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'goldweek-pto-and-vacation': {
+      logo: 'public/static/images/overrides/goldweek-pto-and-vacation/logo.png',
+      ogImage: 'public/static/images/overrides/goldweek-pto-and-vacation/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'sekki-photo-food-diary': {
+      logo: 'public/static/images/overrides/sekki-photo-food-diary/logo.png',
+      ogImage: 'public/static/images/overrides/sekki-photo-food-diary/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'dalbit-sleep-sounds-noise': {
+      logo: 'public/static/images/overrides/dalbit-sleep-sounds-noise/logo.png',
+      ogImage: 'public/static/images/overrides/dalbit-sleep-sounds-noise/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'staffsinger-sight-reading': {
+      logo: 'public/static/images/overrides/staffsinger-sight-reading/logo.png',
+      ogImage: 'public/static/images/overrides/staffsinger-sight-reading/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'not-my-tempo-voice-metronome': {
+      logo: 'public/static/images/overrides/not-my-tempo-voice-metronome/logo.png',
+      ogImage: 'public/static/images/overrides/not-my-tempo-voice-metronome/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'hantam-bead-cross-stitch': {
+      logo: 'public/static/images/overrides/hantam-bead-cross-stitch/logo.png',
+      ogImage: 'public/static/images/overrides/hantam-bead-cross-stitch/og-image.png',
+    },
+    // Official og:image and official icon.
+    'clipcreator-ai': {
+      logo: 'public/static/images/overrides/clipcreator-ai/logo.png',
+      ogImage: 'public/static/images/overrides/clipcreator-ai/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'fridge-lock-screen-notes': {
+      logo: 'public/static/images/overrides/fridge-lock-screen-notes/logo.png',
+      ogImage: 'public/static/images/overrides/fridge-lock-screen-notes/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'silver-black-white-camera': {
+      logo: 'public/static/images/overrides/silver-black-white-camera/logo.png',
+      ogImage: 'public/static/images/overrides/silver-black-white-camera/og-image.png',
+    },
+    // Official og:image and official icon.
+    'propixel': {
+      logo: 'public/static/images/overrides/propixel/logo.png',
+      ogImage: 'public/static/images/overrides/propixel/og-image.png',
+    },
+    // Official og:image and official icon.
+    'one-personal-assistant': {
+      logo: 'public/static/images/overrides/one-personal-assistant/logo.png',
+      ogImage: 'public/static/images/overrides/one-personal-assistant/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'spiik-ai-voice-recorder-notes': {
+      logo: 'public/static/images/overrides/spiik-ai-voice-recorder-notes/logo.png',
+      ogImage: 'public/static/images/overrides/spiik-ai-voice-recorder-notes/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'vidcap-ai-captions-for-videos': {
+      logo: 'public/static/images/overrides/vidcap-ai-captions-for-videos/logo.png',
+      ogImage: 'public/static/images/overrides/vidcap-ai-captions-for-videos/og-image.png',
+    },
+    // The logo and og-image are the official App Store icon and App Store share image.
+    'teleprompter-ai': {
+      logo: 'public/static/images/overrides/teleprompter-ai/logo.png',
+      ogImage: 'public/static/images/overrides/teleprompter-ai/og-image.png',
+    },
+    // Official og:image and official icon.
+    'pixafind': {
+      logo: 'public/static/images/overrides/pixafind/logo.png',
+      ogImage: 'public/static/images/overrides/pixafind/og-image.png',
+    },
+    // Official og:image and official icon.
+    'apxy': {
+      logo: 'public/static/images/overrides/apxy/logo.png',
+      ogImage: 'public/static/images/overrides/apxy/og-image.png',
+    },
+    // Official og:image and official icon.
+    'bordfeed': {
+      logo: 'public/static/images/overrides/bordfeed/logo.png',
+      ogImage: 'public/static/images/overrides/bordfeed/og-image.png',
+    },
+    // Official og:image and official icon.
+    'osintverse': {
+      logo: 'public/static/images/overrides/osintverse/logo.png',
+      ogImage: 'public/static/images/overrides/osintverse/og-image.png',
+    },
+    // Official og:image. The logo is the maker's official Gumroad avatar (jumpertheme).
+    'scopeforge-studio': {
+      logo: 'public/static/images/overrides/scopeforge-studio/logo.png',
+      ogImage: 'public/static/images/overrides/scopeforge-studio/og-image.png',
+    },
+    // Official og:image. The logo is the maker's official Gumroad avatar (jumpertheme).
+    'quietcraft-ui-pro': {
+      logo: 'public/static/images/overrides/quietcraft-ui-pro/logo.png',
+      ogImage: 'public/static/images/overrides/quietcraft-ui-pro/og-image.png',
+    },
+    // Official og:image. The logo is the maker's official Gumroad avatar (jumpertheme).
+    'sololedger-pro': {
+      logo: 'public/static/images/overrides/sololedger-pro/logo.png',
+      ogImage: 'public/static/images/overrides/sololedger-pro/og-image.png',
+    },
+    // Official og:image and official icon.
+    '1-pixel-workout': {
+      logo: 'public/static/images/overrides/1-pixel-workout/logo.png',
+      ogImage: 'public/static/images/overrides/1-pixel-workout/og-image.png',
+    },
+    // Official og:image and official icon.
+    'ultrascale': {
+      logo: 'public/static/images/overrides/ultrascale/logo.png',
+      ogImage: 'public/static/images/overrides/ultrascale/og-image.png',
+    },
+    // Official og:image and official icon.
+    'smbact': {
+      logo: 'public/static/images/overrides/smbact/logo.png',
+      ogImage: 'public/static/images/overrides/smbact/og-image.png',
+    },
+    // Official itch.io cover image. The logo is cropped from the mountain mark on that cover (the page has no separate icon).
+    'highground-kit': {
+      logo: 'public/static/images/overrides/highground-kit/logo.png',
+      ogImage: 'public/static/images/overrides/highground-kit/og-image.png',
+    },
+    // Official og:image and official icon.
+    'voxwrite': {
+      logo: 'public/static/images/overrides/voxwrite/logo.png',
+      ogImage: 'public/static/images/overrides/voxwrite/og-image.png',
+    },
   },
 };
