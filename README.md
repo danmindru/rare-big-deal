@@ -749,6 +749,7 @@ Free & open-source.
 | 🏖️ | [Goldweek - PTO and Vacation](https://apps.apple.com/us/app/goldweek-pto-and-vacation/id6755983135) | Pairs public holidays with weekends to show which days off stretch your PTO the furthest. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
 | 📝 | [Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782) | Shopping list or to-do note on your iPhone Lock Screen: tick items off without unlocking, and share lists with family. No account, no ads. | **40% OFF** Fridge Plus Lifetime, one-time ~~$4.99~~ $2.99 on the App Store, no code. Local prices vary | 2026-12-01 |
 | 🎙️ | [Spiik: AI Voice Recorder & Notes](https://spiik.io/promos/BLACKFRIDAY26) | Records and transcribes meetings and lectures in 100+ languages, labels speakers, and turns recordings into AI notes, summaries, quizzes and flashcards. iPhone, iPad and Mac. | **35% OFF** the first year of Spiik Pro yearly ($59.99 → $38.99) with code BLACKFRIDAY26. [App Store](https://apps.apple.com/app/id6451387537). | 2026-12-01 |
+| 🗓️ | [Calendarly](https://getcalendarly.com/black-friday) | See your day without unlocking your phone. Calendarly puts your meetings and to-dos right on your Lock Screen and updates them every morning. Pick from 156 designs. | **44% OFF** Lifetime Pro ($24.99 → $13.99 USD), one-time purchase, applied automatically in the app, no code. Starts on 2026-11-27 | 2026-12-01 |
 
 
 ### Photos & Videos
