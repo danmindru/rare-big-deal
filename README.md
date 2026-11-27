@@ -877,6 +877,7 @@ Free & open-source.
 | 🎬 | [Shorvo](https://shorvostudio.com/) | Windows desktop app that turns a script into a finished vertical YouTube Short: footage, AI voiceover and timed captions. First 3 videos free. | **40% OFF** Pro Lifetime, a one-time license: $129 → $77.40 with code **BF40** | 2026-12-10 |
 | 🎬 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed | 2026-11-30 |
 | 🪄 | [GenMagic](https://genmagic.co/black-friday) | Pay-as-you-go AI studio and API for video, images, music and voice: Veo 3.1, Seedance, Wan, Runway, GPT Image, Nano Banana, FLUX and more on one prepaid balance, no subscription and no provider keys. Every model shows its price before you generate. | **Up to 20% extra credit** on top-ups, no code needed: $25 → **$27.50**, $50 → **$57.50**, $100 → **$120** of credit (top-up credit never expires). A new plan's first month adds 10%: Pro $18/mo gives **$22** of credit (usually $20). Starts on 2026-11-27 | 2026-12-01 |
+| 📺 | [Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | **50% off Supporter Monthly** with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month). For accounts without an active paid subscription. Starts on 2026-11-27 | 2026-11-30 |
 
 
 ### Social
