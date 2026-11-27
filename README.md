@@ -845,6 +845,7 @@ Free & open-source.
 | 🔬 | [ConceptViz](https://conceptviz.app/pricing) | Web app that turns text or papers into editable, publication-ready scientific figures, diagrams and concept maps. | **$299 lifetime deal**, one-time payment with no monthly fee. Includes 1,500 non-expiring credits (about $499 at credit-pack pricing), Ultra features for life and 50% off Studio credit packs. No code needed | 2026-12-01 |
 | 🎮 | [SpriteCanvas](https://spritecanvas.com/pricing/) | Web app that turns a text prompt or a character image into animated 2D sprite sheets with JSON atlases for Godot, Phaser, PixiJS and Unity. | **30% OFF** the first month of Starter or Pro, billed monthly: Starter $12 → $8.40, Pro $29 → $20.30. First subscription only, then regular price. No code needed. | 2026-12-01 |
 | 🖌️ | [1DesignTool](https://1designtool.com/#pricing) | Local design studio your coding agents drive to make slides, app screens and brand kits as real files, with a live preview. macOS and Windows. | **50% OFF** the one-time Pro licence ($29 → $14.50) with code **BFDEALS50** | 2026-11-29 |
+| ✨ | [holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY) | Browser studio for layered trading cards and photocards with 3D holographic/foil previews, 300 DPI layout exports, and AI line art. | **20% OFF** all one-time AI credit packs + **10% extra bonus credits** automatically with code **BLACKFRIDAY** (Nov 26 - Dec 1, 2026) | 2026-12-01 |
 
 
 ### Video Tools
