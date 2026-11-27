@@ -867,6 +867,7 @@ Free & open-source.
 | 🐾 | [Pawlitics: Election Simulator](https://apps.apple.com/app/id6821216840) | Cozy cartoon politics game for iPhone and iPad: run a town of animals and try to win re-election. | **40% OFF** Full Game one-time ($4.99 → $2.99), first term free, no code needed. | 2026-12-01 |
 | 📡 | [Skywall](https://getskywall.app/black-friday/) | Live TV wall for iPhone, iPad and Mac: up to ten live news channels on one screen, with sound from the one you tap. | **33% OFF** Skywall Full (one-time in-app purchase) ~~$5.99~~ $3.99 USD, no code needed. Nov 27 - Nov 30, 2026 | 2026-11-30 |
 | 🎟️ | [Pass Maker - Wallet Pass](https://apps.apple.com/us/app/pass-maker-wallet-pass/id6469374653) | Create Apple Wallet passes on iPhone and iPad: event tickets, loyalty cards, coupons and boarding passes from a photo, a prompt, a template or a CSV guest list. | **50% OFF** Lifetime Pro ($39.99 → $19.99 USD), no code needed. One-time purchase; local prices vary. Starts on 2026-11-28 | 2026-12-06 |
+| 📖 | [Simply Fluent](https://www.simplyfluent.com/offer/BLACKFRIDAY30/) | Reading app for language learners on iOS and Android. Tap a word for a translation on the page, and saved words stay with you in later books. | **30% OFF** the first year of Premium (€59.99 → €41.99), then €59.99/year, with code **BLACKFRIDAY30** | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
