@@ -751,6 +751,7 @@ Free & open-source.
 | 📝 | [Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782) | Shopping list or to-do note on your iPhone Lock Screen: tick items off without unlocking, and share lists with family. No account, no ads. | **40% OFF** Fridge Plus Lifetime, one-time ~~$4.99~~ $2.99 on the App Store, no code. Local prices vary | 2026-12-01 |
 | 🎙️ | [Spiik: AI Voice Recorder & Notes](https://spiik.io/promos/BLACKFRIDAY26) | Records and transcribes meetings and lectures in 100+ languages, labels speakers, and turns recordings into AI notes, summaries, quizzes and flashcards. iPhone, iPad and Mac. | **35% OFF** the first year of Spiik Pro yearly ($59.99 → $38.99) with code BLACKFRIDAY26. [App Store](https://apps.apple.com/app/id6451387537). | 2026-12-01 |
 | 🗓️ | [Calendarly](https://getcalendarly.com/black-friday) | See your day without unlocking your phone. Calendarly puts your meetings and to-dos right on your Lock Screen and updates them every morning. Pick from 156 designs. | **44% OFF** Lifetime Pro ($24.99 → $13.99 USD), one-time purchase, applied automatically in the app, no code. | 2026-12-01 |
+| 📦 | [Chestly](https://www.chestly.app/) | Photograph household items and find the box or room where you stored them. | Lifetime Plus US$4.99 (usually $59.99) with [BLACKFRIDAY2026](https://apps.apple.com/redeem?ctx=offercodes&id=6670334914&code=BLACKFRIDAY2026) | 2026-12-05 |
 
 
 ### Photos & Videos
