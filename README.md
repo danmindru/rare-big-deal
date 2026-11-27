@@ -209,6 +209,7 @@ Free & open-source.
 | 🔁 | [Exit Loop](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe. Asks why a subscriber cancels and shows one relevant offer. | **50% OFF** the first year of the yearly plan ($149 → $74.50) with code **BLACKFRIDAY50**. New customers only. | 2026-12-01 |
 | 📡 | [AlertOnDown](https://alertondown.com/black-friday) | Multi-ASN uptime monitoring, 5-stage HTTP timing waterfalls, zero-cookie white-label status pages, SSL/RDAP/10-RBL DNSBL checks, SEO noindex guard, native On-Call rotations, and live AI MCP server. | **30% OFF** all recurring plans for 12 months (Starter ~~$66~~ **$46.20/yr**, Pro ~~$228~~ **$159.60/yr**, Scale ~~$564~~ **$394.80/yr**) with code **BFCM2026**, or Founder Lifetime Deals from **$49** one-time. | 2026-12-16 |
 | 🐑 | [RepoFlock](https://repoflock.com/#pricing) | Desktop Git client for many repositories and submodules on Windows, macOS and Linux: which repo is behind or dirty, bulk fetch/pull/push, search across every repo. Free version for personal and commercial use. | **$10 OFF** Pro: $39 → $29, one-time purchase, no code needed. Pro now includes RepoFlock Bot (Windows preview). | 2026-12-01 |
+| 🛡️ | [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | Offline WBS quote risk estimator, 8 SOW guardrails, A4 print PDFs and 5-sheet Excel margin workbook for freelance devs. | **60% OFF** first 10 buyers (~~$4~~ **$1.60**) with code **FIRST10**, or **40% OFF** (~~$4~~ **$2.40**) with **SCOPE40**. One-time download. | 2026-12-01 |
 
 
 ### Browser Extensions
@@ -1220,6 +1221,7 @@ Free & open-source.
 | 🌐 | [ShadcnSpace](https://shadcnspace.com) | Ready-to-use 1400+ shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. Free and Pro. | **40% OFF** Pro with code **BFCM** | 2026-12-01 |
 | 🧱 | [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers (TanStack Start + D1/PostgreSQL) with 40 coding-agent runbooks, 4 payment providers, 4 AI providers, a credit ledger and an admin center. | **50% OFF** Early Access one-time license ($99 → $49 USD), no code needed (auto-applied). No renewal fees. | 2026-12-06 |
 | 🚀 | [Indie Kit](https://indiekit.pro/#pricing) | Next.js SaaS boilerplate: auth, payments, credits, emails, admin, blog and SEO, plus Claude Code and Cursor skills so your AI agent builds the rest the right way. The B2B kit adds organizations, roles and team invites. | **30% OFF** everything, no code needed: Pro $79 → $55.30, Full kit $169 → $118.30, Launch Stack (kit + SmoothCut + Auto Social Media Kit) $129 → $90.30. One-time payment. | 2026-11-30 |
+| 🎨 | [QuietCraft UI Pro](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50) | Clean React 19 and Tailwind CSS v4 component kit with 4px tokens, light/dark themes, Figma tokens and Playwright QA checks. | **60% OFF** first 10 buyers (~~$5~~ **$2.00**) with code **FIRST10**, or **40% OFF** (~~$5~~ **$3.00**) with **FIRST50**. One-time download. | 2026-12-01 |
 
 
 ### Astro
@@ -1414,6 +1416,7 @@ Free & open-source.
 | 📊 | [TotalFigures](https://totalfigures.app/) | Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app. | **88% OFF** Premium, applied automatically on the App Store, no code needed: Lifetime ~~$79.99~~ **$9.59**, or the first year of Yearly ~~$29.99~~ **$3.59** (new subscribers, then $29.99/year; Yearly offer until 2026-12-02). US prices; local prices vary. | 2026-12-03 |
 | 🧾 | [BrassWell](https://brasswell.app/black-friday) | Bookkeeping for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage, invoices and a running tax set-aside. | **25% OFF** the first year of Pro yearly with code **BLACKFRIDAY25** ($299 → $224.25). New subscribers | 2026-11-30 |
 | 💶 | [Finance Three: Budget Tracker](https://zhorzhua.studio/blackfriday/) | Personal daily budget for iPhone: shows one calm number for what you can still spend today after bills and savings. No bank login, no account, no ads, stays in your own iCloud. | **50% OFF**: Plus Lifetime $39.99 → $19.99 (in-app, no code) or first year Annual $24.99 → $12.49 (one-tap link on deal page). | 2026-12-01 |
+| 🧾 | [SoloLedger Pro](https://jumpertheme.gumroad.com/l/sololedger-pro/SOLO40) | Offline freelancer finance OS: invoice generator, quarterly tax reserve calculator, 28-formula Excel workbook and Obsidian vault. | **60% OFF** first 10 buyers (~~$4~~ **$1.60**) with code **FIRST10**, or **40% OFF** (~~$4~~ **$2.40**) with **SOLO40**. One-time download. | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
