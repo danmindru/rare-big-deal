@@ -547,6 +547,7 @@ Free & open-source.
 | 🎨 | [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) | 2026-12-01 |
 | 🎬 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license (~~$49~~ **$39**, auto-applied on site, no code needed) | 2026-12-01 |
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
+| 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
 
 
 ### Writing & Notes
@@ -877,6 +878,7 @@ Free & open-source.
 | 🎬 | [Shorvo](https://shorvostudio.com/) | Windows desktop app that turns a script into a finished vertical YouTube Short: footage, AI voiceover and timed captions. First 3 videos free. | **40% OFF** Pro Lifetime, a one-time license: $129 → $77.40 with code **BF40** | 2026-12-10 |
 | 🎬 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed | 2026-11-30 |
 | 🪄 | [GenMagic](https://genmagic.co/black-friday) | Pay-as-you-go AI studio and API for video, images, music and voice: Veo 3.1, Seedance, Wan, Runway, GPT Image, Nano Banana, FLUX and more on one prepaid balance, no subscription and no provider keys. Every model shows its price before you generate. | **Up to 20% extra credit** on top-ups, no code needed: $25 → **$27.50**, $50 → **$57.50**, $100 → **$120** of credit (top-up credit never expires). A new plan's first month adds 10%: Pro $18/mo gives **$22** of credit (usually $20). Starts on 2026-11-27 | 2026-12-01 |
+| 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
 
 
 ### Social
@@ -935,6 +937,7 @@ Free & open-source.
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 | 🎬 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed | 2026-11-30 |
 | 🎥 | [QuickSnip](https://quicksnip.com/pricing) | Screen recorder with instant share links for Mac and Windows: record your screen and send a link the moment you stop. Free plan available. | **50% OFF** the first year of Pro or Team with code **BLACKFRIDAY**, on monthly or yearly billing (Pro is $6/mo or $60/yr, so $3/mo or $30 for the first year). | 2026-11-30 |
+| 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
 
 
 ### Marketing

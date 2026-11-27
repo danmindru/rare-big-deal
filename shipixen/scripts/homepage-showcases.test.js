@@ -88,6 +88,7 @@ describe('homepage showcase dedupe', () => {
       'Kinsta',
       'Darkroom',
       'Rakazo',
+      'Screen Studio',
     ]);
     assert.deepEqual(visible[0].apps.slice(0, 2), ['Page AI', 'Saventify']);
     const seen = new Set();
