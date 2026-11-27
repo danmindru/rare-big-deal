@@ -1629,5 +1629,165 @@ module.exports = {
       logo: 'public/static/images/overrides/screen-studio/logo.png',
       ogImage: 'public/static/images/overrides/screen-studio/og-image.png',
     },
+    // Official og:image and official icon.
+    'logogogo': {
+      logo: 'public/static/images/overrides/logogogo/logo.png',
+      ogImage: 'public/static/images/overrides/logogogo/og-image.png',
+    },
+    // Official og:image and official icon.
+    'killswitch': {
+      logo: 'public/static/images/overrides/killswitch/logo.png',
+      ogImage: 'public/static/images/overrides/killswitch/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'my-nurse-shift-planner': {
+      logo: 'public/static/images/overrides/my-nurse-shift-planner/logo.png',
+      ogImage: 'public/static/images/overrides/my-nurse-shift-planner/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'my-work-shift-planner': {
+      logo: 'public/static/images/overrides/my-work-shift-planner/logo.png',
+      ogImage: 'public/static/images/overrides/my-work-shift-planner/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'proscan-pdf': {
+      logo: 'public/static/images/overrides/proscan-pdf/logo.png',
+      ogImage: 'public/static/images/overrides/proscan-pdf/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'eye-color-cam-live-filters': {
+      logo: 'public/static/images/overrides/eye-color-cam-live-filters/logo.png',
+      ogImage: 'public/static/images/overrides/eye-color-cam-live-filters/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'doseplan-glp-1-peptide-tracker': {
+      logo: 'public/static/images/overrides/doseplan-glp-1-peptide-tracker/logo.png',
+      ogImage: 'public/static/images/overrides/doseplan-glp-1-peptide-tracker/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'water-fasting-beyond': {
+      logo: 'public/static/images/overrides/water-fasting-beyond/logo.png',
+      ogImage: 'public/static/images/overrides/water-fasting-beyond/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'you-become-daily-motivation': {
+      logo: 'public/static/images/overrides/you-become-daily-motivation/logo.png',
+      ogImage: 'public/static/images/overrides/you-become-daily-motivation/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'matchflare-live-football': {
+      logo: 'public/static/images/overrides/matchflare-live-football/logo.png',
+      ogImage: 'public/static/images/overrides/matchflare-live-football/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'viento-minimal-weather': {
+      logo: 'public/static/images/overrides/viento-minimal-weather/logo.png',
+      ogImage: 'public/static/images/overrides/viento-minimal-weather/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'dash-pal-gps-speedometer': {
+      logo: 'public/static/images/overrides/dash-pal-gps-speedometer/logo.png',
+      ogImage: 'public/static/images/overrides/dash-pal-gps-speedometer/og-image.png',
+    },
+    // The og-image is a screenshot of the official site because it has no usable og:image.
+    'sky-os-ai': {
+      logo: 'public/static/images/overrides/sky-os-ai/logo.png',
+      ogImage: 'public/static/images/overrides/sky-os-ai/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'oriel-habit-tracker': {
+      logo: 'public/static/images/overrides/oriel-habit-tracker/logo.png',
+      ogImage: 'public/static/images/overrides/oriel-habit-tracker/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'finance-three-budget-tracker': {
+      logo: 'public/static/images/overrides/finance-three-budget-tracker/logo.png',
+      ogImage: 'public/static/images/overrides/finance-three-budget-tracker/og-image.png',
+    },
+    // Official og:image and official icon.
+    'once-upon-your-mac': {
+      logo: 'public/static/images/overrides/once-upon-your-mac/logo.png',
+      ogImage: 'public/static/images/overrides/once-upon-your-mac/og-image.png',
+    },
+    // Official og:image and official icon.
+    'channel-surfer': {
+      logo: 'public/static/images/overrides/channel-surfer/logo.png',
+      ogImage: 'public/static/images/overrides/channel-surfer/og-image.png',
+    },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    'holoform': {
+      logo: 'public/static/images/overrides/holoform/logo.png',
+      ogImage: 'public/static/images/overrides/holoform/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'ai-teleprompter-voice-sync': {
+      logo: 'public/static/images/overrides/ai-teleprompter-voice-sync/logo.png',
+      ogImage: 'public/static/images/overrides/ai-teleprompter-voice-sync/og-image.png',
+    },
+    // The og-image is a screenshot of the official site because it has no usable og:image.
+    'plane-deals': {
+      logo: 'public/static/images/overrides/plane-deals/logo.png',
+      ogImage: 'public/static/images/overrides/plane-deals/og-image.png',
+    },
+    // Official og:image and official icon.
+    'flowlister': {
+      logo: 'public/static/images/overrides/flowlister/logo.png',
+      ogImage: 'public/static/images/overrides/flowlister/og-image.png',
+    },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    'woopsocial': {
+      logo: 'public/static/images/overrides/woopsocial/logo.png',
+      ogImage: 'public/static/images/overrides/woopsocial/og-image.png',
+    },
+    // Official og:image and official icon.
+    'pake': {
+      logo: 'public/static/images/overrides/pake/logo.png',
+      ogImage: 'public/static/images/overrides/pake/og-image.png',
+    },
+    // Official og:image and official icon.
+    'yado': {
+      logo: 'public/static/images/overrides/yado/logo.png',
+      ogImage: 'public/static/images/overrides/yado/og-image.png',
+    },
+    // The og-image is a screenshot of the official site because it has no usable og:image.
+    'alertondown': {
+      logo: 'public/static/images/overrides/alertondown/logo.png',
+      ogImage: 'public/static/images/overrides/alertondown/og-image.png',
+    },
+    // Official og:image. The logo is the official SVG icon rasterized to PNG.
+    'repoflock': {
+      logo: 'public/static/images/overrides/repoflock/logo.png',
+      ogImage: 'public/static/images/overrides/repoflock/og-image.png',
+    },
+    // Official og:image and official icon.
+    'krevaya': {
+      logo: 'public/static/images/overrides/krevaya/logo.png',
+      ogImage: 'public/static/images/overrides/krevaya/og-image.png',
+    },
+    // The og-image is a screenshot of the official site because it has no usable og:image.
+    'progressio': {
+      logo: 'public/static/images/overrides/progressio/logo.png',
+      ogImage: 'public/static/images/overrides/progressio/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'tempo': {
+      logo: 'public/static/images/overrides/tempo/logo.png',
+      ogImage: 'public/static/images/overrides/tempo/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'clock-widget-': {
+      logo: 'public/static/images/overrides/clock-widget-/logo.png',
+      ogImage: 'public/static/images/overrides/clock-widget-/og-image.png',
+    },
+    // Official App Store icon and App Store share image.
+    'app-screenshots': {
+      logo: 'public/static/images/overrides/app-screenshots/logo.png',
+      ogImage: 'public/static/images/overrides/app-screenshots/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'hazeover': {
+      logo: 'public/static/images/overrides/hazeover/logo.png',
+      ogImage: 'public/static/images/overrides/hazeover/og-image.png',
+    },
   },
 };
