@@ -1403,7 +1403,7 @@ Free & open-source.
 | 📡 | [ONTRK](https://ontrk.app/pricing) | Finds your music airing on TV worldwide and shows the performance royalties you're missing, song by song. For composers and music publishers. Web app. | **25% OFF** your first month on any monthly plan with code **BLACKFRIDAY25** (Micro $15 → $11.25, Solo $85 → $63.75), new customers only | 2026-11-30 |
 | 🎚️ | [DropCue](https://dropcue.app/pricing) | Music management software for composers and music libraries: catalog, pitching, playlists, password-protected share links and listening analytics. Web and iOS. | **25% OFF** your first month on any monthly plan with code **BLACKFRIDAY25** (Artist $10 → $7.50, Pro 1K $19 → $14.25), new customers only, at web checkout (not App Store purchases) | 2026-11-30 |
 | 🧠 | [Screenpipe](https://screenpipe.com/black-friday) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, reusable skills and workflows for Claude, Codex, Cursor and your team. macOS, Windows, Linux. | **20% OFF** the first year of annual plans: Basic ~~$250~~ **$200**, Business ~~$500~~ **$400**/seat — applied automatically at checkout, no code needed. Live Nov 25 – Nov 30, 2026 (11:59pm PT) | 2026-11-30 |
-
+| 💵 | [NFT-Chain](https://nft-chain.org/campaigns/blackfriday) | Back an early-stage Eco-AI-Blockchain and NFT Marketplace and lock in +25% future Airdrop | **+25% Airdrop** for every $1 spent | 2026-12-31 |
 
 [⬆️ All categories](#table-of-contents)
 
