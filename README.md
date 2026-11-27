@@ -1004,6 +1004,7 @@ Free & open-source.
 | 🔁 | [Recurrr](https://recurrr.com/pricing) | Send recurring emails from your own Gmail or Outlook: write it once, pick a schedule, and it goes out every week, month or quarter. Never reads your inbox. | **58% OFF** the yearly plan ($45/year, was $108), kept on every renewal, applied automatically. 14-day free trial | 2026-12-31 |
 | ✍️ | [Autentique](https://www.autentique.com.br/en) | E-signature platform: send contracts and other documents for signature, with email, SMS, WhatsApp or facial biometric verification. Unlimited documents, users and signers, plus an API. | **30% OFF** the annual Professional plan ($179 → $119/year), no code needed. Extra **20% OFF** with code **BFF61H8**, which stacks with the annual discount. | 2026-11-30 |
 | 🧩 | [StoicSoft](https://stoicsoft.com/pricing) | Twelve local-first desktop apps for one-person businesses (coding, design, marketing, video, files, AI and more). Buy once, bring your own AI. | **50% OFF** any single app's Pro licence ($29 → $14.50) with code **BFDEALS50**, or **30% OFF** any bundle (StoicSoft Complete, all 12 apps: $199 → $139.30) with code **BFDEALSBUNDLE30** | 2026-11-29 |
+| 🐶 | [Voxipaw](https://voxipaw.kionesis.com/) | Focus timer with a voxel pet that grows up with every minute you focus: a puppy, kitten, bunny, capybara, otter or crocodile, with a home that grows too. Free in the browser, no account. | **Half price** Lifetime Plus ($99.99 → **$49**), applied automatically, no code needed | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)

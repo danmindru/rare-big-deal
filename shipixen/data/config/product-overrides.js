@@ -1789,5 +1789,10 @@ module.exports = {
       logo: 'public/static/images/overrides/hazeover/logo.png',
       ogImage: 'public/static/images/overrides/hazeover/og-image.png',
     },
+    // Official og:image and official app icon.
+    'voxipaw': {
+      logo: 'public/static/images/overrides/voxipaw/logo.png',
+      ogImage: 'public/static/images/overrides/voxipaw/og-image.png',
+    },
   },
 };
