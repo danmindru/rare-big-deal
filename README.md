@@ -688,6 +688,7 @@ Free & open-source.
 | 📝 | [SideNotes Mobile](https://www.apptorium.com/sidenotes-mobile) | Quick, organized notes for iPhone and iPad, with hidden Markdown, folders, pinning, folding and iCloud sync with Mac. | **40% OFF** one-time purchase ($9.99 → $5.99), no code needed | 2026-12-06 |
 | 🗒️ | [FiveNotes Mobile](https://www.apptorium.com/fivenotes/mobile) | Five focused notes on iPhone, iPad and Apple Watch, with Markdown, themes, backups, Shortcuts and iCloud sync. | **25% OFF** one-time purchase ($3.99 → $2.99), no code needed | 2026-12-06 |
 | 🗒️ | [Note](https://apps.apple.com/app/note/id1602765272) | For iPhone & iPad. Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app. | **40% OFF** One-time purchase: $4.99 → $2.99 | 2026-12-01 |
+| 🍃 | [Nearleaf](https://nearleaf.page) | A calm, simple note app with just one note: open it and type, or draw beside it. Free on iPhone, iPad, Android, Mac and the web. Pro syncs it across devices, encrypted on your device first. | **33% OFF** first year of Pro Yearly ($14.99 → $9.99, then $14.99 a year), no code needed, new subscribers. Starts on 2026-11-27 | 2026-11-30 |
 
 
 ### Productivity
