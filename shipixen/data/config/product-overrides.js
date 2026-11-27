@@ -1794,5 +1794,9 @@ module.exports = {
       logo: 'public/static/images/overrides/voxipaw/logo.png',
       ogImage: 'public/static/images/overrides/voxipaw/og-image.png',
     },
+    // Official og:image from clipwing.pro (the /pricing link's own banner is a plain "Pricing" card).
+    'clipwing': {
+      ogImage: 'public/static/images/overrides/clipwing/og-image.png',
+    },
   },
 };
