@@ -366,6 +366,7 @@ Free & open-source.
 | 📓 | [Dayora](https://www.dayora.ai/black-friday) | AI journal that reflects on every entry, with mood tracking and voice journaling. | **40% OFF** Plus yearly for your first year ($72 → $43.20), no code needed | 2026-12-01 |
 | 🌙 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI readings that connect each new dream to the ones before it, plus a deep reading and a painting of each dream. | **10% OFF** your first year or first month of Plus ($39.99 → $35.99 a year, $6.99 → $6.29 a month), no code needed | 2026-12-01 |
 | 🔮 | [TIMEACTOR](https://checkout.time.actor/pricing?lang=en) | All-in-one AI metaphysics toolkit covering AI Bazi, Feng Shui, I Ching, Fortune Stick, Tarot, and daily fortune calendar in 9 languages. | 50% OFF all membership plans (Monthly $6.99 → $3.50, Yearly $59.99 → $30.00) and credit packs with code `BLACKFRIDAY26` | 2026-12-02 |
+| 🟠 | [Atris](https://atris.ai/black-friday) | AI team built for human improvement: monthly credits, team members, an agent computer and 60+ studio apps reachable from macOS, web, text, CLI, MCP or ChatGPT. | **25% to 75% OFF** Pro Month 1 ($20 → $5–$15) — Black Friday & Cyber Monday Orb negotiation in 5 turns, at least 25% off guaranteed, no code needed (renews at $20/mo, cancel anytime). | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -569,7 +570,7 @@ Free & open-source.
 | 🎬 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license (~~$49~~ **$39**, auto-applied on site, no code needed) | 2026-12-01 |
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 | 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
-| 🖼 | [ProPixel](https://propixel.app) | Mac app that resizes, converts and optimises images for websites, shops and social media. Processing stays on your Mac. One-time purchase. | **About 70% OFF** one-time purchase (€19.99 → €5.95), automatically applied, no code. No end date announced. |  |
+| 🖼 | [ProPixel](https://propixel.app) | Mac app that resizes, converts and optimises images for websites, shops and social media. Processing stays on your Mac. One-time purchase. | **About 70% OFF** one-time purchase (€19.99 → €5.95), automatically applied, no code | 2026-12-04 |
 
 
 ### Writing & Notes
@@ -749,6 +750,7 @@ Free & open-source.
 | 🏖️ | [Goldweek - PTO and Vacation](https://apps.apple.com/us/app/goldweek-pto-and-vacation/id6755983135) | Pairs public holidays with weekends to show which days off stretch your PTO the furthest. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
 | 📝 | [Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782) | Shopping list or to-do note on your iPhone Lock Screen: tick items off without unlocking, and share lists with family. No account, no ads. | **40% OFF** Fridge Plus Lifetime, one-time ~~$4.99~~ $2.99 on the App Store, no code. Local prices vary | 2026-12-01 |
 | 🎙️ | [Spiik: AI Voice Recorder & Notes](https://spiik.io/promos/BLACKFRIDAY26) | Records and transcribes meetings and lectures in 100+ languages, labels speakers, and turns recordings into AI notes, summaries, quizzes and flashcards. iPhone, iPad and Mac. | **35% OFF** the first year of Spiik Pro yearly ($59.99 → $38.99) with code BLACKFRIDAY26. [App Store](https://apps.apple.com/app/id6451387537). | 2026-12-01 |
+| 🗓️ | [Calendarly](https://getcalendarly.com/black-friday) | See your day without unlocking your phone. Calendarly puts your meetings and to-dos right on your Lock Screen and updates them every morning. Pick from 156 designs. | **44% OFF** Lifetime Pro ($24.99 → $13.99 USD), one-time purchase, applied automatically in the app, no code. | 2026-12-01 |
 
 
 ### Photos & Videos
@@ -808,6 +810,9 @@ Free & open-source.
 | ⏱️ | [Core: Interval & HIIT Timer](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. | 2026-12-01 |
 | 🍱 | [Sekki: Photo Food Diary](https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924) | Photo food diary: take one photo before you eat and the meal is logged. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
 | 🌙 | [Dalbit: Sleep Sounds & Noise](https://apps.apple.com/us/app/dalbit-sleep-sounds-noise/id1626715109) | Sleep sounds you can layer, like rain under piano, so you stop searching for something to fall asleep to. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
+| 🏋️ | [ChattyFit](https://chatty.fit/) | AI personal trainer for iPhone. Tell it what equipment you have, even none, and it sets up the workout; ask in chat to swap a move. Free: 3 workouts a month. | **60% OFF** the first year of Annual ($99.99 → $39.99 USD) with code **BLACKFRIDAY60** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6748089571&code=BLACKFRIDAY60)), then renews at $99.99/year. First-time subscribers only. US pricing; local prices vary. | 2026-12-01 |
+| 🫀 | [Body Vitals](https://www.escapethematrix.app/products/body-vitals/) | Widget-first health & HRV readiness dashboard for iPhone and Apple Watch. All scores computed on-device from Apple Health; no account required. | **60% OFF** Lifetime ($99.99 → $39.99 USD) with code **OFF60** ([Redeem on App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6760609127&code=OFF60)). | 2027-04-29 |
+| 🏋️ | [RepSquad](https://www.escapethematrix.app/products/ai-rep-counter/) | AI rep counter & fitness battles using your iPhone camera. Counts reps, checks form, and works 100% on-device. | **20% OFF** Lifetime ($49.99 → $39.99 USD) with code **REP60** ([Redeem on App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6756504196&code=REP60)). | 2027-04-29 |
 
 
 ### Hobby & Lifestyle
@@ -867,6 +872,7 @@ Free & open-source.
 | 🐾 | [Pawlitics: Election Simulator](https://apps.apple.com/app/id6821216840) | Cozy cartoon politics game for iPhone and iPad: run a town of animals and try to win re-election. | **40% OFF** Full Game one-time ($4.99 → $2.99), first term free, no code needed. | 2026-12-01 |
 | 📡 | [Skywall](https://getskywall.app/black-friday/) | Live TV wall for iPhone, iPad and Mac: up to ten live news channels on one screen, with sound from the one you tap. | **33% OFF** Skywall Full (one-time in-app purchase) ~~$5.99~~ $3.99 USD, no code needed. Nov 27 - Nov 30, 2026 | 2026-11-30 |
 | 🎟️ | [Pass Maker - Wallet Pass](https://apps.apple.com/us/app/pass-maker-wallet-pass/id6469374653) | Create Apple Wallet passes on iPhone and iPad: event tickets, loyalty cards, coupons and boarding passes from a photo, a prompt, a template or a CSV guest list. | **50% OFF** Lifetime Pro ($39.99 → $19.99 USD), no code needed. One-time purchase; local prices vary. Starts on 2026-11-28 | 2026-12-06 |
+| 📖 | [Simply Fluent](https://www.simplyfluent.com/offer/BLACKFRIDAY30/) | Reading app for language learners on iOS and Android. Tap a word for a translation on the page, and saved words stay with you in later books. | **30% OFF** the first year of Premium (€59.99 → €41.99), then €59.99/year, with code **BLACKFRIDAY30** | 2026-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)

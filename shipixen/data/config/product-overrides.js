@@ -2043,5 +2043,35 @@ module.exports = {
       logo: 'public/static/images/overrides/voxwrite/logo.png',
       ogImage: 'public/static/images/overrides/voxwrite/og-image.png',
     },
+    // Official og:image. The logo is the official App Store icon.
+    'chattyfit': {
+      logo: 'public/static/images/overrides/chattyfit/logo.png',
+      ogImage: 'public/static/images/overrides/chattyfit/og-image.png',
+    },
+    // Official og:image. The logo is the official atris-logo.svg rendered to PNG.
+    'atris': {
+      logo: 'public/static/images/overrides/atris/logo.png',
+      ogImage: 'public/static/images/overrides/atris/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'body-vitals': {
+      logo: 'public/static/images/overrides/body-vitals/logo.png',
+      ogImage: 'public/static/images/overrides/body-vitals/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'repsquad': {
+      logo: 'public/static/images/overrides/repsquad/logo.png',
+      ogImage: 'public/static/images/overrides/repsquad/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'calendarly': {
+      logo: 'public/static/images/overrides/calendarly/logo.png',
+      ogImage: 'public/static/images/overrides/calendarly/og-image.png',
+    },
+    // Official og:image (downscaled to 1600px wide). The logo is the official App Store icon.
+    'simply-fluent': {
+      logo: 'public/static/images/overrides/simply-fluent/logo.png',
+      ogImage: 'public/static/images/overrides/simply-fluent/og-image.png',
+    },
   },
 };
