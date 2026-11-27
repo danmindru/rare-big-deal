@@ -808,6 +808,7 @@ Free & open-source.
 | ⏱️ | [Core: Interval & HIIT Timer](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. | 2026-12-01 |
 | 🍱 | [Sekki: Photo Food Diary](https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924) | Photo food diary: take one photo before you eat and the meal is logged. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
 | 🌙 | [Dalbit: Sleep Sounds & Noise](https://apps.apple.com/us/app/dalbit-sleep-sounds-noise/id1626715109) | Sleep sounds you can layer, like rain under piano, so you stop searching for something to fall asleep to. | **75–80% OFF** the first subscription period, no code needed. New subscribers only; renews at the regular price. | 2026-12-04 |
+| 🏋️ | [ChattyFit](https://chatty.fit/?ct=bf-rbd) | AI personal trainer for iPhone. Tell it what equipment you have, even none, and it sets up the workout; ask in chat to swap a move. Free: 3 workouts a month. | **60% OFF** the first year of Annual ($99.99 → $39.99 USD) with code **BLACKFRIDAY60** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6748089571&code=BLACKFRIDAY60)), then renews at $99.99/year. First-time subscribers only. US pricing; local prices vary. | 2026-12-01 |
 
 
 ### Hobby & Lifestyle
