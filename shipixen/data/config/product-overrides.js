@@ -1624,5 +1624,10 @@ module.exports = {
       logo: 'public/static/images/overrides/awakelet/logo.png',
       ogImage: 'public/static/images/overrides/awakelet/og-image.png',
     },
+    // Official og:image and official icon.
+    'screen-studio': {
+      logo: 'public/static/images/overrides/screen-studio/logo.png',
+      ogImage: 'public/static/images/overrides/screen-studio/og-image.png',
+    },
   },
 };
