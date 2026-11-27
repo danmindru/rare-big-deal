@@ -522,6 +522,7 @@ Free & open-source.
 | 🧹 | [TwinSweep](https://tidyware.app/twinsweep/) | Find duplicate files and photos on your Mac and undo the last clean-up in one click. Free scan. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$19~~ **$13.30** | 2026-12-01 |
 | 🎧 | [LocalVoice](https://tidyware.app/localvoice/) | Transcribe audio and video to TXT, SRT, VTT or Markdown, and read text or PDFs aloud to M4A. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$19~~ **$13.30** | 2026-12-01 |
 | 🖼️ | [BatchShift](https://tidyware.app/batchshift/) | Batch-convert HEIC and WebP folders to JPG or PNG: resize, compress and remove GPS data. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$9~~ **$6.30** | 2026-12-01 |
+| 🧩 | [Pake](https://pake.run/?utm_source=rarebigdeal&utm_campaign=bf2026) | Desktop app for Mac, Windows and Linux that turns any website into a lightweight app with its own icon and window, no Node.js or Rust to install. From the maker of the open-source Pake CLI (64K GitHub stars). | **20% OFF** one-time license, ~~$19~~ $15.20, applied automatically at checkout, no code. Make 2 apps free first; one license covers up to 3 computers. Nov 25 - Dec 15, 2026 | 2026-12-15 |
 
 
 ### Design Tools
@@ -630,6 +631,7 @@ Free & open-source.
 | 💾 | [Falconry Drive](https://falconrylabs.com/drive/) | Read and write NTFS drives on macOS 27 (Apple silicon). Native app built on Apple's FSKit, with no kernel extension, so SIP stays on. Writes the NTFS journal the way Windows does, checked with Windows chkdsk. 14-day free trial. | **30% OFF** the first year with code **BLACKFRIDAY30** ($27.99 → $19.60, renews at $27.99) | 2026-12-01 |
 | 🎚️ | [Switchy](https://getswitchy.app/black-friday) | Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. macOS 14 or later. One-time purchase for up to 3 Macs, free 7-day trial. | **50% OFF** one-time purchase (~~$4.99~~ **$2.49**) with code **BLACKFRIDAY50**, pre-filled by the Buy button. | 2026-12-01 |
 | ☕ | [Awakelet](https://tidyware.app/awakelet/) | Menu bar app that keeps your Mac awake for a set time, until an app quits or until downloads finish. macOS 14 or later. | **30% OFF** for Black Friday, code **BF2026** applied automatically at checkout, one-time purchase, until Dec 1, 2026: ~~$9~~ **$6.30** | 2026-12-01 |
+| 📱 | [Yado](https://yado.house/?utm_source=rarebigdeal&utm_campaign=bf2026) | Native Mac app that cleans up and manages an iPhone from the Mac: finds duplicate photos, large videos and unused apps, exports photos, moves files and keeps backups on your own Mac. macOS 14+. | **20% OFF** one-time license, ~~$19~~ $15.20, applied automatically at checkout, no code. Pay once, free updates, one license for two Macs. Nov 25 - Dec 30, 2026 | 2026-12-30 |
 
 
 [⬆️ All categories](#table-of-contents)
