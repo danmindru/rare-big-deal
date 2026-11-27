@@ -556,6 +556,7 @@ Free & open-source.
 | 🎬 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license (~~$49~~ **$39**, auto-applied on site, no code needed) | 2026-12-01 |
 | ⌨️ | [Keystro](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. | **30% OFF** one-time with code **BFKEYSTRO26** (auto-applied): Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30. Lifetime access, 7-day money-back guarantee | 2026-12-04 |
 | 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
+| 🖼 | [ProPixel](https://propixel.app) | Mac app that resizes, converts and optimises images for websites, shops and social media. Processing stays on your Mac. One-time purchase. | **About 70% OFF** one-time purchase (€19.99 → €5.95), automatically applied, no code | No end date announced |
 
 
 ### Writing & Notes
