@@ -544,6 +544,7 @@ Free & open-source.
 | 🖱️ | [Ricly](https://usericly.com/pricing) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs, share large files as a link. | Ricly Pro for life (lifetime license): **$59** in the US, **€59** outside, with code **FOUNDERBF26**, Nov 27 to Nov 30, 11:59 PM PT. 30-day refund window. | 2026-11-30 |
 | 🍅 | [Foca for Mac](https://foca.work/) | A calm Pomodoro timer for Mac and iPhone, with ambient sounds for focus and guided stretch breaks. Foca for Mac and Foca for iPhone are separate Lifetime purchases. | Lifetime access **$14.99 → $7.99** (US App Store), no code needed. Other regions may vary. | 2026-12-01 |
 | 🪟 | [SMBAct](https://smblob.com/products/smbact/?promo=BF2026) | Window manager and app switcher for Windows, macOS and Linux: keyboard layouts, drag-to-edge snapping and moving windows between monitors. One license covers all three. One-time purchase. | **30% OFF** every license with code **BF2026**, applied automatically through the link (1 PC €14.99 → €10.49, 3 PCs €29.99 → €20.99, excl. VAT). | 2026-12-31 |
+| 📄 | [Exhibit](https://chatexhibit.me) | Native macOS app that exports iMessage, WhatsApp, Signal and more from your Mac or iPhone into one court-ready PDF. One-time purchase, no upload or account. | **30% OFF** one-time, Personal ~~$19.99~~ $13.99, Firm ~~$59~~ $41.30, with code **EXHIBITBF30**. Through Dec 1, 2026, 11:59 p.m. ET | 2026-12-01 |
 
 
 ### Design Tools
