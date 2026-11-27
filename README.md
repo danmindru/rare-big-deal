@@ -1375,7 +1375,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-
+| 🚀 | [1 Pixel Workout](https://1pixelworkout.com/?utm_source=rarebigdeal) | Terraform Mars with 1-minute workouts. Every exercise grows your base, solo or with a crew. Bonus: a browser extension that swaps doomscrolling for a quick workout. | **50% OFF** everything: Pro **$3.75/mo** or **$37.50/yr**, Founder's Lifetime License **$67.50** (only 100 available). No code needed. | 2026-12-12 |
 
 [⬆️ All categories](#table-of-contents)
 
