@@ -139,6 +139,7 @@ Free & open-source.
 | 🏆 | [AppRankHero](https://apprankhero.com/pricing) | Native Mac app for ASO that tracks your App Store and Google Play keyword ranks every morning, with keyword research, competitor tracking and an MCP server for AI tools. | **30% OFF** the first year of annual Pro ($49.99 → $34.99) and Studio ($124.99 → $87.49) with code **BLACKFRIDAY30**. | 2026-12-01 |
 | 🏝️ | [Vibe Island](https://vibeisland.app) | Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Pops open when one finishes or needs input. Approve requests and answer questions there, or jump to the exact terminal tab. Native Swift, runs locally, no account. | **40% OFF** 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99. No code needed. | 2026-12-01 |
 | 🧑‍💻 | [1DevTool](https://1devtool.com/pricing) | Desktop workbench for AI coding agents on Mac, Windows and Linux: run Claude Code, Codex, Gemini CLI and other CLIs side by side, with a built-in browser, database client and git. | **50% OFF** the one-time Pro licence ($29 → $14.50) with code **BFDEALS50** | 2026-11-29 |
+| 🔋 | [Lidwork](https://lidwork.com/?utm_source=rarebigdeal&utm_medium=deal&utm_campaign=bf2026) | Keeps a MacBook awake with the lid closed, so coding agents, builds and uploads keep running on battery. Stops at your battery or heat limit; sleep returns if it quits. One-time purchase normally. | **100% OFF** on the Mac App Store, no code needed: ~~$9.99~~ **free** | 2026-12-01 |
 
 
 ### APIs, Tools & SaaS
