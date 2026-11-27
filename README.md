@@ -530,6 +530,7 @@ Free & open-source.
 | 🎁 | [Once Upon Your Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026) | A collection of 12 indie Mac apps at a fairy-tale price. | **75% OFF** the full bundle ($239 → $59.99), or 50% OFF individual apps. | 2026-12-10 |
 | 🧩 | [Pake](https://pake.run/) | Desktop app for Mac, Windows and Linux that turns any website into a lightweight app with its own icon and window, no Node.js or Rust to install. From the maker of the open-source Pake CLI (64K GitHub stars). | **20% OFF** one-time license, ~~$19~~ $15.20, applied automatically at checkout, no code. Make 2 apps free first; one license covers up to 3 computers. Nov 25 - Dec 15, 2026 | 2026-12-15 |
 | 🌗 | [HazeOver](https://hazeover.com) | Dims background windows to highlight the active one, so you always know where you’re typing. Native Mac app. One-time purchase. | **60% OFF** ($4.99 → $1.99) on the Mac App Store and hazeover.com, no code needed. | 2026-12-01 |
+| 🖱️ | [Ricly](https://usericly.com/pricing?utm_source=rarebigdeal&utm_medium=listing&utm_campaign=bf26) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs, share large files as a link. | Ricly Pro for life (lifetime license): **$59** in the US, **€59** outside, with code **FOUNDERBF26**, Nov 27 to Nov 30, 11:59 PM PT. 30-day refund window. | 2026-11-30 |
 
 
 ### Design Tools
