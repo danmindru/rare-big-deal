@@ -281,6 +281,7 @@ Free & open-source.
 | 🌱 | [Spring Prompt](https://springprompt.com/plans) | Tests every LLM prompt in your app on other models and wordings, and shows when a cheaper model or a prompt fix would do. | **40% OFF** the first 3 months of either monthly plan with code **BF2026**: Basic $49 → $29.40/mo, Pro $200 → $120/mo. New subscriptions; USD, excluding tax. | 2026-12-01 |
 | 🤖 | [AGNT](https://agnt.gg/pricing) | Desktop AI agent platform: build agents and workflows that run on your own computer or a dedicated cloud instance. Free app for Windows, macOS and Linux. | **40% OFF** the first year of yearly plans with code **BLACKFRIDAY** (applied at checkout): Pro $290 → $174, Team $990 → $594 | 2026-11-30 |
 | 🖥️ | [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) | Open-source cloud coding agent: mention @Computer in Slack with a task and it works in its own cloud computer, then opens a PR. Self-host free or use the hosted plans. | **50% OFF** Pro and Max with double the work minutes, applied at checkout (no code): Pro $20 → $10/mo (4,000 min, normally 2,000); Max $200 → $100/mo (50,000 min, normally 25,000). First 50 workspaces keep it 12 months, later ones 3 months. New subscriptions. | 2026-11-30 |
+| 🔌 | [OpenLLM](https://openllm.sh/pricing) | Connect your AI subscriptions, local models and API keys once and use them in any app on any machine. macOS, Linux and web. | **50% OFF** OpenLLM Pro for the first 2 months ($30 → $15/mo), no code needed. New and free accounts. Starts on 2026-11-27 | 2026-12-04 |
 
 
 ### Productivity
