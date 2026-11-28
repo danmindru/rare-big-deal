@@ -556,6 +556,7 @@ Free & open-source.
 | 🎧 | [Aloud](https://aloudapp.app/black-friday/) | Native macOS app that reads selected text, PDFs, screenshots and web articles out loud, with on-device voices. One-time purchase. | **30% OFF** one-time license, ~~$19~~ $13.30, with code **BF30**. Nov 27 - Dec 1, 2026 | 2026-12-01 |
 | 📄 | [Exhibit](https://chatexhibit.me) | Native macOS app that exports iMessage, WhatsApp, Signal and more from your Mac or iPhone into one court-ready PDF. One-time purchase, no upload or account. | **30% OFF** one-time, Personal ~~$19.99~~ $13.99, Firm ~~$59~~ $41.30, with code **EXHIBITBF30**. Through Dec 1, 2026, 11:59 p.m. ET | 2026-12-01 |
 | 👻 | [Ghost](https://ghostformac.com/black-friday) | Your Mac will never be the same: say one sentence and Ghost takes over your Mac to do the whole task across your apps, and writes as you. It learns you from your own texts and mail. | **60% OFF** the license: **$249 → $99** once, no code needed. Plus an AI plan from $19/mo. | 2026-12-01 |
+| 🪟 | [Command Reopen](https://commandreopen.com/) | Use native Cmd+Tab to bring back minimized windows or open a new window when an app has none. | **50% OFF** Lifetime in-app purchase ($9.99 → $4.99 USD) in ten selected Mac App Store regions with [Apple offer code BF2026](https://apps.apple.com/redeem?ctx=offercodes&id=6757333924&code=BF2026). Ends November 30 at 11:59 p.m. Pacific. | 2026-11-30 |
 
 
 ### Design Tools
