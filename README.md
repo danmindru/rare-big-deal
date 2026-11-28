@@ -1036,6 +1036,7 @@ Free & open-source.
 | 🎬 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed | 2026-11-30 |
 | 🎥 | [QuickSnip](https://quicksnip.com/pricing) | Screen recorder with instant share links for Mac and Windows: record your screen and send a link the moment you stop. Free plan available. | **50% OFF** the first year of Pro or Team with code **BLACKFRIDAY**, on monthly or yearly billing (Pro is $6/mo or $60/yr, so $3/mo or $30 for the first year). | 2026-11-30 |
 | 🎬 | [Screen Studio](https://screen.studio/) | Professional screen recorder for Mac that adds automatic zooms, smooth cursor motion, captions and camera layouts to demos and tutorials. | **40% OFF** the first year with code **BLACKFRIDAY26** | 2026-11-28 |
+| 🎚️ | [Sound Contour](https://novafieldstudio.com/soundcontour/) | System-wide equalizer for Mac with no audio driver to install: bass and treble, 10-band graphic and parametric EQ, 42 presets, and a preset for each pair of headphones and each app. iPhone and iPad remote included. | **20% OFF** the one-time Pro unlock on the Mac App Store: ~~$9.99~~ **$7.99**, no code needed. 7-day free trial, no credit card. | 2026-11-30 |
 
 
 ### Marketing
