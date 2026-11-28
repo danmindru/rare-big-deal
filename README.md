@@ -273,6 +273,7 @@ Free & open-source.
 | 🤖 | [Rakazo](https://rakazo.com/black-friday/) | Open source Grok Bot alternative for persistent AI teammates that do real work. Your keys, your model, your machine. | **30% OFF** the first year of yearly plans with code **BLACKFRIDAY30** (new customers). Sale runs 24–30 Nov 2026. | 2026-11-30 |
 | 📱 | [Zeptap](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | 2026-12-01 |
 | 🌱 | [Spring Prompt](https://springprompt.com/plans) | Tests every LLM prompt in your app on other models and wordings, and shows when a cheaper model or a prompt fix would do. | **40% OFF** the first 3 months of either monthly plan with code **BF2026**: Basic $49 → $29.40/mo, Pro $200 → $120/mo. New subscriptions; USD, excluding tax. | 2026-12-01 |
+| 🖥️ | [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) | Open-source cloud coding agent: mention @Computer in Slack with a task and it works in its own cloud computer, then opens a PR. Self-host free or use the hosted plans. | **50% OFF** Pro and Max with double the work minutes, applied at checkout (no code): Pro $20 → $10/mo (4,000 min, normally 2,000); Max $200 → $100/mo (50,000 min, normally 25,000). First 50 workspaces keep it 12 months, later ones 3 months. New subscriptions. | 2026-11-30 |
 
 
 ### Productivity
