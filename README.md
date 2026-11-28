@@ -326,8 +326,6 @@ Free & open-source.
 | 🎙️ | [VoxWrite](https://voxwrite.app/#pricing) | Voice-to-text browser extension for Chrome, Edge and Brave: speak in any text field and VoxWrite transcribes and rewrites your words into a finished email, message, post or note, with punctuation and the style or language you set per website. Bring your own OpenAI, Anthropic or Gemini key, or use the managed plan. | **30% OFF** Lifetime with code **BF2026** (€39.99 → €27.99, one-time, own API keys) and **30% OFF** the first 4 months of the managed SaaS plan with code **BF2026SAAS** (€7.99 → €5.59/month). | 2026-12-31 |
 | 🏢 | [TaskVille](https://taskville.co/) | A virtual office where you hire a team of AI agents that hand work off to each other: posts, images, reels and 3D motion graphics, lead research, inbox and finance. Connect your own AI subscription or pick from 12+ models. Up and running in under a minute. | **55% OFF** your first month on any monthly plan with code **BLACK199**: Startup ~~$24~~ **$10.64**, Company ~~$49~~ **$21.72**, Tycoon ~~$99~~ **$43.88**. 7-day free trial. | 2026-11-30 |
 
-
-
 ### Other
 
 | | Name | Description | Deal | Expires on date |
@@ -556,7 +554,7 @@ Free & open-source.
 | 🎧 | [Aloud](https://aloudapp.app/black-friday/) | Native macOS app that reads selected text, PDFs, screenshots and web articles out loud, with on-device voices. One-time purchase. | **30% OFF** one-time license, ~~$19~~ $13.30, with code **BF30**. Nov 27 - Dec 1, 2026 | 2026-12-01 |
 | 📄 | [Exhibit](https://chatexhibit.me) | Native macOS app that exports iMessage, WhatsApp, Signal and more from your Mac or iPhone into one court-ready PDF. One-time purchase, no upload or account. | **30% OFF** one-time, Personal ~~$19.99~~ $13.99, Firm ~~$59~~ $41.30, with code **EXHIBITBF30**. Through Dec 1, 2026, 11:59 p.m. ET | 2026-12-01 |
 | 👻 | [Ghost](https://ghostformac.com/black-friday) | Your Mac will never be the same: say one sentence and Ghost takes over your Mac to do the whole task across your apps, and writes as you. It learns you from your own texts and mail. | **60% OFF** the license: **$249 → $99** once, no code needed. Plus an AI plan from $19/mo. | 2026-12-01 |
-
+| ✅ | Habitio – Daily Habit Tracker Widget | Build better habits, organize daily routines, track streaks, and achieve your goals. Features customizable reminders, detailed progress statistics, home screen widgets, and Apple Watch support. | **60% OFF** Lifetime Premium: ~~$49.99~~ → $19.99 with code **BLACKFRIDAY**. Download the app, open the Premium screen, and tap Redeem Offer Code. One-time payment, lifetime access, no subscription required. | 2026-12-01 |
 
 ### Design Tools
 
