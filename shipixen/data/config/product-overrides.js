@@ -2183,5 +2183,55 @@ module.exports = {
       logo: 'public/static/images/overrides/squish/logo.png',
       ogImage: 'public/static/images/overrides/squish/og-image.png',
     },
+    // Banner is a screenshot of the official website (no og:image; promo popup dismissed). The logo is the official apple-touch-icon.
+    'numberotp': {
+      logo: 'public/static/images/overrides/numberotp/logo.png',
+      ogImage: 'public/static/images/overrides/numberotp/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'command-reopen': {
+      logo: 'public/static/images/overrides/command-reopen/logo.png',
+      ogImage: 'public/static/images/overrides/command-reopen/og-image.png',
+    },
+    // Official og:image (pricing page). The logo is the official App Store icon.
+    'timeline-location-history': {
+      logo: 'public/static/images/overrides/timeline-location-history/logo.png',
+      ogImage: 'public/static/images/overrides/timeline-location-history/og-image.png',
+    },
+    // Banner is a screenshot of the official App Store page (no website). The logo is the official App Store icon.
+    'habitio-daily-habit-tracker-widget': {
+      logo: 'public/static/images/overrides/habitio-daily-habit-tracker-widget/logo.png',
+      ogImage: 'public/static/images/overrides/habitio-daily-habit-tracker-widget/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'voiceleap': {
+      logo: 'public/static/images/overrides/voiceleap/logo.png',
+      ogImage: 'public/static/images/overrides/voiceleap/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'flowdraw': {
+      logo: 'public/static/images/overrides/flowdraw/logo.png',
+      ogImage: 'public/static/images/overrides/flowdraw/og-image.png',
+    },
+    // Official og:image. The logo is the official site favicon.
+    'refer-is': {
+      logo: 'public/static/images/overrides/refer-is/logo.png',
+      ogImage: 'public/static/images/overrides/refer-is/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'adversemonitor': {
+      logo: 'public/static/images/overrides/adversemonitor/logo.png',
+      ogImage: 'public/static/images/overrides/adversemonitor/og-image.png',
+    },
+    // Official og:image of the Drops Bot page (downscaled to 1600px wide). The logo is the official DropsTab apple-touch-icon.
+    'drops-bot': {
+      logo: 'public/static/images/overrides/drops-bot/logo.png',
+      ogImage: 'public/static/images/overrides/drops-bot/og-image.png',
+    },
+    // Banner is a screenshot of the official website (no og:image). The logo is the official App Store icon.
+    'sound-contour': {
+      logo: 'public/static/images/overrides/sound-contour/logo.png',
+      ogImage: 'public/static/images/overrides/sound-contour/og-image.png',
+    },
   },
 };
