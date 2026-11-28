@@ -958,6 +958,7 @@ Free & open-source.
 | 📺 | [Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | **50% off Supporter Monthly** with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month). For accounts without an active paid subscription. | 2026-11-30 |
 | 🎬 | [Clipwing](https://clipwing.pro/pricing) | Turns your blog posts, tweets and text into short videos, and long videos into ready vertical clips. First video free. | **50% OFF** the first month of Content factory ($99.99 → $49.99) with code **BLACKCLIPS**, valid until Dec 1 | 2026-12-01 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest. | 40% OFF first month with code **BF2026** | 2026-12-02 |
+| 🎬 | [PromptToVisual](https://prompttovisual.com/christmas-deal?utm_source=rarebigdeal&utm_medium=github&utm_campaign=christmas_2026) | Multi-model AI video & image studio with 7 video models (Veo 3.1 Fast, MAGI-2 1080p+Audio, Kling 4.0, Seedance 2.5, Kling 2.6 Pro, Wan 3.0, MiniMax H3) and 10 image models on one private credit balance, with 100% automatic failure refunds. | **62% OFF** one-time Christmas Never-Expire Pack: $259.90 → $99 for 9,600 never-expiring credits with full SOTA access (no code needed). Also $4.99 Starter Video Pass (400 cr). | 2026-12-31 |
 
 
 ### Social
