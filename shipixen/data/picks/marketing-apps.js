@@ -3,6 +3,7 @@ module.exports = {
   description: 'Reach your audience like never before.',
   apps: [
     'Page AI',
+    'Clipwing',
     'Broadcast',
     'Sequenzy',
     'BlitzReels',
