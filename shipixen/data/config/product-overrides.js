@@ -2073,5 +2073,115 @@ module.exports = {
       logo: 'public/static/images/overrides/simply-fluent/logo.png',
       ogImage: 'public/static/images/overrides/simply-fluent/og-image.png',
     },
+    // Banner is a screenshot of the official website (no usable og:image). The logo is the official App Store icon.
+    'purescribe': {
+      logo: 'public/static/images/overrides/purescribe/logo.png',
+      ogImage: 'public/static/images/overrides/purescribe/og-image.png',
+    },
+    // Banner is a screenshot of the official website (no usable og:image). The logo is the official App Store icon.
+    'pilot-flight-logbook': {
+      logo: 'public/static/images/overrides/pilot-flight-logbook/logo.png',
+      ogImage: 'public/static/images/overrides/pilot-flight-logbook/og-image.png',
+    },
+    // Banner is a screenshot of the official website (no usable og:image). The logo is the official App Store icon.
+    'seatally-sea-time-logbook': {
+      logo: 'public/static/images/overrides/seatally-sea-time-logbook/logo.png',
+      ogImage: 'public/static/images/overrides/seatally-sea-time-logbook/og-image.png',
+    },
+    // Banner is a screenshot of the official website (no usable og:image). The logo is the official App Store icon.
+    'serviced-maintenance-log': {
+      logo: 'public/static/images/overrides/serviced-maintenance-log/logo.png',
+      ogImage: 'public/static/images/overrides/serviced-maintenance-log/og-image.png',
+    },
+    // Official og:image. The logo is the official App Store icon.
+    'needlz': {
+      logo: 'public/static/images/overrides/needlz/logo.png',
+      ogImage: 'public/static/images/overrides/needlz/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'context-dev': {
+      logo: 'public/static/images/overrides/context-dev/logo.png',
+      ogImage: 'public/static/images/overrides/context-dev/og-image.png',
+    },
+    // Official og:image. The logo is the official site icon.
+    'rotara': {
+      logo: 'public/static/images/overrides/rotara/logo.png',
+      ogImage: 'public/static/images/overrides/rotara/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'aloud': {
+      logo: 'public/static/images/overrides/aloud/logo.png',
+      ogImage: 'public/static/images/overrides/aloud/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'notra': {
+      logo: 'public/static/images/overrides/notra/logo.png',
+      ogImage: 'public/static/images/overrides/notra/og-image.png',
+    },
+    // Official og:image. The logo is the official site logo.
+    'taskville': {
+      logo: 'public/static/images/overrides/taskville/logo.png',
+      ogImage: 'public/static/images/overrides/taskville/og-image.png',
+    },
+    // Banner is a screenshot of the official deal page (og:image is a small wordmark). The logo is the official site icon.
+    'purevpn': {
+      logo: 'public/static/images/overrides/purevpn/logo.png',
+      ogImage: 'public/static/images/overrides/purevpn/og-image.png',
+    },
+    // Official og:image. The logo is the official AGNT GitHub organization avatar (linked from agnt.gg).
+    'agnt': {
+      logo: 'public/static/images/overrides/agnt/logo.png',
+      ogImage: 'public/static/images/overrides/agnt/og-image.png',
+    },
+    // Banner is a screenshot of the official website (og:image is the square app icon). The logo is the official App Store icon.
+    'chestly': {
+      logo: 'public/static/images/overrides/chestly/logo.png',
+      ogImage: 'public/static/images/overrides/chestly/og-image.png',
+    },
+    // Official og:image. The logo is the official site logo.
+    'syncbooster': {
+      logo: 'public/static/images/overrides/syncbooster/logo.png',
+      ogImage: 'public/static/images/overrides/syncbooster/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'exhibit': {
+      logo: 'public/static/images/overrides/exhibit/logo.png',
+      ogImage: 'public/static/images/overrides/exhibit/og-image.png',
+    },
+    // Official og:image (downscaled to 1600px wide). The logo is the official site icon.
+    'ghost': {
+      logo: 'public/static/images/overrides/ghost/logo.png',
+      ogImage: 'public/static/images/overrides/ghost/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'staxa': {
+      logo: 'public/static/images/overrides/staxa/logo.png',
+      ogImage: 'public/static/images/overrides/staxa/og-image.png',
+    },
+    // Official og:image. The logo is the official site favicon.
+    '12happy': {
+      logo: 'public/static/images/overrides/12happy/logo.png',
+      ogImage: 'public/static/images/overrides/12happy/og-image.png',
+    },
+    // Official og:image. The logo is the official apple-touch-icon.
+    'beam': {
+      logo: 'public/static/images/overrides/beam/logo.png',
+      ogImage: 'public/static/images/overrides/beam/og-image.png',
+    },
+    // Official og:image (downscaled to 1600px wide). The logo is the official opencomputer.svg wordmark rendered to PNG.
+    'opencomputer': {
+      logo: 'public/static/images/overrides/opencomputer/logo.png',
+      ogImage: 'public/static/images/overrides/opencomputer/og-image.png',
+    },
+    // Official og:image. The logo is the official site favicon.
+    'bluechimp': {
+      logo: 'public/static/images/overrides/bluechimp/logo.png',
+      ogImage: 'public/static/images/overrides/bluechimp/og-image.png',
+    },
+    // Banner is a screenshot of the official app page (no usable og:image). The logo is the official App Store icon.
+    'squish': {
+      logo: 'public/static/images/overrides/squish/logo.png',
+      ogImage: 'public/static/images/overrides/squish/og-image.png',
+    },
   },
 };
